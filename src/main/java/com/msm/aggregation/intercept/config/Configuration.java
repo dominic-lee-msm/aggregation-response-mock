@@ -1,23 +1,17 @@
 package com.msm.aggregation.intercept.config;
 
-import com.msm.aggregation.intercept.modifier.ResponseModifier;
+import com.msm.aggregation.intercept.modifier.response.ResponseModifier;
 
 public class Configuration {
-
-    private final String name;
 
     private final String url;
 
     private final ResponseModifier responseModifier;
 
-    public Configuration(String name, String url, ResponseModifier responseModifier) {
-        this.name = name;
+
+    public Configuration(final String url, final ResponseModifier responseModifier) {
         this.url = url;
         this.responseModifier = responseModifier;
-    }
-
-    public String getName() {
-        return name;
     }
 
     public String getUrl() {
@@ -34,12 +28,12 @@ public class Configuration {
         if (o == null || getClass() != o.getClass()) return false;
 
         Configuration that = (Configuration) o;
-        
-        return getName() != null ? getName().equals(that.getName()) : that.getName() == null;
+
+        return getUrl() != null ? getUrl().equals(that.getUrl()) : that.getUrl() == null;
     }
 
     @Override
     public int hashCode() {
-        return getName() != null ? getName().hashCode() : 0;
+        return getUrl() != null ? getUrl().hashCode() : 0;
     }
 }

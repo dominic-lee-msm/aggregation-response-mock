@@ -7,7 +7,7 @@ public interface ConfigurationRegistry {
 
     public List<Configuration> getAllConfigurations();
 
-    public Optional<Configuration> findConfiguration(final String name);
+    public Optional<Configuration> findConfiguration(final String url);
 
     public void addConfiguration(final Configuration configuration);
 

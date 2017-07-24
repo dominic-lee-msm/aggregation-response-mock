@@ -23,19 +23,19 @@ public class InMemoryConfigurationRegistry implements ConfigurationRegistry {
     }
 
     @Override
-    public Optional<Configuration> findConfiguration(String name) {
-        return configurations.stream().filter(c -> c.getName().equals(name)).findFirst();
+    public Optional<Configuration> findConfiguration(String url) {
+        return configurations.stream().filter(c -> c.getUrl().equals(url)).findFirst();
     }
 
     @Override
     public void addConfiguration(Configuration configuration) {
-        LOG.info("Adding configuration [{}] to [{}]", configuration.getName(), this.toString());
+        LOG.info("Adding configuration [{}] to [{}]", configuration.getUrl(), this.toString());
         configurations.add(configuration);
     }
 
     @Override
     public void removeConfiguration(Configuration configuration) {
-        LOG.info("Removing configuration [{}] from [{}]", configuration.getName(), this.toString());
+        LOG.info("Removing configuration [{}] from [{}]", configuration.getUrl(), this.toString());
         configurations.remove(configuration);
     }
 }
