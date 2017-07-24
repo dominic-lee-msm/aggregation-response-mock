@@ -6,6 +6,7 @@ import com.msm.aggregation.intercept.config.InMemoryConfigurationRegistry;
 import com.msm.aggregation.intercept.modifier.response.ResponseModifier;
 import com.msm.aggregation.intercept.modifier.response.impl.NonModifyingResponseModifier;
 import com.msm.aggregation.intercept.modifier.response.impl.ResourceLoadingResponseModifier;
+import com.msm.aggregation.intercept.modifier.response.impl.TimeDelayResponseModifierDecorator;
 import io.netty.handler.codec.http.HttpRequest;
 import org.littleshoot.proxy.HttpFilters;
 import org.littleshoot.proxy.HttpFiltersSourceAdapter;
@@ -34,8 +35,8 @@ public class Boot {
                     public HttpFilters filterRequest(HttpRequest originalRequest) {
                         LOG.info("Filtering request for [{}]", originalRequest.getUri());
                         final Configuration config = appContext.getBean(ConfigurationRegistry.class)
-                                .findConfiguration(originalRequest.getUri())
-                                .orElse(NON_MODIFYING_CONFIG);
+                            .findConfiguration(originalRequest.getUri())
+                            .orElse(NON_MODIFYING_CONFIG);
                         return new HttpTrafficInterceptor(originalRequest, config);
                     }
                 }).start();
@@ -52,6 +53,12 @@ public class Boot {
     public Configuration sspConfiguration(){
         return new Configuration("http://somecompany.com/v1/endpoint",
                 new ResourceLoadingResponseModifier("response.xml"));
+    }
+
+    @Bean
+    public Configuration perfTestConfiguration(){
+        return new Configuration("http://somecompany.com/v1/perf/test/endpoint",
+                new TimeDelayResponseModifierDecorator(10000L, NON_MODIFYING_RESPONSE));
     }
 
 }
