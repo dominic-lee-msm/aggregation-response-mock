@@ -50,7 +50,7 @@ public class Boot {
 
     @Bean
     public Configuration sspConfiguration(){
-        return new Configuration("http://iconstestgrp17.ssp-hosting.com/SSP.MultiQuoteAggregatorV2/MotorMultiQuoteService.asmx",
+        return new Configuration("http://somecompany.com/v1/endpoint",
                 new ResourceLoadingResponseModifier("response.xml"));
     }
 
