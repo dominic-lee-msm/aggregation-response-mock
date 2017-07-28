@@ -1,0 +1,15 @@
+{
+    "scenarioName": "FirstCentralTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "svclive.1stcentral.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/AggregatorService/AggregatorService.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "first-central-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

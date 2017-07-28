@@ -1,0 +1,15 @@
+{
+  "scenarioName": "British Airways",
+  "requiredScenarioState": "Started",
+  "scheme": "https",
+  "domain": "service-i2-ext.baplc.com",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/sc1/com.ba.pas.PPAAV01.ap.3"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "britishAirwaysResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

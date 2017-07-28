@@ -1,0 +1,5448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<room-stays transaction-id="12345" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<request>
+		<check-in>03/27/2015</check-in>
+		<check-out>04/01/2015</check-out>
+		<rooms>1</rooms>
+		<adults>2</adults>
+		<children>1</children>
+		<currency>GBP</currency>
+	</request>
+	<status>
+		<success/>
+		<cache-hints/>
+	</status>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>3be131b5-d4c4-5a15-b3c1-7ad1037a8d7a</room-id>
+			<title>Luxury Triple - Breakfast - Full Breakfast</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>526.31</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1714.06</subtotal>
+			<taxes>171.44</taxes>
+			<fees>0.00</fees>
+			<total>1885.49</total>
+			<lowest-average>342.81</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>342.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>342.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>342.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>342.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>342.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2631.55</subtotal>
+			<taxes>263.20</taxes>
+			<fees>0.00</fees>
+			<total>2894.75</total>
+			<lowest-average>526.31</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>526.31</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>526.31</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>526.31</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>526.31</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>526.31</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>9,4083,5e2669097262cc0c49c271fe91c7636344aa08fc</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=d86fab3540&amp;rate_code=15549ee55c&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>efe77dee-757d-5d08-b166-dd60ab85e28f</room-id>
+			<title>Luxury Club Triple - Breakfast - Full Breakfast</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>561.07</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1827.26</subtotal>
+			<taxes>182.74</taxes>
+			<fees>0.00</fees>
+			<total>2010.00</total>
+			<lowest-average>365.45</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>365.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>365.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>365.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>365.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>365.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2805.35</subtotal>
+			<taxes>280.55</taxes>
+			<fees>0.00</fees>
+			<total>3085.90</total>
+			<lowest-average>561.07</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>561.07</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>561.07</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>561.07</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>561.07</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>561.07</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>9,4083,6ca7f013ef7d7b4453bd3cfcb7f1d4b7f353958f</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=1ed0816ea3&amp;rate_code=eed90dda25&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>7f44327b-9987-5511-a88a-e1213a06e601</room-id>
+			<title>Luxury Room</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>337.27</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1098.41</subtotal>
+			<taxes>109.84</taxes>
+			<fees>0.00</fees>
+			<total>1208.25</total>
+			<lowest-average>219.68</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>219.68</rate>
+					<original-rate>219.68</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>219.68</rate>
+					<original-rate>219.68</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>208.97</rate>
+					<original-rate>208.97</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>230.40</rate>
+					<original-rate>230.40</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>219.68</rate>
+					<original-rate>219.68</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1686.36</subtotal>
+			<taxes>168.64</taxes>
+			<fees>0.00</fees>
+			<total>1855.00</total>
+			<lowest-average>337.27</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>337.27</rate>
+					<original-rate>337.27</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>337.27</rate>
+					<original-rate>337.27</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>320.82</rate>
+					<original-rate>320.82</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>353.73</rate>
+					<original-rate>353.73</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>337.27</rate>
+					<original-rate>337.27</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,175784,354414,1121206</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=e6836ec568&amp;rate_code=c570c1013e&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>f3fa5fef-f32a-530b-b743-a6075932b407</room-id>
+			<title>Luxury room - 1 queen size bed - Advance Purchase Savings, nonrefundable</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>426.43</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1388.77</subtotal>
+			<taxes>175.90</taxes>
+			<fees>0.00</fees>
+			<total>1564.67</total>
+			<lowest-average>277.75</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>277.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>277.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>277.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>277.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>277.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2132.15</subtotal>
+			<taxes>270.05</taxes>
+			<fees>0.00</fees>
+			<total>2402.20</total>
+			<lowest-average>426.43</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>426.43</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>426.43</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>426.43</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>426.43</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>426.43</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,162d223de7a21b4f408e05325cb90274c5d9dbd2</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=c1c70d80f1&amp;rate_code=a4f1c660c1&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>01f2c54f-5390-512f-8ce0-4dcaa5ab063c</room-id>
+			<title>Luxury club room - 1 queen-size bed, exclusive club services - Advance Purchase Savings, nonrefundable</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>467.84</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1523.64</subtotal>
+			<taxes>192.96</taxes>
+			<fees>0.00</fees>
+			<total>1716.60</total>
+			<lowest-average>304.73</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>304.73</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>304.73</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>304.73</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>304.73</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>304.73</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2339.20</subtotal>
+			<taxes>296.25</taxes>
+			<fees>0.00</fees>
+			<total>2635.45</total>
+			<lowest-average>467.84</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>467.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>467.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>467.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>467.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>467.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,d2cfeb243eda44c041a51a778a398e6aa28d65fb</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=2a794e9861&amp;rate_code=c43e43eb53&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>f3fa5fef-f32a-530b-b743-a6075932b407</room-id>
+			<title>Luxury room - 1 queen size bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>479.74</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1562.39</subtotal>
+			<taxes>197.87</taxes>
+			<fees>0.00</fees>
+			<total>1760.26</total>
+			<lowest-average>312.48</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>312.48</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>312.48</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>312.48</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>312.48</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>312.48</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2398.70</subtotal>
+			<taxes>303.79</taxes>
+			<fees>0.00</fees>
+			<total>2702.49</total>
+			<lowest-average>479.74</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>479.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>479.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>479.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>479.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>479.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,9acf7b79a5390a36a532e8130179416b8160dab6</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=7e1486963e&amp;rate_code=060a2d9779&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>01f2c54f-5390-512f-8ce0-4dcaa5ab063c</room-id>
+			<title>Luxury club room - 1 queen-size bed, exclusive club services</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>526.32</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1714.09</subtotal>
+			<taxes>217.11</taxes>
+			<fees>0.00</fees>
+			<total>1931.20</total>
+			<lowest-average>342.82</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>342.82</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>342.82</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>342.82</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>342.82</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>342.82</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2631.60</subtotal>
+			<taxes>333.32</taxes>
+			<fees>0.00</fees>
+			<total>2964.92</total>
+			<lowest-average>526.32</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>526.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>526.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>526.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>526.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>526.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,a6d82ccf7c15728861df51ad477ee6f8de619774</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=fd3e37bae7&amp;rate_code=f20bdf8d17&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>f3fa5fef-f32a-530b-b743-a6075932b407</room-id>
+			<title>Luxury room - 1 queen size bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>533.05</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1736.01</subtotal>
+			<taxes>219.85</taxes>
+			<fees>0.00</fees>
+			<total>1955.86</total>
+			<lowest-average>347.20</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>347.20</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>347.20</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>347.20</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>347.20</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>347.20</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2665.25</subtotal>
+			<taxes>337.53</taxes>
+			<fees>0.00</fees>
+			<total>3002.78</total>
+			<lowest-average>533.05</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>533.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>533.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>533.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>533.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>533.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,d2d496405852eeaf9f692ed36f78b78702a23f47</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=9bd93e9984&amp;rate_code=c9a8f9cce5&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>f3fa5fef-f32a-530b-b743-a6075932b407</room-id>
+			<title>Luxury room - 1 queen size bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>569.27</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1853.97</subtotal>
+			<taxes>234.80</taxes>
+			<fees>0.00</fees>
+			<total>2088.77</total>
+			<lowest-average>370.79</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>370.79</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>370.79</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>370.79</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>370.79</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>370.79</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2846.35</subtotal>
+			<taxes>360.49</taxes>
+			<fees>0.00</fees>
+			<total>3206.84</total>
+			<lowest-average>569.27</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>569.27</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>569.27</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>569.27</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>569.27</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>569.27</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,8ace7579dd46054941f81c783cf40a81bca199a4</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=b7c3bea6fc&amp;rate_code=93966ad611&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>01f2c54f-5390-512f-8ce0-4dcaa5ab063c</room-id>
+			<title>Luxury club room - 1 queen-size bed, exclusive club services</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>584.81</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1904.58</subtotal>
+			<taxes>241.22</taxes>
+			<fees>0.00</fees>
+			<total>2145.80</total>
+			<lowest-average>380.92</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>380.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>380.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>380.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>380.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>380.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2924.05</subtotal>
+			<taxes>370.34</taxes>
+			<fees>0.00</fees>
+			<total>3294.39</total>
+			<lowest-average>584.81</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>584.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>584.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>584.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>584.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>584.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,b8f8a0af515491428127d636fd4fe1f822988dda</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=af6714b1ec&amp;rate_code=4eb61e8521&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>b9381454-318c-5510-8d01-3c66e3a9f556</room-id>
+			<title>Premium junior suite - 1 queen or king-size bed , exclusive club services - Advance Purchase Savings, nonrefundable</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>603.64</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1965.90</subtotal>
+			<taxes>248.98</taxes>
+			<fees>0.00</fees>
+			<total>2214.88</total>
+			<lowest-average>393.18</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>393.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>393.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>393.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>393.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>393.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>3018.20</subtotal>
+			<taxes>382.25</taxes>
+			<fees>0.00</fees>
+			<total>3400.45</total>
+			<lowest-average>603.64</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>603.64</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>603.64</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>603.64</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>603.64</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>603.64</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,404918c5f0b2e52b35c0e5f06bd9601b5d64cdd6</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=b3e94fcd4a&amp;rate_code=3e8b943afe&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5b7646da-1edb-5a73-9f4e-86bb7a04a946</hotel-id>
+			<room-id>b9381454-318c-5510-8d01-3c66e3a9f556</room-id>
+			<title>Premium junior suite - 1 queen or king-size bed , exclusive club services</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>679.09</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2211.62</subtotal>
+			<taxes>280.10</taxes>
+			<fees>0.00</fees>
+			<total>2491.72</total>
+			<lowest-average>442.32</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>442.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>442.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>442.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>442.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>442.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>3395.45</subtotal>
+			<taxes>430.03</taxes>
+			<fees>0.00</fees>
+			<total>3825.48</total>
+			<lowest-average>679.09</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>679.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>679.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>679.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>679.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>679.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,66295,ce5084bc955c8dae89cf7a9dd919b5c9de9293b2</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5b7646da-1edb-5a73-9f4e-86bb7a04a946?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=b299381e59&amp;rate_code=f48e9a3c6e&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5206dc4f-142b-5c56-a4ee-d1cd4bce10f5</hotel-id>
+			<room-id>29a8e12a-47de-5ddc-9346-b46a773a43c5</room-id>
+			<title>Deluxe Quadruple Room</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>270.03</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>879.41</subtotal>
+			<taxes>87.93</taxes>
+			<fees>0.00</fees>
+			<total>967.34</total>
+			<lowest-average>175.88</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>157.40</rate>
+					<original-rate>157.40</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>157.40</rate>
+					<original-rate>157.40</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>152.04</rate>
+					<original-rate>152.04</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>206.29</rate>
+					<original-rate>206.29</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>206.29</rate>
+					<original-rate>206.29</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1350.14</subtotal>
+			<taxes>135.00</taxes>
+			<fees>0.00</fees>
+			<total>1485.14</total>
+			<lowest-average>270.03</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>241.65</rate>
+					<original-rate>241.65</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>241.65</rate>
+					<original-rate>241.65</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>233.42</rate>
+					<original-rate>233.42</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>316.71</rate>
+					<original-rate>316.71</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>316.71</rate>
+					<original-rate>316.71</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,114754,200082976,200486461</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5206dc4f-142b-5c56-a4ee-d1cd4bce10f5?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=4423b8098b&amp;rate_code=66adf6882d&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>845ac7f1-b564-45f3-808f-3a401aaa8ca1</hotel-id>
+			<room-id>4da836fc-8e17-4751-bf0d-1394af33c7c6</room-id>
+			<title>Atelier d'Artiste Special</title>
+			<description>&lt;p&gt;What could be more Parisian than sleeping under the eaves of an artist&amp;#39;s attic studio? (We&amp;#39;re talking &lt;em&gt;famous&lt;/em&gt; artist, obviously.) With blank canvases propping up your pillow, and a carpet splashed with vibrant (and make-believe) gouache, it&amp;#39;s a playful nod at the artistic spark that has always burned brightly in the City of Light. Find your own inspiration in this, the hotel&amp;#39;s most spacious bedroom.&lt;/p&gt; &lt;p&gt;19 sqm, double bed or twin bed, minibar, safe with enough space for a 17&amp;#34; computer, LED hi-def TV screen, telephone, air-conditioning (heat / cool), radio, DVD /CD/USB player, cable TV with 41 channels, desk, bath with hydromassages and colour therapy or shower with rainysky, hair-dryer, bathrobe, slippers, wake-up call, iron and ironing (on demand), soundproof rooms, free internet access (wireless).&lt;/p&gt; &lt;p&gt;Children under 12 years old Free with 1 accompanying adult upon request. Rollaway bed available.&lt;/p&gt; &lt;p&gt;Free cancellation 7, days prior to arrival. Full amount of stay charged 7 days prior to arrival and non-refundable after that time.&lt;/p&gt;</description>
+		</room>
+		<commission-tier>1</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>327.51</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1066.61</subtotal>
+			<taxes>106.66</taxes>
+			<fees>0.00</fees>
+			<total>1173.27</total>
+			<lowest-average>213.32</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>237.78</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>251.36</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>190.23</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>193.62</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>193.62</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1637.54</subtotal>
+			<taxes>163.76</taxes>
+			<fees>0.00</fees>
+			<total>1801.30</total>
+			<lowest-average>327.51</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>365.06</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>385.91</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>292.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>297.26</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>297.26</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>3,845ac7f1-b564-45f3-808f-3a401aaa8ca1,ac61253a34bf8d851a1e251d0fa4856527feaa88</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/845ac7f1-b564-45f3-808f-3a401aaa8ca1?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=a29c89ffec&amp;rate_code=0a63691eb6&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>845ac7f1-b564-45f3-808f-3a401aaa8ca1</hotel-id>
+			<room-id>4da836fc-8e17-4751-bf0d-1394af33c7c6</room-id>
+			<title>Atelier d'Artiste Special</title>
+			<description>&lt;p&gt;What could be more Parisian than sleeping under the eaves of an artist&amp;#39;s attic studio? (We&amp;#39;re talking &lt;em&gt;famous&lt;/em&gt; artist, obviously.) With blank canvases propping up your pillow, and a carpet splashed with vibrant (and make-believe) gouache, it&amp;#39;s a playful nod at the artistic spark that has always burned brightly in the City of Light. Find your own inspiration in this, the hotel&amp;#39;s most spacious bedroom.&lt;/p&gt; &lt;p&gt;19 sqm, double bed or twin bed, minibar, safe with enough space for a 17&amp;#34; computer, LED hi-def TV screen, telephone, air-conditioning (heat / cool), radio, DVD /CD/USB player, cable TV with 41 channels, desk, bath with hydromassages and colour therapy or shower with rainysky, hair-dryer, bathrobe, slippers, wake-up call, iron and ironing (on demand), soundproof rooms, free internet access (wireless).&lt;/p&gt; &lt;p&gt;Children under 12 years old Free with 1 accompanying adult upon request. Rollaway bed available.&lt;/p&gt; &lt;p&gt;Free cancellation 7, days prior to arrival. Full amount of stay charged 7 days prior to arrival and non-refundable after that time.&lt;/p&gt;</description>
+		</room>
+		<commission-tier>1</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>299.55</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average>213.32</original-average>
+			<subtotal>975.55</subtotal>
+			<taxes>97.56</taxes>
+			<fees>0.00</fees>
+			<total>1073.11</total>
+			<lowest-average>195.11</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>217.48</rate>
+					<original-rate>237.78</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>229.91</rate>
+					<original-rate>251.36</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>173.99</rate>
+					<original-rate>190.23</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>177.09</rate>
+					<original-rate>193.62</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>177.09</rate>
+					<original-rate>193.62</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>327.51</original-average>
+			<subtotal>1497.74</subtotal>
+			<taxes>149.78</taxes>
+			<fees>0.00</fees>
+			<total>1647.52</total>
+			<lowest-average>299.55</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>333.89</rate>
+					<original-rate>365.06</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>352.97</rate>
+					<original-rate>385.91</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>267.12</rate>
+					<original-rate>292.05</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>271.88</rate>
+					<original-rate>297.26</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>271.88</rate>
+					<original-rate>297.26</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>opaque</rate-plan-type>
+		<rate-plan-code>3,845ac7f1-b564-45f3-808f-3a401aaa8ca1,e2572cec57df8d1022c0cf829c6cc4f8378bba11</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/845ac7f1-b564-45f3-808f-3a401aaa8ca1?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=b0dd34a64c&amp;rate_code=70c2a1b914&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>5394f84e-dafe-5212-9b7c-ff0da7282f15</hotel-id>
+			<room-id>53a1697e-e0ad-582d-a6fd-dd9a93839ffe</room-id>
+			<title>Triple Room</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>256.04</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.14</amount>
+				<total>16.97</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>833.85</subtotal>
+			<taxes>87.09</taxes>
+			<fees>0.00</fees>
+			<total>920.94</total>
+			<lowest-average>166.77</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>180.17</rate>
+					<original-rate>180.17</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>180.17</rate>
+					<original-rate>180.17</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>153.37</rate>
+					<original-rate>153.37</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>160.07</rate>
+					<original-rate>160.07</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>160.07</rate>
+					<original-rate>160.07</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1280.19</subtotal>
+			<taxes>133.70</taxes>
+			<fees>0.00</fees>
+			<total>1413.89</total>
+			<lowest-average>256.04</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>276.61</rate>
+					<original-rate>276.61</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>276.61</rate>
+					<original-rate>276.61</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>235.47</rate>
+					<original-rate>235.47</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>245.75</rate>
+					<original-rate>245.75</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>245.75</rate>
+					<original-rate>245.75</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,431586,200288075,201719406</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/5394f84e-dafe-5212-9b7c-ff0da7282f15?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=fc60b6a959&amp;rate_code=b34a29a1ca&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2b5b34b8-6431-589d-aa5b-d5927a08f9ee</hotel-id>
+			<room-id>4696c7e8-5014-4178-80bd-7fe318f2bed8</room-id>
+			<title>1 Bedroom</title>
+			<description>- 1 bedroom - 2 to 4 people - 40-50 square meters - double bed (queen size bed) in the bedroom - sofa bed in the living room - separated bathroom - equipped kitchen/kitchenette.  All our apartments are of generous space and are fully equipped with micro wave, washing and or drying machine, hair dryer, dishwasher, hover, DVD, alarm clock, internet access (free of charge), amenities…. All our apartments offer double bed type (queen size bed) and sofa bed (except for studio where you may have only a sofa bed available) and we can install upon request a crib at no expense. Extra beds are also available at a supplementary cost. &lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+		</room>
+		<commission-tier>1</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at>2015-02-18T16:00:00Z</expires-at>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>197.04</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>641.70</subtotal>
+			<taxes>64.17</taxes>
+			<fees>0.00</fees>
+			<total>705.87</total>
+			<lowest-average>128.34</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>140.68</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>140.68</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>120.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>120.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>120.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>985.18</subtotal>
+			<taxes>98.52</taxes>
+			<fees>0.00</fees>
+			<total>1083.70</total>
+			<lowest-average>197.04</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>215.99</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>215.99</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>184.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>184.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>184.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>3,cb0c148c-cd86-4aba-a024-145e1b5f9efc,ac61253a34bf8d851a1e251d0fa4856527feaa88</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/cb0c148c-cd86-4aba-a024-145e1b5f9efc?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=ab98d2bc26&amp;rate_code=501139558c&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>00615eb4-b821-59b8-ace4-6aff307ecceb</room-id>
+			<title>Deluxe Room</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Stay 4 night and save</promotional-text>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>226.22</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>184.18</original-average>
+			<subtotal>736.74</subtotal>
+			<taxes>73.67</taxes>
+			<fees>0.00</fees>
+			<total>810.41</total>
+			<lowest-average>147.35</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>149.49</rate>
+					<original-rate>186.87</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>160.21</rate>
+					<original-rate>200.26</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>138.78</rate>
+					<original-rate>173.47</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>138.78</rate>
+					<original-rate>173.47</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>149.49</rate>
+					<original-rate>186.87</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>282.77</original-average>
+			<subtotal>1131.10</subtotal>
+			<taxes>113.11</taxes>
+			<fees>0.00</fees>
+			<total>1244.21</total>
+			<lowest-average>226.22</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>229.51</rate>
+					<original-rate>286.89</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>245.96</rate>
+					<original-rate>307.45</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>213.06</rate>
+					<original-rate>266.32</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>213.06</rate>
+					<original-rate>266.32</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>229.51</rate>
+					<original-rate>286.89</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>4,144312,200149625,203898052</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=7b61647d46&amp;rate_code=1bfede47ca&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>35cf9f8a-8134-5f1f-a3e5-a99fd62d73e8</room-id>
+			<title>Junior Suite - 1 double bed and 1 sofa bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Stay 4 nights and save 20% on your stay!</promotional-text>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>269.12</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Municipality Fee</name>
+				<amount>5.40</amount>
+				<total>27.00</total>
+				<currency>EUR</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>219.11</original-average>
+			<subtotal>876.45</subtotal>
+			<taxes>102.09</taxes>
+			<fees>0.00</fees>
+			<total>978.53</total>
+			<lowest-average>175.29</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>177.45</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>188.23</rate>
+					<original-rate>235.29</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>166.66</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>166.66</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>177.45</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>336.40</original-average>
+			<subtotal>1345.59</subtotal>
+			<taxes>156.73</taxes>
+			<fees>0.00</fees>
+			<total>1502.32</total>
+			<lowest-average>269.12</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>272.43</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>288.99</rate>
+					<original-rate>361.24</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>255.87</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>255.87</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>272.43</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>16,19734,f9ee5895ff8ddc4ddfca26e7853fe2e453155617</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=34ff698b7a&amp;rate_code=83259e3ae6&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>35cf9f8a-8134-5f1f-a3e5-a99fd62d73e8</room-id>
+			<title>Junior Suite - 1 double bed and 1 sofa bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Stay 3 nights and save 15% on your stay!</promotional-text>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>285.94</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Municipality Fee</name>
+				<amount>5.40</amount>
+				<total>27.00</total>
+				<currency>EUR</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>219.11</original-average>
+			<subtotal>931.23</subtotal>
+			<taxes>108.48</taxes>
+			<fees>0.00</fees>
+			<total>1039.71</total>
+			<lowest-average>186.25</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>188.54</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>200.00</rate>
+					<original-rate>235.29</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>177.08</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>177.08</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>188.54</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>336.40</original-average>
+			<subtotal>1429.69</subtotal>
+			<taxes>166.55</taxes>
+			<fees>0.00</fees>
+			<total>1596.24</total>
+			<lowest-average>285.94</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>289.46</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>307.05</rate>
+					<original-rate>361.24</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>271.86</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>271.86</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>289.46</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>16,19734,5e024cc3853065df72158effb92be7c0e2ee0bff</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=b2da29ba0b&amp;rate_code=90e61ea995&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>35cf9f8a-8134-5f1f-a3e5-a99fd62d73e8</room-id>
+			<title>Junior Suite - 1 double bed and 1 sofa bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Stay 4 nights and save 10% on your stay!</promotional-text>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>302.76</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Municipality Fee</name>
+				<amount>5.40</amount>
+				<total>27.00</total>
+				<currency>EUR</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>219.11</original-average>
+			<subtotal>986.03</subtotal>
+			<taxes>114.87</taxes>
+			<fees>0.00</fees>
+			<total>1100.89</total>
+			<lowest-average>197.20</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>199.63</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>211.77</rate>
+					<original-rate>235.29</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>187.50</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>187.50</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>199.63</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>336.40</original-average>
+			<subtotal>1513.82</subtotal>
+			<taxes>176.35</taxes>
+			<fees>0.00</fees>
+			<total>1690.17</total>
+			<lowest-average>302.76</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>306.49</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>325.12</rate>
+					<original-rate>361.24</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>287.86</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>287.86</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>306.49</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>16,19734,5b6a96d3278e607b40816d76380d14b96aa098c2</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=c88c8a7266&amp;rate_code=ddf4452e6e&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>35cf9f8a-8134-5f1f-a3e5-a99fd62d73e8</room-id>
+			<title>Junior Suite - 1 double bed and 1 sofa bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>302.77</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Municipality Fee</name>
+				<amount>5.40</amount>
+				<total>27.00</total>
+				<currency>EUR</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>986.03</subtotal>
+			<taxes>114.87</taxes>
+			<fees>0.00</fees>
+			<total>1100.90</total>
+			<lowest-average>197.21</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>199.63</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>211.77</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>187.50</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>187.50</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>199.63</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1513.83</subtotal>
+			<taxes>176.35</taxes>
+			<fees>0.00</fees>
+			<total>1690.18</total>
+			<lowest-average>302.77</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>306.49</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>325.13</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>287.86</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>287.86</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>306.49</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>16,19734,46bc18e22452758090e5ba87c3c09d793b215aab</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=8b0c84f552&amp;rate_code=fefedef09f&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>35cf9f8a-8134-5f1f-a3e5-a99fd62d73e8</room-id>
+			<title>Junior Suite - 1 double bed and 1 sofa bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Stay 3 nights and save 5% on your stay!</promotional-text>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>319.58</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Municipality Fee</name>
+				<amount>5.40</amount>
+				<total>27.00</total>
+				<currency>EUR</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>219.11</original-average>
+			<subtotal>1040.79</subtotal>
+			<taxes>121.25</taxes>
+			<fees>0.00</fees>
+			<total>1162.04</total>
+			<lowest-average>208.16</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>210.72</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>223.53</rate>
+					<original-rate>235.29</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>197.91</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>197.91</rate>
+					<original-rate>208.33</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>210.72</rate>
+					<original-rate>221.81</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>336.40</original-average>
+			<subtotal>1597.90</subtotal>
+			<taxes>186.15</taxes>
+			<fees>0.00</fees>
+			<total>1784.05</total>
+			<lowest-average>319.58</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>323.51</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>343.18</rate>
+					<original-rate>361.24</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>303.85</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>303.85</rate>
+					<original-rate>319.84</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>323.51</rate>
+					<original-rate>340.54</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>16,19734,87c42414f3d1854f960bfe80455c447507ffaceb</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=260a56b738&amp;rate_code=cc892b7156&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>35cf9f8a-8134-5f1f-a3e5-a99fd62d73e8</room-id>
+			<title>Junior Suite - 1 double bed and 1 sofa bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>336.40</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Municipality Fee</name>
+				<amount>5.40</amount>
+				<total>27.00</total>
+				<currency>EUR</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1095.57</subtotal>
+			<taxes>127.64</taxes>
+			<fees>0.00</fees>
+			<total>1223.21</total>
+			<lowest-average>219.11</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>221.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>235.29</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>208.33</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>208.33</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>221.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1682.00</subtotal>
+			<taxes>195.96</taxes>
+			<fees>0.00</fees>
+			<total>1877.96</total>
+			<lowest-average>336.40</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>340.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>361.24</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>319.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>319.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>340.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>16,19734,e4f7fe34911e3473667d566d05c9c881cbfb9704</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=89c7d7d4b7&amp;rate_code=3912aa4c98&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>2f2fccf6-2e58-484b-b328-505805595b6f</hotel-id>
+			<room-id>35cf9f8a-8134-5f1f-a3e5-a99fd62d73e8</room-id>
+			<title>Junior Suite - 1 double bed and 1 sofa bed</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>2</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>336.40</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Municipality Fee</name>
+				<amount>5.40</amount>
+				<total>27.00</total>
+				<currency>EUR</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1095.57</subtotal>
+			<taxes>127.64</taxes>
+			<fees>0.00</fees>
+			<total>1223.21</total>
+			<lowest-average>219.11</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>221.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>235.29</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>208.33</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>208.33</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>221.81</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1682.00</subtotal>
+			<taxes>195.96</taxes>
+			<fees>0.00</fees>
+			<total>1877.96</total>
+			<lowest-average>336.40</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>340.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>361.24</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>319.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>319.84</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>340.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>16,19734,933734a9a53f8483b96ba35b7fa4747b5109a483</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/2f2fccf6-2e58-484b-b328-505805595b6f?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=89c7d7d4b7&amp;rate_code=0174a7f8c8&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>6128b976-a2b4-5796-bc4d-a7af47c82ab4</room-id>
+			<title>Deluxe Triple Room</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Limited-Time Offer! Save 20% on This Reservation</promotional-text>
+		<promotion-details>Free Wireless Internet</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>255.01</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>207.62</original-average>
+			<subtotal>830.50</subtotal>
+			<taxes>83.05</taxes>
+			<fees>0.00</fees>
+			<total>913.54</total>
+			<lowest-average>166.10</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>166.10</rate>
+					<original-rate>207.62</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>166.10</rate>
+					<original-rate>207.62</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>144.66</rate>
+					<original-rate>180.83</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>166.10</rate>
+					<original-rate>207.62</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>187.53</rate>
+					<original-rate>234.41</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>318.76</original-average>
+			<subtotal>1275.04</subtotal>
+			<taxes>127.50</taxes>
+			<fees>0.00</fees>
+			<total>1402.54</total>
+			<lowest-average>255.01</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>255.01</rate>
+					<original-rate>318.76</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>255.01</rate>
+					<original-rate>318.76</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>222.10</rate>
+					<original-rate>277.63</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>255.01</rate>
+					<original-rate>318.76</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>287.91</rate>
+					<original-rate>359.89</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,121286,362387,200326992</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=900c3c4d59&amp;rate_code=2d843fa8ff&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>ecf7a1a7-74aa-54b0-bc4d-6123b02ea071</room-id>
+			<title>Deluxe Triple - 25 Sq.Meters</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Free Wifi</promotional-text>
+		<promotion-details>Free Wifi</promotion-details>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>272.75</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average>209.00</original-average>
+			<subtotal>888.27</subtotal>
+			<taxes>101.66</taxes>
+			<fees>0.00</fees>
+			<total>989.93</total>
+			<lowest-average>177.66</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>177.66</rate>
+					<original-rate>209.00</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>177.66</rate>
+					<original-rate>209.00</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>154.73</rate>
+					<original-rate>182.03</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>177.66</rate>
+					<original-rate>209.00</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>200.58</rate>
+					<original-rate>235.97</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>320.88</original-average>
+			<subtotal>1363.74</subtotal>
+			<taxes>156.08</taxes>
+			<fees>0.00</fees>
+			<total>1519.82</total>
+			<lowest-average>272.75</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>272.75</rate>
+					<original-rate>320.88</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>272.75</rate>
+					<original-rate>320.88</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>237.55</rate>
+					<original-rate>279.47</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>272.75</rate>
+					<original-rate>320.88</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>307.94</rate>
+					<original-rate>362.28</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,51191,fabf0aac0d7942ee73e6be833e2fa70010d87062</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=e9d22ef1b4&amp;rate_code=44ba041dda&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>ecf7a1a7-74aa-54b0-bc4d-6123b02ea071</room-id>
+			<title>Deluxe Triple - 25 Sq.Meters</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Free Wifi</promotional-text>
+		<promotion-details>Free Wifi</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>272.75</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average>209.00</original-average>
+			<subtotal>888.27</subtotal>
+			<taxes>101.66</taxes>
+			<fees>0.00</fees>
+			<total>989.93</total>
+			<lowest-average>177.66</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>177.66</rate>
+					<original-rate>209.00</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>177.66</rate>
+					<original-rate>209.00</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>154.73</rate>
+					<original-rate>182.03</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>177.66</rate>
+					<original-rate>209.00</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>200.58</rate>
+					<original-rate>235.97</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>320.88</original-average>
+			<subtotal>1363.74</subtotal>
+			<taxes>156.08</taxes>
+			<fees>0.00</fees>
+			<total>1519.82</total>
+			<lowest-average>272.75</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>272.75</rate>
+					<original-rate>320.88</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>272.75</rate>
+					<original-rate>320.88</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>237.55</rate>
+					<original-rate>279.47</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>272.75</rate>
+					<original-rate>320.88</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>307.94</rate>
+					<original-rate>362.28</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,51191,62a44255bd6963022c4bfb2cf89fa5995d81ea8f</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=e9d22ef1b4&amp;rate_code=4f85ab17fb&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>ecf7a1a7-74aa-54b0-bc4d-6123b02ea071</room-id>
+			<title>Deluxe Triple - 25 Sq.Meters</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Free Wifi</promotional-text>
+		<promotion-details>Free Wifi</promotion-details>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>304.83</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>992.75</subtotal>
+			<taxes>113.63</taxes>
+			<fees>0.00</fees>
+			<total>1106.39</total>
+			<lowest-average>198.55</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>198.55</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>198.55</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>172.93</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>198.55</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>224.17</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1524.15</subtotal>
+			<taxes>174.46</taxes>
+			<fees>0.00</fees>
+			<total>1698.61</total>
+			<lowest-average>304.83</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>304.83</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>304.83</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>265.50</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>304.83</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>344.16</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,51191,baca6577c316ed4bce813b34eeec9d4ff6bc6327</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=b72b925e44&amp;rate_code=6af11a1cd2&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>76b8c447-0f9f-569a-9c62-eee28cd591b0</room-id>
+			<title>Deluxe Triple</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>326.70</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1063.97</subtotal>
+			<taxes>74.49</taxes>
+			<fees>0.00</fees>
+			<total>1138.46</total>
+			<lowest-average>212.80</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>212.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>212.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>185.39</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>212.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>240.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1633.49</subtotal>
+			<taxes>114.36</taxes>
+			<fees>0.00</fees>
+			<total>1747.85</total>
+			<lowest-average>326.70</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>326.70</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>326.70</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>284.63</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>326.70</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>368.76</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>1,1216368,1980594-3,2</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=f0ebae8299&amp;rate_code=e1cebadf78&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>f4d706de-968e-5f77-8fc1-39586db96c45</room-id>
+			<title>Triple Deluxe</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>332.67</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1083.43</subtotal>
+			<taxes>108.35</taxes>
+			<fees>0.00</fees>
+			<total>1191.78</total>
+			<lowest-average>216.68</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>216.68</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>216.68</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>188.73</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>216.68</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>244.65</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1663.36</subtotal>
+			<taxes>166.35</taxes>
+			<fees>0.00</fees>
+			<total>1829.71</total>
+			<lowest-average>332.67</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>332.67</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>332.67</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>289.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>332.67</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>375.60</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>6,15930,44af190b230960f3eb3a719f26d3af9ddce8ca36</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=56215f40b4&amp;rate_code=eb587bad0e&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>f4d706de-968e-5f77-8fc1-39586db96c45</room-id>
+			<title>Triple Deluxe - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>355.48</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1157.69</subtotal>
+			<taxes>115.78</taxes>
+			<fees>0.00</fees>
+			<total>1273.48</total>
+			<lowest-average>231.54</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>235.91</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>235.91</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>200.96</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>235.91</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>249.02</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1777.38</subtotal>
+			<taxes>177.76</taxes>
+			<fees>0.00</fees>
+			<total>1955.14</total>
+			<lowest-average>355.48</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>362.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>362.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>308.53</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>362.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>382.31</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>6,15930,a74a2dc0eeedf45296df4ead4df1fac193905cc6</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=37dcb82f0e&amp;rate_code=ef93522837&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>1fe6e83b-a163-5b5b-a663-f94a2c11d887</hotel-id>
+			<room-id>f4d706de-968e-5f77-8fc1-39586db96c45</room-id>
+			<title>Triple Deluxe - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>347.89</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1132.98</subtotal>
+			<taxes>113.31</taxes>
+			<fees>0.00</fees>
+			<total>1246.29</total>
+			<lowest-average>226.60</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>224.10</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>224.10</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>224.10</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>224.10</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>236.57</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1739.44</subtotal>
+			<taxes>173.96</taxes>
+			<fees>0.00</fees>
+			<total>1913.40</total>
+			<lowest-average>347.89</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>344.06</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>344.06</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>344.06</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>344.06</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>363.20</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>6,15930,906947286cf156c57e1ee3a96e5bb700a01d75d9</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/1fe6e83b-a163-5b5b-a663-f94a2c11d887?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=71e0ba65c9&amp;rate_code=5a20993516&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>cc780447-6a3f-51d2-8602-3429affecf96</hotel-id>
+			<room-id>bd13a223-26d7-50a4-8150-16601c8354a3</room-id>
+			<title>Junior Suite</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>244.31</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Resort Fee per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+			<fee>
+				<name>Tax per Night</name>
+				<amount>1.70</amount>
+				<total>8.48</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>795.67</subtotal>
+			<taxes>79.57</taxes>
+			<fees>0.00</fees>
+			<total>875.24</total>
+			<lowest-average>159.13</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>149.35</rate>
+					<original-rate>149.35</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>198.92</rate>
+					<original-rate>198.92</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>127.92</rate>
+					<original-rate>127.92</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>163.42</rate>
+					<original-rate>163.42</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>156.05</rate>
+					<original-rate>156.05</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1221.57</subtotal>
+			<taxes>122.16</taxes>
+			<fees>0.00</fees>
+			<total>1343.73</total>
+			<lowest-average>244.31</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>229.30</rate>
+					<original-rate>229.30</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>305.39</rate>
+					<original-rate>305.39</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>196.40</rate>
+					<original-rate>196.40</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>250.90</rate>
+					<original-rate>250.90</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>239.58</rate>
+					<original-rate>239.58</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,428434,200841974,204252988</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/cc780447-6a3f-51d2-8602-3429affecf96?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=ebb56ff2c5&amp;rate_code=b16b5e2941&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>26987aa0-47c9-5bad-95dd-dbfa785de27b</hotel-id>
+			<room-id>cf4362e1-e081-5931-8064-71e6e2a81461</room-id>
+			<title>Double Superior - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>6</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at>2015-02-18T16:30:00Z</expires-at>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>336.19</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1094.89</subtotal>
+			<taxes>76.63</taxes>
+			<fees>0.00</fees>
+			<total>1171.52</total>
+			<lowest-average>218.98</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1680.95</subtotal>
+			<taxes>117.65</taxes>
+			<fees>0.00</fees>
+			<total>1798.60</total>
+			<lowest-average>336.19</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished1</rate-plan-type>
+		<rate-plan-code>6,139678,322a03cb19db8062bf5388f21d446ea7910f2e9b</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/26987aa0-47c9-5bad-95dd-dbfa785de27b?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=6fc2d3a8f3&amp;rate_code=4a91194200&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>26987aa0-47c9-5bad-95dd-dbfa785de27b</hotel-id>
+			<room-id>d51f785f-6132-5f6d-9073-e223535f76e4</room-id>
+			<title>Twin Superior - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>9</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at>2015-02-18T16:30:00Z</expires-at>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>336.19</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1094.89</subtotal>
+			<taxes>76.63</taxes>
+			<fees>0.00</fees>
+			<total>1171.52</total>
+			<lowest-average>218.98</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>218.98</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1680.95</subtotal>
+			<taxes>117.65</taxes>
+			<fees>0.00</fees>
+			<total>1798.60</total>
+			<lowest-average>336.19</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>336.19</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished1</rate-plan-type>
+		<rate-plan-code>6,139678,d1263366589ccc40216b5ed790be2da54f4dc4ee</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/26987aa0-47c9-5bad-95dd-dbfa785de27b?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=6fc2d3a8f3&amp;rate_code=399e424208&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>21f45512-2f22-5ec3-9d1e-3ef545b8c651</hotel-id>
+			<room-id>5b021365-f68a-517e-aefa-d2eb98eb6d92</room-id>
+			<title>Executive Suite</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Seasonal deal: save 20%</promotional-text>
+		<promotion-details>Free Wireless Internet</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>4</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>709.10</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>0.23</amount>
+				<total>3.39</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>577.34</original-average>
+			<subtotal>2309.36</subtotal>
+			<taxes>230.94</taxes>
+			<fees>0.00</fees>
+			<total>2540.30</total>
+			<lowest-average>461.87</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>487.59</rate>
+					<original-rate>609.48</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>487.59</rate>
+					<original-rate>609.48</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>444.73</rate>
+					<original-rate>555.91</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>444.73</rate>
+					<original-rate>555.91</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>444.73</rate>
+					<original-rate>555.91</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>886.37</original-average>
+			<subtotal>3545.50</subtotal>
+			<taxes>354.56</taxes>
+			<fees>0.00</fees>
+			<total>3900.06</total>
+			<lowest-average>709.10</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>748.58</rate>
+					<original-rate>935.72</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>748.58</rate>
+					<original-rate>935.72</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>682.78</rate>
+					<original-rate>853.47</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>682.78</rate>
+					<original-rate>853.47</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>682.78</rate>
+					<original-rate>853.47</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,438307,200339116,202087735</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/21f45512-2f22-5ec3-9d1e-3ef545b8c651?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=4b817f26d2&amp;rate_code=93c036b54b&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>a4aab20f-fb62-5b92-b1ce-1c5224662e6b</hotel-id>
+			<room-id>4556d7e1-cf0b-5a41-baee-b1066c96b9fd</room-id>
+			<title>Twin Deluxe-park - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>784.74</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2555.70</subtotal>
+			<taxes>255.56</taxes>
+			<fees>0.00</fees>
+			<total>2811.25</total>
+			<lowest-average>511.14</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>3923.70</subtotal>
+			<taxes>392.35</taxes>
+			<fees>0.00</fees>
+			<total>4316.05</total>
+			<lowest-average>784.74</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>6,6035,04dce583329ca5752961ae8aab713febc1b04788</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/a4aab20f-fb62-5b92-b1ce-1c5224662e6b?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=986492948d&amp;rate_code=3ca55f5250&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>a4aab20f-fb62-5b92-b1ce-1c5224662e6b</hotel-id>
+			<room-id>317d4758-f13f-5a31-a586-34d3b0c3d9dd</room-id>
+			<title>Double Deluxe-park - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>784.74</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2555.70</subtotal>
+			<taxes>255.56</taxes>
+			<fees>0.00</fees>
+			<total>2811.25</total>
+			<lowest-average>511.14</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>511.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>3923.70</subtotal>
+			<taxes>392.35</taxes>
+			<fees>0.00</fees>
+			<total>4316.05</total>
+			<lowest-average>784.74</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>784.74</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>6,6035,6ec27e8d554b45048a8d434d5dd3165376f7a832</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/a4aab20f-fb62-5b92-b1ce-1c5224662e6b?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=986492948d&amp;rate_code=508da27234&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>a4aab20f-fb62-5b92-b1ce-1c5224662e6b</hotel-id>
+			<room-id>2c71ce81-02cb-53ef-b1be-69abe0f457e2</room-id>
+			<title>Suite Executive - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>845.11</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2752.31</subtotal>
+			<taxes>275.23</taxes>
+			<fees>0.00</fees>
+			<total>3027.54</total>
+			<lowest-average>550.46</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>550.46</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>550.46</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>550.46</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>550.46</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>550.46</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>4225.55</subtotal>
+			<taxes>422.55</taxes>
+			<fees>0.00</fees>
+			<total>4648.10</total>
+			<lowest-average>845.11</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>845.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>845.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>845.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>845.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>845.11</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>6,6035,566c038ef5137cc6677805af082717635edc883a</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/a4aab20f-fb62-5b92-b1ce-1c5224662e6b?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=9b96a97157&amp;rate_code=57cbf14674&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>a4aab20f-fb62-5b92-b1ce-1c5224662e6b</hotel-id>
+			<room-id>1f4ab0c8-e2d3-5a02-91b9-ea4569d4f20d</room-id>
+			<title>Park, Deluxe Room, 1 King Bed</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>802.05</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2612.07</subtotal>
+			<taxes>261.19</taxes>
+			<fees>0.00</fees>
+			<total>2873.26</total>
+			<lowest-average>522.41</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>522.41</rate>
+					<original-rate>522.41</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>522.41</rate>
+					<original-rate>522.41</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>522.41</rate>
+					<original-rate>522.41</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>522.41</rate>
+					<original-rate>522.41</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>522.41</rate>
+					<original-rate>522.41</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>4010.25</subtotal>
+			<taxes>401.00</taxes>
+			<fees>0.00</fees>
+			<total>4411.25</total>
+			<lowest-average>802.05</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>802.05</rate>
+					<original-rate>802.05</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>802.05</rate>
+					<original-rate>802.05</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>802.05</rate>
+					<original-rate>802.05</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>802.05</rate>
+					<original-rate>802.05</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>802.05</rate>
+					<original-rate>802.05</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,212231,200174709,200986261</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/a4aab20f-fb62-5b92-b1ce-1c5224662e6b?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=5e8c741520&amp;rate_code=495968356d&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>169051c2-1745-5d45-8eb8-ffaa1eb473f0</hotel-id>
+			<room-id>14821a36-2bb6-5757-8f95-14d361511273</room-id>
+			<title>Classic Apartment</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Stay 5 nights and save 15%</promotional-text>
+		<promotion-details>Free Wireless Internet</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>4</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>258.02</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>197.72</original-average>
+			<subtotal>840.29</subtotal>
+			<taxes>84.04</taxes>
+			<fees>0.00</fees>
+			<total>924.33</total>
+			<lowest-average>168.06</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>158.84</rate>
+					<original-rate>186.87</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>204.94</rate>
+					<original-rate>241.11</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>158.84</rate>
+					<original-rate>186.87</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>158.84</rate>
+					<original-rate>186.87</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>158.84</rate>
+					<original-rate>186.87</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>303.55</original-average>
+			<subtotal>1290.08</subtotal>
+			<taxes>129.02</taxes>
+			<fees>0.00</fees>
+			<total>1419.10</total>
+			<lowest-average>258.02</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>243.86</rate>
+					<original-rate>286.89</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>314.64</rate>
+					<original-rate>370.17</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>243.86</rate>
+					<original-rate>286.89</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>243.86</rate>
+					<original-rate>286.89</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>243.86</rate>
+					<original-rate>286.89</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>4,403222,200148518,200839217</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/169051c2-1745-5d45-8eb8-ffaa1eb473f0?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=0368f34d23&amp;rate_code=8f2f235ea1&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>64659051-804e-4eb3-93c1-4ab8a8357a10</hotel-id>
+			<room-id>84d5a27f-a957-5bf8-955e-3dc8e0a4f431</room-id>
+			<title>Duplex</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Stay 4 night and save</promotional-text>
+		<promotion-details>Free Wireless Internet</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_internet</code>
+				<name>Free Internet</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>5</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>157.17</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average>136.50</original-average>
+			<subtotal>511.85</subtotal>
+			<taxes>51.19</taxes>
+			<fees>0.00</fees>
+			<total>563.04</total>
+			<lowest-average>102.37</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>97.95</rate>
+					<original-rate>130.60</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>97.95</rate>
+					<original-rate>130.60</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>97.95</rate>
+					<original-rate>130.60</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>97.95</rate>
+					<original-rate>130.60</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>120.05</rate>
+					<original-rate>160.07</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average>209.56</original-average>
+			<subtotal>785.83</subtotal>
+			<taxes>78.59</taxes>
+			<fees>0.00</fees>
+			<total>864.42</total>
+			<lowest-average>157.17</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>150.38</rate>
+					<original-rate>200.51</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>150.38</rate>
+					<original-rate>200.51</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>150.38</rate>
+					<original-rate>200.51</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>150.38</rate>
+					<original-rate>200.51</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>184.31</rate>
+					<original-rate>245.75</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>4,197497,213704,203897578</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/64659051-804e-4eb3-93c1-4ab8a8357a10?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=3bd7c5b91e&amp;rate_code=c07b076df0&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>64659051-804e-4eb3-93c1-4ab8a8357a10</hotel-id>
+			<room-id>7df6feed-d8a7-5779-b5fe-977d2b2ee423</room-id>
+			<title>Double Or Twin Duplex</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>5</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>169.14</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>550.83</subtotal>
+			<taxes>55.07</taxes>
+			<fees>0.00</fees>
+			<total>605.90</total>
+			<lowest-average>110.17</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>105.61</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>105.61</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>105.61</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>105.61</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>128.39</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>845.68</subtotal>
+			<taxes>84.55</taxes>
+			<fees>0.00</fees>
+			<total>930.23</total>
+			<lowest-average>169.14</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>162.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>162.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>162.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>162.14</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>197.12</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>6,6034,6a0860f0c4477039e7458204966402326d0cd2df</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/64659051-804e-4eb3-93c1-4ab8a8357a10?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=9aff74ba74&amp;rate_code=b297fe95e7&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>64659051-804e-4eb3-93c1-4ab8a8357a10</hotel-id>
+			<room-id>7df6feed-d8a7-5779-b5fe-977d2b2ee423</room-id>
+			<title>Double Or Twin Duplex - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>5</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>200.92</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>654.35</subtotal>
+			<taxes>65.43</taxes>
+			<fees>0.00</fees>
+			<total>719.78</total>
+			<lowest-average>130.87</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>126.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>126.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>126.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>126.32</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>149.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1004.61</subtotal>
+			<taxes>100.45</taxes>
+			<fees>0.00</fees>
+			<total>1105.06</total>
+			<lowest-average>200.92</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>193.93</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>193.93</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>193.93</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>193.93</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>228.89</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>6,6034,9b4b8f04b3bf2920b5e4daf6e1dc05a6c43cbbf8</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/64659051-804e-4eb3-93c1-4ab8a8357a10?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=5f8bf15e0b&amp;rate_code=9068361663&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>64659051-804e-4eb3-93c1-4ab8a8357a10</hotel-id>
+			<room-id>7df6feed-d8a7-5779-b5fe-977d2b2ee423</room-id>
+			<title>Double Or Twin Duplex</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>5</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>191.68</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>624.25</subtotal>
+			<taxes>62.44</taxes>
+			<fees>0.00</fees>
+			<total>686.68</total>
+			<lowest-average>124.85</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>119.69</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>119.69</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>119.69</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>119.69</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>145.50</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>958.39</subtotal>
+			<taxes>95.86</taxes>
+			<fees>0.00</fees>
+			<total>1054.25</total>
+			<lowest-average>191.68</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>183.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>183.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>183.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>183.75</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>223.39</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>6,6034,4fb8fda7c49f469db17ff7113a67fe91d9414adf</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/64659051-804e-4eb3-93c1-4ab8a8357a10?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=322d4384cb&amp;rate_code=1502f85114&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>64659051-804e-4eb3-93c1-4ab8a8357a10</hotel-id>
+			<room-id>7df6feed-d8a7-5779-b5fe-977d2b2ee423</room-id>
+			<title>Double Or Twin Duplex - Breakfast included</title>
+			<description/>
+		</room>
+		<commission-tier>3</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+			<value-add>
+				<code>free_breakfast</code>
+				<name>Free Breakfast</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>5</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>223.47</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>727.78</subtotal>
+			<taxes>72.77</taxes>
+			<fees>0.00</fees>
+			<total>800.55</total>
+			<lowest-average>145.56</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>140.39</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>140.39</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>140.39</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>140.39</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>166.21</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1117.34</subtotal>
+			<taxes>111.72</taxes>
+			<fees>0.00</fees>
+			<total>1229.06</total>
+			<lowest-average>223.47</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>215.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>215.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>215.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>215.54</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>255.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>unpublished2</rate-plan-type>
+		<rate-plan-code>6,6034,a4605154d22751c22619d4debb96bd5f15fd820f</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/64659051-804e-4eb3-93c1-4ab8a8357a10?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=0b4ca327bc&amp;rate_code=6014cd6120&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>6697fa7e-b4fc-5172-8e4e-7100f4612e0d</hotel-id>
+			<room-id>e15e74bb-2bae-57ed-b4e7-2cbfa6450272</room-id>
+			<title>Superior Room - Advance Purchase</title>
+			<description/>
+		</room>
+		<commission-tier>5</commission-tier>
+		<sale>false</sale>
+		<promotional-text xsi:nil="true"/>
+		<promotion-details xsi:nil="true"/>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>328.84</lowest-average>
+		<fees-collected-at-property>
+			<fee>
+				<name>Tax per Person per Night</name>
+				<amount>1.70</amount>
+				<total>25.45</total>
+				<currency>USD</currency>
+				<description xsi:nil="true"/>
+			</fee>
+		</fees-collected-at-property>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1070.95</subtotal>
+			<taxes>107.09</taxes>
+			<fees>0.00</fees>
+			<total>1178.04</total>
+			<lowest-average>214.19</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>209.64</rate>
+					<original-rate>209.64</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>212.98</rate>
+					<original-rate>212.98</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>200.26</rate>
+					<original-rate>200.26</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>227.72</rate>
+					<original-rate>227.72</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>220.35</rate>
+					<original-rate>220.35</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1644.20</subtotal>
+			<taxes>164.42</taxes>
+			<fees>0.00</fees>
+			<total>1808.62</total>
+			<lowest-average>328.84</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>321.85</rate>
+					<original-rate>321.85</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>326.99</rate>
+					<original-rate>326.99</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>307.45</rate>
+					<original-rate>307.45</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>349.61</rate>
+					<original-rate>349.61</original-rate>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>338.30</rate>
+					<original-rate>338.30</original-rate>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>4,106271,272987,1347912</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/6697fa7e-b4fc-5172-8e4e-7100f4612e0d?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=71e6eff0c8&amp;rate_code=81a117b58f&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>6c19ada7-66a0-57c5-81c0-3498d2b39fe0</hotel-id>
+			<room-id>deb7b17e-94fd-5642-b58b-ee19c9adce6d</room-id>
+			<title>Deluxe King - 2 twin (single) beds or 1 king bed with Accessible bath, Accessible room</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Early booking : book 14 days in advance &amp;amp; save 15%</promotional-text>
+		<promotion-details>Early booking : Save 15% off</promotion-details>
+		<value-adds xsi:nil="true"/>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>448.69</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1461.28</subtotal>
+			<taxes>170.24</taxes>
+			<fees>0.00</fees>
+			<total>1631.52</total>
+			<lowest-average>292.25</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>315.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>315.18</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>257.88</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>286.52</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>286.52</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2243.47</subtotal>
+			<taxes>261.36</taxes>
+			<fees>0.00</fees>
+			<total>2504.83</total>
+			<lowest-average>448.69</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>483.89</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>483.89</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>395.91</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>439.89</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>439.89</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,1103201,b427d29da0b8b2d614a2aae19c8da964c7a95303</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/6c19ada7-66a0-57c5-81c0-3498d2b39fe0?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=cf21748b64&amp;rate_code=2ed6ab1a40&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>6c19ada7-66a0-57c5-81c0-3498d2b39fe0</hotel-id>
+			<room-id>4c8f639f-5ce3-567c-b197-fce3787d31af</room-id>
+			<title>Luxury Studio - 2 twin (single) beds or 1 king bed with Accessible bath, Accessible room</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Early booking : book 14 days in advance &amp;amp; save 15%</promotional-text>
+		<promotion-details>Early booking : Save 15% off</promotion-details>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>10</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>492.68</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1604.54</subtotal>
+			<taxes>186.96</taxes>
+			<fees>0.00</fees>
+			<total>1791.50</total>
+			<lowest-average>320.91</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>338.10</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>338.10</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>309.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>309.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>309.45</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2463.41</subtotal>
+			<taxes>287.03</taxes>
+			<fees>0.00</fees>
+			<total>2750.44</total>
+			<lowest-average>492.68</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>519.07</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>519.07</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>475.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>475.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>475.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,1103201,d71152e5af7cc47898f18a48337fa21947b0c9a1</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/6c19ada7-66a0-57c5-81c0-3498d2b39fe0?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=2d3967994c&amp;rate_code=5b11470746&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>6c19ada7-66a0-57c5-81c0-3498d2b39fe0</hotel-id>
+			<room-id>deb7b17e-94fd-5642-b58b-ee19c9adce6d</room-id>
+			<title>Deluxe King - 2 twin (single) beds or 1 king bed with Accessible bath, Accessible room</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Welcome Cockail, Free Wifi &amp;amp; Expresso</promotional-text>
+		<promotion-details>Welcome Cocktail, Free Wifi, Expresso &amp;amp; mineral water</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left xsi:nil="true"/>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>527.87</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1719.15</subtotal>
+			<taxes>200.28</taxes>
+			<fees>0.00</fees>
+			<total>1919.43</total>
+			<lowest-average>343.83</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>370.79</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>370.79</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>303.38</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>337.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>337.09</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2639.37</subtotal>
+			<taxes>307.48</taxes>
+			<fees>0.00</fees>
+			<total>2946.85</total>
+			<lowest-average>527.87</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>569.27</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>569.27</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>465.77</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>517.53</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>517.53</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,1103201,f8127ed4f3cb7ef3d8c39ca179684b9d8d70c063</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/6c19ada7-66a0-57c5-81c0-3498d2b39fe0?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=9d475aca7a&amp;rate_code=ac8de96425&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>6c19ada7-66a0-57c5-81c0-3498d2b39fe0</hotel-id>
+			<room-id>4c8f639f-5ce3-567c-b197-fce3787d31af</room-id>
+			<title>Luxury Studio - 2 twin (single) beds or 1 king bed with Accessible bath, Accessible room</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Welcome Cockail, Free Wifi &amp;amp; Expresso</promotional-text>
+		<promotion-details>Welcome Cocktail, Free Wifi, Expresso &amp;amp; mineral water</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>10</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>579.62</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>1887.67</subtotal>
+			<taxes>219.91</taxes>
+			<fees>0.00</fees>
+			<total>2107.59</total>
+			<lowest-average>377.53</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>397.76</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>397.76</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>364.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>364.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>364.05</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2898.10</subtotal>
+			<taxes>337.63</taxes>
+			<fees>0.00</fees>
+			<total>3235.73</total>
+			<lowest-average>579.62</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>610.67</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>610.67</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>558.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>558.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>558.92</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,1103201,c003121a307e68c57f125caf8807845fd17762de</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/6c19ada7-66a0-57c5-81c0-3498d2b39fe0?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=e1a6dfa1c3&amp;rate_code=c3d014633d&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>6c19ada7-66a0-57c5-81c0-3498d2b39fe0</hotel-id>
+			<room-id>5d6c2966-68e9-5cac-9b0a-354384d0b018</room-id>
+			<title>Premium Suite - 2 twin (single) beds or 1 king bed with Air conditioning, Alarm clock</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Early booking : book 14 days in advance &amp;amp; save 15%</promotional-text>
+		<promotion-details>Early booking : Save 15% off</promotion-details>
+		<value-adds xsi:nil="true"/>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>835.80</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>2721.99</subtotal>
+			<taxes>317.08</taxes>
+			<fees>0.00</fees>
+			<total>3039.06</total>
+			<lowest-average>544.40</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>544.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>544.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>544.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>544.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>544.40</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>4179.00</subtotal>
+			<taxes>486.80</taxes>
+			<fees>0.00</fees>
+			<total>4665.80</total>
+			<lowest-average>835.80</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>835.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>835.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>835.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>835.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>835.80</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,1103201,c6a7bec5ace3fc7d93610a1cba920b2d306750f6</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/6c19ada7-66a0-57c5-81c0-3498d2b39fe0?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=53647d49b8&amp;rate_code=8f135445bb&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+	<room-stay>
+		<room>
+			<hotel-id>6c19ada7-66a0-57c5-81c0-3498d2b39fe0</hotel-id>
+			<room-id>5d6c2966-68e9-5cac-9b0a-354384d0b018</room-id>
+			<title>Premium Suite - 2 twin (single) beds or 1 king bed with Air conditioning, Alarm clock</title>
+			<description/>
+		</room>
+		<commission-tier>4</commission-tier>
+		<sale>true</sale>
+		<promotional-text>Welcome Cockail, Free Wifi &amp;amp; Expresso</promotional-text>
+		<promotion-details>Welcome Cocktail, Free Wifi, Expresso &amp;amp; mineral water</promotion-details>
+		<value-adds>
+			<value-add>
+				<code>free_cancellation</code>
+				<name>Free Cancellation</name>
+			</value-add>
+		</value-adds>
+		<rooms-left>1</rooms-left>
+		<timed-pressure-sell xsi:nil="true"/>
+		<expires-at xsi:nil="true"/>
+		<restrictions xsi:nil="true"/>
+		<lowest-average>983.30</lowest-average>
+		<fees-collected-at-property xsi:nil="true"/>
+		<display-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>3202.36</subtotal>
+			<taxes>373.04</taxes>
+			<fees>0.00</fees>
+			<total>3575.40</total>
+			<lowest-average>640.47</lowest-average>
+			<currency>GBP</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>640.47</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>640.47</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>640.47</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>640.47</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>640.47</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</display-pricing>
+		<booking-pricing>
+			<original-average xsi:nil="true"/>
+			<subtotal>4916.50</subtotal>
+			<taxes>572.72</taxes>
+			<fees>0.00</fees>
+			<total>5489.22</total>
+			<lowest-average>983.30</lowest-average>
+			<currency>USD</currency>
+			<nightly-rates>
+				<nightly-rate>
+					<date>03/27/2015</date>
+					<rate>983.30</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/28/2015</date>
+					<rate>983.30</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/29/2015</date>
+					<rate>983.30</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/30/2015</date>
+					<rate>983.30</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+				<nightly-rate>
+					<date>03/31/2015</date>
+					<rate>983.30</rate>
+					<original-rate xsi:nil="true"/>
+				</nightly-rate>
+			</nightly-rates>
+		</booking-pricing>
+		<rate-plan-type>public</rate-plan-type>
+		<rate-plan-code>16,1103201,d49799460f2527aedc9b443e22b549d6496f4417</rate-plan-code>
+		<landing-url>http://www.getaroom.com/hotels/6c19ada7-66a0-57c5-81c0-3498d2b39fe0?affiliate=87d3e69b&amp;check_in=03/27/2015&amp;check_out=04/01/2015&amp;currency=GBP&amp;price_code=fda02be9ce&amp;rate_code=b3e2dbc3c1&amp;rinfo=%5B%5B7%2C18%2C18%5D%5D</landing-url>
+	</room-stay>
+</room-stays>

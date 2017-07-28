@@ -1,0 +1,15 @@
+{
+    "scenarioName": "MandS",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "portal.extenv101.mns.internal.gbinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/InsuranceSupermarket/MNS/Calculate.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "mands-response-success.xml",
+        "fixedDelayMilliseconds": 11000
+    }
+}

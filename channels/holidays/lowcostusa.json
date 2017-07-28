@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Lowcosthols",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "xmllive.lowcostgroup.com",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/soap/book.asmx"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "lowcostusaResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

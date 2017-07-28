@@ -1,0 +1,15 @@
+{
+    "scenarioName": "QuoteMeHappy",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "servlets.aggs.dev.quotemehappy.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/PortalServices/IIA/MoneySuperMarket/MsmCalculate.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "quotemehappy-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

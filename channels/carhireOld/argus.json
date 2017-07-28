@@ -1,0 +1,14 @@
+{
+    "scenarioName": "Argus",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/cartrawlerota"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "argus-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

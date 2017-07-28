@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Swift Cover",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "portal.extenv101.sc.internal.gbinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/InsuranceSupermarket/Home/Calculate.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "swiftcover-response-success.xml",
+        "fixedDelayMilliseconds": 11000
+    }
+}

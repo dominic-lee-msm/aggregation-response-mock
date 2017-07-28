@@ -1,0 +1,328 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Header>
+        <h:conversationId xmlns:h="urn:schemas-goldmedal-co-uk:messaging:ecommerceFlightPartner:2010-03">
+            854a2df2-26e6-4d32-a097-5d446ff18411
+        </h:conversationId>
+    </s:Header>
+    <s:Body>
+        <flightJourneyAvailabilityResponse xmlns="urn:schemas-goldmedal-co-uk:messaging:ecommerceFlightPartner:2010-03"
+                                           xmlns:a="http://schemas.datacontract.org/2004/07/GoldMedal.Ecommerce.Partner.Domain.Flight.Response"
+                                           xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+            <a:flights>
+                <a:flight>
+                    <a:cabinClass>BUS</a:cabinClass>
+                    <a:deeplink>
+                        <![CDATA[http://www.netflights.com/flight-results.aspx?depart=Grand Cayman, Cayman Islands [GCM]&arrival=Manchester, UK [MAN]&departdate=07 - 06 - 2014&returndate=14 - 06 - 2014&adults=2&children=1&infants=1&cabin=1&journeytype=R&resultid=a518237e-8921-4da3-be6e-e403d9e16d51&selectedcabin=Economy&ai=0]]></a:deeplink>
+                    <a:carrier>AA</a:carrier>
+                    <a:itineraryOptions>
+                        <a:outboundOption>
+                            <a:legs>
+                                <a:legList>
+                                    <a:leg>
+                                        <a:id>1</a:id>
+                                        <a:departureAirportCode>GCM</a:departureAirportCode>
+                                        <a:departureAirportName>Grand Cayman, Cayman Islands</a:departureAirportName>
+                                        <a:destinationAirportCode>MIA</a:destinationAirportCode>
+                                        <a:destinationAirportName>Miami International, Florida - USA
+                                        </a:destinationAirportName>
+                                        <a:departureDate>${outboundDate}</a:departureDate>
+                                        <a:departureTime>12:35</a:departureTime>
+                                        <a:arrivalDate>${outboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>15:10</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 737-800</a:aircraftType>
+                                        <a:flightNumber>AA1257</a:flightNumber>
+                                        <a:operatingAirlineCode>BA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>British Airways</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>2</a:id>
+                                        <a:departureAirportCode>MIA</a:departureAirportCode>
+                                        <a:departureAirportName>Miami International, Florida - USA
+                                        </a:departureAirportName>
+                                        <a:destinationAirportCode>LHR</a:destinationAirportCode>
+                                        <a:destinationAirportName>London Heathrow, UK</a:destinationAirportName>
+                                        <a:departureDate>${outboundDate}</a:departureDate>
+                                        <a:departureTime>17:25</a:departureTime>
+                                        <a:arrivalDate>${dayAfterInbound}</a:arrivalDate>
+                                        <a:arrivalTime>06:50</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 747-400 Passenger</a:aircraftType>
+                                        <a:flightNumber>AA6159</a:flightNumber>
+                                        <a:operatingAirlineCode>BA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>British Airways</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>3</a:id>
+                                        <a:departureAirportCode>LHR</a:departureAirportCode>
+                                        <a:departureAirportName>London Heathrow, UK</a:departureAirportName>
+                                        <a:destinationAirportCode>MAN</a:destinationAirportCode>
+                                        <a:destinationAirportName>Manchester, UK</a:destinationAirportName>
+                                        <a:departureDate>${dayAfterInbound}</a:departureDate>
+                                        <a:departureTime>07:55</a:departureTime>
+                                        <a:arrivalDate>${dayAfterInbound}</a:arrivalDate>
+                                        <a:arrivalTime>08:50</a:arrivalTime>
+                                        <a:airlineCode>BA</a:airlineCode>
+                                        <a:airlineName>British Airways</a:airlineName>
+                                        <a:aircraftType>Airbus Industrie A320</a:aircraftType>
+                                        <a:flightNumber>BA1384</a:flightNumber>
+                                        <a:operatingAirlineCode>BA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>British Airways</a:operatingAirlineName>
+                                    </a:leg>
+                                </a:legList>
+                            </a:legs>
+                        </a:outboundOption>
+                        <a:inboundOption>
+                            <a:legs>
+                                <a:legList>
+                                    <a:leg>
+                                        <a:id>1</a:id>
+                                        <a:departureAirportCode>MAN</a:departureAirportCode>
+                                        <a:departureAirportName>Manchester, UK</a:departureAirportName>
+                                        <a:destinationAirportCode>LHR</a:destinationAirportCode>
+                                        <a:destinationAirportName>London Heathrow, UK</a:destinationAirportName>
+                                        <a:departureDate>${inboundDate}</a:departureDate>
+                                        <a:departureTime>08:30</a:departureTime>
+                                        <a:arrivalDate>${inboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>09:35</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Airbus Industrie A321</a:aircraftType>
+                                        <a:flightNumber>AA6365</a:flightNumber>
+                                        <a:operatingAirlineCode>BA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>British Airways</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>2</a:id>
+                                        <a:departureAirportCode>LHR</a:departureAirportCode>
+                                        <a:departureAirportName>London Heathrow, UK</a:departureAirportName>
+                                        <a:destinationAirportCode>MIA</a:destinationAirportCode>
+                                        <a:destinationAirportName>Miami International, Florida - USA
+                                        </a:destinationAirportName>
+                                        <a:departureDate>${inboundDate}</a:departureDate>
+                                        <a:departureTime>12:15</a:departureTime>
+                                        <a:arrivalDate>${inboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>16:50</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 777 Passenger</a:aircraftType>
+                                        <a:flightNumber>AA0039</a:flightNumber>
+                                        <a:operatingAirlineCode>AA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>American Airlines</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>3</a:id>
+                                        <a:departureAirportCode>MIA</a:departureAirportCode>
+                                        <a:departureAirportName>Miami International, Florida - USA
+                                        </a:departureAirportName>
+                                        <a:destinationAirportCode>GCM</a:destinationAirportCode>
+                                        <a:destinationAirportName>Grand Cayman, Cayman Islands
+                                        </a:destinationAirportName>
+                                        <a:departureDate>${inboundDate}</a:departureDate>
+                                        <a:departureTime>19:10</a:departureTime>
+                                        <a:arrivalDate>${inboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>19:35</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 737-800</a:aircraftType>
+                                        <a:flightNumber>AA1007</a:flightNumber>
+                                        <a:operatingAirlineCode>AA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>American Airlines</a:operatingAirlineName>
+                                    </a:leg>
+                                </a:legList>
+                            </a:legs>
+                        </a:inboundOption>
+                    </a:itineraryOptions>
+                    <a:priceDetails>
+                        <a:currency>GBP</a:currency>
+                        <a:priceBreakdown>
+                            <a:passenger>
+                                <a:passenger>
+                                    <a:type>adult</a:type>
+                                    <a:quantity>2</a:quantity>
+                                    <a:basePrice>453.00</a:basePrice>
+                                    <a:tax>509.05</a:tax>
+                                </a:passenger>
+                                <a:passenger>
+                                    <a:type>child</a:type>
+                                    <a:quantity>1</a:quantity>
+                                    <a:basePrice>340.00</a:basePrice>
+                                    <a:tax>486.65</a:tax>
+                                </a:passenger>
+                                <a:passenger>
+                                    <a:type>infant</a:type>
+                                    <a:quantity>1</a:quantity>
+                                    <a:basePrice>45.00</a:basePrice>
+                                    <a:tax>79.85</a:tax>
+                                </a:passenger>
+                            </a:passenger>
+                            <a:adultDisplayPrice>962.05</a:adultDisplayPrice>
+                            <a:childDisplayPrice>826.65</a:childDisplayPrice>
+                            <a:infantDisplayPrice>124.85</a:infantDisplayPrice>
+                        </a:priceBreakdown>
+                        <a:extras i:nil="true"/>
+                    </a:priceDetails>
+                </a:flight>
+                <a:flight>
+                    <a:cabinClass>BUS</a:cabinClass>
+                    <a:deeplink>
+                        <![CDATA[http://www.netflights.com/flight-results.aspx?depart=Grand Cayman, Cayman Islands [GCM]&arrival=Manchester, UK [MAN]&departdate=07 - 06 - 2014&returndate=14 - 06 - 2014&adults=2&children=1&infants=1&cabin=1&journeytype=R&resultid=a518237e-8921-4da3-be6e-e403d9e16d51&selectedcabin=Economy&ai=0]]></a:deeplink>
+                    <a:carrier>AA</a:carrier>
+                    <a:itineraryOptions>
+                        <a:outboundOption>
+                            <a:legs>
+                                <a:legList>
+                                    <a:leg>
+                                        <a:id>1</a:id>
+                                        <a:departureAirportCode>GCM</a:departureAirportCode>
+                                        <a:departureAirportName>Grand Cayman, Cayman Islands</a:departureAirportName>
+                                        <a:destinationAirportCode>MIA</a:destinationAirportCode>
+                                        <a:destinationAirportName>Miami International, Florida - USA
+                                        </a:destinationAirportName>
+                                        <a:departureDate>${outboundDate}</a:departureDate>
+                                        <a:departureTime>12:35</a:departureTime>
+                                        <a:arrivalDate>${outboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>15:10</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 737-800</a:aircraftType>
+                                        <a:flightNumber>AA1257</a:flightNumber>
+                                        <a:operatingAirlineCode>AA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>American Airlines</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>2</a:id>
+                                        <a:departureAirportCode>MIA</a:departureAirportCode>
+                                        <a:departureAirportName>Miami International, Florida - USA
+                                        </a:departureAirportName>
+                                        <a:destinationAirportCode>LHR</a:destinationAirportCode>
+                                        <a:destinationAirportName>London Heathrow, UK</a:destinationAirportName>
+                                        <a:departureDate>${outboundDate}</a:departureDate>
+                                        <a:departureTime>17:25</a:departureTime>
+                                        <a:arrivalDate>${dayAfterInbound}</a:arrivalDate>
+                                        <a:arrivalTime>06:50</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 747-400 Passenger</a:aircraftType>
+                                        <a:flightNumber>AA6159</a:flightNumber>
+                                        <a:operatingAirlineCode>BA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>British Airways</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>3</a:id>
+                                        <a:departureAirportCode>LHR</a:departureAirportCode>
+                                        <a:departureAirportName>London Heathrow, UK</a:departureAirportName>
+                                        <a:destinationAirportCode>MAN</a:destinationAirportCode>
+                                        <a:destinationAirportName>Manchester, UK</a:destinationAirportName>
+                                        <a:departureDate>${dayAfterInbound}</a:departureDate>
+                                        <a:departureTime>07:55</a:departureTime>
+                                        <a:arrivalDate>${dayAfterInbound}</a:arrivalDate>
+                                        <a:arrivalTime>08:50</a:arrivalTime>
+                                        <a:airlineCode>BA</a:airlineCode>
+                                        <a:airlineName>British Airways</a:airlineName>
+                                        <a:aircraftType>Airbus Industrie A320</a:aircraftType>
+                                        <a:flightNumber>BA1384</a:flightNumber>
+                                        <a:operatingAirlineCode>BA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>British Airways</a:operatingAirlineName>
+                                    </a:leg>
+                                </a:legList>
+                            </a:legs>
+                        </a:outboundOption>
+                        <a:inboundOption>
+                            <a:legs>
+                                <a:legList>
+                                    <a:leg>
+                                        <a:id>1</a:id>
+                                        <a:departureAirportCode>MAN</a:departureAirportCode>
+                                        <a:departureAirportName>Manchester, UK</a:departureAirportName>
+                                        <a:destinationAirportCode>LHR</a:destinationAirportCode>
+                                        <a:destinationAirportName>London Heathrow, UK</a:destinationAirportName>
+                                        <a:departureDate>${inboundDate}</a:departureDate>
+                                        <a:departureTime>08:30</a:departureTime>
+                                        <a:arrivalDate>${inboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>09:35</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Airbus Industrie A321</a:aircraftType>
+                                        <a:flightNumber>AA6365</a:flightNumber>
+                                        <a:operatingAirlineCode>BA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>British Airways</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>2</a:id>
+                                        <a:departureAirportCode>LHR</a:departureAirportCode>
+                                        <a:departureAirportName>London Heathrow, UK</a:departureAirportName>
+                                        <a:destinationAirportCode>MIA</a:destinationAirportCode>
+                                        <a:destinationAirportName>Miami International, Florida - USA
+                                        </a:destinationAirportName>
+                                        <a:departureDate>${inboundDate}</a:departureDate>
+                                        <a:departureTime>12:15</a:departureTime>
+                                        <a:arrivalDate>${inboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>16:50</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 777 Passenger</a:aircraftType>
+                                        <a:flightNumber>AA0039</a:flightNumber>
+                                        <a:operatingAirlineCode>AA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>American Airlines</a:operatingAirlineName>
+                                    </a:leg>
+                                    <a:leg>
+                                        <a:id>3</a:id>
+                                        <a:departureAirportCode>MIA</a:departureAirportCode>
+                                        <a:departureAirportName>Miami International, Florida - USA
+                                        </a:departureAirportName>
+                                        <a:destinationAirportCode>GCM</a:destinationAirportCode>
+                                        <a:destinationAirportName>Grand Cayman, Cayman Islands
+                                        </a:destinationAirportName>
+                                        <a:departureDate>${inboundDate}</a:departureDate>
+                                        <a:departureTime>19:10</a:departureTime>
+                                        <a:arrivalDate>${inboundDate}</a:arrivalDate>
+                                        <a:arrivalTime>19:35</a:arrivalTime>
+                                        <a:airlineCode>AA</a:airlineCode>
+                                        <a:airlineName>American Airlines</a:airlineName>
+                                        <a:aircraftType>Boeing 737-800</a:aircraftType>
+                                        <a:flightNumber>AA1007</a:flightNumber>
+                                        <a:operatingAirlineCode>AA</a:operatingAirlineCode>
+                                        <a:operatingAirlineName>American Airlines</a:operatingAirlineName>
+                                    </a:leg>
+                                </a:legList>
+                            </a:legs>
+                        </a:inboundOption>
+                    </a:itineraryOptions>
+                    <a:priceDetails>
+                        <a:currency>GBP</a:currency>
+                        <a:priceBreakdown>
+                            <a:passenger>
+                                <a:passenger>
+                                    <a:type>adult</a:type>
+                                    <a:quantity>2</a:quantity>
+                                    <a:basePrice>453.00</a:basePrice>
+                                    <a:tax>509.05</a:tax>
+                                </a:passenger>
+                                <a:passenger>
+                                    <a:type>child</a:type>
+                                    <a:quantity>1</a:quantity>
+                                    <a:basePrice>340.00</a:basePrice>
+                                    <a:tax>486.65</a:tax>
+                                </a:passenger>
+                                <a:passenger>
+                                    <a:type>infant</a:type>
+                                    <a:quantity>1</a:quantity>
+                                    <a:basePrice>45.00</a:basePrice>
+                                    <a:tax>79.85</a:tax>
+                                </a:passenger>
+                            </a:passenger>
+                            <a:adultDisplayPrice>962.05</a:adultDisplayPrice>
+                            <a:childDisplayPrice>826.65</a:childDisplayPrice>
+                            <a:infantDisplayPrice>124.85</a:infantDisplayPrice>
+                        </a:priceBreakdown>
+                        <a:extras i:nil="true"/>
+                    </a:priceDetails>
+                </a:flight>
+            </a:flights>
+            <a:resultsFromCache>false</a:resultsFromCache>
+        </flightJourneyAvailabilityResponse>
+    </s:Body>
+</s:Envelope>

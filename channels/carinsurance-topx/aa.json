@@ -1,0 +1,15 @@
+{
+    "scenarioName": "aaTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "www.theaa.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/aggregatorWS/aggregatorTopPrice/MotorTopPrice"
+    },
+    "response": {
+        "status": 403,
+        "bodyFileName": "aa-response-error.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

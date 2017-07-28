@@ -1,0 +1,15 @@
+{
+    "scenarioName": "BudgetAir",
+    "requiredScenarioState": "Started",
+    "domain": "travelsupermarketeu.meta-api.travix.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/FlightService.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "BudgetAirFlightsResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

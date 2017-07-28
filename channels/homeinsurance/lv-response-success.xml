@@ -1,0 +1,130 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <lvmsm:HomeInsuranceResponse xmlns:lvmsm="http://lv.com/gi/schema/rating/household/MoneySupermarketV1"
+                                     xmlns:abi="http://lv.com/gi/schema/rating/abicodes/AbiCodeTypes_v2"
+                                     xmlns:common="http://lv.com/gi/schema/common/CommonTypes_v2"
+                                     xmlns:home="http://lv.com/gi/schema/rating/household/HomeInsuranceTypes_v3"
+                                     xmlns:home-canon="http://lv.com/gi/schema/rating/household/CanonicalHome_v3"
+                                     xmlns:home-quotepack="http://lv.com/gi/schema/rating/qps/home/HomeQuotePackTypes_v1"
+                                     xmlns:orc="http://lv.com/gi/schema/rating/orchestration/home/OrchestrationService"
+                                     xmlns:person="http://lv.com/gi/schema/rating/PersonalDetails_v3"
+                                     xmlns:property="http://lv.com/gi/schema/rating/household/PropertyTypes_v2"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <lvmsm:Quotes>
+                <lvmsm:HomeInsuranceProducts>
+                    <lvmsm:Insurer>LV= Basic</lvmsm:Insurer>
+                    <lvmsm:ProductPremium>
+                        <lvmsm:AnnualPremium>9999.99</lvmsm:AnnualPremium>
+                        <lvmsm:MonthlyPremium>
+                            <lvmsm:Deposit>99.99</lvmsm:Deposit>
+                            <lvmsm:NumberOfPayments>10</lvmsm:NumberOfPayments>
+                            <lvmsm:MonthlyPremiumValue>99.99</lvmsm:MonthlyPremiumValue>
+                            <lvmsm:APR>24.9</lvmsm:APR>
+                        </lvmsm:MonthlyPremium>
+                    </lvmsm:ProductPremium>
+                    <lvmsm:CoverCollection>
+                        <lvmsm:HomeInsuranceCover>
+                            <lvmsm:CoverType>Buildings</lvmsm:CoverType>
+                            <lvmsm:VoluntaryExcess>250</lvmsm:VoluntaryExcess>
+                            <lvmsm:CompulsoryExcess>0</lvmsm:CompulsoryExcess>
+                            <lvmsm:SumInsured>1000000</lvmsm:SumInsured>
+                        </lvmsm:HomeInsuranceCover>
+                        <lvmsm:HomeInsuranceCover>
+                            <lvmsm:CoverType>Contents</lvmsm:CoverType>
+                            <lvmsm:VoluntaryExcess>250</lvmsm:VoluntaryExcess>
+                            <lvmsm:CompulsoryExcess>0</lvmsm:CompulsoryExcess>
+                            <lvmsm:SumInsured>50000</lvmsm:SumInsured>
+                        </lvmsm:HomeInsuranceCover>
+                    </lvmsm:CoverCollection>
+                    <lvmsm:ExtraCollection>
+                        <lvmsm:HomeInsuranceExtra>
+                            <lvmsm:Type>LegalCover</lvmsm:Type>
+                            <lvmsm:Premium>20.61</lvmsm:Premium>
+                            <lvmsm:AdditionalText/>
+                            <lvmsm:IsIncluded>false</lvmsm:IsIncluded>
+                        </lvmsm:HomeInsuranceExtra>
+                        <lvmsm:HomeInsuranceExtra>
+                            <lvmsm:Type>HomeEmergencyCover</lvmsm:Type>
+                            <lvmsm:Premium>52</lvmsm:Premium>
+                            <lvmsm:AdditionalText/>
+                            <lvmsm:IsIncluded>false</lvmsm:IsIncluded>
+                        </lvmsm:HomeInsuranceExtra>
+                    </lvmsm:ExtraCollection>
+                    <lvmsm:QuoteRetrieval>
+                        <lvmsm:QuoteReference>000050341001</lvmsm:QuoteReference>
+                    </lvmsm:QuoteRetrieval>
+                    <lvmsm:DeepLink>
+                        <lvmsm:DeepLinkType>Form</lvmsm:DeepLinkType>
+                        <lvmsm:FormAction>RecallQuoteServlet</lvmsm:FormAction>
+                        <lvmsm:FormMethod>POST</lvmsm:FormMethod>
+                        <lvmsm:FormEncoding>application/x-www-form-urlencoded</lvmsm:FormEncoding>
+                        <lvmsm:DeepLinkFormElements>
+                            <lvmsm:DeepLinkFormElements Name="aggregatorID" Value="moneysupermarket.com"/>
+                            <lvmsm:DeepLinkFormElements Name="aggregatorpwd" Value="money937"/>
+                            <lvmsm:DeepLinkFormElements Name="uid" Value="000050341001"/>
+                            <lvmsm:DeepLinkFormElements Name="uidpwd" Value="H/71bf6793-7161-4170-a5e3-53ea80087ead"/>
+                        </lvmsm:DeepLinkFormElements>
+                        <lvmsm:URL>https://testagg.lv.com/MSM/Home/HomeRecallQuoteServlet</lvmsm:URL>
+                    </lvmsm:DeepLink>
+                </lvmsm:HomeInsuranceProducts>
+                <lvmsm:HomeInsuranceProducts>
+                    <lvmsm:Insurer>LV= Select</lvmsm:Insurer>
+                    <lvmsm:ProductPremium>
+                        <lvmsm:AnnualPremium>9999.99</lvmsm:AnnualPremium>
+                        <lvmsm:MonthlyPremium>
+                            <lvmsm:Deposit>99.99</lvmsm:Deposit>
+                            <lvmsm:NumberOfPayments>10</lvmsm:NumberOfPayments>
+                            <lvmsm:MonthlyPremiumValue>99.99</lvmsm:MonthlyPremiumValue>
+                            <lvmsm:APR>24.9</lvmsm:APR>
+                        </lvmsm:MonthlyPremium>
+                    </lvmsm:ProductPremium>
+                    <lvmsm:CoverCollection>
+                        <lvmsm:HomeInsuranceCover>
+                            <lvmsm:CoverType>Buildings</lvmsm:CoverType>
+                            <lvmsm:VoluntaryExcess>250</lvmsm:VoluntaryExcess>
+                            <lvmsm:CompulsoryExcess>0</lvmsm:CompulsoryExcess>
+                            <lvmsm:SumInsured>1000000</lvmsm:SumInsured>
+                        </lvmsm:HomeInsuranceCover>
+                        <lvmsm:HomeInsuranceCover>
+                            <lvmsm:CoverType>Contents</lvmsm:CoverType>
+                            <lvmsm:VoluntaryExcess>250</lvmsm:VoluntaryExcess>
+                            <lvmsm:CompulsoryExcess>0</lvmsm:CompulsoryExcess>
+                            <lvmsm:SumInsured>50000</lvmsm:SumInsured>
+                        </lvmsm:HomeInsuranceCover>
+                    </lvmsm:CoverCollection>
+                    <lvmsm:ExtraCollection>
+                        <lvmsm:HomeInsuranceExtra>
+                            <lvmsm:Type>LegalCover</lvmsm:Type>
+                            <lvmsm:Premium>20.61</lvmsm:Premium>
+                            <lvmsm:AdditionalText/>
+                            <lvmsm:IsIncluded>true</lvmsm:IsIncluded>
+                        </lvmsm:HomeInsuranceExtra>
+                        <lvmsm:HomeInsuranceExtra>
+                            <lvmsm:Type>HomeEmergencyCover</lvmsm:Type>
+                            <lvmsm:Premium>52</lvmsm:Premium>
+                            <lvmsm:AdditionalText/>
+                            <lvmsm:IsIncluded>true</lvmsm:IsIncluded>
+                        </lvmsm:HomeInsuranceExtra>
+                    </lvmsm:ExtraCollection>
+                    <lvmsm:QuoteRetrieval>
+                        <lvmsm:QuoteReference>000050341003</lvmsm:QuoteReference>
+                    </lvmsm:QuoteRetrieval>
+                    <lvmsm:DeepLink>
+                        <lvmsm:DeepLinkType>Form</lvmsm:DeepLinkType>
+                        <lvmsm:FormAction>RecallQuoteServlet</lvmsm:FormAction>
+                        <lvmsm:FormMethod>POST</lvmsm:FormMethod>
+                        <lvmsm:FormEncoding>application/x-www-form-urlencoded</lvmsm:FormEncoding>
+                        <lvmsm:DeepLinkFormElements>
+                            <lvmsm:DeepLinkFormElements Name="aggregatorID" Value="moneysupermarket.com"/>
+                            <lvmsm:DeepLinkFormElements Name="aggregatorpwd" Value="money937"/>
+                            <lvmsm:DeepLinkFormElements Name="uid" Value="000050341003"/>
+                            <lvmsm:DeepLinkFormElements Name="uidpwd" Value="H/71bf6793-7161-4170-a5e3-53ea80087ead"/>
+                        </lvmsm:DeepLinkFormElements>
+                        <lvmsm:URL>https://testagg.lv.com/MSM/Home/HomeRecallQuoteServlet</lvmsm:URL>
+                    </lvmsm:DeepLink>
+                </lvmsm:HomeInsuranceProducts>
+            </lvmsm:Quotes>
+        </lvmsm:HomeInsuranceResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

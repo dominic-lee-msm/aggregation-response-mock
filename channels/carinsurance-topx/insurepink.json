@@ -1,0 +1,15 @@
+{
+    "scenarioName": "InsurePinkTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "integration.renewinsurance.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/renewintegration.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "insurepink-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

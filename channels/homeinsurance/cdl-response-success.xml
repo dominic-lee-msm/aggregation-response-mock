@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:aggregateQuoteResponse xmlns:ns="http://schemas.cdlis.co.uk/aggregator/api/v3-9">
+  <transactionID>81f4017cf64f162f:27a193c9:150a8893b17:-7815.Tue Oct 27 16:29:49 GMT 2015</transactionID>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Autonet</brokerRef>
+    <webReference>002-358-330</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>136</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>QJ</insurerCode>
+      <insurerName>Paragon</insurerName>
+      <schemeCode>P0</schemeCode>
+      <schemeName>SmartFCEDI</schemeName>
+      <reason>* MINIMUM PREMIUM * Premium..............(#)</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>3500000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>1400000</contentsMaxValuables>
+      <contentsItemLimit>300000</contentsItemLimit>
+      <cashSumInsured>50000</cashSumInsured>
+      <maxCashCreditClaim>250000</maxCashCreditClaim>
+      <frozenFoodSumInsured>50000</frozenFoodSumInsured>
+      <buildingsSumInsured>13100000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>HC 12% dep 0int</schemeName>
+          <deposit>9999</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>9999</amount>
+          <schemeCode>27</schemeCode>
+          <flatInterestAmount>0</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>0.0</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal Cover</type>
+        <code>H9</code>
+        <price>2695</price>
+        <desc>Legal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Emergency Cover</type>
+        <code>H8</code>
+        <price>3095</price>
+        <desc>Emergency Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>Amex</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: amex Direction: Post Quote  - RULE RESPONSE:msm_hc_20131204-1426
+ : fortis-amex_hc_20150706-0911
+**** Rejecting due to premium: 1037965</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Hastings-Prem</brokerRef>
+    <webReference>Z13C-9DA-78C</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>441</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>JH</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>JB</schemeCode>
+      <schemeName>HD HOME PM</schemeName>
+      <reason>** GUARANTEED RATES ** Total Premium........(#)</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="P2" price="5249" />
+      </optionalExtensions>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>7500</buildingsCompulsoryExcess>
+      <contentsSumInsured>7500000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>7500</contentsCompulsoryExcess>
+      <contentsMaxValuables>3000000</contentsMaxValuables>
+      <contentsItemLimit>1500000</contentsItemLimit>
+      <cashSumInsured>50000</cashSumInsured>
+      <maxCashCreditClaim>100000</maxCashCreditClaim>
+      <frozenFoodSumInsured>100000</frozenFoodSumInsured>
+      <buildingsSumInsured>100000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>Standard NB</schemeName>
+          <deposit>1315</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>9999</amount>
+          <schemeCode>17</schemeCode>
+          <flatInterestAmount>1944</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>16.574303</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Premier Mandatory Bundle</type>
+        <code>P2</code>
+        <price>5249</price>
+        <desc>Premier Mandatory Bundle</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>QLD</brokerRef>
+    <webReference>ZCD0-CFC-6B4</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>638</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>WE</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>ES</schemeCode>
+      <schemeName>First</schemeName>
+      <reason>** GUARANTEED RATES ** Total Premium........(#)</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>150000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>25000</buildingsCompulsoryExcess>
+      <contentsSumInsured>4000000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>15000</contentsCompulsoryExcess>
+      <contentsMaxValuables>3000000</contentsMaxValuables>
+      <contentsItemLimit>1500000</contentsItemLimit>
+      <cashSumInsured>25000</cashSumInsured>
+      <maxCashCreditClaim>0</maxCashCreditClaim>
+      <frozenFoodSumInsured>999900</frozenFoodSumInsured>
+      <buildingsSumInsured>35000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>HC NB</schemeName>
+          <deposit>1258</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>9999</amount>
+          <schemeCode>11</schemeCode>
+          <flatInterestAmount>1869</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>16.509142</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>HomeEmergency</type>
+        <code>AR</code>
+        <price>2985</price>
+        <desc>Home Emergency</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Legal expenses</type>
+        <code>01</code>
+        <price>2295</price>
+        <desc>Legal expenses</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>CoverDirect</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: coverdirect Direction: Post Quote  - RULE RESPONSE:msm_hc_20131204-1426
+ : coverdirect_hc_20150706-0911
+**** Rejecting due to premium: 954000</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>HomeQuoteDirect</brokerRef>
+    <webReference>695-248-135</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>570</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>GQ</insurerCode>
+      <insurerName>Fortress</insurerName>
+      <schemeCode>GQ</schemeCode>
+      <schemeName>Standard</schemeName>
+      <reason>Total Premium..............(#)</reason>
+      <guaranteedIndicator>false</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>6000000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>0</contentsMaxValuables>
+      <contentsItemLimit>0</contentsItemLimit>
+      <cashSumInsured>25000</cashSumInsured>
+      <maxCashCreditClaim>50000</maxCashCreditClaim>
+      <frozenFoodSumInsured>50000</frozenFoodSumInsured>
+      <buildingsSumInsured>60000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+    </quote>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>AgeasRIAS</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: ageasrias Direction: Before Quote  - RULE RESPONSE:msm_hc_20131204-1426
+ : ageasrias_hc_20150908-1018
+**** Rejecting broker due to main proposer age of: 49 ****</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>CastleCover-Ageas50</brokerRef>
+    <webReference>5514-124598-5408</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>1151</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>CD</insurerCode>
+      <insurerName>Ageas</insurerName>
+      <schemeCode>CD</schemeCode>
+      <schemeName>Castle HH</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>5000</buildingsCompulsoryExcess>
+      <contentsSumInsured>5000000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>5000</contentsCompulsoryExcess>
+      <contentsMaxValuables>0</contentsMaxValuables>
+      <contentsItemLimit>0</contentsItemLimit>
+      <cashSumInsured>50000</cashSumInsured>
+      <maxCashCreditClaim>50000</maxCashCreditClaim>
+      <frozenFoodSumInsured>0</frozenFoodSumInsured>
+      <buildingsSumInsured>50000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>11 Month - With Deposit 24%</schemeName>
+          <deposit>1708</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>9999</amount>
+          <schemeCode>NBHH</schemeCode>
+          <flatInterestAmount>2052</flatInterestAmount>
+          <variedAmount>1877</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>11.017</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Last</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>LegalExpenses</type>
+        <code>LEGALHH</code>
+        <price>2740</price>
+        <desc>Legal Expenses</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>HomeEmergency</type>
+        <code>HOMEEM</code>
+        <price>6995</price>
+        <desc>Home Emergency</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeyProtectionSingle</type>
+        <code>KEYPROHH</code>
+        <price>2000</price>
+        <desc>Key Protection Single</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeyProtectionJoint</type>
+        <code>KYPRO2HH</code>
+        <price>4000</price>
+        <desc>Key Protection Joint</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>GardenCover</type>
+        <code>GARDCOV</code>
+        <price>3200</price>
+        <desc>Garden Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>IGo4Insurance</brokerRef>
+    <webReference>1989-475096-3388</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>681</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>GQ</insurerCode>
+      <insurerName>Fortress</insurerName>
+      <schemeCode>GQ</schemeCode>
+      <schemeName>Standard</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="O32" price="1600" />
+      </optionalExtensions>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>6000000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>0</contentsMaxValuables>
+      <contentsItemLimit>0</contentsItemLimit>
+      <cashSumInsured>25000</cashSumInsured>
+      <maxCashCreditClaim>50000</maxCashCreditClaim>
+      <frozenFoodSumInsured>50000</frozenFoodSumInsured>
+      <buildingsSumInsured>60000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>HH Essential Insurance and More</schemeName>
+          <deposit>1296</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>9999</amount>
+          <schemeCode>TNM15HIN</schemeCode>
+          <flatInterestAmount>1851</flatInterestAmount>
+          <variedAmount>1294</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>15.0</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Landg-ess</brokerRef>
+    <webReference>5461-124509-2398</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>757</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>066</insurerCode>
+      <insurerName>Legal and General</insurerName>
+      <schemeCode>066_0001</schemeCode>
+      <schemeName>Essentials</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>15000</buildingsCompulsoryExcess>
+      <contentsSumInsured>3600000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>15000</contentsCompulsoryExcess>
+      <contentsMaxValuables>0</contentsMaxValuables>
+      <contentsItemLimit>150000</contentsItemLimit>
+      <cashSumInsured>0</cashSumInsured>
+      <maxCashCreditClaim>0</maxCashCreditClaim>
+      <frozenFoodSumInsured>0</frozenFoodSumInsured>
+      <buildingsSumInsured>40000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>DD NB Scheme</schemeName>
+          <deposit>0</deposit>
+          <numberOfPayments>12</numberOfPayments>
+          <amount>9999</amount>
+          <schemeCode>DD</schemeCode>
+          <flatInterestAmount>1137</flatInterestAmount>
+          <variedAmount>999</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>8.5</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Hastings</brokerRef>
+    <webReference>Z7D9-AF3-1C8</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>541</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>JH</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>JH</schemeCode>
+      <schemeName>HD HOME</schemeName>
+      <reason>** GUARANTEED RATES ** Total Premium........(#)</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>7500000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>3000000</contentsMaxValuables>
+      <contentsItemLimit>1500000</contentsItemLimit>
+      <cashSumInsured>50000</cashSumInsured>
+      <maxCashCreditClaim>100000</maxCashCreditClaim>
+      <frozenFoodSumInsured>100000</frozenFoodSumInsured>
+      <buildingsSumInsured>100000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>Standard NB</schemeName>
+          <deposit>959</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>999</amount>
+          <schemeCode>17</schemeCode>
+          <flatInterestAmount>1424</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>16.563917</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>IGo4Value</brokerRef>
+    <webReference>8417-995193-8936</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>681</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>GQ</insurerCode>
+      <insurerName>Fortress</insurerName>
+      <schemeCode>GQ</schemeCode>
+      <schemeName>Standard</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>6000000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>0</contentsMaxValuables>
+      <contentsItemLimit>0</contentsItemLimit>
+      <cashSumInsured>25000</cashSumInsured>
+      <maxCashCreditClaim>50000</maxCashCreditClaim>
+      <frozenFoodSumInsured>50000</frozenFoodSumInsured>
+      <buildingsSumInsured>60000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>HH Essential Insurance and More</schemeName>
+          <deposit>1144</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>1139</amount>
+          <schemeCode>TNM15HIN</schemeCode>
+          <flatInterestAmount>1634</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>15.0</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Stride-MSM</brokerRef>
+    <webReference>902-510-071</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>706</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>NU</insurerCode>
+      <insurerName>Aviva</insurerName>
+      <schemeCode>NE</schemeCode>
+      <schemeName>HomePlus E</schemeName>
+      <reason>** GUARANTEED RATES ** Total Premium........(#)</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>20000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>3500000</contentsSumInsured>
+      <contentsVoluntaryExcess>20000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>1166667</contentsMaxValuables>
+      <contentsItemLimit>200000</contentsItemLimit>
+      <cashSumInsured>0</cashSumInsured>
+      <maxCashCreditClaim>0</maxCashCreditClaim>
+      <frozenFoodSumInsured>100000</frozenFoodSumInsured>
+      <buildingsSumInsured>13100000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>HC NEW BUS</schemeName>
+          <deposit>2560</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>1039</amount>
+          <schemeCode>3</schemeCode>
+          <flatInterestAmount>1216</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>11.906394</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Virgin</brokerRef>
+    <webReference>124-955-634</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>861</ipt>
+      <iptRate>5.0</iptRate>
+      <insurerCode>NU</insurerCode>
+      <insurerName>Aviva</insurerName>
+      <schemeCode>NU</schemeCode>
+      <schemeName>Home Plus</schemeName>
+      <reason>** GUARANTEED RATES ** Total Premium........(#)</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>20000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>3500000</contentsSumInsured>
+      <contentsVoluntaryExcess>20000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>1166667</contentsMaxValuables>
+      <contentsItemLimit>200000</contentsItemLimit>
+      <cashSumInsured>0</cashSumInsured>
+      <maxCashCreditClaim>0</maxCashCreditClaim>
+      <frozenFoodSumInsured>100000</frozenFoodSumInsured>
+      <buildingsSumInsured>13100000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName />
+          <deposit>0</deposit>
+          <numberOfPayments>12</numberOfPayments>
+          <amount>1675</amount>
+          <schemeCode>3</schemeCode>
+          <flatInterestAmount>2021</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>11.178716</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Landg</brokerRef>
+    <webReference>1849-356414-1092</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>829</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>066</insurerCode>
+      <insurerName>Legal and General</insurerName>
+      <schemeCode>066_0002</schemeCode>
+      <schemeName>Extra</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>3600000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>0</contentsMaxValuables>
+      <contentsItemLimit>150000</contentsItemLimit>
+      <cashSumInsured>0</cashSumInsured>
+      <maxCashCreditClaim>500000</maxCashCreditClaim>
+      <frozenFoodSumInsured>100000</frozenFoodSumInsured>
+      <buildingsSumInsured>40000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>DD NB Scheme</schemeName>
+          <deposit>0</deposit>
+          <numberOfPayments>12</numberOfPayments>
+          <amount>1324</amount>
+          <schemeCode>DD</schemeCode>
+          <flatInterestAmount>1244</flatInterestAmount>
+          <variedAmount>1319</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>8.5</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Kwik-Fit</brokerRef>
+    <webReference>3984-185618-3191</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>687</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>GQ</insurerCode>
+      <insurerName>Fortress</insurerName>
+      <schemeCode>GQ</schemeCode>
+      <schemeName>Standard</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>6000000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>0</contentsMaxValuables>
+      <contentsItemLimit>0</contentsItemLimit>
+      <cashSumInsured>25000</cashSumInsured>
+      <maxCashCreditClaim>50000</maxCashCreditClaim>
+      <frozenFoodSumInsured>50000</frozenFoodSumInsured>
+      <buildingsSumInsured>60000000</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>Household 12 monthly 0% Dep 18% interest</schemeName>
+          <deposit>0</deposit>
+          <numberOfPayments>12</numberOfPayments>
+          <amount>1194</amount>
+          <schemeCode>INST08</schemeCode>
+          <flatInterestAmount>2186</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>18.0</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>HomeKeyCoverLevel1</type>
+        <code>NHKC1</code>
+        <price>2250</price>
+        <desc>Home Key Cover - Level 1</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>HomeKeyCoverLevel2</type>
+        <code>NHKC2</code>
+        <price>3000</price>
+        <desc>Home Key Cover - Level 2</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>HomeGadgetCover</type>
+        <code>NHGD1</code>
+        <price>5100</price>
+        <desc>Home Gadget Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>HomeEmergency</type>
+        <code>NDHC1</code>
+        <price>1299</price>
+        <desc>Home Emergency</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FamilyLegalProtection</type>
+        <code>NFLP1</code>
+        <price>299</price>
+        <desc>Family Legal Protection</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>HomePersonalAccidentCover</type>
+        <code>NHPAC</code>
+        <price>1950</price>
+        <desc>Home Personal Accident Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>AIG</brokerRef>
+    <errors>
+      <error code="REFUSED">Invalid broker: AIG</error>
+    </errors>
+  </brokerResponse>
+</ns:aggregateQuoteResponse>

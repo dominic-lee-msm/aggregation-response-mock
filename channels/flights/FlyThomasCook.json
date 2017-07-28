@@ -1,0 +1,15 @@
+{
+    "scenarioName": "FlyThomasCook",
+    "requiredScenarioState": "Started",
+    "domain":"flytc.navitaire.ttsltd.com",
+    "scheme":"https",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/search/flights.xml"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "FlyThomasCookTestReturnResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

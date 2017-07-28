@@ -1,0 +1,15 @@
+{
+    "scenarioName": "ThomasCookHotels",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "ota.apixml.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/dispatcher.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyDirectoryName": "thomas-cook-hotels-responses",
+        "fixedDelayMilliseconds": 2000
+    }
+}

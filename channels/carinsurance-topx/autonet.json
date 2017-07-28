@@ -1,0 +1,15 @@
+{
+    "scenarioName": "AutonetTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "webservices.quote-secure.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/XMLServices/TopEx.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "autonet-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

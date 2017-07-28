@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<soap:Body>
+		<OTA_HotelAvailRS EchoToken="Read Me" TimeStamp="2015-02-18T09:18:13" Target="Production" Version="1" xmlns="http://www.opentravel.org/OTA/2003/05">
+			<Success />
+			<RoomStays>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="1325576RO" RoomID="B1325576">
+							<RoomDescription>
+								<Text>1 DBL BD DBL RM WITH BALCONY NONSMOKING - Room Only Standard conditions apply</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="1421482RO" RoomID="B1421482">
+							<RoomDescription>
+								<Text>MAKE YOURSELF AT HOME IN THIS SPECIALLY DESIGNE D ROOM WITH WHEELCHAIR ACCESS AND ROLL IN SHOWER. BE PRODUCTIVE WITH HIGH SPEED INTER - Room Only Standard conditions apply</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="1325576RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="874.01" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=86852&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=13&amp;RTOCID=2008281148&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>58.2671</P1SellingPrice>
+										<P2SellingPrice>58.2671</P2SellingPrice>
+										<CH1SellingPrice>58.2671</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="1421482RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="743.67" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=86852&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=13&amp;RTOCID=1649693875&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>49.5782</P1SellingPrice>
+										<P2SellingPrice>49.5782</P2SellingPrice>
+										<CH1SellingPrice>49.5782</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="EX" HotelCode="86852" HotelName="Holiday Inn Express PARIS - CANAL DE LA VILLETTE">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>Enjoy the tranquil waterside setting of the Holiday Inn Express Paris-Canal de la Villette hotel,just 10 minutes by metro from the heart of the city. A striking wood-clad eco-hotel , Holiday Inn Express Paris-Canal de la</Text>
+										<Image>http://images.hotels4u.com/eshot/images/HIE_Logo.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=86852&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=13&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Buttes Chaumont &amp; Pere Lachaise Areas</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>5</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="2769543BB" RoomID="B2769543">
+							<RoomDescription>
+								<Text>Triple Room - Hotel Junior Suite - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="844837BB" RoomID="B844837">
+							<RoomDescription>
+								<Text>Triple Room - Family Suite - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="2769543BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1952.94" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225364&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-197999603&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>130.1961</P1SellingPrice>
+										<P2SellingPrice>130.1961</P2SellingPrice>
+										<CH1SellingPrice>130.1961</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="844837BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="2206.47" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225364&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=2105998288&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>147.0980</P1SellingPrice>
+										<P2SellingPrice>147.0980</P2SellingPrice>
+										<CH1SellingPrice>147.0980</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="GTA" HotelCode="225364" HotelName="De Hollande">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The hotel is located in the heart of the lively 9th district, within easy walking distance of the Opera House and the fashionable department stores of Boulevard Haussmann. The area offers a variety of local restaurants, </Text>
+										<Image>http://images.gta-travel.com/HH/Images/F/PAR/PAR-DEH-1.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=225364&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=92&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Opera Area</CityName>
+						</Address>
+						<Award Rating="2" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>7</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="541996BB" RoomID="B541996">
+							<RoomDescription>
+								<Text>Twin Room - Standard Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="541997BB" RoomID="B541997">
+							<RoomDescription>
+								<Text>Double Room - Standard Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="541998BB" RoomID="B541998">
+							<RoomDescription>
+								<Text>Triple Room - Standard Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="508952BB" RoomID="B508952">
+							<RoomDescription>
+								<Text>Twin Room - Standard Twin - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="508947BB" RoomID="B508947">
+							<RoomDescription>
+								<Text>Double Room - Standard Double - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="784003BB" RoomID="B784003">
+							<RoomDescription>
+								<Text>Twin Room - Standard Quad - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="784004BB" RoomID="B784004">
+							<RoomDescription>
+								<Text>Double Room - Standard Quad - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="784063BB" RoomID="B784063">
+							<RoomDescription>
+								<Text>Triple Room - Standard Quad - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="1217020BB" RoomID="B1217020">
+							<RoomDescription>
+								<Text>Twin Room - Standard Family - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="1217019BB" RoomID="B1217019">
+							<RoomDescription>
+								<Text>Double Room - Standard Family - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="1218713BB" RoomID="B1218713">
+							<RoomDescription>
+								<Text>Triple Room - Standard Family - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="541996BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="561.76" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=1316343089&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>37.4510</P1SellingPrice>
+										<P2SellingPrice>37.4510</P2SellingPrice>
+										<CH1SellingPrice>37.4510</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="541997BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="561.76" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1487841471&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>37.4510</P1SellingPrice>
+										<P2SellingPrice>37.4510</P2SellingPrice>
+										<CH1SellingPrice>37.4510</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="541998BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="561.76" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=1925366561&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>37.4510</P1SellingPrice>
+										<P2SellingPrice>37.4510</P2SellingPrice>
+										<CH1SellingPrice>37.4510</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="508952BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="573.53" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=538996500&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>38.2353</P1SellingPrice>
+										<P2SellingPrice>38.2353</P2SellingPrice>
+										<CH1SellingPrice>38.2353</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="508947BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="573.53" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1207306311&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>38.2353</P1SellingPrice>
+										<P2SellingPrice>38.2353</P2SellingPrice>
+										<CH1SellingPrice>38.2353</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="784003BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="742.65" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=1230653379&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>49.5098</P1SellingPrice>
+										<P2SellingPrice>49.5098</P2SellingPrice>
+										<CH1SellingPrice>49.5098</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="784004BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="742.65" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-704949485&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>49.5098</P1SellingPrice>
+										<P2SellingPrice>49.5098</P2SellingPrice>
+										<CH1SellingPrice>49.5098</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="784063BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="742.65" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1953807405&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>49.5098</P1SellingPrice>
+										<P2SellingPrice>49.5098</P2SellingPrice>
+										<CH1SellingPrice>49.5098</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="1217020BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="885.29" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=400942508&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>59.0196</P1SellingPrice>
+										<P2SellingPrice>59.0196</P2SellingPrice>
+										<CH1SellingPrice>59.0196</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="1217019BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="885.29" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=1547788284&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>59.0196</P1SellingPrice>
+										<P2SellingPrice>59.0196</P2SellingPrice>
+										<CH1SellingPrice>59.0196</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="1218713BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="885.29" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225501&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=329639004&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>59.0196</P1SellingPrice>
+										<P2SellingPrice>59.0196</P2SellingPrice>
+										<CH1SellingPrice>59.0196</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="GTA" HotelCode="225501" HotelName="Migny Opera Montmartre">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The hotel is located in the heart of the 9th district, close to the foot of the Montmartre Hill, in the area of the New Athena. There is a metro station close to the hotel, taking approximately 15 minutes to the Champs E</Text>
+										<Image>http://images.gta-travel.com/HH/Images/F/PAR/PAR-MIG-1.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=225501&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=92&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Opera Area</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>4</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="836099BB" RoomID="B836099">
+							<RoomDescription>
+								<Text>Double Room - Deluxe Junior Suite - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="836842BB" RoomID="B836842">
+							<RoomDescription>
+								<Text>Triple Room - Deluxe Junior Suite - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="836099BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="2758.53" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225573&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1517520921&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>183.9020</P1SellingPrice>
+										<P2SellingPrice>183.9020</P2SellingPrice>
+										<CH1SellingPrice>183.9020</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="836842BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="3019.71" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225573&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1481980121&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>201.3137</P1SellingPrice>
+										<P2SellingPrice>201.3137</P2SellingPrice>
+										<CH1SellingPrice>201.3137</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="GTA" HotelCode="225573" HotelName="Saint James">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The hotel is situated in the tranquility of the exclusive western part of Paris, close to the Bois de Bolougne and walking distance from the Arc de Triomphe.The restaurant serves gourmet French cuisine. It is a spacious </Text>
+										<Image>http://images.gta-travel.com/HH/Images/F/PAR/PAR-SAI4-1.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=225573&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=92&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Eiffel Tower Area</CityName>
+						</Address>
+						<Award Rating="4" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>8</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="784015BB" RoomID="B784015">
+							<RoomDescription>
+								<Text>Twin Room - Deluxe Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="789640BB" RoomID="B789640">
+							<RoomDescription>
+								<Text>Double Room - Deluxe Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="784064BB" RoomID="B784064">
+							<RoomDescription>
+								<Text>Triple Room - Deluxe Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="2744988BB" RoomID="B2744988">
+							<RoomDescription>
+								<Text>Twin Room - Prestige Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="2744991BB" RoomID="B2744991">
+							<RoomDescription>
+								<Text>Triple Room - Prestige Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="784015BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1744.71" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225602&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-928153113&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>116.3137</P1SellingPrice>
+										<P2SellingPrice>116.3137</P2SellingPrice>
+										<CH1SellingPrice>116.3137</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="789640BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1744.71" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225602&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1635122185&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>116.3137</P1SellingPrice>
+										<P2SellingPrice>116.3137</P2SellingPrice>
+										<CH1SellingPrice>116.3137</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="784064BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1744.71" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225602&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=134477847&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>116.3137</P1SellingPrice>
+										<P2SellingPrice>116.3137</P2SellingPrice>
+										<CH1SellingPrice>116.3137</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="2744988BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1933.82" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225602&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1690733205&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>128.9216</P1SellingPrice>
+										<P2SellingPrice>128.9216</P2SellingPrice>
+										<CH1SellingPrice>128.9216</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="2744991BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1933.82" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=225602&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=720105339&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>128.9216</P1SellingPrice>
+										<P2SellingPrice>128.9216</P2SellingPrice>
+										<CH1SellingPrice>128.9216</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="GTA" HotelCode="225602" HotelName="Vernet">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>Ideally located in the heart of the Golden Triangle, a step away from the Champs Elysees. The area boasts fantastic shopping, a huge choice of bars and restaurants and plenty of theatres and cinemas. The Arc de Triomphe </Text>
+										<Image>http://images.gta-travel.com/HH/Images/F/PAR/PAR-VER-1.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=225602&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=92&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Champs Elysees &amp; Arc de Triomphe Areas</CityName>
+						</Address>
+						<Award Rating="4" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>6</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="541996RO" RoomID="B541996">
+							<RoomDescription>
+								<Text>Twin Room - Standard Triple - Room only (no meals)</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="541996BB" RoomID="B541996">
+							<RoomDescription>
+								<Text>Twin Room - Standard Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="541997RO" RoomID="B541997">
+							<RoomDescription>
+								<Text>Double Room - Standard Triple - Room only (no meals)</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="541997BB" RoomID="B541997">
+							<RoomDescription>
+								<Text>Double Room - Standard Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="541998RO" RoomID="B541998">
+							<RoomDescription>
+								<Text>Triple Room - Standard Triple - Room only (no meals)</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="541998BB" RoomID="B541998">
+							<RoomDescription>
+								<Text>Triple Room - Standard Triple - Bed and Breakfast provided</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="541996RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="377.94" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=434706&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-549971585&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>25.1961</P1SellingPrice>
+										<P2SellingPrice>25.1961</P2SellingPrice>
+										<CH1SellingPrice>25.1961</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="541996BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="416.18" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=434706&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=1290914424&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>27.7451</P1SellingPrice>
+										<P2SellingPrice>27.7451</P2SellingPrice>
+										<CH1SellingPrice>27.7451</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="541997RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="377.94" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=434706&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=1023165775&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>25.1961</P1SellingPrice>
+										<P2SellingPrice>25.1961</P2SellingPrice>
+										<CH1SellingPrice>25.1961</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="541997BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="416.18" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=434706&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-693763992&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>27.7451</P1SellingPrice>
+										<P2SellingPrice>27.7451</P2SellingPrice>
+										<CH1SellingPrice>27.7451</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="541998RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="377.94" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=434706&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-339249489&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>25.1961</P1SellingPrice>
+										<P2SellingPrice>25.1961</P2SellingPrice>
+										<CH1SellingPrice>25.1961</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="541998BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="416.18" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=434706&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=92&amp;RTOCID=-1925889016&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>27.7451</P1SellingPrice>
+										<P2SellingPrice>27.7451</P2SellingPrice>
+										<CH1SellingPrice>27.7451</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="GTA" HotelCode="434706" HotelName="BUTTES CHAUMONT">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The hotel is located in the north of Paris, not far from the Gare du Nord railway station. The district is very lively, and the nearest metro station is "Jaures", a 1-minute walk from the hotel.2-star hotel, classifie</Text>
+										<Image>http://images.gta-travel.com/HH/Images/F/PAR/PAR-BUT-2.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=434706&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=92&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Buttes Chaumont &amp; Pere Lachaise Areas</CityName>
+						</Address>
+						<Award Rating="2" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>1</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="558856RO" RoomID="B558856">
+							<RoomDescription>
+								<Text>Triple - Non Refundable Room Only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="558856BB" RoomID="B558856">
+							<RoomDescription>
+								<Text>Triple - Non Refundable Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="558856RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="450.01" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=1426759&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=98&amp;RTOCID=-1568260551&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>30.0004</P1SellingPrice>
+										<P2SellingPrice>30.0004</P2SellingPrice>
+										<CH1SellingPrice>30.0004</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="558856BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="576.27" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=1426759&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=98&amp;RTOCID=-1576833100&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>38.4178</P1SellingPrice>
+										<P2SellingPrice>38.4178</P2SellingPrice>
+										<CH1SellingPrice>38.4178</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="HA" HotelCode="1426759" HotelName="HOTEL ROMANCE MALESHERBES">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>Hotel Romance Malesherbes is set within an elegant 19th-century building, within walking distance of Park Monceau and 2 km from the Champs Elysees. Each floor features an individual, pastel colour scheme. The spacious g</Text>
+										<Image>http://www.hotelresb2b.com/images/hoteles/160637_fotpe1_1_room.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=1426759&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=98&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Champs Elysees &amp; Arc de Triomphe Areas</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>2</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="558856RO" RoomID="B558856">
+							<RoomDescription>
+								<Text>Triple - Room Only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="558856BB" RoomID="B558856">
+							<RoomDescription>
+								<Text>Triple - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="558856RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="517.09" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=2055277&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=98&amp;RTOCID=-1567840493&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>34.4725</P1SellingPrice>
+										<P2SellingPrice>34.4725</P2SellingPrice>
+										<CH1SellingPrice>34.4725</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="558856BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="651.98" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;BuildingID=2055277&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;GDSID=98&amp;RTOCID=-1576405346&amp;ShowAvailability=1</OfferURL>
+										<P1SellingPrice>43.4652</P1SellingPrice>
+										<P2SellingPrice>43.4652</P2SellingPrice>
+										<CH1SellingPrice>43.4652</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="HA" HotelCode="2055277" HotelName="BELTA HOTEL RESIDENCE">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The Belta 3 star charming hotel, which has been entirely renovated, located in a quiet street near the Saint Martin canal, near the stations of the East and North, near the Place de la Republique and the Bastille Opera. </Text>
+										<Image>http://www.hotelresb2b.com/images/hoteles/358934_fotpe1_Belta_-_Canal_H.jpg</Image>
+										<URL>http://www.hotels4u.com/HotelInfo.aspx?CheckInDate=27%2f03%2f2015&amp;Duration=5&amp;Rooms=1&amp;AirportCode=&amp;ResortID=0&amp;GatewayCode=&amp;BuildingID=2055277&amp;BoardBasisID=0&amp;Rating=0&amp;Occu=2%2c1%2c0%2c11%2c0%2c0%2c0&amp;BuildingName=&amp;GDSID=98&amp;SearchType=&amp;PromotionCode=&amp;ShowAvailability=1</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Gare du Nord Area</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>3</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+			</RoomStays>
+		</OTA_HotelAvailRS>
+	</soap:Body>
+</soap:Envelope>

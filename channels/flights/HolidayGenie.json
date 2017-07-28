@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HolidayGenie",
+    "requiredScenarioState": "Started",
+    "domain":"advert8.holidaygenie.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/process.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "HolidayGenieFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "AA",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "213.225.135.189",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/aaservlet/InsuranceXMLQuote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "aa-response.xml",
+        "fixedDelayMilliseconds": 60000
+    }
+}

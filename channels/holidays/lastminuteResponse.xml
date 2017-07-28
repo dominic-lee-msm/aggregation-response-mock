@@ -1,0 +1,1026 @@
+<response>
+   <data>
+      <recommendedPackage>
+         <packagePrice>
+            <currency>GBP</currency>
+            <totalAmount>842.45</totalAmount>
+            <perPersonAmount>210.6125</perPersonAmount>
+         </packagePrice>
+         <hotel>
+            <hotelCode>1001192545-0-5-GH:1$v1v$</hotelCode>
+            <hotelChainCode>ME</hotelChainCode>
+            <name>TRYP Madrid Atocha Hotel</name>
+            <marketingName>TRYP Madrid Atocha Hotel</marketingName>
+            <isTopSecret>false</isTopSecret>
+            <starRating>4</starRating>
+            <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001192545-0-5-GH:1$v1v$/E</thumbnailImageURL>
+            <description>In a beautiful 20th-century building in the historic heart of Madrid, is the classy and comfortable 4-star TRYP Madrid Atocha Hotel. You can keep connected during your trip to the city with the hotel’s free wi-fi, and maintain your fitness regime with complimentary access to the gym after a comfortable night in your room, making use of the minibar, satellite TV and pillow menu. After a buffet breakfast, enjoy a light tapas dinner from the lobby bar, washed down with a tasty cocktail.</description>
+            <location>
+               <address>
+                  <cityName>Madrid</cityName>
+                  <countryCode>ES</countryCode>
+                  <postalCode>28012</postalCode>
+                  <street>Atocha, 83</street>
+               </address>
+               <geocode>
+                  <latitude>40.41155</latitude>
+                  <longitude>-3.70022</longitude>
+               </geocode>
+               <polygonIds>
+                  <polygonId>107ES-0000</polygonId>
+                  <polygonId>107ES-0100</polygonId>
+                  <polygonId>107ES-0103</polygonId>
+               </polygonIds>
+            </location>
+            <tripAdvisorReview>
+               <rating>4.0</rating>
+               <reviewCount>677</reviewCount>
+            </tripAdvisorReview>
+            <cheapestRoom>
+               <checkInDate>2015-09-11</checkInDate>
+               <numberOfNights>5</numberOfNights>
+               <availableQuantity>1</availableQuantity>
+               <roomDescription>Family Room Room Only</roomDescription>
+               <boardType>ROOM_ONLY</boardType>
+            </cheapestRoom>
+         </hotel>
+         <journey>
+            <outboundLeg>
+               <fareNotes>
+                  <fareNotes>
+                     <title>Hand baggage only fare</title>
+                     <description>No free check-in baggage</description>
+                  </fareNotes>
+               </fareNotes>
+               <origin>STN</origin>
+               <destination>MAD</destination>
+               <displayAirline>FR</displayAirline>
+               <fareType>LCC</fareType>
+               <opaqueFare>false</opaqueFare>
+               <totalTravelTime>155</totalTravelTime>
+               <totalNumberOfStops>0</totalNumberOfStops>
+               <dateChange>0</dateChange>
+               <unbranded>false</unbranded>
+               <multiAirline>false</multiAirline>
+               <cabinDowngrade>false</cabinDowngrade>
+               <seatsRemaining>3</seatsRemaining>
+               <segments>
+                  <segment>
+                     <flightNumber>5992</flightNumber>
+                     <origin>STN</origin>
+                     <destination>MAD</destination>
+                     <operatingAirline>FR</operatingAirline>
+                     <marketingAirline>FR</marketingAirline>
+                     <departureDateTime>2015-09-11T0625</departureDateTime>
+                     <arrivalDateTime>2015-09-11T1000</arrivalDateTime>
+                     <duration>155</duration>
+                     <cabinClass>ECONOMY</cabinClass>
+                     <equipmentCode/>
+                  </segment>
+               </segments>
+            </outboundLeg>
+            <returnLeg>
+               <fareNotes>
+                  <fareNotes>
+                     <title>Hand baggage only fare</title>
+                     <description>No free check-in baggage</description>
+                  </fareNotes>
+               </fareNotes>
+               <origin>MAD</origin>
+               <destination>STN</destination>
+               <displayAirline>FR</displayAirline>
+               <fareType>LCC</fareType>
+               <opaqueFare>false</opaqueFare>
+               <totalTravelTime>150</totalTravelTime>
+               <totalNumberOfStops>0</totalNumberOfStops>
+               <dateChange>0</dateChange>
+               <unbranded>false</unbranded>
+               <multiAirline>false</multiAirline>
+               <cabinDowngrade>false</cabinDowngrade>
+               <segments>
+                  <segment>
+                     <flightNumber>5993</flightNumber>
+                     <origin>MAD</origin>
+                     <destination>STN</destination>
+                     <operatingAirline>FR</operatingAirline>
+                     <marketingAirline>FR</marketingAirline>
+                     <departureDateTime>2015-09-16T0615</departureDateTime>
+                     <arrivalDateTime>2015-09-16T0745</arrivalDateTime>
+                     <duration>150</duration>
+                     <cabinClass>ECONOMY</cabinClass>
+                     <equipmentCode/>
+                  </segment>
+               </segments>
+            </returnLeg>
+            <itineraryId>1</itineraryId>
+         </journey>
+         <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001192545-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+      </recommendedPackage>
+      <flightRequestId>175940277031395409</flightRequestId>
+      <hotelRequestId>3211081719876</hotelRequestId>
+      <allPackageOptions>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>842.45</totalAmount>
+               <perPersonAmount>210.6125</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001192545-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>ME</hotelChainCode>
+               <name>TRYP Madrid Atocha Hotel</name>
+               <marketingName>TRYP Madrid Atocha Hotel</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001192545-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>In a beautiful 20th-century building in the historic heart of Madrid, is the classy and comfortable 4-star TRYP Madrid Atocha Hotel. You can keep connected during your trip to the city with the hotel’s free wi-fi, and maintain your fitness regime with complimentary access to the gym after a comfortable night in your room, making use of the minibar, satellite TV and pillow menu. After a buffet breakfast, enjoy a light tapas dinner from the lobby bar, washed down with a tasty cocktail.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28012</postalCode>
+                     <street>Atocha, 83</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.41155</latitude>
+                     <longitude>-3.70022</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>677</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>1</availableQuantity>
+                  <roomDescription>Family Room Room Only</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001192545-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>918.89</totalAmount>
+               <perPersonAmount>229.7225</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001192551-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>ME</hotelChainCode>
+               <name>TRYP Madrid Cibeles Hotel</name>
+               <marketingName>TRYP Madrid Cibeles Hotel</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001192551-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>TRYP Madrid Cibeles Hotel is set right in the heart of Madrid, on Gran Via Avenue besides world-class shops, restaurants and tapas bars. The striking 19th-century façade of the building hides elegant, minimalist rooms equipped with satellite TV, free wi-fi and air conditioning – perfect for the hot summer months. Before heading out into the city to discover the nearby Prado museum or to explore the shopping district, start your day with the extensive breakfast buffet in the hotel cafeteria.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28004</postalCode>
+                     <street>Mesoneros Romanos, 13</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.4199</latitude>
+                     <longitude>-3.70411</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0112</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>802</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>1</availableQuantity>
+                  <roomDescription>Family Room Room Only</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001192551-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>804.88</totalAmount>
+               <perPersonAmount>201.22</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001189824-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>ME</hotelChainCode>
+               <name>TRYP Madrid Gran Via</name>
+               <marketingName>TRYP Madrid Gran Via</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>3</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001189824-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Housed in an elegant property on Madrid’s prestigious Gran Via, TRYP Madrid Gran Via Hotel is located close to Puerta del Sol and a short stroll from Madrid Cathedral and the Royal Palace. The air-conditioned rooms are comfortably furnished and feature complimentary wi-fi access, satellite TV and en-suite bathrooms. Wake up to a delicious breakfast buffet served in the dining room and return in the evening to cocktails and tasty dishes in the stylish Ernest Hemingway bar and cafeteria.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28013</postalCode>
+                     <street>Gran Via, 25</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.42003</latitude>
+                     <longitude>-3.70223</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0112</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>3.0</rating>
+                  <reviewCount>645</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>2</availableQuantity>
+                  <roomDescription>Family Room Flexible Unrestricted Rate</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001189824-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>958.4</totalAmount>
+               <perPersonAmount>239.6</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001192550-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>ME</hotelChainCode>
+               <name>TRYP Madrid Plaza de España</name>
+               <marketingName>TRYP Madrid Plaza de España</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001192550-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Recipient of the TripAdvisor 2012 Certificate of Excellence, TRYP Madrid Menfis Hotel is an elegantly modern property set amidst the glamour of Madrid’s Gran Via, only moments from Puerta del Sol and the Museo del Prado. The stylish, understated rooms come with LCD TVs, free wired internet access and air conditioning. Guests also have access to an on-site fitness centre – perfect for kick-starting the day before heading to the dining room to enjoy an extensive, continental breakfast buffet.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28013</postalCode>
+                     <street>Gran Vía, 74</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.42271</latitude>
+                     <longitude>-3.70986</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0112</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>527</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>2</availableQuantity>
+                  <roomDescription>Family Room Flexible Unrestricted Rate</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001192550-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>751.6</totalAmount>
+               <perPersonAmount>187.9</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001192538-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>ME</hotelChainCode>
+               <name>Melia Castilla</name>
+               <marketingName>Melia Castilla</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001192538-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Located within easy reach of the Santiago Bernabéu Stadium (home to Real Madrid FC) and the city's financial district, the 4-star Meliã Castilla hotel makes for a great base whether in Madrid for work or play. The hotel's ornate rooms have 32-inch interactive satellite TVs with international channels, high-speed wi-fi, air conditioning and a minibar. Dine on local cuisine in L'Albufera Restaurant, go contemporary in the Uptown Lounge Bar, or have a drink by the pool in La Terraza Bar.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28020</postalCode>
+                     <street>Capitán Haya, 43</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.4618</latitude>
+                     <longitude>-3.69222</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0110</polygonId>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0101</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.5</rating>
+                  <reviewCount>1228</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>9</availableQuantity>
+                  <roomDescription>Family Room Flexible Unrestricted Rate</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001192538-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>709.82</totalAmount>
+               <perPersonAmount>177.455</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000408250-0-5-GH:1$v1v$</hotelCode>
+               <name>Petit Palace Londres</name>
+               <marketingName>Petit Palace Londres</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>3</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000408250-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>In the heart of Madrid and within walking distance from many of the city’s attractions, including Puerta del Sol, is the charming 3-star Petit Palace Londres. Neat and comfortable rooms are equipped with a TV, climate control, telephone and spa-style hydro massage showers. There is complimentary wi-fi throughout the hotel and you can request free use of a hotel iPad to plan your day’s events or catch up on the news.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28013</postalCode>
+                     <street>Galdo, 2</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.4179</latitude>
+                     <longitude>-3.7043</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>3.5</rating>
+                  <reviewCount>365</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>8</availableQuantity>
+                  <roomDescription>Family Quad. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000408250-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>681.23</totalAmount>
+               <perPersonAmount>170.3075</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000826212-0-5-GH:1$v1v$</hotelCode>
+               <name>Ayre Gran Hotel Colon</name>
+               <marketingName>Ayre Gran Hotel Colon</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000826212-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Close to the leafy Retiro and Salamanca districts in Madrid, the beautiful 4-star Ayre Gran Hotel Colon is uniquely set between gardens and an art gallery. The world-renowned Prado Museum, the main art museum in Spain, charming bars and restaurants and the local Metro station are all just a few steps from the hotel. Relax on the terrace, dine at the restaurant, work out in the gym or make use of the business centre. Big on tech, all rooms have free high-speed wi-fi and flatscreen TVs.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28007</postalCode>
+                     <street>C/ Pez Volador no 1, Esquina Dr. Esquerdo  117, Av D Esquerdo 117-119</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.41303</latitude>
+                     <longitude>-3.66921</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0106</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>990</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>3</availableQuantity>
+                  <roomDescription>Junior Suite Family Room. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000826212-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>540.88</totalAmount>
+               <perPersonAmount>135.22</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000743206-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>LIZ</hotelChainCode>
+               <name>Ilunion Suites Madrid</name>
+               <marketingName>Ilunion Suites Madrid</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000743206-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Perfect for families, 4-star Confortel Suites Madrid has spacious bright zones for kids and a range of rooms to suit your needs. Close to the Santiago Bernabeú Stadium, the hotel is in the Salamanca district of Madrid. Start your day with a buffet breakfast and finish it in the sleek restaurant or sit on the terrace, unwinding with a drink. Take advantage of the free wi-fi, satellite TV and telephone in your room. A TripAdvisor Certificate of Excellence winner.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28002</postalCode>
+                     <street>Lopez de Hoyos 143</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.4476</latitude>
+                     <longitude>-3.6691</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0107</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>296</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>30</availableQuantity>
+                  <roomDescription>Classic Family. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000743206-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>783.03</totalAmount>
+               <perPersonAmount>195.7575</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000340216-0-5-GH:1$v1v$</hotelCode>
+               <name>Petit Palace Posada del Peine</name>
+               <marketingName>Petit Palace Posada del Peine</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000340216-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Set in an ornate 400-year-old building, the 4-star Petit Palace Posada del Peine Hotel is chic, with an enviable setting on Madrid’s central Plaza Mayor Square. Big on modern essentials, the hotel effortlessly blends historical charm with contemporary touches. Corporate guests can use the high-tech business centre, an optional breakfast buffet is served daily, and wi-fi is free. Guest rooms are homely and cater from two to eight people, with free use of iPads, TVs and air conditioning.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28012</postalCode>
+                     <street>Postas, 17</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.4157</latitude>
+                     <longitude>-3.7062</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>3.5</rating>
+                  <reviewCount>456</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>5</availableQuantity>
+                  <roomDescription>Family Quad. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000340216-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>736.55</totalAmount>
+               <perPersonAmount>184.1375</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000408251-0-5-GH:1$v1v$</hotelCode>
+               <name>Petit Palace Puerta del Sol</name>
+               <marketingName>Petit Palace Puerta del Sol</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>3</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000408251-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Located just a few steps from Puerta del Sol in the heart of Madrid, the 3-star Hotel Petit Palace Puerta del Sol is in a fantastic location for visitors wanting to explore the city and its most famed attractions. With a buffet breakfast served in the hotel’s dining room each morning, fuel up for the day before heading out for a bike ride. Wi-fi is available throughout and each guest is entitled to free use of an iPad for the duration of their stay. Rooms have air conditioning.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28013</postalCode>
+                     <street>Arenal, 4</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.41684</latitude>
+                     <longitude>-3.70496</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>3.5</rating>
+                  <reviewCount>360</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>13</availableQuantity>
+                  <roomDescription>Family Quad. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000408251-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>744.81</totalAmount>
+               <perPersonAmount>186.2025</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000408428-0-5-GH:1$v1v$</hotelCode>
+               <name>Petit Palace President Castellana Hotel</name>
+               <marketingName>Petit Palace President Castellana Hotel</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000408428-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>The 4-star Petit Palace President Castellana Hotel is a modern place to stay in Madrid’s commercial Salamanca district, moments from Rubén Darío Metro station. The exclusive rooms are stylishly decorated and boast cutting-edge conveniences such as a free iPad on request, free wi-fi access, flatscreen TVs and power showers. An on-site gym and free bike rental both provide great ways to keep fit, while the hotel cafeteria is an ideal place to pick up a fresh cup of coffee before heading out.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28001</postalCode>
+                     <street>Calle Marques de Villamagna, 4</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.42938</latitude>
+                     <longitude>-3.68864</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0101</polygonId>
+                     <polygonId>107ES-0102</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>3.5</rating>
+                  <reviewCount>270</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>19</availableQuantity>
+                  <roomDescription>Family Quad. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000408428-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>1783.01</totalAmount>
+               <perPersonAmount>445.7525</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001350053-0-5-EAN:2$v1v$</hotelCode>
+               <hotelChainCode>EN2</hotelChainCode>
+               <name>The Westin Palace, Madrid</name>
+               <marketingName>The Westin Palace, Madrid</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>5</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001350053-0-5-EAN:2$v1v$/E</thumbnailImageURL>
+               <description>Property Location With a stay at The Westin Palace, Madrid, you&amp;apos;ll be centrally located in Madrid, steps from Thyssen-Bornemisza Museum and Congress of Deputies. This 5-star hotel is</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28014</postalCode>
+                     <street>Plaza de las Cortes, 7</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.41563</latitude>
+                     <longitude>-3.69571</longitude>
+                  </geocode>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.5</rating>
+                  <reviewCount>2734</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>9</availableQuantity>
+                  <roomDescription>Junior Suite - Non refundable</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001350053-0-5-EAN%3A2%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>669.03</totalAmount>
+               <perPersonAmount>167.2575</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001350130-0-5-EAN:2$v1v$</hotelCode>
+               <hotelChainCode>EN2</hotelChainCode>
+               <name>Hotel Claridge Madrid</name>
+               <marketingName>Hotel Claridge Madrid</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001350130-0-5-EAN:2$v1v$/E</thumbnailImageURL>
+               <description>Property Location With a stay at Hotel Claridge Madrid, you&amp;apos;ll be centrally located in Madrid, convenient to Royal Tapestry Factory and Prado Museum. This 4-star hotel is within close</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28007</postalCode>
+                     <street>Pza. Conde de Casal, 6</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.40644</latitude>
+                     <longitude>-3.66969</longitude>
+                  </geocode>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.5</rating>
+                  <reviewCount>434</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>9</availableQuantity>
+                  <roomDescription>Quadruple Room - Free Wireless Internet - Non refundable</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001350130-0-5-EAN%3A2%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>802.33</totalAmount>
+               <perPersonAmount>200.5825</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000771228-0-5-GH:1$v1v$</hotelCode>
+               <name>Exe Puerta Castilla</name>
+               <marketingName>Exe Puerta Castilla</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000771228-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>This light and airy 4-star hotel stands in the commercial centre of Madrid, well connected by public transport to many of the city’s main sites, and ideal for business guests. With a stay at Exe Puerta Castilla, you’ll have free access to the fitness suite and wi-fi and the hotel’s modern and comfortable rooms are equipped with climate control, minibar and telephone. The hotel has excellent facilities for business guests if required and daily newspapers in the lobby so you can keep updated.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28046</postalCode>
+                     <street>Paseo de la Castellana, 191</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.46683</latitude>
+                     <longitude>-3.68948</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0109</polygonId>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0101</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>482</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>10</availableQuantity>
+                  <roomDescription>Family (Connecting Rooms) . Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000771228-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>829.49</totalAmount>
+               <perPersonAmount>207.3725</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000408257-0-5-GH:1$v1v$</hotelCode>
+               <name>Petit Palace Mayor Plaza</name>
+               <marketingName>Petit Palace Mayor Plaza</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000408257-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Housed opposite the Plaza Mayor, the 4-star luxury boutique Petit Palace Mayor Plaza hotel is close to the affluent neighbourhood of La Latina and Huertas in Madrid. Close by, visit hotspots like San Miguel, the Puerta del Sol and Calle Mayor area. Best known for being a family-friendly hotel, each room has free wi-fi, bunk beds, cribs, laptops, TVs and a selection of gifts for kids. Air conditioning is provided throughout the hotel.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28013</postalCode>
+                     <street>Mayor 46 , Centro Historico</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.4159</latitude>
+                     <longitude>-3.70894</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>427</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>2</availableQuantity>
+                  <roomDescription>Family Quad. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000408257-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>520.33</totalAmount>
+               <perPersonAmount>130.0825</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1000873165-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>LMC</hotelChainCode>
+               <name>Aparthotel G3 Galeon</name>
+               <marketingName>Aparthotel G3 Galeon</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>3</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1000873165-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>A modern apartment hotel in the north of Madrid, Aparthotel G3 Galeon offers stylish contemporary spaces a short walk from Santiago Bernabéu Stadium and within easy reach of the historic city centre. The bright, air-conditioned apartments come equipped with complimentary wi-fi access, satellite TV and fully equipped kitchen and living room areas. Start the day with a fresh continental breakfast, then catch up with work at the on-site business centre or work up a sweat in the fitness room.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28020</postalCode>
+                     <street>Francisco Medrano 4</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.45869</latitude>
+                     <longitude>-3.70001</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0110</polygonId>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0101</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.0</rating>
+                  <reviewCount>134</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>3</availableQuantity>
+                  <roomDescription>Apartment Sofa Bed Family. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1000873165-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>792.16</totalAmount>
+               <perPersonAmount>198.04</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001211350-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>LMC</hotelChainCode>
+               <name>Eric Vokel Boutique Apartments - Atocha Suites</name>
+               <marketingName>Eric Vokel Boutique Apartments - Atocha Suites</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001211350-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>The Eric Vökel Atocha Suites in Madrid provide contemporary luxury throughout their 23 state-of-the-art apartments, set just moments from the Prado Museum, the Retiro Park and the Reina Sofía museum. The apartments range from one to two bedrooms, and come with air conditioning, free wi-fi access, fully equipped kitchens, living rooms and bathrooms. Guests also have access to the terrace swimming pool and satellite TV, as well as 24-hour assistance from the helpful, multilingual reception staff.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28045</postalCode>
+                     <street>Vizcaya, 9</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.40478</latitude>
+                     <longitude>-3.69554</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0111</polygonId>
+                     <polygonId>107ES-0106</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.5</rating>
+                  <reviewCount>339</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>1</availableQuantity>
+                  <roomDescription>Apartment 1 Bedroom 1 Bath. Room Only. - Non refundable</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001211350-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>700.04</totalAmount>
+               <perPersonAmount>175.01</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001298350-0-5-GH:1$v1v$</hotelCode>
+               <hotelChainCode>LMC</hotelChainCode>
+               <name>Madrid SmartRentals Gran Via</name>
+               <marketingName>Madrid SmartRentals Gran Via</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001298350-0-5-GH:1$v1v$/E</thumbnailImageURL>
+               <description>Madrid SmartRentals in Tribunal in downtown Madrid and close to the Gran Via offers a range of fantastic modern 4-star apartments all fitted with air conditioning, free wi-fi connection and TV. Surrounded by a range of trendy shops and restaurants, you could choose between cooking up a meal with your fully equipped apartment kitchen, or eating out. Each apartment has lovely wooden floors and ceilings, and separate living areas.</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28004</postalCode>
+                     <street>Calle de la Madera, 25</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.42423</latitude>
+                     <longitude>-3.70368</longitude>
+                  </geocode>
+                  <polygonIds>
+                     <polygonId>107ES-0000</polygonId>
+                     <polygonId>107ES-0100</polygonId>
+                     <polygonId>107ES-0103</polygonId>
+                  </polygonIds>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.5</rating>
+                  <reviewCount>282</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>1</availableQuantity>
+                  <roomDescription>Duplex  2 Double Beds Apartment. Room Only.</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001298350-0-5-GH%3A1%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>832.16</totalAmount>
+               <perPersonAmount>208.04</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001350129-0-5-EAN:2$v1v$</hotelCode>
+               <hotelChainCode>EN2</hotelChainCode>
+               <name>Hotel Petit Palace Santa Bárbara</name>
+               <marketingName>Hotel Petit Palace Santa Bárbara</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001350129-0-5-EAN:2$v1v$/E</thumbnailImageURL>
+               <description>Property Location Hotel Petit Palace Santa Bárbara is in the heart of Madrid, walking distance from Museum of Romanticism and Museum of the City. This 4-star hotel is close to Prado</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28004</postalCode>
+                     <street>Plaza de Santa Barbara, 10</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.42654</latitude>
+                     <longitude>-3.69658</longitude>
+                  </geocode>
+               </location>
+               <tripAdvisorReview>
+                  <rating>4.5</rating>
+                  <reviewCount>481</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>9</availableQuantity>
+                  <roomDescription>Family Room - Free Wireless Internet</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001350129-0-5-EAN%3A2%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+         <packageOption>
+            <packagePrice>
+               <currency>GBP</currency>
+               <totalAmount>568.18</totalAmount>
+               <perPersonAmount>142.045</perPersonAmount>
+            </packagePrice>
+            <hotel>
+               <hotelCode>1001240556-0-5-EAN:2$v1v$</hotelCode>
+               <hotelChainCode>EN2</hotelChainCode>
+               <name>Praga</name>
+               <marketingName>Praga</marketingName>
+               <isTopSecret>false</isTopSecret>
+               <starRating>4</starRating>
+               <thumbnailImageURL>http://s.lmncdn.com/hotels/image/1001240556-0-5-EAN:2$v1v$/E</thumbnailImageURL>
+               <description>Property Location With a stay at Praga in Madrid (Atocha), you&amp;apos;ll be convenient to Vicente Calderon Stadium and Plaza Mayor. This 4-star hotel is within close proximity of Madrid</description>
+               <location>
+                  <address>
+                     <cityName>Madrid</cityName>
+                     <countryCode>ES</countryCode>
+                     <postalCode>28019</postalCode>
+                     <street>Calle Antonio López, 65</street>
+                  </address>
+                  <geocode>
+                     <latitude>40.39399</latitude>
+                     <longitude>-3.7078</longitude>
+                  </geocode>
+               </location>
+               <tripAdvisorReview>
+                  <rating>3.5</rating>
+                  <reviewCount>811</reviewCount>
+               </tripAdvisorReview>
+               <cheapestRoom>
+                  <checkInDate>2015-09-11</checkInDate>
+                  <numberOfNights>5</numberOfNights>
+                  <availableQuantity>9</availableQuantity>
+                  <roomDescription>Family Room - Free Wireless Internet - Non refundable</roomDescription>
+                  <boardType>ROOM_ONLY</boardType>
+               </cheapestRoom>
+            </hotel>
+            <deepLinkURL><![CDATA[http://www.lastminute.com/trips/packaging/partnerEntryPoint?&departureDate=2015-09-11&numberOfNights=5&configId=S74655244&goOriginAirportCode=LON&goDirectOnly=false&goCabinType=ECONOMY&stayCity=Madrid&stayCountryCode=ES&stayHotelCode=1001240556-0-5-EAN%3A2%24v1v%24&stayRoom1NumberOfAdults=2&stayRoom1ChildAges=3%2C6]]></deepLinkURL>
+         </packageOption>
+      </allPackageOptions>
+   </data>
+   <status>success</status>
+</response>

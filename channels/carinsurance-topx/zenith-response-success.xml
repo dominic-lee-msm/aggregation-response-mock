@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <a:QuoteResult xmlns:a="http://insure-systems.co.uk/Schema/QuoteResult/1-0">
+      <a:Header>
+        <a:ResultStatus>COMPLETE</a:ResultStatus>
+        <a:PartnerRef>INSS</a:PartnerRef>
+      </a:Header>
+      <a:PrivateCarQuotes>
+        <a:Vehicle id="1"/>
+      </a:PrivateCarQuotes>
+      <a:Messages/>
+    </a:QuoteResult>
+  </soapenv:Body>
+</soapenv:Envelope>

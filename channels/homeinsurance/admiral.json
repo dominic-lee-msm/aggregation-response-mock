@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Admiral",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "pcprelive.euiwebservice.co.uk:8089",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/quote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "admiral-response-success.xml",
+        "fixedDelayMilliseconds": 4000
+    }
+}

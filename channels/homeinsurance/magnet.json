@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Magnet",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "magnetinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/webservice.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "magnet-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

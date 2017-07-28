@@ -1,0 +1,15 @@
+{
+    "scenarioName": "MoreThan",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "tws.morethan.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/QuoteService.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "morethan-response-success.xml",
+        "fixedDelayMilliseconds": 10000
+    }
+}

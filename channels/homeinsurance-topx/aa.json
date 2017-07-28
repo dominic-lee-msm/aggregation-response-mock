@@ -1,0 +1,15 @@
+{
+    "scenarioName": "AATopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "prelive1.theaa.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/aggregatorWS/aggregatorTopPrice/HomeTopPrice"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "aa-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

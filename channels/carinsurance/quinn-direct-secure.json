@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Quinn Direct",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "qa-webservices.quinn-direct.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/IFWS_UAT/services/PKProductPolicyService"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "quinn-direct-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

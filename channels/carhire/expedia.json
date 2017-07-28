@@ -1,0 +1,16 @@
+{
+    "providerId" : "528a6fd784ae51f8a8c7e377",
+    "domain": "ews.expedia.com",
+    "scenarioName": "Expedia",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/wsapi/rest/car/v1/search"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "expediaResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

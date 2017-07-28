@@ -1,0 +1,15 @@
+{
+    "scenarioName": "openQuoteTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "openquote.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/OpenQuote/OpenQuote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "openquote-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

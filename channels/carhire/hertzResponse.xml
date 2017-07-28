@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTA_VehAvailRateRS xmlns:OTA_VehAvailRateRS="http://www.opentravel.org/OTA/2003/05"
+                    xmlns="http://www.opentravel.org/OTA/2003/05" Version="1.00">
+    <Success></Success>
+    <VehAvailRSCore>
+        <VehRentalCore PickUpDateTime="2015-10-10T10:00:00" ReturnDateTime="2015-10-11T10:00:00">
+            <PickUpLocation LocationCode="SYR"></PickUpLocation>
+            <ReturnLocation LocationCode="SYR"></ReturnLocation>
+        </VehRentalCore>
+        <VehVendorAvails>
+            <VehVendorAvail>
+                <Vendor Code="ZE"></Vendor>
+                <VehAvails>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="4"
+                                     BaggageQuantity="2">
+                                <VehType VehicleCategory="1"></VehType>
+                                <VehClass Size="3"></VehClass>
+                                <VehMakeModel Name="A CHEVROLET SPARK OR SIMILAR" Code="ECAR"></VehMakeModel>
+                                <PictureURL>ZEUSEC999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="83.00" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="83.00" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUAKU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="83.00" EstimatedTotalAmount="83.00"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2401"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="4"
+                                     BaggageQuantity="2">
+                                <VehType VehicleCategory="1"></VehType>
+                                <VehClass Size="4"></VehClass>
+                                <VehMakeModel Name="B FORD FOCUS OR SIMILAR" Code="CCAR"></VehMakeModel>
+                                <PictureURL>ZEUSCC999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="87.40" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="87.40" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUAKU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="87.40" EstimatedTotalAmount="87.40"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2402"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="5"
+                                     BaggageQuantity="3">
+                                <VehType VehicleCategory="1"></VehType>
+                                <VehClass Size="6"></VehClass>
+                                <VehMakeModel Name="C TOYOTA COROLLA OR SIMILAR" Code="ICAR"></VehMakeModel>
+                                <PictureURL>ZEUSIC999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="72.80" CurrencyCode="USD" TaxInclusive="false"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <TaxAmounts>
+                                            <TaxAmount Total="11.32" CurrencyCode="USD" Percentage="14.00"
+                                                       Description="Tax"></TaxAmount>
+                                        </TaxAmounts>
+                                        <Calculation UnitCharge="72.80" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="LDUS"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="72.80" EstimatedTotalAmount="92.21"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2403"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="8.09" CurrencyCode="USD" TaxInclusive="false"
+                                         Description="AIRPORT CONCESSION FEE RECOVERY:" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="5"
+                                     BaggageQuantity="3">
+                                <VehType VehicleCategory="1"></VehType>
+                                <VehClass Size="7"></VehClass>
+                                <VehMakeModel Name="D NISSAN ALTIMA 2 DOOR OR SIMILAR" Code="SCAR"></VehMakeModel>
+                                <PictureURL>ZEUSSC999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="97.80" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="97.80" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUAKU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="97.80" EstimatedTotalAmount="97.80"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2404"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="5"
+                                     BaggageQuantity="4">
+                                <VehType VehicleCategory="1"></VehType>
+                                <VehClass Size="8"></VehClass>
+                                <VehMakeModel Name="F CHEVROLET MALIBU OR SIMILAR" Code="FCAR"></VehMakeModel>
+                                <PictureURL>ZEUSFC999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="79.00" CurrencyCode="USD" TaxInclusive="false"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <TaxAmounts>
+                                            <TaxAmount Total="12.29" CurrencyCode="USD" Percentage="14.00"
+                                                       Description="Tax"></TaxAmount>
+                                        </TaxAmounts>
+                                        <Calculation UnitCharge="79.00" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="LDUS"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="79.00" EstimatedTotalAmount="100.07"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2405"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="8.78" CurrencyCode="USD" TaxInclusive="false"
+                                         Description="AIRPORT CONCESSION FEE RECOVERY:" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="5"
+                                     BaggageQuantity="3">
+                                <VehType VehicleCategory="1"></VehType>
+                                <VehClass Size="10"></VehClass>
+                                <VehMakeModel Name="G CHEVROLET IMPALA OR SIMILAR" Code="PCAR"></VehMakeModel>
+                                <PictureURL>ZEUSPC999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="112.80" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="112.80" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUAKU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="112.80" EstimatedTotalAmount="112.80"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2406"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="5"
+                                     BaggageQuantity="3">
+                                <VehType VehicleCategory="1"></VehType>
+                                <VehClass Size="9"></VehClass>
+                                <VehMakeModel Name="I BUICK LACROSSE OR SIMILAR" Code="LCAR"></VehMakeModel>
+                                <PictureURL>ZEUSLC999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="127.20" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="127.20" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUAKU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="127.20" EstimatedTotalAmount="127.20"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2407"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="5"
+                                     BaggageQuantity="4">
+                                <VehType VehicleCategory="3"></VehType>
+                                <VehClass Size="6"></VehClass>
+                                <VehMakeModel Name="Q4 TOYOTA RAV4 OR SIMILAR" Code="IFAR"></VehMakeModel>
+                                <PictureURL>ZEUSIF999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="127.60" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="127.60" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUADU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="127.60" EstimatedTotalAmount="127.60"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2408"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="5"
+                                     BaggageQuantity="5">
+                                <VehType VehicleCategory="3"></VehType>
+                                <VehClass Size="7"></VehClass>
+                                <VehMakeModel Name="L CHEVROLET EQUINOX OR SIMILAR" Code="SFAR"></VehMakeModel>
+                                <PictureURL>ZEUSSF999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="130.20" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="130.20" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUAKU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="130.20" EstimatedTotalAmount="130.20"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2409"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" PassengerQuantity="8"
+                                     BaggageQuantity="4">
+                                <VehType VehicleCategory="3"></VehType>
+                                <VehClass Size="8"></VehClass>
+                                <VehMakeModel Name="T CHEVROLET TAHOE OR SIMILAR" Code="FFAR"></VehMakeModel>
+                                <PictureURL>ZEUSFF999.jpg</PictureURL>
+                            </Vehicle>
+                            <RentalRate>
+                                <RateDistance Unlimited="true" DistUnitName="Mile"
+                                              VehiclePeriodUnitName="RentalPeriod"></RateDistance>
+                                <VehicleCharges>
+                                    <VehicleCharge Amount="189.00" CurrencyCode="USD" TaxInclusive="true"
+                                                   GuaranteedInd="true" Purpose="1">
+                                        <Calculation UnitCharge="189.00" UnitName="Day" Quantity="0001"></Calculation>
+                                    </VehicleCharge>
+                                </VehicleCharges>
+                                <RateQualifier RateCategory="3" RateQualifier="AUAKU"></RateQualifier>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="189.00" EstimatedTotalAmount="189.00"
+                                         CurrencyCode="USD"></TotalCharge>
+                            <Reference Type="16" ID="VPUPUZE7AM55316-2410"></Reference>
+                            <TPA_Extensions>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="AIRPORT CONCESSION FEE RECOVERY:"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="TRANSACTION FEE"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Description="VEH LIC COST RECVRY"
+                                         IncludedInRate="true" Purpose="5"></Fee>
+                                </Fees>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <TPA_Extensions>
+                                <PricedCoverages>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="24"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                    <PricedCoverage>
+                                        <Coverage CoverageType="27"></Coverage>
+                                        <Charge Amount="0.00" CurrencyCode="USD" IncludedInRate="true"></Charge>
+                                    </PricedCoverage>
+                                </PricedCoverages>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                </VehAvails>
+            </VehVendorAvail>
+        </VehVendorAvails>
+    </VehAvailRSCore>
+</OTA_VehAvailRateRS>

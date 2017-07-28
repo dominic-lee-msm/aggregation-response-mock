@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:serviceException xmlns:ns="http://schemas.cdlis.co.uk/exception/v3-7">
+    <transactionID>40e3011ca4943d51:4896b468:145935e113e:-7d4f.Thu Apr 24 18:15:54 BST 2014</transactionID>
+    <type>VALIDATION</type>
+    <message><![CDATA[cvc-maxLength-valid: Value 'Provider Mock 12/123 dependantThoroughfare, thoroughfare' with length = '42' is not facet-valid with respect to maxLength '32' for type '#AnonType_addressLine2addressType'.cvc-type.3.1.3: The value '12/123 dependantThoroughfare, thoroughfare' of element 'addressLine2' is not valid.cvc-pattern-valid: Value 'M23 2se' is not facet-valid with respect to pattern '(GIR 0AA)|(((XX[0-9][0-9]?)|([A-Z-[QVX]][0-9][0-9]?)|(([A-Z-[QVX]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVX]][0-9][A-HJKSTUW])|([A-Z-[QVX]][A-Z-[IJZ]][0-9][ABEHMNPRVWXY])))) [0-9][A-Z-[CIKMOV]]{2})' for type 'postCode'.cvc-type.3.1.3: The value 'M23 2se' of element 'postCode' is not valid.]]></message>
+</ns:serviceException>

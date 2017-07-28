@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Churchill",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "servicest.directlinegroup.co.uk:10444",
+    "request": {
+        "method": "POST",
+        "urlPattern": ""
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "churchill-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

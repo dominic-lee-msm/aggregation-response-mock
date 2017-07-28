@@ -1,0 +1,15 @@
+{
+    "scenarioName": "TravelTrolley",
+    "requiredScenarioState": "Started",
+    "domain":"webservice-tsm.traveltrolley.co.uk",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/SouthallFlightSearch.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "TravelTrolleyTestFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

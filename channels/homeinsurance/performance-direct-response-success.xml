@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <GetQuoteV2Response xmlns="http://performancedirect.co.uk/webquoteservices/">
+            <GetQuoteV2Result>
+                <results xmlns="">
+                    <user>
+                        <password>VLmnpdCbPzj4</password>
+                    </user>
+                    <errors />
+                    <product name="Performance Direct" sitecode="Webms" reference="H57777940801">
+                        <errors />
+                        <annually premium="9999.99" insurer="ABC" scheme="ABCF">
+                            <excess>
+                                <building vol="50" comp="100">150</building>
+                                <contents vol="50" comp="100">150</contents>
+                                <subsidence>1000</subsidence>
+                            </excess>
+                            <excessDetails>
+                                <compulsory>200</compulsory>
+                                <voluntary>100</voluntary>
+                            </excessDetails>
+                            <cover>
+                                <building>1000000</building>
+                                <contents>25000</contents>
+                            </cover>
+                            <Benefits missing="ABCF" />
+                            <extras>
+                                <extra included="true" name="legal" value="0" />
+                            </extras>
+                        </annually>
+                        <monthly premium="9999.99" insurer="ABC" scheme="ABCF">
+                            <installments>
+                                <BasePremium>9999.99</BasePremium>
+                                <NumberOfPayments>11</NumberOfPayments>
+                                <Deposit>99.99</Deposit>
+                                <CreditAdminCost>0.00</CreditAdminCost>
+                                <InterestCharge>10.22</InterestCharge>
+                                <PaymentCosts>99.99</PaymentCosts>
+                                <APR>21.3</APR>
+                            </installments>
+                            <excess>
+                                <building vol="50" comp="100">150</building>
+                                <contents vol="50" comp="100">150</contents>
+                                <subsidence>1000</subsidence>
+                            </excess>
+                            <excessDetails>
+                                <compulsory>200</compulsory>
+                                <voluntary>100</voluntary>
+                            </excessDetails>
+                            <cover>
+                                <building>1000000</building>
+                                <contents>25000</contents>
+                            </cover>
+                            <Benefits missing="ABCF" />
+                            <extras>
+                                <extra included="true" name="legal" value="0" />
+                            </extras>
+                        </monthly>
+                    </product>
+                    <additionalproducts>
+                        <product name="Grove and Dean" sitecode="GDms" reference="J57778750801">
+                            <errors />
+                            <annually premium="9999.99" insurer="ABC" scheme="ABCF">
+                                <excess>
+                                    <building vol="50" comp="100">150</building>
+                                    <contents vol="50" comp="100">150</contents>
+                                    <subsidence>1000</subsidence>
+                                </excess>
+                                <excessDetails>
+                                    <compulsory>200</compulsory>
+                                    <voluntary>100</voluntary>
+                                </excessDetails>
+                                <cover>
+                                    <building>1000000</building>
+                                    <contents>25000</contents>
+                                </cover>
+                                <Benefits missing="ABCF" />
+                                <extras>
+                                    <extra included="true" name="legal" value="0" />
+                                </extras>
+                            </annually>
+                            <monthly premium="9999.99" insurer="ABC" scheme="ABCF">
+                                <installments>
+                                    <BasePremium>9999.99</BasePremium>
+                                    <NumberOfPayments>11</NumberOfPayments>
+                                    <Deposit>99.99</Deposit>
+                                    <CreditAdminCost>0.00</CreditAdminCost>
+                                    <InterestCharge>12.23</InterestCharge>
+                                    <PaymentCosts>99.99</PaymentCosts>
+                                    <APR>20.2</APR>
+                                </installments>
+                                <excess>
+                                    <building vol="50" comp="100">150</building>
+                                    <contents vol="50" comp="100">150</contents>
+                                    <subsidence>1000</subsidence>
+                                </excess>
+                                <excessDetails>
+                                    <compulsory>200</compulsory>
+                                    <voluntary>100</voluntary>
+                                </excessDetails>
+                                <cover>
+                                    <building>1000000</building>
+                                    <contents>25000</contents>
+                                </cover>
+                                <Benefits missing="ABCF" />
+                                <extras>
+                                    <extra included="true" name="legal" value="0" />
+                                </extras>
+                            </monthly>
+                        </product>
+                    </additionalproducts>
+                </results>
+            </GetQuoteV2Result>
+        </GetQuoteV2Response>
+    </soap:Body>
+</soap:Envelope>

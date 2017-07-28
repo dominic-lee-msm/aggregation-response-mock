@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Collingwood",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "ws.collingwoodannuallearners.co.uk:444",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/MSMWeb/MSMWebservice.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "collingwood-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

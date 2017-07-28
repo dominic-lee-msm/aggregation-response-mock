@@ -1,0 +1,15 @@
+{
+    "scenarioName": "OneQuoteDirectTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "feeds.europa-group.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/europa/aggregator.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "one-quote-direct-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

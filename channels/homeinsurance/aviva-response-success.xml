@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HomeInsuranceResponse>
+  <Quotes>
+    <HomeInsuranceProducts>
+      <Insurer>Quote me happy home insurance</Insurer>
+      <InsurerProductID>QMH_GOOD_1</InsurerProductID>
+      <ProductPremium>
+        <AnnualPremium>9999.99</AnnualPremium>
+        <MonthlyPremium>
+          <Deposit>99.99</Deposit>
+          <NumberOfPayments>10</NumberOfPayments>
+          <MonthlyPremiumValue>9.99</MonthlyPremiumValue>
+          <APR>1.1</APR>
+        </MonthlyPremium>
+      </ProductPremium>
+      <CoverCollection>
+        <HomeInsuranceCover>
+          <CoverType>Buildings</CoverType>
+          <VoluntaryExcess>250</VoluntaryExcess>
+          <CompulsoryExcess>0</CompulsoryExcess>
+          <SumInsured>500000</SumInsured>
+          <AdditionalExcesses>
+            <AdditionalExcesses Name="Subsidence excess" Value="1000" />
+          </AdditionalExcesses>
+        </HomeInsuranceCover>
+        <HomeInsuranceCover>
+          <CoverType>Contents</CoverType>
+          <VoluntaryExcess>250</VoluntaryExcess>
+          <CompulsoryExcess>0</CompulsoryExcess>
+          <SumInsured>35000</SumInsured>
+          <AdditionalExcesses>
+            <AdditionalExcesses Name="Subsidence excess" Value="1000" />
+          </AdditionalExcesses>
+        </HomeInsuranceCover>
+      </CoverCollection>
+      <ExtraCollection>
+        <HomeInsuranceExtra>
+          <Type>HomeEmergencyCover</Type>
+          <Premium>48.00</Premium>
+          <AdditionalText>Optional up to £1,000</AdditionalText>
+          <IsIncluded>false</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>LegalCover</Type>
+          <Premium>24.99</Premium>
+          <AdditionalText>Up to £100,000</AdditionalText>
+          <IsIncluded>false</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>NewForOld</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Except for clothing and linen</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>ReplacementLocksCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>AlternativeAccommodation</Type>
+          <Premium>0</Premium>
+          <AdditionalText>20% of sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>DamageFromEmergencyEntries</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to buildings/contents sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>EmergencyHelpline</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Part of 24/7 claims helpline</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>GlassReplacementHelpline</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Part of 24/7 claims helpline</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>InflationProtection</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Index linked</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>KeyCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Theft and loss of keys up to £500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>NoClaimsDiscount</Type>
+          <Premium>0</Premium>
+          <AdditionalText>
+          </AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>UKCallCentres</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Primary service channel is online</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>OwnersLiabilityCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £2m</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>SellingYourHome</Type>
+          <Premium>0</Premium>
+          <AdditionalText>
+          </AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>SiteClearanceAndBuildingFees</Type>
+          <Premium>0</Premium>
+          <AdditionalText>
+          </AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>DownloadedInformation</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Covered up to sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>FatalInjury</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£5,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>ItemsInGarageCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £1500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>LiabilityToDomesticEmployees</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £10m</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>MoneyCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £250</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>TenantsLiabilityCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£5,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>AccidentalDamageToBathrooms</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to buildings sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>AccidentalDamageToHomeEntertainmentEquipment</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to contents sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+      </ExtraCollection>
+      <QuoteRetrieval>
+        <QuoteReference>2648650</QuoteReference>
+      </QuoteRetrieval>
+      <DeepLink>
+        <DeepLinkType>URL</DeepLinkType>
+        <URL>https://www.test.dev.quotemehappy.com/quotes.aspx?deeplink=1&amp;Action=Load&amp;ProcessId=0&amp;ExternalId=657938AC55D05390&amp;PaymentPeriodId=1&amp;BundleId=1</URL>
+      </DeepLink>
+    </HomeInsuranceProducts>
+    <HomeInsuranceProducts>
+      <Insurer>Quote me happy home insurance</Insurer>
+      <InsurerProductID>QMH_BETTER_1</InsurerProductID>
+      <ProductPremium>
+        <AnnualPremium>9999.99</AnnualPremium>
+        <MonthlyPremium>
+          <Deposit>99.99</Deposit>
+          <NumberOfPayments>10</NumberOfPayments>
+          <MonthlyPremiumValue>9.99</MonthlyPremiumValue>
+          <APR>1.1</APR>
+        </MonthlyPremium>
+      </ProductPremium>
+      <CoverCollection>
+        <HomeInsuranceCover>
+          <CoverType>Buildings</CoverType>
+          <VoluntaryExcess>250</VoluntaryExcess>
+          <CompulsoryExcess>0</CompulsoryExcess>
+          <SumInsured>500000</SumInsured>
+          <AdditionalExcesses>
+            <AdditionalExcesses Name="Subsidence excess" Value="1000" />
+          </AdditionalExcesses>
+        </HomeInsuranceCover>
+        <HomeInsuranceCover>
+          <CoverType>Contents</CoverType>
+          <VoluntaryExcess>250</VoluntaryExcess>
+          <CompulsoryExcess>0</CompulsoryExcess>
+          <SumInsured>35000</SumInsured>
+          <AdditionalExcesses>
+            <AdditionalExcesses Name="Subsidence excess" Value="1000" />
+          </AdditionalExcesses>
+        </HomeInsuranceCover>
+      </CoverCollection>
+      <ExtraCollection>
+        <HomeInsuranceExtra>
+          <Type>HomeEmergencyCover</Type>
+          <Premium>48.00</Premium>
+          <AdditionalText>Optional up to £1,000</AdditionalText>
+          <IsIncluded>false</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>LegalCover</Type>
+          <Premium>24.99</Premium>
+          <AdditionalText>Up to £100,000</AdditionalText>
+          <IsIncluded>false</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>NewForOld</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Except for clothing and linen</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>ReplacementLocksCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>AlternativeAccommodation</Type>
+          <Premium>0</Premium>
+          <AdditionalText>30% of sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>DamageFromEmergencyEntries</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to buildings/contents sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>EmergencyHelpline</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Part of 24/7 claims helpline</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>GlassReplacementHelpline</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Part of 24/7 claims helpline</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>InflationProtection</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Index linked</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>KeyCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Theft and loss of keys up to £500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>NoClaimsDiscount</Type>
+          <Premium>0</Premium>
+          <AdditionalText>
+          </AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>UKCallCentres</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Primary service channel is online</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>AccidentalDamageToBathrooms</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to buildings sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>DamageToUndergroundPipesCablesAndTanks</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>OwnersLiabilityCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £2m</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>SellingYourHome</Type>
+          <Premium>0</Premium>
+          <AdditionalText>
+          </AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>SiteClearanceAndBuildingFees</Type>
+          <Premium>0</Premium>
+          <AdditionalText>
+          </AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>TraceAndAccessCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£5,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>AccidentalDamageToHomeEntertainmentEquipment</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to contents sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>ContentsAtUniversity</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £5,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>CoverForChristmasAndWeddingGifts</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up  to £3000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>DownloadedInformation</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Covered up to sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>FatalInjury</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£5,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>FrozenFoodCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>GardenCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>GuestsBelongingsCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£1,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>ItemsInGarageCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £3000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>ItemsTemporarilyRemovedFromTheHome</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£5,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>LiabilityToDomesticEmployees</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £10m</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>LossOfOil</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £1000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>LossOfWater</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £1000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>MoneyCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>MovingHome</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to sum insured</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>OfficeEquipment</Type>
+          <Premium>0</Premium>
+          <AdditionalText>Up to £5000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>ReplacementOfPropertyDeeds</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£500</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+        <HomeInsuranceExtra>
+          <Type>TenantsLiabilityCover</Type>
+          <Premium>0</Premium>
+          <AdditionalText>£5,000</AdditionalText>
+          <IsIncluded>true</IsIncluded>
+        </HomeInsuranceExtra>
+      </ExtraCollection>
+      <QuoteRetrieval>
+        <QuoteReference>2648650</QuoteReference>
+      </QuoteRetrieval>
+      <DeepLink>
+        <DeepLinkType>URL</DeepLinkType>
+        <URL>https://www.test.dev.quotemehappy.com/quotes.aspx?deeplink=1&amp;Action=Load&amp;ProcessId=0&amp;ExternalId=657938AC55D05390&amp;PaymentPeriodId=1&amp;BundleId=2</URL>
+      </DeepLink>
+    </HomeInsuranceProducts>
+  </Quotes>
+</HomeInsuranceResponse>

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "LV",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "testagg.lv.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/MSM/Home/GenerateHomeQuote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "lv-response-success.xml",
+        "fixedDelayMilliseconds": 1000
+    }
+}

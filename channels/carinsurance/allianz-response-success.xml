@@ -1,0 +1,162 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+
+  <SOAP-ENV:Header />
+  <SOAP-ENV:Body>
+    <getquoteresponse xmlns="http://www.allianz.co.uk/moneysupermarket/motor">
+
+      <privatecarquoteresponse xmlns="http://www.allianz.co.uk/ns/acp/pres/v1.0">
+
+        <quote>
+          <reference>
+            <quotereferencenumber>AB516466</quotereferencenumber>
+            <aggregatorquoteid />
+            <brand>S2G</brand>
+            <quotevalidityperiod>45</quotevalidityperiod>
+            <covertype>comprehensive</covertype>
+            <buyurllink>
+              <![CDATA[https://www-sysfusionweb-ukfus3s.allianz.co.uk/yc/common/linkRequestHandler.faces?data=hk%2FmWnmnPr1pfYLD3iHrBF0ZF7I0RYTKJAuykiMnLqtXNH7Wodx4KYtqjE3ml23g]]>
+</buyurllink>
+            <generatedpassword>ix0dl1qD</generatedpassword>
+            <campaigncode />
+            <brandcallcentretelephoneno>0800 9753
+            247</brandcallcentretelephoneno>
+          </reference>
+          <premium>
+            <totalannualpremium>9995.99</totalannualpremium>
+            <instalments>
+              <totalamountpayable>9995.99</totalamountpayable>
+              <firstinstalmentamount>53.17</firstinstalmentamount>
+              <otherinstalmentamount>26.59</otherinstalmentamount>
+              <numberofinstalments>10</numberofinstalments>
+              <apr>35.67</apr>
+            </instalments>
+          </premium>
+          <excess>
+            <voluntaryexcessamount>50</voluntaryexcessamount>
+            <compulsoryexcess>
+              <excesstype>Fire and Theft</excesstype>
+              <excessamount>150</excessamount>
+            </compulsoryexcess>
+            <compulsoryexcess>
+              <excesstype>Windscreen</excesstype>
+              <excessamount>75</excessamount>
+            </compulsoryexcess>
+            <compulsoryexcess>
+              <excesstype>Accidental Damage</excesstype>
+              <excessamount>150</excessamount>
+            </compulsoryexcess>
+          </excess>
+          <coversections>
+            <coversection>
+              <coversectiontype>paperdocs</coversectiontype>
+              <coversectioncost>14</coversectioncost>
+              <coversectionlevel />
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>legalcover</coversectiontype>
+              <coversectioncost>0</coversectioncost>
+              <coversectionlevel />
+              <coversectionincluded>Y</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>ncdprotected</coversectiontype>
+              <coversectioncost>17.37</coversectioncost>
+              <coversectionlevel />
+              <coversectionincluded>Y</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>
+              drivingothercarscover</coversectiontype>
+              <coversectioncost>16.64</coversectioncost>
+              <coversectionlevel />
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>
+              replacementlockscover</coversectiontype>
+              <coversectioncost>5.3</coversectioncost>
+              <coversectionlevel />
+              <coversectionincluded>Y</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>windscreencover</coversectiontype>
+              <coversectioncost>14.46</coversectioncost>
+              <coversectionlevel />
+              <coversectionincluded>Y</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>breakdowncover</coversectiontype>
+              <coversectioncost>38</coversectioncost>
+              <coversectionlevel>1</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>breakdowncover</coversectiontype>
+              <coversectioncost>69</coversectioncost>
+              <coversectionlevel>2</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>breakdowncover</coversectiontype>
+              <coversectioncost>105</coversectioncost>
+              <coversectionlevel>3</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>courtesycarcover</coversectiontype>
+              <coversectioncost>28</coversectioncost>
+              <coversectionlevel>1</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>courtesycarcover</coversectiontype>
+              <coversectioncost>40</coversectioncost>
+              <coversectionlevel>2</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>
+              europeanbreakdowncover</coversectiontype>
+              <coversectioncost>38.39</coversectioncost>
+              <coversectionlevel>3</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>
+              personalaccidentcover</coversectiontype>
+              <coversectioncost>15</coversectioncost>
+              <coversectionlevel>20000</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>
+              personaleffectscover</coversectiontype>
+              <coversectioncost>14.5</coversectioncost>
+              <coversectionlevel>250</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>
+              personaleffectscover</coversectiontype>
+              <coversectioncost>17.4</coversectioncost>
+              <coversectionlevel>300</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+            <coversection>
+              <coversectiontype>
+              trailerroofboxcover</coversectiontype>
+              <coversectioncost>15.9</coversectioncost>
+              <coversectionlevel>1000</coversectionlevel>
+              <coversectionincluded>N</coversectionincluded>
+            </coversection>
+          </coversections>
+          <message>
+            <messagetext>Quote Successful</messagetext>
+          </message>
+          <completioncode>0</completioncode>
+        </quote>
+      </privatecarquoteresponse>
+    </getquoteresponse>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

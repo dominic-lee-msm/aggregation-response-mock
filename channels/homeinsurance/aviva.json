@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Aviva Quote Me Happy",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "servlets.aggs.dev.quotemehappy.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/PortalServices/IIA/MoneySuperMarketHome/MsmHomeCalculate.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "aviva-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

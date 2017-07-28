@@ -1,0 +1,176 @@
+<HomeQuoteReplyV1 xmlns="http://tempuri.org/HomeQuoteReplyV1.xsd">
+  <HomeQuoteReply>
+    <ProductName>AXA-Direct</ProductName>
+    <CalculationStatus>0</CalculationStatus>
+    <ClientLink>https://secure.extenv101.adm.internal.gbinsurance.co.uk:443/sales/personallines/axadirect/axa/home/standard/desktop/quote/load/D0E7A74390D7E306?a=a</ClientLink>
+    <ErrorDescription />
+    <ExternalId>D0E7A74390D7E306</ExternalId>
+    <ProcessingTime>46</ProcessingTime>
+    <QuoteExpiryDate>2015-11-26T15:54:00+00:00</QuoteExpiryDate>
+    <CoverType>9</CoverType>
+    <CoverLevel>1</CoverLevel>
+    <Premium>9999.99</Premium>
+    <PremiumInclusive>9999.99</PremiumInclusive>
+    <InstallmentCountAfterFirstPayment>10</InstallmentCountAfterFirstPayment>
+    <PaymentSubsequentInstallments>9.99</PaymentSubsequentInstallments>
+    <PaymentFirstInstallmentAmountInclusive>99.99</PaymentFirstInstallmentAmountInclusive>
+    <InstallmentCountAfterFirstPaymentInclusive>10</InstallmentCountAfterFirstPaymentInclusive>
+    <PaymentSubsequentInstallmentsInclusive>9.99</PaymentSubsequentInstallmentsInclusive>
+    <IsDDMonthlyPaymentAvailable>true</IsDDMonthlyPaymentAvailable>
+    <PaymentFirstInstallmentAmount>99.99</PaymentFirstInstallmentAmount>
+    <APR>32.4</APR>
+    <SalesMessage />
+    <Contents>
+      <SumInsured>75000</SumInsured>
+      <CompulsoryExcess>100</CompulsoryExcess>
+      <VoluntaryExcess>250</VoluntaryExcess>
+      <TotalExcess>100</TotalExcess>
+      <LiabilityExcess>0</LiabilityExcess>
+      <AccidentalDamageIncluded>false</AccidentalDamageIncluded>
+      <AccidentalDamageSumInsured>75000</AccidentalDamageSumInsured>
+      <AccidentalDamageExcess>100</AccidentalDamageExcess>
+      <MoneyInTheHome>500</MoneyInTheHome>
+      <CreditCardsInTheHome>1000</CreditCardsInTheHome>
+      <LockAndKeyReplacement>500</LockAndKeyReplacement>
+      <AlternativeAccomodation>20000</AlternativeAccomodation>
+      <EmergencyHelpline>true</EmergencyHelpline>
+      <FrozenFoods>500</FrozenFoods>
+      <ElectricalEquipmentAD>75000</ElectricalEquipmentAD>
+      <MirrorsAndGlassAD>75000</MirrorsAndGlassAD>
+      <LeakageOfWaterAD>1000</LeakageOfWaterAD>
+      <LeakageOfOilAD>1000</LeakageOfOilAD>
+      <BusinessEquipment>5000</BusinessEquipment>
+      <TheftFromOutbuilding>2500</TheftFromOutbuilding>
+      <TotalHighRiskLimit>20000</TotalHighRiskLimit>
+      <SingleHighRiskItemLimit>5000</SingleHighRiskItemLimit>
+      <DigitalAssetsCover>500</DigitalAssetsCover>
+      <EmployersLiability>10000000</EmployersLiability>
+      <TenantsLiability>12000</TenantsLiability>
+      <SeasonalAndWeddingCoverUplift>0</SeasonalAndWeddingCoverUplift>
+    </Contents>
+    <Buildings>
+      <SumInsured>500000</SumInsured>
+      <CompulsoryExcess>100</CompulsoryExcess>
+      <VoluntaryExcess>250</VoluntaryExcess>
+      <TotalExcess>100</TotalExcess>
+      <LiabilityExcess>0</LiabilityExcess>
+      <SubsidenceExcess>1000</SubsidenceExcess>
+      <AccidentalDamageIncluded>false</AccidentalDamageIncluded>
+      <AccidentalDamageSumInsured>500000</AccidentalDamageSumInsured>
+      <AccidentalDamageExcess>100</AccidentalDamageExcess>
+      <ReplacingLocks>500</ReplacingLocks>
+      <AlternativeAccomodation>50000</AlternativeAccomodation>
+      <EmergencyHelpline>true</EmergencyHelpline>
+      <PropertyOwnersLiability>2000000</PropertyOwnersLiability>
+      <DrainsPipesCablesAD>500000</DrainsPipesCablesAD>
+      <FixedGlassAndBathroomFittingsAD>500000</FixedGlassAndBathroomFittingsAD>
+      <OverflowOfWater>500000</OverflowOfWater>
+      <TraceAndAccess>5000</TraceAndAccess>
+      <EmergencyServicesEntry>500000</EmergencyServicesEntry>
+    </Buildings>
+    <Addons>
+      <Addon>
+        <AddonTypeId>23</AddonTypeId>
+        <Name>Garden Cover</Name>
+        <Message />
+        <IsAvailable>false</IsAvailable>
+        <IsIncluded>false</IsIncluded>
+        <Premium>0.0000</Premium>
+        <Excess>999</Excess>
+        <Limits>
+          <Limit>
+            <Limit>2000</Limit>
+            <Description>Sum Insured</Description>
+          </Limit>
+          <Limit>
+            <Limit>500</Limit>
+            <Description>Single Item Limit</Description>
+          </Limit>
+        </Limits>
+      </Addon>
+      <Addon>
+        <AddonTypeId>26</AddonTypeId>
+        <Name>Bicycle Cover</Name>
+        <Message />
+        <IsAvailable>true</IsAvailable>
+        <IsIncluded>false</IsIncluded>
+        <Premium>24.878200</Premium>
+        <Excess>50</Excess>
+        <Limits>
+          <Limit>
+            <Limit>3000</Limit>
+            <Description>Sum Insured</Description>
+          </Limit>
+          <Limit>
+            <Limit>1500</Limit>
+            <Description>Single Item Limit</Description>
+          </Limit>
+        </Limits>
+      </Addon>
+      <Addon>
+        <AddonTypeId>33</AddonTypeId>
+        <Name>Home Assistance Cover</Name>
+        <Message />
+        <IsAvailable>true</IsAvailable>
+        <IsIncluded>false</IsIncluded>
+        <Premium>39.993800</Premium>
+        <Excess>0</Excess>
+        <Limits>
+          <Limit>
+            <Limit>1000</Limit>
+            <Description>Sum Insured</Description>
+          </Limit>
+          <Limit>
+            <Limit>250</Limit>
+            <Description>Overnight Accomodation Limit</Description>
+          </Limit>
+        </Limits>
+      </Addon>
+      <Addon>
+        <AddonTypeId>29</AddonTypeId>
+        <Name>Home Legal Protection Cover</Name>
+        <Message />
+        <IsAvailable>true</IsAvailable>
+        <IsIncluded>false</IsIncluded>
+        <Premium>22.503800</Premium>
+        <Excess>50</Excess>
+        <Limits>
+          <Limit>
+            <Limit>50000</Limit>
+            <Description>Sum Insured</Description>
+          </Limit>
+        </Limits>
+      </Addon>
+      <Addon>
+        <AddonTypeId>34</AddonTypeId>
+        <Name>Identity Theft Cover</Name>
+        <Message />
+        <IsAvailable>false</IsAvailable>
+        <IsIncluded>false</IsIncluded>
+        <Premium>16.991800</Premium>
+        <Excess>0</Excess>
+        <Limits>
+          <Limit>
+            <Limit>50000</Limit>
+            <Description>Sum Insured</Description>
+          </Limit>
+        </Limits>
+      </Addon>
+      <Addon>
+        <AddonTypeId>35</AddonTypeId>
+        <Name>Student Cover</Name>
+        <Message />
+        <IsAvailable>true</IsAvailable>
+        <IsIncluded>false</IsIncluded>
+        <Premium>0.0000</Premium>
+        <Excess>50</Excess>
+        <Limits>
+          <Limit>
+            <Limit>5000</Limit>
+            <Description>Sum Insured</Description>
+          </Limit>
+        </Limits>
+      </Addon>
+    </Addons>
+  </HomeQuoteReply>
+</HomeQuoteReplyV1>

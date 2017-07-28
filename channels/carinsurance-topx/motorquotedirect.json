@@ -1,0 +1,15 @@
+{
+    "scenarioName": "MotorQuoteDirectTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "dev2.securequotedirect.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/sk/mqdpc/moneysupermarkettopx.jsp"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "motorquotedirect-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

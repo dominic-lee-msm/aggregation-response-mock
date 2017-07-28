@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AE_Quote_Response Echo="TravelSuperMarket.com" sess="11b4b96d9a049a4c8b86b06429a65b2863" QuoteID="281363821"
+                   TimeStamp="09/11/2015 04:23:00 AM" QuoteCurrency="GBP">
+    <Reference Days="1" Host="XBE25" Language="ENG" ProcessTime="2.32">
+        <Pickup City="SYRACUSE" Country="US" DateTime="10/10/2015 10:00"/>
+        <Dropoff City="SYRACUSE" Country="US" DateTime="10/11/2015 10:00"/>
+        <Rental tm="09/11/2015 04:23:00 AM" temp="72000495" QType="" Vehicle="" TravelEast="N" LocationType=""
+                VehicleClass="" DOLocationType=""/>
+        <Counts Loc="2" Prod="8"/>
+    </Reference>
+    <IMAGEPATH v="www.globalmediaserver.com/images/cars/"/>
+    <LOCATIONS>
+        <LOC>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <IATACODE v="SYR" OnAirport="Y"/>
+            <LOCTYPE v="A"/>
+            <LOCID v="0000065606" AEID="A" Group="2"/>
+            <GEO lat="43.114581" long="-76.112008" gmtOffMinutes="-300"/>
+            <CITY v="1" Ctry="US" Name="SYRACUSE"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v="O"/>
+            <NAME ad1="SYRACUSE INTERNATIONAL AIRPORT" ad2="1000 COLONEL EILEEN COLLINS BL"/>
+            <HRL>
+                <HRS>* OPEN Mondays-Fridays 06:30 AM-midnight</HRS>
+                <HRS>* OPEN Saturdays 07:00 AM-10:00 PM</HRS>
+                <HRS>* OPEN Sundays 08:00 AM-midnight</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="RTZLV" FullName="HERTZ"/>
+            <IATACODE v="SYR" OnAirport="Y"/>
+            <LOCTYPE v="A"/>
+            <LOCID v="0000083961" AEID="A" Group="4"/>
+            <GEO lat="43.114769" long="-76.111937" gmtOffMinutes="-300"/>
+            <CITY v="1" Ctry="US" Name="SYRACUSE"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v="O"/>
+            <NAME ad1="SYRACUSE HANCOCK INT'L AIRPORT" ad2="100 COLONEL EILEEN COLLINS BLV"/>
+            <HRL>
+                <HRS>* OPEN Mondays-Fridays midnight-12:30 AM ,06:30 AM-midnight</HRS>
+                <HRS>* OPEN Saturdays-Sundays midnight-12:30 AM ,07:00 AM-midnight</HRS>
+            </HRL>
+        </LOC>
+    </LOCATIONS>
+    <PRODUCTS>
+        <ROW v="1" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="CCAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa 2dr</INAME>
+            <PASS v="4"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="18"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000065606" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="62.36" Inclusive="62.36" BeforeSaleB="NA" BeforeSaleI="69.53"/>
+            </LOCS>
+        </ROW>
+        <ROW v="2" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="ECAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <NAME>Chevrolet Aveo</NAME>
+            <INAME>Chevy Aveo</INAME>
+            <PASS v="4"/>
+            <LCAP v="6cuft"/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="18"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000065606" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="61.60" Inclusive="61.60" BeforeSaleB="NA" BeforeSaleI="68.68"/>
+            </LOCS>
+        </ROW>
+        <ROW v="3" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="FDAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <NAME>Ford Fusion US Model</NAME>
+            <INAME>Ford Fusion 4 dr US Model</INAME>
+            <PASS v="4"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="18"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000065606" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="68.45" Inclusive="68.45" BeforeSaleB="NA" BeforeSaleI="76.32"/>
+            </LOCS>
+        </ROW>
+        <ROW v="4" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="FVAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <NAME>Dodge Grand Caravan</NAME>
+            <INAME>Dodge Grand Caravan 7 pax</INAME>
+            <PASS v="7"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="25"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0000065606" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="85.94" Inclusive="85.94" BeforeSaleB="NA" BeforeSaleI="95.82"/>
+            </LOCS>
+        </ROW>
+        <ROW v="5" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="ICAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <NAME>Toyota Corolla</NAME>
+            <INAME>Toyota Corolla 2 dr</INAME>
+            <PASS v="4"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="18"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000065606" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="65.40" Inclusive="65.40" BeforeSaleB="NA" BeforeSaleI="72.92"/>
+            </LOCS>
+        </ROW>
+        <ROW v="6" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="LDAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="RTZLV" FullName="HERTZ"/>
+            <NAME>Chrysler 300</NAME>
+            <INAME>Chrysler 300</INAME>
+            <PASS v="5"/>
+            <LCAP v="18cuft"/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="25"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000083961" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="94.34" Inclusive="94.34" BeforeSaleB="NA" BeforeSaleI="105.19"/>
+            </LOCS>
+        </ROW>
+        <ROW v="7" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="PDAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <NAME>Buick Regal</NAME>
+            <INAME>Buick Regal</INAME>
+            <PASS v="5"/>
+            <LCAP v="18cuft"/>
+            <MPGCITY v="25"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="4"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="25"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000065606" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="76.81" Inclusive="76.81" BeforeSaleB="NA" BeforeSaleI="85.64"/>
+            </LOCS>
+        </ROW>
+        <ROW v="8" DLR="N">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP v="SCAR" codes="FF,ZS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station." vType="1"/>
+            <OPERATOR v="NCR" FullName="NATIONAL"/>
+            <NAME>Chrysler200</NAME>
+            <INAME>Chrysler 200 2 dr</INAME>
+            <PASS v="4"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR></SMLR>
+            <PPD v="f"/>
+            <TAX v="0"/>
+            <MNAGE v="18"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000065606" SaleB="N" SaleI="Y" InsList="CDW:THP" UPGRADE=""
+                     BasDepReq="NA" IncDepReq="66.16" Inclusive="66.16" BeforeSaleB="NA" BeforeSaleI="73.77"/>
+            </LOCS>
+        </ROW>
+    </PRODUCTS>
+</AE_Quote_Response>

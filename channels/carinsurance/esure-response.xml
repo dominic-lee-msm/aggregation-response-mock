@@ -1,0 +1,300 @@
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <env:Header />
+  <env:Body>
+    <m:getAggMotorQuoteResponse xmlns:m="http://www.esure.com/SOA/ibisservice">
+
+      <result xmlns:java="java:com.esure.busservices.cdm.aggregator.response"
+      soapenc:arrayType="java:AggMotorResponse[2]">
+        <AggMotorResponse>
+          <brand>SW</brand>
+          <quoteReference>1160195600</quoteReference>
+          <coverType>COM</coverType>
+          <coverTypeReq>COM</coverTypeReq>
+          <premiums>
+            <noOfInstallments>10</noOfInstallments>
+            <apr>25.4</apr>
+            <options soapenc:arrayType="java:Premium[10]">
+              <Premium>
+                <premiumDesc>MOT</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+MLP</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+MLP+BRK</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+BRK</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD+MLP</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD+MLP+BRK</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD+BRK</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit>99.99</deposit>
+                <installmentPremium>99.99</installmentPremium>
+                <totalPremium>9999.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>BRK</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit xsi:nil="true" />
+                <installmentPremium xsi:nil="true" />
+                <totalPremium xsi:nil="true" />
+              </Premium>
+              <Premium>
+                <premiumDesc>MLP</premiumDesc>
+                <basePremium>9999.99</basePremium>
+                <deposit xsi:nil="true" />
+                <installmentPremium xsi:nil="true" />
+                <totalPremium xsi:nil="true" />
+              </Premium>
+            </options>
+          </premiums>
+          <excesses soapenc:arrayType="java:Excess[6]">
+            <Excess>
+              <description>CompulsoryXs</description>
+              <excessInPounds>0</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>FireXs</description>
+              <excessInPounds>100</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>TheftXs</description>
+              <excessInPounds>250</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>WindscreenXs</description>
+              <excessInPounds>100</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>VoluntaryXs</description>
+              <excessInPounds>250</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>DriverSpecificXs[Captain
+              Slow]</description>
+              <excessInPounds>0</excessInPounds>
+            </Excess>
+          </excesses>
+          <policyLimitMessages soapenc:arrayType="java:MessageText[4]">
+
+            <MessageText>
+              <message>In-car audio : &amp;pound;1,000</message>
+            </MessageText>
+            <MessageText>
+              <message>Personal accident :
+              &amp;pound;5,000</message>
+            </MessageText>
+            <MessageText>
+              <message>Personal belongings :
+              &amp;pound;200</message>
+            </MessageText>
+            <MessageText>
+              <message>Medical expenses : &amp;pound;300</message>
+            </MessageText>
+          </policyLimitMessages>
+          <isCourtesyCarIncluded>true</isCourtesyCarIncluded>
+          <isNcdProtected>true</isNcdProtected>
+          <isDocIncluded>true</isDocIncluded>
+          <quoteExpiryDate>
+          2015-04-20T23:59:59.999+01:00</quoteExpiryDate>
+          <vehicleDescription>FORD FOCUS
+          LX,1596cc,5dr(2004-2007)</vehicleDescription>
+          <webSiteUrl>
+          https://www.sheilaswheels.com/msm/motor</webSiteUrl>
+          <keyFactsUrl>
+          http://www.sheilaswheels.com/pdf/swweb_policy_jan07.pdf</keyFactsUrl>
+          <promotionalMessages xsi:nil="true" />
+          <onlineDiscount xsi:nil="true" />
+          <phoneNumbers xsi:nil="true" />
+          <officeHoursText xsi:nil="true" />
+          <benefits xsi:nil="true" />
+          <noQuoteText xsi:nil="true" />
+          <addInfoMessageText xsi:nil="true" />
+        </AggMotorResponse>
+        <AggMotorResponse>
+          <brand>EM</brand>
+          <quoteReference>1160195601</quoteReference>
+          <coverType>COM</coverType>
+          <coverTypeReq>COM</coverTypeReq>
+          <premiums>
+            <noOfInstallments>10</noOfInstallments>
+            <apr>25.4</apr>
+            <options soapenc:arrayType="java:Premium[10]">
+              <Premium>
+                <premiumDesc>MOT</premiumDesc>
+                <basePremium>225.32</basePremium>
+                <deposit>39.51</deposit>
+                <installmentPremium>20.59</installmentPremium>
+                <totalPremium>245.41</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+MLP</premiumDesc>
+                <basePremium>255.32</basePremium>
+                <deposit>44.69</deposit>
+                <installmentPremium>23.34</installmentPremium>
+                <totalPremium>278.09</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+MLP+BRK</premiumDesc>
+                <basePremium>313.07</basePremium>
+                <deposit>54.79</deposit>
+                <installmentPremium>28.62</installmentPremium>
+                <totalPremium>340.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+BRK</premiumDesc>
+                <basePremium>283.07</basePremium>
+                <deposit>49.62</deposit>
+                <installmentPremium>25.87</installmentPremium>
+                <totalPremium>308.32</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD</premiumDesc>
+                <basePremium>225.32</basePremium>
+                <deposit>39.51</deposit>
+                <installmentPremium>20.59</installmentPremium>
+                <totalPremium>245.41</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD+MLP</premiumDesc>
+                <basePremium>255.32</basePremium>
+                <deposit>44.69</deposit>
+                <installmentPremium>23.34</installmentPremium>
+                <totalPremium>278.09</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD+MLP+BRK</premiumDesc>
+                <basePremium>313.07</basePremium>
+                <deposit>54.79</deposit>
+                <installmentPremium>28.62</installmentPremium>
+                <totalPremium>340.99</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>MOT+PNCD+BRK</premiumDesc>
+                <basePremium>283.07</basePremium>
+                <deposit>49.62</deposit>
+                <installmentPremium>25.87</installmentPremium>
+                <totalPremium>308.32</totalPremium>
+              </Premium>
+              <Premium>
+                <premiumDesc>BRK</premiumDesc>
+                <basePremium>57.75</basePremium>
+                <deposit xsi:nil="true" />
+                <installmentPremium xsi:nil="true" />
+                <totalPremium xsi:nil="true" />
+              </Premium>
+              <Premium>
+                <premiumDesc>MLP</premiumDesc>
+                <basePremium>30.0</basePremium>
+                <deposit xsi:nil="true" />
+                <installmentPremium xsi:nil="true" />
+                <totalPremium xsi:nil="true" />
+              </Premium>
+            </options>
+          </premiums>
+          <excesses soapenc:arrayType="java:Excess[6]">
+            <Excess>
+              <description>CompulsoryXs</description>
+              <excessInPounds>0</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>FireXs</description>
+              <excessInPounds>100</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>TheftXs</description>
+              <excessInPounds>250</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>WindscreenXs</description>
+              <excessInPounds>100</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>VoluntaryXs</description>
+              <excessInPounds>250</excessInPounds>
+            </Excess>
+            <Excess>
+              <description>DriverSpecificXs[Captain
+              Slow]</description>
+              <excessInPounds>0</excessInPounds>
+            </Excess>
+          </excesses>
+          <policyLimitMessages soapenc:arrayType="java:MessageText[4]">
+
+            <MessageText>
+              <message>In-car audio : &amp;pound;1,000</message>
+            </MessageText>
+            <MessageText>
+              <message>Personal accident :
+              &amp;pound;5,000</message>
+            </MessageText>
+            <MessageText>
+              <message>Personal belongings :
+              &amp;pound;100</message>
+            </MessageText>
+            <MessageText>
+              <message>Medical expenses : &amp;pound;300</message>
+            </MessageText>
+          </policyLimitMessages>
+          <isCourtesyCarIncluded>true</isCourtesyCarIncluded>
+          <isNcdProtected>true</isNcdProtected>
+          <isDocIncluded>true</isDocIncluded>
+          <quoteExpiryDate>
+          2015-04-20T23:59:59.999+01:00</quoteExpiryDate>
+          <vehicleDescription>FORD FOCUS
+          LX,1596cc,5dr(2004-2007)</vehicleDescription>
+          <webSiteUrl>https://www.esure.com/msm/motor</webSiteUrl>
+          <keyFactsUrl>
+          http://www.esure.com/pdf/emweb_policy_jul07.pdf</keyFactsUrl>
+          <promotionalMessages xsi:nil="true" />
+          <onlineDiscount xsi:nil="true" />
+          <phoneNumbers xsi:nil="true" />
+          <officeHoursText xsi:nil="true" />
+          <benefits xsi:nil="true" />
+          <noQuoteText xsi:nil="true" />
+          <addInfoMessageText xsi:nil="true" />
+        </AggMotorResponse>
+      </result>
+    </m:getAggMotorQuoteResponse>
+  </env:Body>
+</env:Envelope>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MotorInsuranceResponse xmlns="http://www.moneysupermarket.com/MotorInsuranceResponse" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ErrorList>
+		<Error>
+			<ErrorText>Decline.registeredOwner</ErrorText>
+			<ErrorCode>0</ErrorCode>
+		</Error>
+		<Error>
+			<ErrorText>Decline.monthlyRisk</ErrorText>
+			<ErrorCode>0</ErrorCode>
+		</Error>
+		<Error>
+			<ErrorText>Decline.minAggInstalmentPremium</ErrorText>
+			<ErrorCode>0</ErrorCode>
+		</Error>
+		<Error>
+			<ErrorText>Decline.minAggAnnualPremium</ErrorText>
+			<ErrorCode>0</ErrorCode>
+		</Error>
+	</ErrorList>
+	<WebReference>1839589</WebReference>
+	<Quotes>
+		<QuoteResult Number="1">
+			<PolicyDocumentURL>http://www.tbd.com/keyfacts.pdf</PolicyDocumentURL>
+			<Policy>
+				<PolicyType>Comprehensive</PolicyType>
+				<AnnualPremium>393.03000000000003</AnnualPremium>
+				<MonthlyPremium/>
+				<InsuranceTax>17.790000</InsuranceTax>
+				<Deposit/>
+				<InitialPayment/>
+				<LengthOfCover>12</LengthOfCover>
+				<NumberOfPayments>10.000000</NumberOfPayments>
+				<InsurerName>Catlin Insurance Company (UK) Ltd. and Great Lakes Reinsurance (UK) PLC</InsurerName>
+				<BaseMiles>6000</BaseMiles>
+			</Policy>
+			<QuoteRetrieval>
+				<DeeplinkURL>https://www.bigggg.com/aggregator/?provider=msm&amp;ref=1839589-DH33DP</DeeplinkURL>
+				<Password>n/a</Password>
+				<Username>1839589</Username>
+				<QuoteReference>1839589</QuoteReference>
+			</QuoteRetrieval>
+			<Excesses>
+				<Excess>
+					<Type>Voluntary Excess</Type>
+					<Value>250.0</Value>
+				</Excess>
+				<Excess>
+					<Type>Compulsory Excess - Driver </Type>
+					<Value>100</Value>
+				</Excess>
+			</Excesses>
+			<Extras>
+				<Extra>
+					<Type>LegalAssistance</Type>
+					<Premium>25</Premium>
+					<IsIncluded>false</IsIncluded>
+				</Extra>
+				<Extra>
+					<Type>KeyCare</Type>
+					<Premium>23</Premium>
+					<IsIncluded>false</IsIncluded>
+				</Extra>
+				<Extra>
+					<Type>AccidentalBreakdownCover</Type>
+					<Premium>38</Premium>
+					<IsIncluded>false</IsIncluded>
+				</Extra>
+				<Extra>
+					<Type>EuropeanBreakdown</Type>
+					<Premium>70</Premium>
+					<IsIncluded>false</IsIncluded>
+				</Extra>
+			</Extras>
+		</QuoteResult>
+	</Quotes>
+</MotorInsuranceResponse>

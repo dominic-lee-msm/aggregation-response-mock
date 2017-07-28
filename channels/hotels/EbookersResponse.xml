@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HotelShoppingResponse xmlns="http://ws.orbitz.com/schemas/2008/Hotel" xmlns:com="http://ws.orbitz.com/schemas/2008/Common" xmlns:ns3="http://ws.orbitz.com/schemas/2008/Car" xmlns:ns4="http://ws.orbitz.com/schemas/2008/Loyalty" xmlns:ns5="http://ws.orbitz.com/schemas/2008/ItinNotify" xmlns:ns6="http://ws.orbitz.com/schemas/2008/Oas" xmlns:ns7="http://ws.orbitz.com/schemas/2008/Vendor" xmlns:ns8="http://ws.orbitz.com/schemas/2008/DynamicPackaging" xmlns:ns9="http://ws.orbitz.com/schemas/2008/Air" locale="en_GB" requestId="WS:42cb11ae-9c17-425f-a90d-3d954a7f1e6f" responseDate="2014-09-24T04:57:00.611">
+    <Location>
+        <com:Id>28892</com:Id>
+        <com:Name>Manchester</com:Name>
+        <com:Code>MAN</com:Code>
+        <com:Type code="CITY">city</com:Type>
+        <com:CityName>Manchester</com:CityName>
+        <com:StateProvince />
+        <com:Country code="GB">United Kingdom</com:Country>
+    </Location>
+    <Hotels count="10" hasMoreProperties="false" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;searchtype=keyword&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket" totalCount="49">
+        <Hotel availabilityStatus="available" chainCode="OBZ" id="291333" name="City Warehouse Aparthotel Manchester" phoneNumber="441612363066" starRating="4">
+            <Address>
+                <com:Street1>6-14 Great Ancoats Street</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M4 5AZ</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="N" unit="kilometers">0.51</Distance>
+            <TotalCostOfRooms currency="GBP">240.08</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=480006031&amp;ratecode=STD&amp;host=OMH&amp;searchtype=keyword&amp;id=1029221&amp;selectKey=1029221_null_null_null_A1%3A0%3A1029221_null_null_null_A2%3A1%3A1029221_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C240.08&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <AverageNightlyRate currency="GBP">65.24</AverageNightlyRate>
+                    <TotalCost currency="GBP">65.24</TotalCost>
+                    <Taxes currency="GBP">10.44</Taxes>
+                    <DistributorFees currency="GBP">2.61</DistributorFees>
+                    <TotalCostInclusive currency="GBP">78.29</TotalCostInclusive>
+                    <RateCode>STD</RateCode>
+                    <RoomCode>480006031</RoomCode>
+                    <RateAccessCode>683895021</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">65.24</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>One Bedroom Apartment - 1 double bed</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <RateInclusiveDescription>Includes Welcome Basket with Tea, Coffee and Milk</RateInclusiveDescription>
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=480006031&amp;ratecode=STD&amp;host=OMH&amp;searchtype=keyword&amp;id=1029221&amp;selectKey=1029221_null_null_null_A1%3A0%3A1029221_null_null_null_A2%3A1%3A1029221_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C240.08&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <AverageNightlyRate currency="GBP">65.24</AverageNightlyRate>
+                    <TotalCost currency="GBP">65.24</TotalCost>
+                    <Taxes currency="GBP">10.44</Taxes>
+                    <DistributorFees currency="GBP">2.61</DistributorFees>
+                    <TotalCostInclusive currency="GBP">78.29</TotalCostInclusive>
+                    <RateCode>STD</RateCode>
+                    <RoomCode>480006031</RoomCode>
+                    <RateAccessCode>683895021</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">65.24</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>One Bedroom Apartment - 1 double bed</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <RateInclusiveDescription>Includes Welcome Basket with Tea, Coffee and Milk</RateInclusiveDescription>
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=480006051&amp;ratecode=STD&amp;host=OMH&amp;searchtype=keyword&amp;id=1029221&amp;selectKey=1029221_null_null_null_A1%3A0%3A1029221_null_null_null_A2%3A1%3A1029221_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C240.08&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="1">
+                    <AverageNightlyRate currency="GBP">69.59</AverageNightlyRate>
+                    <TotalCost currency="GBP">69.59</TotalCost>
+                    <Taxes currency="GBP">11.13</Taxes>
+                    <DistributorFees currency="GBP">2.78</DistributorFees>
+                    <TotalCostInclusive currency="GBP">83.50</TotalCostInclusive>
+                    <RateCode>STD</RateCode>
+                    <RoomCode>480006051</RoomCode>
+                    <RateAccessCode>683895021</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">69.59</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>One Bedroom Apartment - 1 double bed - Plus 2 Single Sofa Beds</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <RateInclusiveDescription>Includes Welcome Basket with Tea, Coffee and Milk</RateInclusiveDescription>
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1500</CheckInTime>
+                <CheckOutTime>1200</CheckOutTime>
+                <Description locale="en_US" type="property">Located just a few minutes walk from Piccadilly Gardens, in the heart of Manchester City Centre, the City Warehouse Apartment Hotel offers a superb alternative to traditional Hotel accommodation. All 28 spacious and stylishly decorated apartments are designed with comfort, privacy and subtle elegance in mind, with options to sleep up to 8 people. All apartments are fitted with modern kitchens and beautifully designed bathrooms, and come equipped with 32 inch plasma-screen televisions. CD and DVD players are available on request, and WIFI is free as standard throughout the building. Each spacious enthouse apartment is equipped with complimentary Sky Sports and Sky Movies. All fresh linen, towels and toiletries are included and there is a complimentary welcome pack provided on arrival, including tea, coffee and milk. Our reception is open 24 hours a day and check-in is from 3pm onwards. We may be able to arrange an early check-in where required. Please note that this would be subject to availability and must be confirmed directly with the hotel prior to your check in date. Check out is at 12noon. Secure car parking is also available at a small charge. All guests have access to a Canal Street VIP card, valid for use by 6 people per card, which provides discounts and specials at various local bars, restaurants, and retail venues. Guests may also be required to provide a security deposit on check-in of between 50GBP-300GBP, depending on the type of apartment booked. This is taken as a pre-authorisation on a valid debit or credit card and is fully cancelled on check-out, provided keys are returned safely and the hotel's terms and conditions have been adhered to.</Description>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Exterior-1-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-1-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-2-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-3-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-4-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-5-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-6-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-7-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-8-DEF.jpg</Media>
+                <Media title="City-Warehouse-Aparthotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Interior-9-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/221/1029221/2241284-City-Warehouse-Aparthotel-Manchester-Hotel-Exterior-1-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="PRKNG">Parking</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2325</Longitude>
+                <Latitude>53.4844</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="4" NumberOfReviews="4" UserScore="4.5" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="JI" id="5374" name="Jurys Inn Manchester City Centre" phoneNumber="0161 953 8888" starRating="3">
+            <Address>
+                <com:Street1>Jurys Hotel</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M1 5LE</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="SW" unit="kilometers">1.04</Distance>
+            <TotalCostOfRooms currency="GBP">280.80</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=496246311&amp;ratecode=Nonref&amp;host=OMH&amp;searchtype=keyword&amp;id=38307&amp;selectKey=38307_null_null_null_A1%3A0%3A38307_null_null_null_A2%3A1%3A38307_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C280.80&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="12">
+                    <TotalStrikeRate currency="GBP">92.43</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">78.33</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">70.50</AverageNightlyRate>
+                    <TotalCost currency="GBP">70.50</TotalCost>
+                    <Taxes currency="GBP">11.70</Taxes>
+                    <DistributorFees currency="GBP">2.40</DistributorFees>
+                    <TotalCostInclusive currency="GBP">84.60</TotalCostInclusive>
+                    <RateCode>Nonref</RateCode>
+                    <RoomCode>496246311</RoomCode>
+                    <RateAccessCode>12596491</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="7.83" currency="GBP" night="1">70.50</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Advance Purchase - Twin Room - 2 twin (single) beds</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="ROOM">Room</RoomType>
+                        <RoomCategory code="TWIN">Twin</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Advance Purchase, SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=496246291&amp;ratecode=Nonref&amp;host=OMH&amp;searchtype=keyword&amp;id=38307&amp;selectKey=38307_null_null_null_A1%3A0%3A38307_null_null_null_A2%3A1%3A38307_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C280.80&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="11">
+                    <TotalStrikeRate currency="GBP">92.43</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">78.33</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">70.50</AverageNightlyRate>
+                    <TotalCost currency="GBP">70.50</TotalCost>
+                    <Taxes currency="GBP">11.70</Taxes>
+                    <DistributorFees currency="GBP">2.40</DistributorFees>
+                    <TotalCostInclusive currency="GBP">84.60</TotalCostInclusive>
+                    <RateCode>Nonref</RateCode>
+                    <RoomCode>496246291</RoomCode>
+                    <RateAccessCode>12596491</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="7.83" currency="GBP" night="1">70.50</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Advance Purchase - Double Room - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="ROOM">Room</RoomType>
+                        <RoomCategory code="DOUBLE">Double</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Advance Purchase, SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=496246331&amp;ratecode=Nonref&amp;host=OMH&amp;searchtype=keyword&amp;id=38307&amp;selectKey=38307_null_null_null_A1%3A0%3A38307_null_null_null_A2%3A1%3A38307_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C280.80&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="12">
+                    <TotalStrikeRate currency="GBP">121.93</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">103.33</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">93.00</AverageNightlyRate>
+                    <TotalCost currency="GBP">93.00</TotalCost>
+                    <Taxes currency="GBP">15.44</Taxes>
+                    <DistributorFees currency="GBP">3.16</DistributorFees>
+                    <TotalCostInclusive currency="GBP">111.60</TotalCostInclusive>
+                    <RateCode>Nonref</RateCode>
+                    <RoomCode>496246331</RoomCode>
+                    <RateAccessCode>12596491</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="10.33" currency="GBP" night="1">93.00</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Advance Purchase - Triple Room - 1 double bed and 1 twin (single) bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="ROOM">Room</RoomType>
+                        <RoomCategory code="TRIPPLE">Triple</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Advance Purchase, SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1400</CheckInTime>
+                <CheckOutTime>1100</CheckOutTime>
+                <Description locale="en_US" type="property">At Jurys Inn Manchester hotel we aim to make your stay exceptional. It starts as soon as you step inside the hotel and experience the facilities, from the welcoming bar atmosphere to the relaxed quality of restaurant, and its even more noticeable when you check into your room.13382&lt;br /&gt; &lt;br /&gt;The completely refurbished building has 265 bedrooms in total. More spacious than you'd expect, rooms can accommodate three adults or two adults with two children, or just one guest. The well lit, spacious feel is clearly designed around guests comfort. But that's not the only little extra.</Description>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-1-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-2-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-3-DEF.jpeg-1399629941312</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-4-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-5-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-6-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-7-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-8-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-9-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-10-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-11-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-12-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-13-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-14-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Guest-Room-1-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Guest-Room-2-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Guest-Room-3-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Guest-Room-4-DEF.jpeg</Media>
+                <Media title="Jurys-Inn-Manchester-City-Centre-Meeting-Room" type="property">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Meeting-Room-1-DEF.jpeg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/307/38307/2241284-Jurys-Inn-Manchester-City-Centre-Hotel-Exterior-1-LP.jpeg</Media>
+                <Amenities>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="REST">Restaurant</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2473</Longitude>
+                <Latitude>53.475</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="16" NumberOfReviews="18" UserScore="4.0" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="OBZ" id="267118" name="The Works ApartHotel Manchester" phoneNumber="44-800-678-5854" starRating="4">
+            <Address>
+                <com:Street1>33 Withy Grove</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M4 2BJ</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="SW" unit="kilometers">1.03</Distance>
+            <TotalCostOfRooms currency="GBP">267.74</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=458766051&amp;ratecode=SR&amp;host=OMH&amp;searchtype=keyword&amp;id=981061&amp;selectKey=981061_null_null_null_A1%3A0%3A981061_null_null_null_A2%3A1%3A981061_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C267.74&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <AverageNightlyRate currency="GBP">70.31</AverageNightlyRate>
+                    <TotalCost currency="GBP">70.31</TotalCost>
+                    <Taxes currency="GBP">11.25</Taxes>
+                    <DistributorFees currency="GBP">2.81</DistributorFees>
+                    <TotalCostInclusive currency="GBP">84.37</TotalCostInclusive>
+                    <RateCode>SR</RateCode>
+                    <RoomCode>458766051</RoomCode>
+                    <RateAccessCode>789254421</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">70.31</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>1 Bedroom - Deluxe Apartment - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="DELUXE">Deluxe</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <RateInclusiveDescription>Taxes</RateInclusiveDescription>
+                    <MealPlanInfos />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=458766051&amp;ratecode=SR&amp;host=OMH&amp;searchtype=keyword&amp;id=981061&amp;selectKey=981061_null_null_null_A1%3A0%3A981061_null_null_null_A2%3A1%3A981061_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C267.74&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <AverageNightlyRate currency="GBP">70.31</AverageNightlyRate>
+                    <TotalCost currency="GBP">70.31</TotalCost>
+                    <Taxes currency="GBP">11.25</Taxes>
+                    <DistributorFees currency="GBP">2.81</DistributorFees>
+                    <TotalCostInclusive currency="GBP">84.37</TotalCostInclusive>
+                    <RateCode>SR</RateCode>
+                    <RoomCode>458766051</RoomCode>
+                    <RateAccessCode>789254421</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">70.31</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>1 Bedroom - Deluxe Apartment - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="DELUXE">Deluxe</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <RateInclusiveDescription>Taxes</RateInclusiveDescription>
+                    <MealPlanInfos />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=458766091&amp;ratecode=SR&amp;host=OMH&amp;searchtype=keyword&amp;id=981061&amp;selectKey=981061_null_null_null_A1%3A0%3A981061_null_null_null_A2%3A1%3A981061_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C267.74&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="3">
+                    <AverageNightlyRate currency="GBP">82.50</AverageNightlyRate>
+                    <TotalCost currency="GBP">82.50</TotalCost>
+                    <Taxes currency="GBP">13.20</Taxes>
+                    <DistributorFees currency="GBP">3.30</DistributorFees>
+                    <TotalCostInclusive currency="GBP">99.00</TotalCostInclusive>
+                    <RateCode>SR</RateCode>
+                    <RoomCode>458766091</RoomCode>
+                    <RateAccessCode>789254421</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">82.50</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>1 Bedroom - Premium Apartment - 1 king bed and 1 twin (single) bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="PREMIUM">Premium</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <RateInclusiveDescription>Taxes</RateInclusiveDescription>
+                    <MealPlanInfos />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1500</CheckInTime>
+                <CheckOutTime>1200</CheckOutTime>
+                <Description locale="en_US" type="property">With guest comfort and convenience to rival four star hotels, these luxury city centre apartments are located 15 minutes from Manchester Piccadilly Station and a stone throw away from the MEN Arena.&#xD; &#xD; The Works Aparthotel offer deluxe and premium apartments boasting spacious and airy living areas with floor-to-ceiling windows, city-centre viewing balconies, free and unlimited broadband Wi-Fi, tiled bathrooms and roomy bedrooms. Unlike mainstream hotels, we do not levy supplementary charges for extra sleeps (subject to apartment type booked) making our rates the most value driven prices in Manchester.&#xD; &#xD; Each of our luxury apartment offers a contemporary kitchen with open-plan living and dining area, tea/coffee making facilities, multi-channel LCD TV and a DVD player. Amenities in each of our excellent standards of accommodation come with Egyptian cotton linen and bath sheets and aromatherapy toiletries by world renowned Gilchrist &amp;amp; Soames.&#xD; &#xD; Adjacent to the Arndale shopping centre, the hotel is situated in the heart of the city and nearby Manchesters best bars and night life, The Works Aparthotel also provides easy access to Manchester Victoria Railway Station and Shudehill Bus Station.&#xD; &#xD; Printworks, which is located a 1-minute walk away, features an IMAX movie theatre and a range of cafs and restaurants in the immediate vicinity.&#xD; &#xD; You no longer have to miss breakfast in bed or rush to the breakfast room. With a kitchen to make your own, our Aparthotel provides you with the best of both worlds. The service and luxury feel of a hotel and the flexibility and independence of your own home.</Description>
+                <Media title="The-Works-ApartHotel-Manchester-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Hotel-Exterior-1-DEF.JPG</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Hotel-Exterior-2-DEF.png</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Hotel-Exterior-3-DEF.png</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Guest-Room-1-DEF.png</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Guest-Room-2-DEF.JPG</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Guest-Room-3-DEF.png</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Guest-Room-4-DEF.png</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Guest-Room-5-DEF.png</Media>
+                <Media title="The-Works-ApartHotel-Manchester-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Hotel-Interior-1-DEF.png</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/061/981061/2241284-The-Works-ApartHotel-Manchester-Hotel-Exterior-2-LP.png</Media>
+                <Amenities>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="RMA207">Free internet in room</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="HAC222">Free internet</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.246</Longitude>
+                <Latitude>53.474</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="0" NumberOfReviews="1" UserScore="2.0" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="UI" id="188225" name="The Place Aparthotel" phoneNumber="44-161-778-7500" starRating="4">
+            <Address>
+                <com:Street1>Ducie Street, Piccadilly</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M1 2TP</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="SE" unit="kilometers">0.22</Distance>
+            <TotalCostOfRooms currency="GBP">435.00</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=163918&amp;ratecode=123&amp;host=OMH&amp;searchtype=keyword&amp;id=56446&amp;selectKey=56446_null_null_null_A1%3A0%3A56446_null_null_null_A2%3A1%3A56446_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C435.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="17">
+                    <AverageNightlyRate currency="GBP">120.84</AverageNightlyRate>
+                    <TotalCost currency="GBP">120.84</TotalCost>
+                    <Taxes currency="GBP">19.33</Taxes>
+                    <DistributorFees currency="GBP">4.83</DistributorFees>
+                    <TotalCostInclusive currency="GBP">145.00</TotalCostInclusive>
+                    <RateCode>123</RateCode>
+                    <RoomCode>163918</RoomCode>
+                    <RateAccessCode>120191</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">120.84</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Two Bedroom Apartment - 2 double beds</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=163918&amp;ratecode=123&amp;host=OMH&amp;searchtype=keyword&amp;id=56446&amp;selectKey=56446_null_null_null_A1%3A0%3A56446_null_null_null_A2%3A1%3A56446_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C435.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="17">
+                    <AverageNightlyRate currency="GBP">120.84</AverageNightlyRate>
+                    <TotalCost currency="GBP">120.84</TotalCost>
+                    <Taxes currency="GBP">19.33</Taxes>
+                    <DistributorFees currency="GBP">4.83</DistributorFees>
+                    <TotalCostInclusive currency="GBP">145.00</TotalCostInclusive>
+                    <RateCode>123</RateCode>
+                    <RoomCode>163918</RoomCode>
+                    <RateAccessCode>120191</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">120.84</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Two Bedroom Apartment - 2 double beds</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=163918&amp;ratecode=123&amp;host=OMH&amp;searchtype=keyword&amp;id=56446&amp;selectKey=56446_null_null_null_A1%3A0%3A56446_null_null_null_A2%3A1%3A56446_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C435.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="17">
+                    <AverageNightlyRate currency="GBP">120.84</AverageNightlyRate>
+                    <TotalCost currency="GBP">120.84</TotalCost>
+                    <Taxes currency="GBP">19.33</Taxes>
+                    <DistributorFees currency="GBP">4.83</DistributorFees>
+                    <TotalCostInclusive currency="GBP">145.00</TotalCostInclusive>
+                    <RateCode>123</RateCode>
+                    <RoomCode>163918</RoomCode>
+                    <RateAccessCode>120191</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">120.84</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Two Bedroom Apartment - 2 double beds</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1500</CheckInTime>
+                <CheckOutTime>1100</CheckOutTime>
+                <Description locale="en_US" type="property">The Grade II listed building has been tastefully converted into a luxurious apartment hotel. The barreled ceilings, vast rooms, exposed brickwork and ironwork make this hotel a truly unique and special place to visit. Each stylish and contemporary apartment is beautifully appointed and well equipped with all the modern amenities you need in a relaxing base. &#xD; &#xD; These stunning modern apartments offer all the service of a 4-star hotel, along with all the freedom, convenience and comfort of a 4-star luxury apartment.&#xD; &#xD; With 100 luxury one and two-bedroom apartments and eight fabulous penthouse suites on site, the hotel can rightly boast to be the finest apartment hotel in Manchester. &#xD; &#xD; Why hide yourself away in just a bedroom when you can have an entire apartment to enjoy during your stay? As well as the usual luxury bedroom and bathroom you will find in most good hotels, The Hotel can also offer you a large lounge and dining area, as well as a fully-fitted kitchen. &#xD; Each apartment is tastefully furnished and fully equipped with all the modern comforts and facilities you need in a restful, relaxing base. The kitchens are also fully equipped with oven and hob, microwave, kettle, toaster, dishwasher, fridge/freezer, and full crockery, meaning you want for nothing. &#xD; &#xD; The Place Hotel has also recently completed work on it's new residents gym, which is free of charge to all hotel guests. The gym operates between 6am and 10pm.&#xD; &#xD; All this, complete with a dedicated 24-hour reception desk, daily maid service, 24-hour room service, a secure car park and 4-star accommodation provides you with far more than you can expect from traditional hotels in the city.&#xD; &#xD; *** A GBP 50 security deposit will be required upon check-in, to be held against any possible damages. This is fully refundable upon departure ***</Description>
+                <Media title="The-Place-Aparthotel-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/446/56446/2631759-The-Place-Aparthotel-Guest-Room-1-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/446/56446/2631759-The-Place-Aparthotel-Guest-Room-1-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="CNFFAC">Conference facilities</Amenity>
+                    <Amenity code="LANDRY">Laundry service</Amenity>
+                    <Amenity code="RMA207">Free internet in room</Amenity>
+                    <Amenity code="BAR">Bar/Lounge</Amenity>
+                    <Amenity code="REST">Restaurant</Amenity>
+                    <Amenity code="HAC222">Free internet</Amenity>
+                    <Amenity code="ROOM24">24 hour room service</Amenity>
+                    <Amenity code="MTGFAC">Meeting/Banquet facilities</Amenity>
+                    <Amenity code="DOCTOR">Doctor on call</Amenity>
+                    <Amenity code="PRKNG">Parking</Amenity>
+                    <Amenity code="SPA">Fitness centre or spa</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.231</Longitude>
+                <Latitude>53.4791</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="60" NumberOfReviews="63" UserScore="4.3" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="GL" id="73416" name="City Stop Manchester" phoneNumber="011441618342963" starRating="4">
+            <Address>
+                <com:Street1>6-16 Dantzic Street</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M4 2AD</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="NW" unit="kilometers">0.67</Distance>
+            <TotalCostOfRooms currency="GBP">227.71</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=449167771&amp;ratecode=ADVP&amp;host=OMH&amp;searchtype=keyword&amp;id=552551&amp;selectKey=552551_null_null_null_A1%3A0%3A552551_null_null_null_A2%3A1%3A552551_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C227.71&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <TotalStrikeRate currency="GBP">70.80</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">60.00</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">54.00</AverageNightlyRate>
+                    <TotalCost currency="GBP">54.00</TotalCost>
+                    <Taxes currency="GBP">8.64</Taxes>
+                    <DistributorFees currency="GBP">2.16</DistributorFees>
+                    <TotalCostInclusive currency="GBP">64.80</TotalCostInclusive>
+                    <RateCode>ADVP</RateCode>
+                    <RoomCode>449167771</RoomCode>
+                    <RateAccessCode>684454971</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="6.00" currency="GBP" night="1">54.00</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>1 Bedroom - Executive Apartment - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="EXECUTIVE">Executive</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="IMPORTANT CHECK IN INFORMATION: There is no manned check in desk at City Stop Manchester after 20:00 (Monday to Saturday) and 16:00 (Sunday), the access to the property is strictly secured through a series of door codes. If you will be arriving after this time please contact City Stop Manchester at least 3 days prior to your arrival on +44 (161) 8342963 or email info@citystopmanchester.co.uk.&#xD;&#xA;&#xD;&#xA;NOTE: If you do not receive check in details containing these codes this will result in you not being able to access the property and may cause inconvenience and delay to your stay. By contacting us in advance we can ensure you have an enjoyable experience from your arrival to departure." numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="PLEASE CHECK VOUCHER FOR CHECK IN PROCEDURE" termsAndConditions="IMPORTANT CHECK IN INFORMATION: There is no manned check in desk at City Stop Manchester after 20:00 (Monday to Saturday) and 16:00 (Sunday), the access to the property is strictly secured through a series of door codes. If you will be arriving after this time please contact City Stop Manchester at least 3 days prior to your arrival on +44 (161) 8342963 or email info@citystopmanchester.co.uk.&#xD;&#xA;&#xD;&#xA;NOTE: If you do not receive check in details containing these codes this will result in you not being able to access the property and may cause inconvenience and delay to your stay. By contacting us in advance we can ensure you have an enjoyable experience from your arrival to departure." />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance and SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=449167771&amp;ratecode=ADVP&amp;host=OMH&amp;searchtype=keyword&amp;id=552551&amp;selectKey=552551_null_null_null_A1%3A0%3A552551_null_null_null_A2%3A1%3A552551_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C227.71&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <TotalStrikeRate currency="GBP">70.80</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">60.00</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">54.00</AverageNightlyRate>
+                    <TotalCost currency="GBP">54.00</TotalCost>
+                    <Taxes currency="GBP">8.64</Taxes>
+                    <DistributorFees currency="GBP">2.16</DistributorFees>
+                    <TotalCostInclusive currency="GBP">64.80</TotalCostInclusive>
+                    <RateCode>ADVP</RateCode>
+                    <RoomCode>449167771</RoomCode>
+                    <RateAccessCode>684454971</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="6.00" currency="GBP" night="1">54.00</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>1 Bedroom - Executive Apartment - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="EXECUTIVE">Executive</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="IMPORTANT CHECK IN INFORMATION: There is no manned check in desk at City Stop Manchester after 20:00 (Monday to Saturday) and 16:00 (Sunday), the access to the property is strictly secured through a series of door codes. If you will be arriving after this time please contact City Stop Manchester at least 3 days prior to your arrival on +44 (161) 8342963 or email info@citystopmanchester.co.uk.&#xD;&#xA;&#xD;&#xA;NOTE: If you do not receive check in details containing these codes this will result in you not being able to access the property and may cause inconvenience and delay to your stay. By contacting us in advance we can ensure you have an enjoyable experience from your arrival to departure." numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="PLEASE CHECK VOUCHER FOR CHECK IN PROCEDURE" termsAndConditions="IMPORTANT CHECK IN INFORMATION: There is no manned check in desk at City Stop Manchester after 20:00 (Monday to Saturday) and 16:00 (Sunday), the access to the property is strictly secured through a series of door codes. If you will be arriving after this time please contact City Stop Manchester at least 3 days prior to your arrival on +44 (161) 8342963 or email info@citystopmanchester.co.uk.&#xD;&#xA;&#xD;&#xA;NOTE: If you do not receive check in details containing these codes this will result in you not being able to access the property and may cause inconvenience and delay to your stay. By contacting us in advance we can ensure you have an enjoyable experience from your arrival to departure." />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance and SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=449167791&amp;ratecode=ADVP&amp;host=OMH&amp;searchtype=keyword&amp;id=552551&amp;selectKey=552551_null_null_null_A1%3A0%3A552551_null_null_null_A2%3A1%3A552551_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C227.71&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <TotalStrikeRate currency="GBP">107.19</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">90.84</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">81.76</AverageNightlyRate>
+                    <TotalCost currency="GBP">81.76</TotalCost>
+                    <Taxes currency="GBP">13.08</Taxes>
+                    <DistributorFees currency="GBP">3.27</DistributorFees>
+                    <TotalCostInclusive currency="GBP">98.11</TotalCostInclusive>
+                    <RateCode>ADVP</RateCode>
+                    <RoomCode>449167791</RoomCode>
+                    <RateAccessCode>684454971</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="9.08" currency="GBP" night="1">81.76</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>2 Bedroom - Executive Apartment - 2 twin (single) beds or 1 double bed and 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="EXECUTIVE">Executive</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="IMPORTANT CHECK IN INFORMATION: There is no manned check in desk at City Stop Manchester after 20:00 (Monday to Saturday) and 16:00 (Sunday), the access to the property is strictly secured through a series of door codes. If you will be arriving after this time please contact City Stop Manchester at least 3 days prior to your arrival on +44 (161) 8342963 or email info@citystopmanchester.co.uk.&#xD;&#xA;&#xD;&#xA;NOTE: If you do not receive check in details containing these codes this will result in you not being able to access the property and may cause inconvenience and delay to your stay. By contacting us in advance we can ensure you have an enjoyable experience from your arrival to departure." numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="PLEASE CHECK VOUCHER FOR CHECK IN PROCEDURE" termsAndConditions="IMPORTANT CHECK IN INFORMATION: There is no manned check in desk at City Stop Manchester after 20:00 (Monday to Saturday) and 16:00 (Sunday), the access to the property is strictly secured through a series of door codes. If you will be arriving after this time please contact City Stop Manchester at least 3 days prior to your arrival on +44 (161) 8342963 or email info@citystopmanchester.co.uk.&#xD;&#xA;&#xD;&#xA;NOTE: If you do not receive check in details containing these codes this will result in you not being able to access the property and may cause inconvenience and delay to your stay. By contacting us in advance we can ensure you have an enjoyable experience from your arrival to departure." />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance and SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1400</CheckInTime>
+                <CheckOutTime>1100</CheckOutTime>
+                <Description locale="en_US" type="property">Victoria Buildings is a stunning grade II listed property and provides beautiful contemporary apartments with a combination of the old exposed brickwork and new steelwork. The ideal place to stay for business or pleasure, conveniently located opposite the Printworks and adjacent to the Arndale Shopping Centre, close to all that Manchester has to offer. The apartments accommodate between one and eight guests, offering many home comforts and suitable for both short and long stays. Each fully furnished apartment incorporates modern kitchens and complimentary internet access; each has a 32-inch LCD TV, open plan living and dining areas and private bathroom with complimentary toiletries. All apartments are inclusive of all utilities and come with bedding and towels. Reception is open 7 days a week between 10am and 8pm Monday to Friday, 11am to 7pm on Saturdays and 12noon to 4pm on Sundays and UK Bank Holidays. A 24 hour on-call manager is provided outside of these hours together with an out-of-hours check-in facility. Disabled access is available, on request, which include wide entry doors and a large bathroom. PLEASE NOTE a security deposit of 250.00 GBP, per apartment, will be required on arrival and is refundable subject to conditions.</Description>
+                <Media title="City-Stop-Manchester-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Hotel-Exterior-1-DEF.jpg</Media>
+                <Media title="City-Stop-Manchester-Lobby" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Lobby-1-DEF.jpg</Media>
+                <Media title="City-Stop-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Guest-Room-1-DEF.jpg</Media>
+                <Media title="City-Stop-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Guest-Room-2-DEF.jpg</Media>
+                <Media title="City-Stop-Manchester-Dining" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Dining-1-DEF.jpg</Media>
+                <Media title="City-Stop-Manchester-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-BarLounge-1-DEF.jpg</Media>
+                <Media title="City-Stop-Manchester-Recreation" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Recreation-1-DEF.jpg</Media>
+                <Media title="City-Stop-Manchester-Meeting-Room" type="property">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Meeting-Room-1-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/551/552551/2631759-City-Stop-Manchester-Hotel-Exterior-1-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2398</Longitude>
+                <Latitude>53.4849</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="4" NumberOfReviews="5" UserScore="4.0" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="MS" id="46154" name="Blue Rainbow ApartHotel Manchester High Street" phoneNumber="+448450452222" starRating="5">
+            <Address>
+                <com:Street1>58 High Street</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M4 1EF</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="NW" unit="kilometers">0.56</Distance>
+            <TotalCostOfRooms currency="GBP">296.71</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=452246791&amp;ratecode=NONR&amp;host=OMH&amp;searchtype=keyword&amp;id=926661&amp;selectKey=926661_null_null_null_A1%3A0%3A926661_null_null_null_A2%3A1%3A926661_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C296.71&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <TotalStrikeRate currency="GBP">101.83</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">86.29</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">77.66</AverageNightlyRate>
+                    <TotalCost currency="GBP">77.66</TotalCost>
+                    <Taxes currency="GBP">12.43</Taxes>
+                    <DistributorFees currency="GBP">3.11</DistributorFees>
+                    <TotalCostInclusive currency="GBP">93.20</TotalCostInclusive>
+                    <RateCode>NONR</RateCode>
+                    <RoomCode>452246791</RoomCode>
+                    <RateAccessCode>660174821</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="8.63" currency="GBP" night="1">77.66</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Adv Purchase - 1 Bedroom - Premium Apartment - 1 Double Bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="PREMIUM">Premium</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance and SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=452246791&amp;ratecode=NONR&amp;host=OMH&amp;searchtype=keyword&amp;id=926661&amp;selectKey=926661_null_null_null_A1%3A0%3A926661_null_null_null_A2%3A1%3A926661_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C296.71&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <TotalStrikeRate currency="GBP">101.83</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">86.29</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">77.66</AverageNightlyRate>
+                    <TotalCost currency="GBP">77.66</TotalCost>
+                    <Taxes currency="GBP">12.43</Taxes>
+                    <DistributorFees currency="GBP">3.11</DistributorFees>
+                    <TotalCostInclusive currency="GBP">93.20</TotalCostInclusive>
+                    <RateCode>NONR</RateCode>
+                    <RoomCode>452246791</RoomCode>
+                    <RateAccessCode>660174821</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="8.63" currency="GBP" night="1">77.66</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Adv Purchase - 1 Bedroom - Premium Apartment - 1 Double Bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="PREMIUM">Premium</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance and SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=452246831&amp;ratecode=NONR&amp;host=OMH&amp;searchtype=keyword&amp;id=926661&amp;selectKey=926661_null_null_null_A1%3A0%3A926661_null_null_null_A2%3A1%3A926661_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C296.71&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="4">
+                    <TotalStrikeRate currency="GBP">120.52</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">102.13</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">91.92</AverageNightlyRate>
+                    <TotalCost currency="GBP">91.92</TotalCost>
+                    <Taxes currency="GBP">14.71</Taxes>
+                    <DistributorFees currency="GBP">3.68</DistributorFees>
+                    <TotalCostInclusive currency="GBP">110.31</TotalCostInclusive>
+                    <RateCode>NONR</RateCode>
+                    <RoomCode>452246831</RoomCode>
+                    <RateAccessCode>660174821</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="10.21" currency="GBP" night="1">91.92</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Adv Purchase - 2 Bedroom - Saver Apartment - 1 Double And 1 Single Bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="SAVER">Saver</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance and SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1500</CheckInTime>
+                <CheckOutTime>1100</CheckOutTime>
+                <Description locale="en_US" type="property">Fully renovated and newly opened in April 2012 our 19 one and two bedroom apartments are located in the heart of Manchester next to The Arndale Centre shopping centre, Print works leisure complex and the MEN Arena. Features include a 24 hour reception, 42 inch plasma TV, DVD player, Wi-Fi internet available (10.00 GBP per night), telephone, 900 thread count Egyptian cotton towels, bedding and robes, goose down duvets, Luxury Toiletries and a selection of tea's and coffee's in every apartment. All apartments can have a sofa bed added in the lounge which can be sleep 2 people and a 30 GBP per night additional charge applies. All major credit cards accepted (except laser card) including Amex. Important - A credit/debit card must be presented to provide a pre authorisation of at least 100 GBP by chip and pin at check in and entry cannot be permitted without this.</Description>
+                <Media title="Blue-Rainbow-ApartHotel-Manchester-High-Street-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/661/926661/2631759-Blue-Rainbow-ApartHotel-Manchester-High-Street-Guest-Room-1-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-ApartHotel-Manchester-High-Street-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/661/926661/2631759-Blue-Rainbow-ApartHotel-Manchester-High-Street-Guest-Room-2-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-ApartHotel-Manchester-High-Street-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/661/926661/2631759-Blue-Rainbow-ApartHotel-Manchester-High-Street-Guest-Room-3-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-ApartHotel-Manchester-High-Street-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/661/926661/2631759-Blue-Rainbow-ApartHotel-Manchester-High-Street-BarLounge-1-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-ApartHotel-Manchester-High-Street-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/661/926661/2631759-Blue-Rainbow-ApartHotel-Manchester-High-Street-BarLounge-2-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/661/926661/2631759-Blue-Rainbow-ApartHotel-Manchester-High-Street-Guest-Room-1-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="SAFDEP">In-Room Safe</Amenity>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="PRKNG">Parking</Amenity>
+                    <Amenity code="WCHR">Wheel chair access</Amenity>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="LANDRY">Laundry service</Amenity>
+                    <Amenity code="SPA">Fitness centre or spa</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                    <Amenity code="ROOM">Room service</Amenity>
+                    <Amenity code="PHY28">Public areas wheelchair accessible for disabled</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2381</Longitude>
+                <Latitude>53.4843</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="11" NumberOfReviews="12" UserScore="3.9" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="MS" id="77195" name="Blue Rainbow Aparthotel Manchester Central" phoneNumber="44-845-0452222" starRating="5">
+            <Address>
+                <com:Street1>Hill Quays</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M15 4PZ</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="SW" unit="kilometers">1.35</Distance>
+            <TotalCostOfRooms currency="GBP">303.30</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=451885851&amp;ratecode=14ADVP&amp;host=OMH&amp;searchtype=keyword&amp;id=286822&amp;selectKey=286822_null_null_null_A1%3A0%3A286822_null_null_null_A2%3A1%3A286822_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C303.30&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="10">
+                    <AverageNightlyRate currency="GBP">81.75</AverageNightlyRate>
+                    <TotalCost currency="GBP">81.75</TotalCost>
+                    <Taxes currency="GBP">13.08</Taxes>
+                    <DistributorFees currency="GBP">3.27</DistributorFees>
+                    <TotalCostInclusive currency="GBP">98.10</TotalCostInclusive>
+                    <RateCode>14ADVP</RateCode>
+                    <RoomCode>451885851</RoomCode>
+                    <RateAccessCode>758614441</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">81.75</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Advance Purchase 1 Bed - Executive Apartment - 1 double bed - Plus extra bed at 30 GBP</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="EXECUTIVE">Executive</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="Book now and SAVE!" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="Book now and SAVE!" termsAndConditions="Book now and SAVE!" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=451885851&amp;ratecode=14ADVP&amp;host=OMH&amp;searchtype=keyword&amp;id=286822&amp;selectKey=286822_null_null_null_A1%3A0%3A286822_null_null_null_A2%3A1%3A286822_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C303.30&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="11">
+                    <AverageNightlyRate currency="GBP">81.75</AverageNightlyRate>
+                    <TotalCost currency="GBP">81.75</TotalCost>
+                    <Taxes currency="GBP">13.08</Taxes>
+                    <DistributorFees currency="GBP">3.27</DistributorFees>
+                    <TotalCostInclusive currency="GBP">98.10</TotalCostInclusive>
+                    <RateCode>14ADVP</RateCode>
+                    <RoomCode>451885851</RoomCode>
+                    <RateAccessCode>758614441</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">81.75</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Advance Purchase 1 Bed - Executive Apartment - 1 double bed - Plus extra bed at 30 GBP</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="EXECUTIVE">Executive</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="Book now and SAVE!" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="Book now and SAVE!" termsAndConditions="Book now and SAVE!" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=451885831&amp;ratecode=14ADVP&amp;host=OMH&amp;searchtype=keyword&amp;id=286822&amp;selectKey=286822_null_null_null_A1%3A0%3A286822_null_null_null_A2%3A1%3A286822_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C303.30&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="5">
+                    <AverageNightlyRate currency="GBP">89.25</AverageNightlyRate>
+                    <TotalCost currency="GBP">89.25</TotalCost>
+                    <Taxes currency="GBP">14.28</Taxes>
+                    <DistributorFees currency="GBP">3.57</DistributorFees>
+                    <TotalCostInclusive currency="GBP">107.10</TotalCostInclusive>
+                    <RateCode>14ADVP</RateCode>
+                    <RoomCode>451885831</RoomCode>
+                    <RateAccessCode>758614441</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">89.25</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Advance Purchase 2 Bed - Saver Apartment - 2 double beds - Plus extra bed at 30 GBP</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="SAVER">Saver</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="Book now and SAVE!" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="Book now and SAVE!" termsAndConditions="Book now and SAVE!" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1500</CheckInTime>
+                <CheckOutTime>1100</CheckOutTime>
+                <Description locale="en_US" type="property">***WINNER MARKETING MANCHESTER TOURISM AWARDS 2009*** AWARDED GOLD AWARD-ENJOY ENGLAND 2009/10 and one of the top Serviced Apartment providers in the country. Constructed in 2008 our 80 one and two bedroom apartments are located around a feature atrium overlooking a delightful indoor garden. Features include a 24 hour reception, secure underground parking (14.95 GBP per night), 5 star quality and service, 42&amp;quot; LCD TV, movies and music on demand, Wi-Fi (10.00 GBP per 24 hours), cabled and keyboard internet available, telephone, 900 thread count Egyptian cotton towels, bedding and robes, goose down duvets, Luxury Toiletries, and a selection of tea's and coffee's in every apartment. All major credit cards accepted (except laser card) including Amex. Important - A credit/debit card must be presented to provide a pre authorisation of at least 100 GBP by chip and pin at check in and entry cannot be permitted without this.</Description>
+                <Media type="virtualTour">http://www.vfmii.com/exc/aspquery?command=invoke&amp;ipid=286822&amp;ids=40396</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Hotel-Exterior-1-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room-1-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room-2-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room-3-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room-4-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room-5-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Guest-Room-6-DEF.jpg</Media>
+                <Media title="Blue-Rainbow-Aparthotel-Manchester-Central-Hotel-Interior" type="property">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Hotel-Interior-1-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/822/286822/2631759-Blue-Rainbow-Aparthotel-Manchester-Central-Hotel-Exterior-1-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="HAC116">Accessible parking</Amenity>
+                    <Amenity code="HAC47">Accessible facilities</Amenity>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="LANDRY">Laundry service</Amenity>
+                    <Amenity code="PHY50">Handicapped parking</Amenity>
+                    <Amenity code="SAFDEP">In-Room Safe</Amenity>
+                    <Amenity code="WCHR">Wheel chair access</Amenity>
+                    <Amenity code="PRKNG">Parking</Amenity>
+                    <Amenity code="DISABL">Handicapped rooms/facilities</Amenity>
+                    <Amenity code="SPA">Fitness centre or spa</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="ROOM">Room service</Amenity>
+                    <Amenity code="PHY28">Public areas wheelchair accessible for disabled</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2506</Longitude>
+                <Latitude>53.4729</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="19" NumberOfReviews="24" UserScore="4.3" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="YX" id="321143" name="The Light ApartHotel Manchester" phoneNumber="011441618394848" starRating="4">
+            <Address>
+                <com:Street1>20 Church Street</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M4 1PN</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="NW" unit="kilometers">0.42</Distance>
+            <TotalCostOfRooms currency="GBP">393.29</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=12797391&amp;ratecode=ADV10&amp;host=OMH&amp;searchtype=keyword&amp;id=322609&amp;selectKey=322609_null_null_null_A1%3A0%3A322609_null_null_null_A2%3A1%3A322609_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C393.29&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="3">
+                    <TotalStrikeRate currency="GBP">126.85</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">107.50</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">96.75</AverageNightlyRate>
+                    <TotalCost currency="GBP">96.75</TotalCost>
+                    <Taxes currency="GBP">15.48</Taxes>
+                    <DistributorFees currency="GBP">3.87</DistributorFees>
+                    <TotalCostInclusive currency="GBP">116.10</TotalCostInclusive>
+                    <RateCode>ADV10</RateCode>
+                    <RoomCode>12797391</RoomCode>
+                    <RateAccessCode>679615051</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="10.75" currency="GBP" night="1">96.75</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Studio Apartment City View - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomView code="CITY">City View</RoomView>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance &amp; SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=12797391&amp;ratecode=ADV10&amp;host=OMH&amp;searchtype=keyword&amp;id=322609&amp;selectKey=322609_null_null_null_A1%3A0%3A322609_null_null_null_A2%3A1%3A322609_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C393.29&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="3">
+                    <TotalStrikeRate currency="GBP">126.85</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">107.50</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">96.75</AverageNightlyRate>
+                    <TotalCost currency="GBP">96.75</TotalCost>
+                    <Taxes currency="GBP">15.48</Taxes>
+                    <DistributorFees currency="GBP">3.87</DistributorFees>
+                    <TotalCostInclusive currency="GBP">116.10</TotalCostInclusive>
+                    <RateCode>ADV10</RateCode>
+                    <RoomCode>12797391</RoomCode>
+                    <RateAccessCode>679615051</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="10.75" currency="GBP" night="1">96.75</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Studio Apartment City View - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomView code="CITY">City View</RoomView>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance &amp; SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=12797411&amp;ratecode=ADV10&amp;host=OMH&amp;searchtype=keyword&amp;id=322609&amp;selectKey=322609_null_null_null_A1%3A0%3A322609_null_null_null_A2%3A1%3A322609_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C393.29&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="8">
+                    <TotalStrikeRate currency="GBP">176.01</TotalStrikeRate>
+                    <AverageNightlyStrikeRate currency="GBP">149.16</AverageNightlyStrikeRate>
+                    <AverageNightlyRate currency="GBP">134.24</AverageNightlyRate>
+                    <TotalCost currency="GBP">134.24</TotalCost>
+                    <Taxes currency="GBP">21.48</Taxes>
+                    <DistributorFees currency="GBP">5.37</DistributorFees>
+                    <TotalCostInclusive currency="GBP">161.09</TotalCostInclusive>
+                    <RateCode>ADV10</RateCode>
+                    <RoomCode>12797411</RoomCode>
+                    <RateAccessCode>679615051</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="14.92" currency="GBP" night="1">134.24</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>2 Bedroom - Deluxe Apartment - 2 double beds</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="APARTMENT">Apartment</RoomType>
+                        <RoomCategory code="DELUXE">Deluxe</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet" />
+                    <PromotionalInfo amount="10.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="PO" shortMarketingText="Book in advance &amp; SAVE 10%" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1500</CheckInTime>
+                <CheckOutTime>1100</CheckOutTime>
+                <Description locale="en_US" type="property">The Light ApartHotel is the first true serviced apartment hotel in Manchester, occupying a prime city centre location on the fringe of the trendy Northern Quarter.&#xD; &#xD; Our guests enjoy the flexibility of serviced apartment living with hotel-style accommodation, appealing to both the business and leisure traveller, The Light ApartHotel consists of 60 fully equipped and beautifully furnished studios, one and two bedroom apartments and a range of penthouse suites.&#xD; &#xD; The Light ApartHotel is a true alternative to top-end hotels and gives flexibility for families whose kids aren't quite independent, but too old to share a room.&#xD; Once you've tried it, we know you'll come back for more.&#xD; &#xD; Secure parking is available at The Light ApartHotel, due to limited spaces this is not guaranteed and is offered on a first come first served basis. Parking is charged at 17.50GBP per vehicle, per night. We advise all guests to register at reception to obtain a parking permit, prior to entering the car park.&#xD; &#xD; Please note: The car park is located underneath The Light ApartHotel; therefore a high restriction of 8 Foot(243cm) is in effect. Guests who will be arriving in a larger vehicle will not be able to park on-site or at private NCP locations throughout the city centre as similar height restrictions are in effect.&#xD; &#xD; The Light ApartHotel requires a preauthorisation of a debit/credit card upon check-in to cover any incidentals which you may incur during your stay. The amount authorised is 200.00 per apartment and 400.00 per penthouse suite. Upon your departure a member of the housekeeping and maintenance team will check your apartment; providing any/all incidentals have been settled for at check-out the authorisation will be released back to you. Although we instruct the card issuer to release the authorisation on your departure date; some card issuers can take up to 10 working days to release the authorisation. When entering the room if you notice anything wrong contact reception, if you don't you may be held accountable for it.</Description>
+                <Media title="The-Light-ApartHotel-Manchester-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Hotel-Exterior-2-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-1-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-2-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-3-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-4-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-5-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-6-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-7-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-8-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-9-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-10-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-11-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-12-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-13-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-14-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-15-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-16-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-17-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-18-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-19-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-20-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-21-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-22-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-23-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-24-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-25-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-27-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-28-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-29-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-30-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Guest-Room-31-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Bathroom" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Bathroom-2-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Bathroom" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Bathroom-3-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Bathroom" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Bathroom-4-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Bathroom" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Bathroom-5-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Bathroom" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Bathroom-6-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-Bathroom" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Bathroom-7-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-in-Room-Amenity" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-in-Room-Amenity-1-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-in-Room-Amenity" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-in-Room-Amenity-2-DEF.jpg</Media>
+                <Media title="The-Light-ApartHotel-Manchester-in-Room-Amenity" type="property">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-in-Room-Amenity-3-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/609/322609/2241284-The-Light-ApartHotel-Manchester-Hotel-Exterior-2-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="BUSCTR">Business centre</Amenity>
+                    <Amenity code="PRKNG">Parking</Amenity>
+                    <Amenity code="HAC47">Accessible facilities</Amenity>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="RMPACC">Ramp access to buildings</Amenity>
+                    <Amenity code="CNFFAC">Conference facilities</Amenity>
+                    <Amenity code="SPA">Fitness centre or spa</Amenity>
+                    <Amenity code="REST">Restaurant</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                    <Amenity code="HAC222">Free internet</Amenity>
+                    <Amenity code="PHY69">Service dogs allowed</Amenity>
+                    <Amenity code="PHY28">Public areas wheelchair accessible for disabled</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2378</Longitude>
+                <Latitude>53.483</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="16" NumberOfReviews="19" UserScore="4.0" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="WV" id="120160" name="Bewleys Hotel Manchester Airport" phoneNumber="44-0161-498-1390" starRating="3">
+            <Address>
+                <com:Street1>Outwood Lane</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M90 4HL</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="S" unit="kilometers">13.1</Distance>
+            <TotalCostOfRooms currency="GBP">315.00</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=557925811&amp;ratecode=123&amp;host=OMH&amp;searchtype=keyword&amp;id=69056&amp;selectKey=69056_null_null_null_A1%3A0%3A69056_null_null_null_A2%3A1%3A69056_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C315.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="18">
+                    <AverageNightlyRate currency="GBP">83.34</AverageNightlyRate>
+                    <TotalCost currency="GBP">83.34</TotalCost>
+                    <Taxes currency="GBP">13.33</Taxes>
+                    <DistributorFees currency="GBP">3.33</DistributorFees>
+                    <TotalCostInclusive currency="GBP">100.00</TotalCostInclusive>
+                    <RateCode>123</RateCode>
+                    <RoomCode>557925811</RoomCode>
+                    <RateAccessCode>129408</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">83.34</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Double Room - 1 double bed</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="ROOM">Room</RoomType>
+                        <RoomCategory code="DOUBLE">Double</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet and FREE Airport Shuttle" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=557925831&amp;ratecode=123&amp;host=OMH&amp;searchtype=keyword&amp;id=69056&amp;selectKey=69056_null_null_null_A1%3A0%3A69056_null_null_null_A2%3A1%3A69056_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C315.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="19">
+                    <AverageNightlyRate currency="GBP">83.34</AverageNightlyRate>
+                    <TotalCost currency="GBP">83.34</TotalCost>
+                    <Taxes currency="GBP">13.33</Taxes>
+                    <DistributorFees currency="GBP">3.33</DistributorFees>
+                    <TotalCostInclusive currency="GBP">100.00</TotalCostInclusive>
+                    <RateCode>123</RateCode>
+                    <RoomCode>557925831</RoomCode>
+                    <RateAccessCode>129408</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">83.34</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Twin Room - 2 twin (single) beds</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="ROOM">Room</RoomType>
+                        <RoomCategory code="TWIN">Twin</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet and FREE Airport Shuttle" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=457085811&amp;ratecode=123&amp;host=OMH&amp;searchtype=keyword&amp;id=69056&amp;selectKey=69056_null_null_null_A1%3A0%3A69056_null_null_null_A2%3A1%3A69056_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C315.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="19">
+                    <AverageNightlyRate currency="GBP">95.84</AverageNightlyRate>
+                    <TotalCost currency="GBP">95.84</TotalCost>
+                    <Taxes currency="GBP">15.33</Taxes>
+                    <DistributorFees currency="GBP">3.83</DistributorFees>
+                    <TotalCostInclusive currency="GBP">115.00</TotalCostInclusive>
+                    <RateCode>123</RateCode>
+                    <RoomCode>457085811</RoomCode>
+                    <RateAccessCode>129408</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">95.84</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Family Room - 2 double beds</RoomDescription>
+                    <RoomDescriptionData>
+                        <RoomType code="ROOM">Room</RoomType>
+                        <RoomCategory code="FAMILY">Family</RoomCategory>
+                    </RoomDescriptionData>
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="FREE Wireless Internet and FREE Airport Shuttle" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1400</CheckInTime>
+                <CheckOutTime>1200</CheckOutTime>
+                <Description locale="en_US" type="property">Bewley's Hotel Manchester Airport is just minutes from terminals 1 &amp;amp; 3 of Manchester Airport and only a short train ride to Manchester City Centre and Old Trafford. A complimentary shuttle service to both the Airport and Train stations is provided for added convenience. The hotel offers 365 ensuite bedrooms which are spacious, sound proofed and boast 'dive into bed' duvets and fluffy hypo allergenic pillows. Car Parking is available on site for a small charge.&#xD; &#xD; Park, Stay &amp;amp; Fly Packages are calculated from the day you arrive up to and including the day you return. Vehicles are moved off site to secure location. Approx a 12 mile round trip. This service is sub-contracted to Speedy Park Limited whose terms and conditions are available upon request by emailing the hotel.</Description>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Hotel-Exterior" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-Hotel-Exterior-1-DEF.jpg</Media>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-Guest-Room-1-DEF.jpg</Media>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-Guest-Room-2-DEF.jpg</Media>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Dining" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-Dining-1-DEF.jpg</Media>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-BarLounge-1-DEF.jpg</Media>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-BarLounge-2-DEF.jpg</Media>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Property-Amenity" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-Property-Amenity-1-DEF.jpg</Media>
+                <Media title="Bewleys-Hotel-Manchester-Airport-Property-Amenity" type="property">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-Property-Amenity-2-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/056/69056/2241284-Bewleys-Hotel-Manchester-Airport-Hotel-Exterior-1-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="BUSCTR">Business centre</Amenity>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="ORBSHT">Airport shuttle</Amenity>
+                    <Amenity code="CNFFAC">Conference facilities</Amenity>
+                    <Amenity code="LANDRY">Laundry service</Amenity>
+                    <Amenity code="RMA207">Free internet in room</Amenity>
+                    <Amenity code="BAR">Bar/Lounge</Amenity>
+                    <Amenity code="REST">Restaurant</Amenity>
+                    <Amenity code="HAC222">Free internet</Amenity>
+                    <Amenity code="PRKNG">Parking</Amenity>
+                    <Amenity code="DISABL">Handicapped rooms/facilities</Amenity>
+                    <Amenity code="SPA">Fitness centre or spa</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                    <Amenity code="ROOM">Room service</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2695</Longitude>
+                <Latitude>53.3642</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="114" NumberOfReviews="126" UserScore="4.0" />
+        </Hotel>
+        <Hotel availabilityStatus="available" chainCode="RBE" id="120171" name="Radisson Blu Edwardian Hotel, Manchester" phoneNumber="44 161 835-9929" starRating="5">
+            <Address>
+                <com:Street1>Free Trade Hall</com:Street1>
+                <com:City>Manchester</com:City>
+                <com:StateProvince />
+                <com:PostalCode>M2 5GP</com:PostalCode>
+                <com:Country>GB</com:Country>
+            </Address>
+            <Distance direction="W" unit="kilometers">0.91</Distance>
+            <TotalCostOfRooms currency="GBP">1179.00</TotalCostOfRooms>
+            <Rates room="1">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=567768531&amp;ratecode=APrate&amp;host=OMH&amp;searchtype=keyword&amp;id=67090&amp;selectKey=67090_null_null_null_A1%3A0%3A67090_null_null_null_A2%3A1%3A67090_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C1179.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="69">
+                    <AverageNightlyRate currency="GBP">108.75</AverageNightlyRate>
+                    <TotalCost currency="GBP">108.75</TotalCost>
+                    <Taxes currency="GBP">17.62</Taxes>
+                    <DistributorFees currency="GBP">4.13</DistributorFees>
+                    <TotalCostInclusive currency="GBP">130.50</TotalCostInclusive>
+                    <RateCode>APrate</RateCode>
+                    <RoomCode>567768531</RoomCode>
+                    <RateAccessCode>787775211</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">108.75</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Deluxe Room - 1 king bed</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="This Booking is NON Refundable" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="Book Early &amp; Save" termsAndConditions="This Booking is NON Refundable" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="1" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="2">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=567768531&amp;ratecode=APrate&amp;host=OMH&amp;searchtype=keyword&amp;id=67090&amp;selectKey=67090_null_null_null_A1%3A0%3A67090_null_null_null_A2%3A1%3A67090_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C1179.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="69">
+                    <AverageNightlyRate currency="GBP">108.75</AverageNightlyRate>
+                    <TotalCost currency="GBP">108.75</TotalCost>
+                    <Taxes currency="GBP">17.62</Taxes>
+                    <DistributorFees currency="GBP">4.13</DistributorFees>
+                    <TotalCostInclusive currency="GBP">130.50</TotalCostInclusive>
+                    <RateCode>APrate</RateCode>
+                    <RoomCode>567768531</RoomCode>
+                    <RateAccessCode>787775211</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">108.75</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Deluxe Room - 1 king bed</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="This Booking is NON Refundable" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="Book Early &amp; Save" termsAndConditions="This Booking is NON Refundable" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="0" />
+                </OccupantDetails>
+            </Rates>
+            <Rates room="3">
+                <Rate checkInDate="${checkinDate}" checkOutDate="${checkoutDate}" fromCache="true" hostCode="OMH" hotelSolutionType="Regular/rack" href="http://www.ebookers.com/psi?type=hotel&amp;rooms=3&amp;room1.adults=1&amp;room1.seniors=0&amp;room1.children=0&amp;room2.adults=2&amp;room2.seniors=0&amp;room2.children=0&amp;room3.adults=2&amp;room3.seniors=0&amp;room3.children=1&amp;room3.childAges1=3&amp;locale=en_GB&amp;roomcode=567768651&amp;ratecode=APrate&amp;host=OMH&amp;searchtype=keyword&amp;id=67090&amp;selectKey=67090_null_null_null_A1%3A0%3A67090_null_null_null_A2%3A1%3A67090_null_null_null_A2C031%3A2&amp;selectedprice=GBP%7C1179.00&amp;checkin=${checkinDate}&amp;checkout=${checkoutDate}&amp;market=Manchester&amp;dc=XML&amp;dp=TravelSupermarket&amp;WT.mc_ev=click&amp;WT.mc_id=EBUK_HOT_TravelSupermarket&amp;curr=GBP" rateType="M" stayAvailability="2">
+                    <AverageNightlyRate currency="GBP">765.00</AverageNightlyRate>
+                    <TotalCost currency="GBP">765.00</TotalCost>
+                    <Taxes currency="GBP">123.93</Taxes>
+                    <DistributorFees currency="GBP">29.07</DistributorFees>
+                    <TotalCostInclusive currency="GBP">918.00</TotalCostInclusive>
+                    <RateCode>APrate</RateCode>
+                    <RoomCode>567768651</RoomCode>
+                    <RateAccessCode>787775211</RateAccessCode>
+                    <NightlyRates>
+                        <NightlyRate Savings="0.00" currency="GBP" night="1">765.00</NightlyRate>
+                    </NightlyRates>
+                    <RoomDescription>Two Bedroom Pennine Suite - 2 king beds</RoomDescription>
+                    <RoomDescriptionData />
+                    <RateDescription />
+                    <MealPlanInfos />
+                    <PromotionalInfo amount="0.0" customerFulfillmentRequirements="This Booking is NON Refundable" numNightsFree="0" numNightsRequired="0" posExclusivePromotion="false" promoCode="VA" shortMarketingText="Book Early &amp; Save" termsAndConditions="This Booking is NON Refundable" />
+                    <isAgeBasedPriceApplied>false</isAgeBasedPriceApplied>
+                </Rate>
+                <OccupantDetails>
+                    <Adult count="2" />
+                    <Senior count="0" />
+                    <Children count="1">
+                        <Guest age="3" />
+                    </Children>
+                </OccupantDetails>
+            </Rates>
+            <Content>
+                <CheckInTime>1500</CheckInTime>
+                <CheckOutTime>1100</CheckOutTime>
+                <Description locale="en_US" type="property">In Manchester's most celebrated building, the historic Free Trade Hall, stylish spaces create a mood of understated luxury moments from Manchester Central. Sienna Spa is a blissful urban hideaway, and dramatic red lanterns lend a decadent air to Opus One bar and restaurant. Through the hotel's soaring lobby, Alto is a relaxed alternative for dress-down dining.&#xD; &#xD; Upgrade to Deluxe or Business Class Room and receive our daily Voucher for drinks that can be redeemed at the hotel bar to the value of 15 GBP per night.</Description>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Lobby" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Lobby-1-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Lobby" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Lobby-2-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Suite" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Suite-1-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Suite" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Suite-2-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Guest-Room-1-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Guest-Room-2-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Guest-Room" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Guest-Room-3-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Dining" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Dining-1-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Dining" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Dining-2-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Dining" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Dining-3-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Bar-Lounge-1-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Bar-Lounge-2-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Bar/Lounge" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Bar-Lounge-3-DEF.jpg</Media>
+                <Media title="Radisson-Blu-Edwardian-Hotel,-Manchester-Pool" type="property">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Pool-1-DEF.jpg</Media>
+                <Media title="Thumbnail" type="thumbnail">http://www.tnetnoc.com/hotelphotos/090/67090/2631759-Radisson-Blu-Edwardian-Manchester-Hotel-Lobby-2-LP.jpg</Media>
+                <Amenities>
+                    <Amenity code="ORBWLS">WiFi</Amenity>
+                    <Amenity code="HAC47">Accessible facilities</Amenity>
+                    <Amenity code="ELEV">Elevators</Amenity>
+                    <Amenity code="CNFFAC">Conference facilities</Amenity>
+                    <Amenity code="RMA207">Free internet in room</Amenity>
+                    <Amenity code="ORBSPA">Spa</Amenity>
+                    <Amenity code="PRKNG">Parking</Amenity>
+                    <Amenity code="DISABL">Handicapped rooms/facilities</Amenity>
+                    <Amenity code="SPA">Fitness centre or spa</Amenity>
+                    <Amenity code="INTHS">High speed internet</Amenity>
+                    <Amenity code="PHY28">Public areas wheelchair accessible for disabled</Amenity>
+                    <Amenity code="HEALTH">Fitness Center</Amenity>
+                    <Amenity code="BUSCTR">Business centre</Amenity>
+                    <Amenity code="CURREX">Currency exchange</Amenity>
+                    <Amenity code="LANDRY">Laundry service</Amenity>
+                    <Amenity code="BAR">Bar/Lounge</Amenity>
+                    <Amenity code="REST">Restaurant</Amenity>
+                    <Amenity code="HAC222">Free internet</Amenity>
+                    <Amenity code="ROOM24">24 hour room service</Amenity>
+                    <Amenity code="MTGFAC">Meeting/Banquet facilities</Amenity>
+                    <Amenity code="POOLIN">Indoor pool</Amenity>
+                    <Amenity code="SAFDEP">In-Room Safe</Amenity>
+                    <Amenity code="WCHR">Wheel chair access</Amenity>
+                    <Amenity code="NSMK">No smoking rooms/facilities</Amenity>
+                    <Amenity code="CONLEV">Concierge</Amenity>
+                </Amenities>
+            </Content>
+            <Geocode>
+                <Longitude>-2.2472</Longitude>
+                <Latitude>53.4778</Latitude>
+            </Geocode>
+            <UserReviews NumberOfRecommendations="16" NumberOfReviews="18" UserScore="4.7" />
+        </Hotel>
+    </Hotels>
+    <Areas />
+</HotelShoppingResponse>

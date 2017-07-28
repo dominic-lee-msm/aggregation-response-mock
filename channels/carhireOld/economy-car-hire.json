@@ -1,0 +1,14 @@
+{
+    "scenarioName": "Economy car hire",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/quote/xmlfeed3.php"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "economy-car-hire-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

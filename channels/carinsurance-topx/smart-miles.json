@@ -1,0 +1,15 @@
+{
+    "scenarioName": "SmartMilesTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "www.hastingsdirectsmartmiles.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/ws/best_price"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "smart-miles-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

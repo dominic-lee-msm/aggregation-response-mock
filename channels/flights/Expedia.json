@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Expedia",
+    "requiredScenarioState": "Started",
+    "domain":"ews.expedia.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/xmlapi/shop/air/v2"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "ExpediaFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

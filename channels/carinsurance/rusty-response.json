@@ -1,0 +1,537 @@
+[
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "16157f83-1f50-4f2e-88f1-52ef116210fb",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "01244665700",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 470,
+            "annualPriceWithoutDiscount": 470,
+            "annualPriceWithoutExtras": 470,
+            "compulsoryExcess": 200,
+            "insurer": "Rusty Car Insurance - Budget",
+            "monthlyPaymentsDeposit": 35,
+            "monthlyPrice": 35,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-01400QKJBW",
+            "retrievalPassword": "UKEYW-01400QKJBW",
+            "totalExcess": 450,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-01400QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 2,
+                    "included": false,
+                    "price": 20
+                },
+                {
+                    "extraTypeId": 15,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 13,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 6,
+                    "included": false,
+                    "price" : 30
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "15157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "01244665700",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 2,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 15,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 6,
+                    "included": false,
+                    "price" : 30
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "17157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                },
+
+                {
+                    "extraTypeId": 2,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 15,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 13,
+                    "included": true
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "18157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab305c",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 2,
+                    "included": false,
+                    "price": 20
+                },
+                {
+                    "extraTypeId": 15,
+                    "included": false,
+                    "price": 40
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "19157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 2,
+                    "included": true
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "10157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 13,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 6,
+                    "included": false,
+                    "price" : 30
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "11157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "12157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "13157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 500,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 40,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    },
+    {
+        "enquiryId": "6e971121-1c30-4faa-aa10-3fa6749cfade",
+        "resultId": "14157f83-1f50-4f2e-88f1-52ef116210fa",
+        "created": "2013-03-21",
+        "brandId": "1",
+        "brandName": "Rusty",
+        "brandLogo": "http://api.test.moneysupermarket.com/car-insurance-v3/img/logo/rusty.png",
+        "brandPhoneNumber": "",
+        "providerId": "535fc049e4b02d1fd3ab3055",
+        "quote": {
+            "@class": "com.msm.aggregation.data.entity.carinsurance.CarInsuranceQuote",
+            "annualPrice": 450,
+            "annualPriceWithoutDiscount": 500,
+            "annualPriceWithoutExtras": 500,
+            "compulsoryExcess": 100,
+            "insurer": "Rusty Car Insurance - Premium",
+            "monthlyPaymentsDeposit": 60,
+            "monthlyPrice": 20,
+            "numberOfMonthlyPayments": 11,
+            "retrievalReference": "UKEYW-02500QKJBW",
+            "retrievalPassword": "UKEYW-02500QKJBW",
+            "totalExcess": 350,
+            "voluntaryExcess": 250,
+            "deepLink":             {
+                "deepLinkTypeId": 1,
+                "url": "http://www.rusy-car-insurance.fake.bomb/?retrievalRef=UKEYW-02500QKJBW"
+            },
+            "extras": [
+                {
+                    "extraTypeId": 1,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 2,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 15,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 13,
+                    "included": true
+                },
+                {
+                    "extraTypeId": 6,
+                    "included": true
+                }
+            ],
+            "excesses": [
+                {
+                    "name": "WindscreenExcess",
+                    "value": 75.00
+                },
+                {
+                    "name": "SunroofExcess",
+                    "value": 125.00
+                }
+            ],
+            "expired": false
+        }
+    }
+]

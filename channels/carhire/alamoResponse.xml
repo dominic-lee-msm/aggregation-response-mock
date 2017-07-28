@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<quotes>
+    <vehicle>
+        <vehicleType>Economy</vehicleType>
+        <currency>GBP</currency>
+        <price>57.00</price>
+        <description>Chevrolet Aveo</description>
+        <doors>4</doors>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403601%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_EDAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Economy</vehicleType>
+        <currency>GBP</currency>
+        <price>57.00</price>
+        <description>Kia Rio</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403631%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_ECAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Compact</vehicleType>
+        <currency>GBP</currency>
+        <price>57.74</price>
+        <description>Nissan Versa Note</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403641%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_CCAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Compact</vehicleType>
+        <currency>GBP</currency>
+        <price>59.22</price>
+        <description>Nissan Versa</description>
+        <doors>4</doors>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403611%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_CDAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Midsize</vehicleType>
+        <currency>GBP</currency>
+        <price>60.70</price>
+        <description>Toyota Corolla</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403711%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_ICAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Midsize</vehicleType>
+        <currency>GBP</currency>
+        <price>61.44</price>
+        <description>Toyota Corolla</description>
+        <doors>4</doors>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403481%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_IDAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Standard</vehicleType>
+        <currency>GBP</currency>
+        <price>61.44</price>
+        <description>Volkswagen Jetta</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403501%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_SCAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Fullsize</vehicleType>
+        <currency>GBP</currency>
+        <price>63.66</price>
+        <description>Ford Fusion</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403721%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_FCAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Premium</vehicleType>
+        <currency>GBP</currency>
+        <price>71.06</price>
+        <description>Chrysler 300</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403681%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_PCAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Midsize SUV</vehicleType>
+        <currency>GBP</currency>
+        <price>73.29</price>
+        <description>Toyota RAV4</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403401%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_IFAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>7 Passenger Minivan</vehicleType>
+        <currency>GBP</currency>
+        <price>79.95</price>
+        <description>Dodge Grand Caravan</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403451%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_MVAR.png</pictureUrl>
+    </vehicle>
+    <vehicle>
+        <vehicleType>Standard SUV</vehicleType>
+        <currency>GBP</currency>
+        <price>85.87</price>
+        <description>Hyundai Santa Fe</description>
+        <aircon>Yes</aircon>
+        <deeplink>
+            https%3A%2F%2Fwww.alamo.co.uk%2FRatesAndReservationResult%2F740%2Fuk%2Fcarrentalsusa%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_UKPPFU_AL_SYRT71_AL_SYRT71_10Oct2015_10%3A00_11Oct2015_10%3A00_UK__GBP_GB_AL%26vehicle_id%3DALAMO-1403421%26configuration_xml_default%3Dcarrentalsusa
+        </deeplink>
+        <pictureUrl>https://cdn01.fareoffice.com/FO_AL_US_SFAR.png</pictureUrl>
+    </vehicle>
+</quotes>

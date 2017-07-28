@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Easytobook",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "www.etbxml.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/api"
+    },
+    "response": {
+        "status": 200,
+        "bodyDirectoryName": "easy-to-book-responses",
+        "fixedDelayMilliseconds": 2000
+    }
+}

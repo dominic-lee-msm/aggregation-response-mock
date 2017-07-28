@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AAInsuranceReply xmlns:ns2="http://www.w3.org/2001/XMLSchema-instance" replydatetime="2015-04-13T15:07:41.510+01:00" requesttype="motor" affinity="MONEYSUP_B_PARTIAL" ns2:noNamespaceSchemaLocation="http://www.theaa.com/schemas/AAInsuranceReply.xsd">
+    <motor>
+        <quote CAS="25.99" bundle="Y" comexcess="100" price="9999.99" quoteref="WW1MT103V6KV" type="unprotected" volexcess="250" insurername="Ageas (AA)">
+            <instalment apr="26.9" deposit="71.01" instalmentamount="66.62" noinstalments="11" totalamount="9999.99" insurername="Ageas (AA)"/>
+        </quote>
+        <quote CAS="25.99" bundle="Y" comexcess="200" price="9999.99" quoteref="WW1MT103V6KV" type="protected" volexcess="250" insurername="Acromas (AA)">
+            <instalment apr="26.9" deposit="77.19" instalmentamount="72.42" noinstalments="11" totalamount="9999.99" insurername="Acromas (AA)"/>
+        </quote>
+        <quote bundle="Y" comexcess="100" price="9999.99" quoteref="WW1MT103V6KW" type="unprotected" volexcess="250" insurername="Ageas (AA)">
+            <instalment apr="26.9" deposit="73.61" instalmentamount="69.06" noinstalments="11" totalamount="9999.99" insurername="Ageas (AA)"/>
+        </quote>
+        <quote bundle="Y" comexcess="200" price="9999.99" quoteref="WW1MT103V6KW" type="protected" volexcess="250" insurername="Acromas (AA)">
+            <instalment apr="26.9" deposit="99.99" instalmentamount="99.99" noinstalments="11" totalamount="9999.99" insurername="Acromas (AA)"/>
+        </quote>
+    </motor>
+</AAInsuranceReply>

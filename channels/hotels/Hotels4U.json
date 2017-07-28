@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Hotels4U",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "ota.apixml.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/dispatcher.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyDirectoryName": "hotels4u-responses",
+        "fixedDelayMilliseconds": 2000
+    }
+}

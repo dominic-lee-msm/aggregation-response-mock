@@ -1,0 +1,15 @@
+{
+    "scenarioName": "endsleighTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "services.endsleigh.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/client/diary/ServiceHandler.eisws"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "endsleigh-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

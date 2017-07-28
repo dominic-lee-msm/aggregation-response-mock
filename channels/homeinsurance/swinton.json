@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Swinton",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "swinton.testswinton.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/extendedhomeaggregatorinterfaceExternal/service.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "swinton-response-success.xml",
+        "fixedDelayMilliseconds": 1000
+    }
+}

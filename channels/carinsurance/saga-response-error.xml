@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <RetreiveQuoteResponse xmlns="http://Saga.co.uk/">
+            <RetreiveQuoteResult>
+                &lt;?xml version="1.0"?&gt;
+                &lt;quoteresponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+                &lt;header&gt;
+                &lt;returnValue&gt;0&lt;/returnValue&gt;
+                &lt;/header&gt;
+                &lt;body&gt;
+                &lt;error&gt;
+                &lt;errorreason&gt;AggsClaimTypeAggsOther&lt;/errorreason&gt;
+                &lt;errorcode&gt;9119&lt;/errorcode&gt;
+                &lt;/error&gt;
+                &lt;/body&gt;
+                &lt;/quoteresponse&gt;
+            </RetreiveQuoteResult>
+        </RetreiveQuoteResponse>
+    </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "TescoTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "uat-topx.policyexpert.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/followup/"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "tesco-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

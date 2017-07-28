@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Home and Legacy",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "extproc.test.uk.acturis.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/GIP/Acturis.DirectQuoteInterface.IntegrationWS/Aggregator/MSM/HandL/HandL_Test.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "home-and-legacy-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

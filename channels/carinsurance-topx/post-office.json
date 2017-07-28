@@ -1,0 +1,15 @@
+{
+    "scenarioName": "postOfficeTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "click.adiqglobal.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/UK/PostOffice/TopXLeadForm_test.php"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "post-office-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

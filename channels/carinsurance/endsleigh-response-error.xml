@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <soap:Fault>
+            <faultcode>soap:Server</faultcode>
+            <faultstring>We are unable to provide a quotation for the risk details supplied.</faultstring>
+            <faultactor>http://dev.services.endsleigh.co.uk/motor/quote/ServiceHandler.eisws</faultactor>
+        </soap:Fault>
+    </soap:Body>
+</soap:Envelope>

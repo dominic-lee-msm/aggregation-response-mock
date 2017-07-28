@@ -1,0 +1,19 @@
+ {
+    "scenarioName": "Europcar car hire",
+    "requiredScenarioState": "Started",
+     "scheme": "http",
+     "request": {
+        "method": "POST",
+        "url": "/xrs/resxml",
+	"headers": [
+      {
+        "Content-Type": "application/x-www-form-urlencoded"
+      }
+	]
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "europcar-response.xml",
+        "fixedDelayMilliseconds": 1500
+    }
+}

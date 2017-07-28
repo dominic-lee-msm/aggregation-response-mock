@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<soap:Body>
+		<OTA_HotelAvailRS EchoToken="Read Me" TimeStamp="2015-02-18T09:18:12" Target="Production" Version="1" xmlns="http://www.opentravel.org/OTA/2003/05">
+			<Success />
+			<RoomStays>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="558919RO" RoomID="B558919">
+							<RoomDescription>
+								<Text>Suite (3 pers) - Room Only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="558919BB" RoomID="B558919">
+							<RoomDescription>
+								<Text>Suite (3 pers) - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="559022RO" RoomID="B559022">
+							<RoomDescription>
+								<Text>Doble Superior + cama extra - Room Only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="559022BB" RoomID="B559022">
+							<RoomDescription>
+								<Text>Doble Superior + cama extra - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="558919RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="866.23" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>57.7485</P1SellingPrice>
+										<P2SellingPrice>57.7485</P2SellingPrice>
+										<CH1SellingPrice>57.7485</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="558919BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="938.39" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>62.5594</P1SellingPrice>
+										<P2SellingPrice>62.5594</P2SellingPrice>
+										<CH1SellingPrice>62.5594</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="559022RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="523.31" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>34.8875</P1SellingPrice>
+										<P2SellingPrice>34.8875</P2SellingPrice>
+										<CH1SellingPrice>34.8875</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="559022BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="595.46" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>39.6974</P1SellingPrice>
+										<P2SellingPrice>39.6974</P2SellingPrice>
+										<CH1SellingPrice>39.6974</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="HA" HotelCode="2055086" HotelName="GARDETTE PARK HOTEL">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The hotel Gardette Park is the ideal base to discover a secret Paris, cosmopolitan and full of vitality. It is located in the quiet Maurice Gardette square and surrounded by the neighborhoods of Belleville, Menilmontant </Text>
+										<Image>http://www.hotelresb2b.com/images/hoteles/361167_fotpe1_1_roomc.jpg</Image>
+										<URL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>La Bastille &amp; Nation Areas</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>1</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="559119RO" RoomID="B559119">
+							<RoomDescription>
+								<Text>Triple Superior - Room Only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="559119BB" RoomID="B559119">
+							<RoomDescription>
+								<Text>Triple Superior - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="559119RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="600.18" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>40.0117</P1SellingPrice>
+										<P2SellingPrice>40.0117</P2SellingPrice>
+										<CH1SellingPrice>40.0117</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="559119BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="686.34" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>45.7559</P1SellingPrice>
+										<P2SellingPrice>45.7559</P2SellingPrice>
+										<CH1SellingPrice>45.7559</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="KY" HotelCode="1166856" HotelName="TRIANGLE D'OR">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>This is an elegant 45 rooms boutique hotel located in the right heart of the music, art and culture district of Paris. Its situation is quite privileged: it is near the Louvre, Concorde, Madeleine, Olympia, etc. Music i</Text>
+										<Image>http://www.hotelresb2b.com/images/hoteles/232438_fotpe1_description1_b.jpg</Image>
+										<URL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Opera Area</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>2</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+			</RoomStays>
+		</OTA_HotelAvailRS>
+	</soap:Body>
+</soap:Envelope>

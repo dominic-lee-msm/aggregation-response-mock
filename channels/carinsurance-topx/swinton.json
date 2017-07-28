@@ -1,0 +1,15 @@
+{
+    "scenarioName": "swintonTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "swinton.testswinton.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/MotorAggregatorInterfaceexternalhttp/Service.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "swinton-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

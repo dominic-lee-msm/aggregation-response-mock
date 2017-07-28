@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <SendTOPXResponse xmlns="MSM">
+      <topx_responce>
+        <ProviderId>1377</ProviderId>
+        <EnquiryId>GSCMSM-19W1GTRC0W</EnquiryId>
+        <DateCreated>2015-10-27</DateCreated>
+        <messageBodyType>Processed Successfully</messageBodyType>
+      </topx_responce>
+    </SendTOPXResponse>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "fluxdirect",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "aggtest.fluxdirect.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/tes_aggregator/aggregator.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "fluxdirect-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

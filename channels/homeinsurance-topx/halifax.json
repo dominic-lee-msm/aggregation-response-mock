@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HalifaxTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "homewebservice.test.generalinsurance-system.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/GI/SalesAndMarketing/FullfillmentService/v1"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "halifax-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

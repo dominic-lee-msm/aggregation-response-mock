@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Green Insurance",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "agghomeinsurance.greeninsurancecompany.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "HouseholdAggregator/0/1/HouseholdAggregator.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "green-insurance-response-success.xml",
+        "fixedDelayMilliseconds": 11000
+    }
+}

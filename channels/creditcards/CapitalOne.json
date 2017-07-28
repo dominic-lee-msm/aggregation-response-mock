@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Capital One",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "qstst.capitalone.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/QuotationSearch/ProxyService/PartnerQuotationService"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "CapitalOne.xml",
+        "fixedDelayMilliseconds": 10000
+    }
+}

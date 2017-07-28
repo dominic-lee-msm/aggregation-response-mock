@@ -1,0 +1,15 @@
+{
+    "scenarioName": "CheapOAir",
+    "requiredScenarioState": "Started",
+    "domain":"fpwebbox-uk.fareportal.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/gateway.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "CheapOairResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "General Accident",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "test.servlets.generalaccident.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/PortalServices/GA/MoneySuperMarket/MsmCalculateGA.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "generalaccident-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Agoda",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "xml.agoda.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/xmlpartner/XmlService.svc/search_srv2"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "AgodaResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

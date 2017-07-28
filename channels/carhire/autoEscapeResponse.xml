@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ServiceResponse>
+    <RequestSummary>
+        <Requester Source="NO_TRAVELSUPERMARKET_GB"></Requester>
+        <RequestLanguage>en</RequestLanguage>
+        <RequestMarket>gb</RequestMarket>
+        <RequestSession>FR0000605444053</RequestSession>
+        <RequestSearch>
+            <QuotePickUp QuotePickUpCtyId="3" QuotePickUpCtyIso="US" QuotePickUpDate="20151010"
+                         QuotePickUpSpotName="SYRACUSE Airport" QuotePickUpHour="1000">W101SYRACUSE
+            </QuotePickUp>
+            <QuoteDropOff QuoteDropOffCtyId="3" QuoteDropOffCtyIso="US" QuoteDropOffDate="20151011"
+                          QuoteDropOffSpotName="SYRACUSE Airport" QuoteDropOffHour="1000">W101SYRACUSE
+            </QuoteDropOff>
+            <QuoteDetails QuoteCustomerDriverAge="33" QuoteWantedCategory="" QuoteFee="" QuoteDiscount=""
+                          QuoteDiscountCode="" QuoteCommissionMode="" QuoteCommissionDef=""></QuoteDetails>
+        </RequestSearch>
+    </RequestSummary>
+    <QuoteDuration QuoteDurationValue="1" QuoteDurationUpdate="0">1 day</QuoteDuration>
+    <MultiQuotesCarList></MultiQuotesCarList>
+    <MultiQuotesNumberResult>0</MultiQuotesNumberResult>
+    <ServiceTimeResponse>3.933355</ServiceTimeResponse>
+</ServiceResponse>

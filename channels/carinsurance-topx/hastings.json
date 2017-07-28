@@ -1,0 +1,15 @@
+{
+    "scenarioName": "hastingsTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "www.hastingsdirect.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/quotewebservicecar/services/quoteSOAP?"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "hastings-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

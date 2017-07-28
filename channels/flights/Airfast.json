@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Airfast",
+    "requiredScenarioState": "Started",
+    "domain":"meta-prod.airfasttickets.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/availability/meta-search"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "AirfastTicketsFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

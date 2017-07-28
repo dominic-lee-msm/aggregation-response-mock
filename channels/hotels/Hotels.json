@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Hotels",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "ews.expedia.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/wsapi/rest/hotel/v1/search"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "HotelscomResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

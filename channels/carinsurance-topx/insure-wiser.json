@@ -1,0 +1,15 @@
+{
+    "scenarioName": "InsureWiserTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "www.bewiser.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/services/msmleads/submit"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "insure-wiser-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

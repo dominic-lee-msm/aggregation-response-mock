@@ -1,0 +1,15 @@
+{
+    "scenarioName": "EasyJet",
+    "requiredScenarioState": "Started",
+    "domain":"b2b.easyjet.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/Service.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "EasyJetFlightsResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

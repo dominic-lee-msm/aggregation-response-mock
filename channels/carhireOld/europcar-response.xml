@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservationRateList>
+      <reservationRate bookingCurrencyOfPrepaidAmount="GBP"
+      bookingCurrencyOfTotalRateEstimate="GBP"
+      carCategoryAirCond="Y" carCategoryAutomatic="N"
+      carCategoryBaggageQuantity="1" carCategoryCO2Quantity="129"
+      carCategoryCode="ECMR" carCategoryDoors="5"
+      carCategoryName="ECONOMY 2/4 DOORS,MANUAL,A/C"
+      carCategorySample="VAUXHALL CORSA" carCategorySeats="5"
+      carCategoryStatusCode="F" carCategoryType="Eco-responsable"
+      contractID="51632646" currency="GBP" includedKm="300"
+      includedKmType="D" includedKmUnit="M" isPrepaid="Y"
+      isPriceSecret="N" prepaidAmountInBookingCurrency="212.18"
+      prepaidPercentage="100.00" productCode="SD0IPPGB"
+      productFamily="LOPU" productVersion="68"
+      rateId="16e590549e680a9bd227365a69921504"
+      totalRateEstimate="212.18"
+      totalRateEstimateInBookingCurrency="212.18" type="P"
+      xrsBasePrice="212.18" xrsBasePriceInBookingCurrency="212.18">
+        <ageLimit minAgeForCategory="22" minAgeForCountry="22" />
+        <taxList>
+          <tax taxCode="UK VAT STD" taxRate="20.00" />
+        </taxList>
+      </reservationRate>
+      <reservationRate bookingCurrencyOfPrepaidAmount="GBP"
+      bookingCurrencyOfTotalRateEstimate="GBP"
+      carCategoryAirCond="Y" carCategoryAutomatic="N"
+      carCategoryCO2Quantity="96" carCategoryCode="MCMR"
+      carCategoryDoors="3"
+      carCategoryName="MINI 2/4 DOORS,MANUAL,A/C"
+      carCategorySample="VW UP" carCategorySeats="4"
+      carCategoryStatusCode="F" carCategoryType="Eco-responsable"
+      contractID="51632646" currency="GBP" includedKm="300"
+      includedKmType="D" includedKmUnit="M" isPrepaid="Y"
+      isPriceSecret="N" prepaidAmountInBookingCurrency="205.84"
+      prepaidPercentage="100.00" productCode="SD0IPPGB"
+      productFamily="LOPU" productVersion="68"
+      rateId="16e590549e680a9bd227365a69921504"
+      totalRateEstimate="205.84"
+      totalRateEstimateInBookingCurrency="205.84" type="P"
+      xrsBasePrice="205.84" xrsBasePriceInBookingCurrency="205.84">
+        <ageLimit minAgeForCategory="22" minAgeForCountry="22" />
+        <taxList>
+          <tax taxCode="UK VAT STD" taxRate="20.00" />
+        </taxList>
+      </reservationRate>
+      <reservationRate bookingCurrencyOfPrepaidAmount="GBP"
+      bookingCurrencyOfTotalRateEstimate="GBP"
+      carCategoryAirCond="N" carCategoryAutomatic="N"
+      carCategoryBaggageQuantity="2" carCategoryCO2Quantity="165"
+      carCategoryCode="CDMN" carCategoryDoors="5"
+      carCategoryName="COMPACT 2/4 DOORS,MANUAL,NO A/C"
+      carCategorySample="VW GOLF" carCategorySeats="5"
+      carCategoryStatusCode="F" contractID="51632646"
+      currency="GBP" includedKm="300" includedKmType="D"
+      includedKmUnit="M" isPrepaid="Y" isPriceSecret="N"
+      prepaidAmountInBookingCurrency="251.44"
+      prepaidPercentage="100.00" productCode="SD0IPPGB"
+      productFamily="LOPU" productVersion="68"
+      rateId="16e590549e680a9bd227365a69921504"
+      totalRateEstimate="251.44"
+      totalRateEstimateInBookingCurrency="251.44" type="P"
+      xrsBasePrice="251.44" xrsBasePriceInBookingCurrency="251.44">
+        <ageLimit minAgeForCategory="22" minAgeForCountry="22" />
+        <taxList>
+          <tax taxCode="UK VAT STD" taxRate="20.00" />
+        </taxList>
+      </reservationRate>
+      <reservationRate bookingCurrencyOfPrepaidAmount="GBP"
+      bookingCurrencyOfTotalRateEstimate="GBP"
+      carCategoryAirCond="Y" carCategoryAutomatic="N"
+      carCategoryBaggageQuantity="2" carCategoryCO2Quantity="119"
+      carCategoryCode="IDMR" carCategoryDoors="5"
+      carCategoryName="INTERMEDIATE 4 DOORS,MANUAL,A/C"
+      carCategorySample="SKODA OCTAVIA" carCategorySeats="5"
+      carCategoryStatusCode="F" carCategoryType="Eco-responsable"
+      contractID="51632646" currency="GBP" includedKm="300"
+      includedKmType="D" includedKmUnit="M" isPrepaid="Y"
+      isPriceSecret="N" prepaidAmountInBookingCurrency="383.44"
+      prepaidPercentage="100.00" productCode="SD0IPPGB"
+      productFamily="LOPU" productVersion="68"
+      rateId="16e590549e680a9bd227365a69921504"
+      totalRateEstimate="383.44"
+      totalRateEstimateInBookingCurrency="383.44" type="P"
+      xrsBasePrice="383.44" xrsBasePriceInBookingCurrency="383.44">
+        <ageLimit minAgeForCategory="23" minAgeForCountry="22" />
+        <taxList>
+          <tax taxCode="UK VAT STD" taxRate="20.00" />
+        </taxList>
+      </reservationRate>
+      <reservationRate bookingCurrencyOfPrepaidAmount="GBP"
+      bookingCurrencyOfTotalRateEstimate="GBP"
+      carCategoryAirCond="Y" carCategoryAutomatic="Y"
+      carCategoryBaggageQuantity="3" carCategoryCO2Quantity="159"
+      carCategoryCode="SDAR" carCategoryDoors="5"
+      carCategoryName="STANDARD, 4 DOORS, AUTOMATIC, A/C"
+      carCategorySample="VAUXHALL INSIGNIA" carCategorySeats="5"
+      carCategoryStatusCode="F" contractID="51632646"
+      currency="GBP" includedKm="300" includedKmType="D"
+      includedKmUnit="M" isPrepaid="Y" isPriceSecret="N"
+      prepaidAmountInBookingCurrency="700.84"
+      prepaidPercentage="100.00" productCode="SD0IPPGB"
+      productFamily="LOPU" productVersion="68"
+      rateId="16e590549e680a9bd227365a69921504"
+      totalRateEstimate="700.84"
+      totalRateEstimateInBookingCurrency="700.84" type="P"
+      xrsBasePrice="700.84" xrsBasePriceInBookingCurrency="700.84">
+        <ageLimit minAgeForCategory="23" minAgeForCountry="22" />
+        <taxList>
+          <tax taxCode="UK VAT STD" taxRate="20.00" />
+        </taxList>
+      </reservationRate>
+    </reservationRateList>
+    <reservation contractID="51632646" duration="11" type="C">
+      <checkin date="20131030" stationID="LHRT01" time="1900" />
+      <checkout date="20131020" stationID="LHRT01" time="0900" />
+      <equipmentList>
+        <equipment code="ADD" price="100.00"
+        priceInBookingCurrency="100.00" rentalPriceAI="100.00"
+        rentalPriceInBookingCurrencyAI="100.00" statusCode="F" />
+        <equipment code="CBS" price="40.00"
+        priceInBookingCurrency="40.00" rentalPriceAI="40.00"
+        rentalPriceInBookingCurrencyAI="40.00" statusCode="F" />
+        <equipment code="CO2" price="3.00"
+        priceInBookingCurrency="3.00" rentalPriceAI="2.50"
+        rentalPriceInBookingCurrencyAI="2.50" statusCode="F" />
+        <equipment code="CSB" price="109.99"
+        priceInBookingCurrency="109.99" rentalPriceAI="109.99"
+        rentalPriceInBookingCurrencyAI="109.99" statusCode="F" />
+        <equipment code="CSI" price="109.99"
+        priceInBookingCurrency="109.99" rentalPriceAI="109.99"
+        rentalPriceInBookingCurrencyAI="109.99" statusCode="F" />
+        <equipment code="CST" price="109.99"
+        priceInBookingCurrency="109.99" rentalPriceAI="109.99"
+        rentalPriceInBookingCurrencyAI="109.99" statusCode="F" />
+        <equipment code="NVS" price="139.99"
+        priceInBookingCurrency="139.99" rentalPriceAI="139.99"
+        rentalPriceInBookingCurrencyAI="139.99" statusCode="F" />
+        <equipment code="YOU" price="357.46"
+        priceInBookingCurrency="357.46" rentalPriceAI="357.46"
+        rentalPriceInBookingCurrencyAI="357.46" statusCode="F" />
+      </equipmentList>
+    </reservation>
+    <driver countryOfResidence="GB" />
+  </serviceResponse>
+</message>
+

@@ -1,0 +1,22 @@
+[
+    {
+        "error_code": -224,
+        "message": "Invalid EmploymentStatus."
+    },
+    {
+        "error_code": -225,
+        "message": "Invalid ResidentialStatus."
+    },
+    {
+        "error_code": -201,
+        "message": "The 'FirstName' parameter contains less than 2 or more than 50 characters."
+    },
+    {
+        "error_code": -215,
+        "message": "The 'DOB' parameter is not a valid date."
+    },
+    {
+        "error_code": -238,
+        "message": "IP Address is null or empty or invalid."
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Easyjet holidays",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "api.holiday.easyjet.com",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/CDIService.svc"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "easyjetResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

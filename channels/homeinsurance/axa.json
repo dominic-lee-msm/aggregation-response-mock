@@ -1,0 +1,15 @@
+{
+    "scenarioName": "AXA Insurance",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "portal.extenv101.adm.internal.gbinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/InsuranceSupermarket/Home/Calculate.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "axa-response-success.xml",
+        "fixedDelayMilliseconds": 8000
+    }
+}

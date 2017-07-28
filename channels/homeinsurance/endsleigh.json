@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Endsleigh",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "services.test.endsleigh.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/home/QuoteServices.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "endsleigh-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

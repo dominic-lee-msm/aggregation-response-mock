@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><GetQuoteResponse xmlns="http://www.ssp-uk.com/"><GetQuoteResult QuoteId="1059542213" LandingPage="https://allenallen.ssp-uk.com/Master/AggregatorGateway.aspx?AggregatorTransactionID=1059542213" xmlns="http://tempuri.org/QuoteResponse.xsd"><Scheme SchemeNumber="52" SchemeMnemonic="BDZ1" RawEngineOutput="aDA1MkJEWjEKVTMxICBNQUkgICAgIEZ1bGwgQ3ljbGUvIFJhdGVzIEd1YXJhbnRlZWQvIFBvbGFyaXMKVTMxICAgICAgICAgIFVuYWNjZXB0YWJsZSB0byBwdXJjaGFzZSBMZWdhbCBFeHBlbnNlcyBhdCBNaWQgVGVybQpVMzEgICAgICAgICAgRW50ZXIgdmFsaWQgYXV0aG9yaXNhdGlvbiBjb2RlcyBvbmx5ClUzMSAgICAgICAgICBTdWJzaWRlbmNlIEV4Y2VzcyBHQlAgMTAwMApVMzEgICAgICAgICAgTW9uZXkgQ292ZXIgaW5jbHVkZWQgd2l0aCBTSSBvZiAjNTAwClgzMDA1MEIwNUMKWDMwMjAwQjA1VgpYMzEwMDBCMDVTClgzMDA1MEMxM0MKWDMwMjAwQzEzVgplNTEgIDAwMDAwMDAwMDAwT3RoZXIgSW50ZXJlc3RzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEKcDUxICAwMDAwMDAwMDAwMEJ1aWxkaW5ncyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxCnA1MiAgMDAwMDAwMDAwMDBDb250ZW50cyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMgpVMTEgICAgICAgICAgVW5hY2NlcHRhYmxlIHRvIHB1cmNoYXNlIExlZ2FsIEV4cGVuc2VzIGF0IE1pZCBUZXJtClUxMSAgICAgICAgICBFbnRlciB2YWxpZCBhdXRob3Jpc2F0aW9uIGNvZGVzIG9ubHkKVTExICAgICAgICAgIFN1YnNpZGVuY2UgRXhjZXNzIEdCUCAxMDAwClUyMSAgICAgICAgICBVbmFjY2VwdGFibGUgdG8gcHVyY2hhc2UgTGVnYWwgRXhwZW5zZXMgYXQgTWlkIFRlcm0KVTIxICAgICAgICAgIEVudGVyIHZhbGlkIGF1dGhvcmlzYXRpb24gY29kZXMgb25seQpVMjEgICAgICAgICAgTW9uZXkgQ292ZXIgaW5jbHVkZWQgd2l0aCBTSSBvZiAjNTAwClBIMS8wOQpBNDAwMDAxMDExNyAxMjYwMjg4MTAwMTEwMjAxNTAxMTAyMDE1QTA4ODgyQkQgSG9tZSAgMTUgICAgICAgICBCWEhIQTFGIFBZMjE2MDAwQkRaMTA1MiAgICAgCkMwMDAyMDAuMTUwMDExLjMzMDAwNi4wMDAwMDAuMDBZWU4xWTAxMTAyMDE1MDEzOC44MjAwNTAuMDAwNTAwMDAwMDA1MDAwME4gICAgCkQwMDA1MDAwMDAwMTg1LjMxMDAxMC40OTAwMDYuMDAwMDAwLjAwMzYwMS4wMDA1MDAyMDAwMC4wMDAxNzQuODJOICAgIApFMDAwMDUwMDAwMDA3NC4yMDAwMDQuMjAwMDA2LjAwMDAwMC4wMDM2MDAuOTkwNTAwMjAwMDAuMDAwMDAyNTAwMDAwMjUwMDAwMDAwNzAuMDBOICAgIApKMDAwMDUwMDAwMDAuMDAwMDAwLjAwMDAwNi4wMDAwMDA1MDAwMDAwLjAwMDAwMC4wMDAwMDYuMDAwMDAwMDAwMDAwMC4wMDAwMDAuMDAwMDA2LjAwICAgICAgICAgICAgSUk0NCAgICAgCmMyMTZCcm9rZXIgRGlyZWN0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAp5SUlERDAwMTguNDMwMDE4LjQzQjAwMTguMzQxMk0wMDIwLjAyMDAxMC4wMDAyMjAuMTdZMDAyMC4wMjAwMjMuMzA=" TotalPremium="200.15" PremiumOriginal="9999.99"><BuildingsCover AccidentalDamageGranted="false" BasePremium="9999.99" IndexLinked="0.00" PerfectFitIndicator="0" MonthlyPremiumBuildingsOnly="0.00"><PremiumInfo IptAmountApplied="10.49" IptRate="6.00" Premium="9999.99" PremiumIncludesIpt="true" SumInsured="500000" /><CoverInfo NcdGrantedDiscountType="002" NcdGrantedPercentage="1.00" NcdGrantedYears="5" RatedArea="36" /></BuildingsCover><ContentsCover IsAccidentalDamageRequired="false" BasePremium="99.99" IndexLinked="0.00" MaximumSingleArticleLimit="2500" MonthlyPremiumContentsOnly="0.00" NumberOfContentsSpecifiedItemRecords="0" PerfectFitIndicator="0" UnspecifiedValuableSingleItemLimit="2500"><PremiumInfo IptAmountApplied="1.1" IptRate="1.1" Premium="99.99" PremiumIncludesIpt="true" SumInsured="50000" /><CoverInfo NcdGrantedDiscountType="002" NcdGrantedPercentage="0.99" NcdGrantedYears="5" RatedArea="36" /></ContentsCover><Endorsement Code="1" Title="Other Interests                                                    " ExcessAmount="0000" Limit="0000000" QuoteIndicator="5" /><ExcessBreakdown Amount="50" CoverCode="B05" Type="C" QuoteIndicator="3" /><ExcessBreakdown Amount="200" CoverCode="B05" Type="V" QuoteIndicator="3" /><ExcessBreakdown Amount="1000" CoverCode="B05" Type="S" QuoteIndicator="3" /><ExcessBreakdown Amount="50" CoverCode="C13" Type="C" QuoteIndicator="3" /><ExcessBreakdown Amount="200" CoverCode="C13" Type="V" QuoteIndicator="3" /><MoneyCreditCard CreditCardApplicableQuoteTypes="4" MoneyApplicableQuoteTypes="4"><CreditCardPremiumInfo IptAmountApplied="0.00" IptRate="6.00" Premium="0.00" PremiumIncludesIpt="false" SumInsured="500" /><MoneyAndCreditCardPremiumInfo IptAmountApplied="0.00" IptRate="6.00" Premium="0.00" PremiumIncludesIpt="false" SumInsured="0" /><MoneyPremiumInfo IptAmountApplied="0.00" IptRate="6.00" Premium="0.00" PremiumIncludesIpt="false" SumInsured="500" /><CoverInfo /></MoneyCreditCard><PaymentOption Apr="0" CcaRegulated="true" Deposit="33.77" FrequencyOfInstalments="M" InstalmentSchemeType="Z" InterestPayable="1.1" MethodOfPayment="DD" NumberOfInstalments="11" ServiceChargeAdministrationFee="0" ServiceChargePercentage="0" TotalAmountPayable="9999.99" TypeOfPayment="II" ValueOfFirstInstalment="99.99" ValueOfSubsequentInstalments="9.99" /><PolicyDocument PolicyBookletRefNumber="H1/09" /><QuoteDetail BuildingsCombinedPremiumExcludingIpt="9999.99" BuildingsCombinedSumInsured="500000" ContentsCombinedExcludingIpt="50.00" ContentsCombinedSumInsured="50000" CalculatedPremiumIncludingIpt="9999.99" IptAmountApplied="11.33" IptPercentageApplied="6.00" MonthlyPremium="0.00" PaymentByBrokerPermitted="true" PerfectFitIndicator="0" PoAvailable="true" QuoteChanged="false" QuoteGuaranteed="true" QuoteStatusReason="" RatesDate="2015-10-01" QuoteStatus="1" /><Section ExcessAmount="0000" Limit="0000000" QuoteIndicator="5" Code="1" Title="Buildings                                                          " /><Section ExcessAmount="0000" Limit="0000000" QuoteIndicator="5" Code="2" Title="Contents                                                           " /><SoftwareDetail AbiCode="216" BrokerScidNumber="A08882" CscMnemonic="BDZ1" CscSchemeNumber="0" DateBrokerApplied="2015-10-01" DateSoftwareReleased="2015-10-01" EdiProductCode="BX" EdiSchemeCode="HHA1F " LineOfBusiness="4" PolarisRatesIndicator="true" QuoteReturnCode="1" SchemeName="BD Home  15         " SchemeStatusIndicator="P" SchemeVariant="0" SoftwareIdentifier="126" SoftwareSupplier="17 " SoftwareVersionNumber="028810" VersionNumber="1" /><UnderwritingNote Comment="Full Cycle/ Rates Guaranteed/ Polaris" CoverCode="MAI" QuoteIndicator="3" RelatingToCover="00" /><UnderwritingNote Comment="Unacceptable to purchase Legal Expenses at Mid Term" CoverCode="   " QuoteIndicator="3" RelatingToCover="00" /><UnderwritingNote Comment="Enter valid authorisation codes only" CoverCode="   " QuoteIndicator="3" RelatingToCover="00" /><UnderwritingNote Comment="Subsidence Excess GBP 1000" CoverCode="   " QuoteIndicator="3" RelatingToCover="00" /><UnderwritingNote Comment="Money Cover included with SI of #500" CoverCode="   " QuoteIndicator="3" RelatingToCover="00" /></Scheme><Warning Text="Polaris error: 300 - Unable to open scheme data file" /><Warning Text="Polaris error: 300 - Unable to open scheme data file" /><Warning Text="Polaris error: 300 - Unable to open scheme data file" /><RawResponse>i
+h052BDZ1
+U31  MAI     Full Cycle/ Rates Guaranteed/ Polaris
+U31          Unacceptable to purchase Legal Expenses at Mid Term
+U31          Enter valid authorisation codes only
+U31          Subsidence Excess GBP 1000
+U31          Money Cover included with SI of #500
+X30050B05C
+X30200B05V
+X31000B05S
+X30050C13C
+X30200C13V
+e51  00000000000Other Interests                                                    1
+p51  00000000000Buildings                                                          1
+p52  00000000000Contents                                                           2
+U11          Unacceptable to purchase Legal Expenses at Mid Term
+U11          Enter valid authorisation codes only
+U11          Subsidence Excess GBP 1000
+U21          Unacceptable to purchase Legal Expenses at Mid Term
+U21          Enter valid authorisation codes only
+U21          Money Cover included with SI of #500
+PH1/09
+A4000010117 1260288100110201501102015A08882BD Home  15         BXHHA1F PY216000BDZ1052     
+C000200.150011.330006.000000.00YYN1Y011020150138.820050.0005000000050000N    
+D0005000000185.310010.490006.000000.003601.00050020000.000174.82N    
+E0000500000074.200004.200006.000000.003600.99050020000.00000250000025000000070.00N    
+J00005000000.000000.000006.0000005000000.000000.000006.0000000000000.000000.000006.00            II44     
+c216Broker Direct                                                                                                 
+yIIDD0018.430018.43B0018.3412M0020.020010.000220.17Y0020.020023.30
+h160GMK1
+b300PREMIUM FLEX
+b300- #0.20    809              # 221.10
+U31  MAI     Full Cycle/ Rates Guaranteed/ Polaris
+U31          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U31          A #1,000 Subsidence Excess applies to Buildings Section
+U31          A #250 Escape of Water Excess applies to Buildings Section
+U31          A #100 Compulsory Excess applies to Buildings Section
+U31          A #150 Voluntary Excess applies to Buildings Section
+U31          Please Refer to the insurer if the Property is undergoing building works
+U31          A #250 Escape of Water Excess applies to Contents Section
+U31          A #100 Compulsory Excess applies to Contents Section
+U31          A #150 Voluntary Excess applies to Contents Section
+U31          Frozen Food cover up to total sum insured automatically included under
+U31          contents
+U31          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  B05     #1,000 Subsidence XS
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+X31000B05S
+X30100B05C
+X30150B05V
+X30100C13C
+X30150C13V
+e5HM100000000000Index Linking - Buildings                                          HM141
+U11          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U11          A #1,000 Subsidence Excess applies to Buildings Section
+U11          A #250 Escape of Water Excess applies to Buildings Section
+U11          A #100 Compulsory Excess applies to Buildings Section
+U11          A #150 Voluntary Excess applies to Buildings Section
+U11          Please Refer to the insurer if the Property is undergoing building works
+U31  B05     #1,000 Subsidence XS
+U21          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U21          A #250 Escape of Water Excess applies to Contents Section
+U21          A #100 Compulsory Excess applies to Contents Section
+U21          A #150 Voluntary Excess applies to Contents Section
+U21          Frozen Food cover up to total sum insured automatically included under
+U21          contents
+U21          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+PGR216
+A4000010117 2630288100110201501102015A08882Ageas Opt KCBedroomsBK501K  PY231000GMK1160     
+C000221.300012.530006.000000.00YYN1Y011020150158.830049.9405000000050000Y    
+D0005000000198.070011.210006.000000.001025.00050020000.000186.86N    
+E0000500000066.180003.750006.000000.002140.00050020000.00000750000015000000062.43N    
+KF0100000000000.000000.000006.00                   N4     
+c248Ageas Insurance Ltd                                                                                           
+
+h098GRO1
+b300PREMIUM FLEX
+b300- #11.84   809              # 221.10
+U31  MAI     Full Cycle/ Rates Guaranteed/ Polaris
+U31          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U31          A #1,000 Subsidence Excess applies to Buildings Section
+U31          A #250 Escape of Water Excess applies to Buildings Section
+U31          A #100 Compulsory Excess applies to Buildings Section
+U31          A #150 Voluntary Excess applies to Buildings Section
+U31          Please Refer to the insurer if the Property is undergoing building works
+U31          A #250 Escape of Water Excess applies to Contents Section
+U31          A #100 Compulsory Excess applies to Contents Section
+U31          A #150 Voluntary Excess applies to Contents Section
+U31          Frozen Food cover up to total sum insured automatically included under
+U31          contents
+U31          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  B05     #1,000 Subsidence XS
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+X31000B05S
+X30100B05C
+X30150B05V
+X30100C13C
+X30150C13V
+e5HM100000000000Index Linking - Buildings                                          HM141
+U11          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U11          A #1,000 Subsidence Excess applies to Buildings Section
+U11          A #250 Escape of Water Excess applies to Buildings Section
+U11          A #100 Compulsory Excess applies to Buildings Section
+U11          A #150 Voluntary Excess applies to Buildings Section
+U11          Please Refer to the insurer if the Property is undergoing building works
+U31  B05     #1,000 Subsidence XS
+U21          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U21          A #250 Escape of Water Excess applies to Contents Section
+U21          A #100 Compulsory Excess applies to Contents Section
+U21          A #150 Voluntary Excess applies to Contents Section
+U21          Frozen Food cover up to total sum insured automatically included under
+U21          contents
+U21          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+PGR216
+A4000010117 2630288100110201501102015A08882Ageas Bedroom FCEDI B7      PY231000GRO1098     
+C000232.940013.180006.000000.00YYN1Y011020150167.190052.5705000000050000N    
+D0005000000208.490011.800006.000000.001025.00050020000.000196.69N    
+E0000500000069.650003.940006.000000.002140.00050020000.00000750000015000000065.71N    
+KF0100000000000.000000.000006.00                   N4     
+c248Ageas Insurance Ltd                                                                                           
+
+h031PST0
+b300PREMIUM FLEX
+b300- #12.10   809              # 221.10
+X30100B05C
+X30150B05V
+X31000B05S
+X30100C13C
+X30150C13V
+X30100F01C
+U31  F01     Included In Contents
+U31  B05     Subsidence #1000 XS
+U31  MAI     Full Cycle/See Comments
+U31          #250 escape of water excess applies
+U31          If property is undergoing any structural alterations/work - Refer.
+U31          Conditions and Restrictions will apply if property is occupied as
+U31          anything other than main residence.
+U31          If this is a let property this quote is subject to a 6 month
+U31          tenancy agreement directly between landlord and tenant.
+U31          Refer if let to more than 3 unrelated tenants.
+U31          If the property is unoccupied for 6 months prior to inception - Refer
+U31          Property must not be unoccupied for more than 2 years and
+U31          no windows or doors must be boarded or bricked up.
+U31          If any building or construction work - Refer
+U31          If the property is purchased to renovate and sell on - Refer
+U31          If the property is a working farm - Refer
+P107369 03/03/2014 V1
+e601000000000000ENDORSEMENT 010                                                    010  
+e601200000000000ENDORSEMENT 012                                                    012  
+e502200000000000ENDORSEMENT 022                                                    022  
+e602400000000000ENDORSEMENT 024                                                    024  
+p01  00000000000BUILDINGS                                                          1         
+p02  00000000000CONTENTS                                                           2         
+p03  00000000000ACCIDENTS TO DOMESTIC STAFF                                        3         
+p04  00000000000LEGAL LIABILITY TO THE PUBLIC                                      4         
+p06  00000000000DOMESTIC FREEZER COVER                                             6         
+A4000010117          0110201501102015A08882PRESTIGE COVERALL   HH034   4N457000PST0031     
+C000233.200013.200006.000000.00YYN1Y010920150117.380070.8201310000035000N    
+D0001310000233.200013.200006.000000.001120.00050020001.000126.22N    
+E0000350000233.200013.200006.000000.001230.00050020001.00000000000000000000076.15N    
+KF0100005000000.000000.000006.00                   I4     
+c457Prestige Underwriting                                                                                         
+
+h385PAG0
+b300PREMIUM FLEX
+b300- #14.39   809              # 221.10
+U31  MAI     Full Cycle/ Rates Guaranteed/ Polaris
+U31          Contract must be sent via EDI
+U31          Combined Cover Discount given
+U31          Instalments are available for this case.
+U31          The building or land on which it stands must not be used for or in connection
+U31          with any non clerical trade, business, profession or employment by the
+U31          Proposer any other person or firm.
+U31          Ageas Insurance Limited is authorised by the Prudential Regulation Authority
+U31          and
+U31          regulated by the Financial Conduct Authority and the Prudential Regulation
+U31          Authority
+U31          U/W Guide - provides a summary of cover, conditions and useful contact numbers
+U31          Refer to Underwriting Guide for comprehensive claim history rules
+U31          Accidental Damage/Voluntary excess discount
+U31          FOR OFFICE USE ONLY - V41 DD88.1
+U31          Claims - "ONECALL"  24 hours claim service 0845 122 3019
+U31          Claims - Free Domestic and Legal helplines
+U31          #250 Compulsory Excess applies to Buildings Section
+U31          #500 Escape of Water Damage Excess applies to Buildings Section
+U31  B05     Subsidence XS #1000
+U31          5+ Years Buildings NCD allowed
+U31          Buildings Sum Insured given #500000
+U31          #250 Compulsory Excess applies to Contents Section
+U31          #500 Escape of Water Damage Excess applies to Contents Section
+U31          5+yrs Contents NCD allowed
+U31          Money limit #200 applies within Contents Section
+U31          High Risk Property items valued  &gt;#1500 must be specified
+U31          A voluntary security discount may be available
+U31          Contents Minimum Premium applied
+X31000B05S
+X30250B05C
+X30250C13C
+p51  00000000000Section 1 - Buildings                                              1
+p52  00000000000Section 2 - Contents                                               2
+U11          Contract must be sent via EDI
+U11          Instalments are available for this case.
+U11          The building or land on which it stands must not be used for or in connection
+U11          with any non clerical trade, business, profession or employment by the
+U11          Proposer any other person or firm.
+U11          Ageas Insurance Limited is authorised by the Prudential Regulation Authority
+U11          and
+U11          regulated by the Financial Conduct Authority and the Prudential Regulation
+U11          Authority
+U11          U/W Guide - provides a summary of cover, conditions and useful contact numbers
+U11          Refer to Underwriting Guide for comprehensive claim history rules
+U11          Accidental Damage/Voluntary excess discount
+U11          FOR OFFICE USE ONLY - V41 DD88.1
+U11          Claims - "ONECALL"  24 hours claim service 0845 122 3019
+U11          Claims - Free Domestic and Legal helplines
+U11          #250 Compulsory Excess applies to Buildings Section
+U11          #500 Escape of Water Damage Excess applies to Buildings Section
+U31  B05     Subsidence XS #1000
+U11          5+ Years Buildings NCD allowed
+U11          Buildings Sum Insured given #500000
+U21          #250 Compulsory Excess applies to Contents Section
+U21          #500 Escape of Water Damage Excess applies to Contents Section
+U21          5+yrs Contents NCD allowed
+U21          Money limit #200 applies within Contents Section
+U21          High Risk Property items valued  &gt;#1500 must be specified
+U21          A voluntary security discount may be available
+U21          Contents Minimum Premium applied
+PPESv1-0312
+A4000010117 0410288100110201501102015A08882Paragon Essentials  E PESX01PY248000PAG0385     
+C000235.490013.320006.000000.00YYN1Y011020150136.870055.5705000000040000N    
+D0005000000170.730009.660006.000000.001037.60050020000.000146.21N    
+E0000400000080.740004.570006.000000.001631.00050020000.00000100000015000000061.31N    
+J00002000000.000000.000006.0000000000000.000000.000006.0000000000000.000000.000006.00            IN44     
+c248Ageas Insurance Ltd                                                                                           
+yIIDD0047.100020.7510020.7209M0000.000010.000254.33Y0018.840023.60
+
+h128AEU0
+b300PREMIUM FLEX
+b300- #43.90   809              # 221.10
+X30100B05C
+X30150B05V
+X31000B05S
+X30100C13C
+X30150C13V
+U31  M05     Included in Contents
+U31  B01     Included in Contents
+U31  F01     Included in Contents
+U31  B05     Subsidence #1000 XS
+U31  MAI     Rates Guaranteed/Full Cycle
+U32          A #500 Escape of Water Excess applies
+PHOME H2 OCTOBER 2013
+p01  00000000000BUILDINGS                                                          1         
+p02  00000000000CONTENTS                                                           2         
+A4000010117          0110201501102015A08882E-UNDERWRITING HME  HOSSP   4N491000AEU0128     
+C000265.000015.000006.000000.00YYN1Y011020140125.000066.8606500000065000N    
+D0006500000132.500007.500006.000000.00 940.00050020001.000125.00N    
+E0000650000132.500007.500006.000000.00 940.00050020001.00000000000000000000070.38N    
+J00005000000.000000.000006.0000050000000.000000.000006.0000055000000.000000.000006.00            II44     
+KF0100010000000.000000.000006.00                   I4     
+c491e-Underwriting                                                                                                
+
+h159GMK0
+b300PREMIUM FLEX
+b300- #48.84   809              # 221.10
+U31  MAI     Full Cycle/ Rates Guaranteed/ Polaris
+U31          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U31          A #1,000 Subsidence Excess applies to Buildings Section
+U31          A #250 Escape of Water Excess applies to Buildings Section
+U31          A #100 Compulsory Excess applies to Buildings Section
+U31          A #150 Voluntary Excess applies to Buildings Section
+U31          Please Refer to the insurer if the Property is undergoing building works
+U31          A #250 Escape of Water Excess applies to Contents Section
+U31          A #100 Compulsory Excess applies to Contents Section
+U31          A #150 Voluntary Excess applies to Contents Section
+U31          Frozen Food cover up to total sum insured automatically included under
+U31          contents
+U31          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  B05     #1,000 Subsidence XS
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+X31000B05S
+X30100B05C
+X30150B05V
+X30100C13C
+X30150C13V
+U11          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U11          A #1,000 Subsidence Excess applies to Buildings Section
+U11          A #250 Escape of Water Excess applies to Buildings Section
+U11          A #100 Compulsory Excess applies to Buildings Section
+U11          A #150 Voluntary Excess applies to Buildings Section
+U11          Please Refer to the insurer if the Property is undergoing building works
+U31  B05     #1,000 Subsidence XS
+U21          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U21          A #250 Escape of Water Excess applies to Contents Section
+U21          A #100 Compulsory Excess applies to Contents Section
+U21          A #150 Voluntary Excess applies to Contents Section
+U21          Frozen Food cover up to total sum insured automatically included under
+U21          contents
+U21          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+PGR215
+A4000010117 2630288100110201501102015A08882Ageas Opt KC Home   HK502K  PY231000GMK0159     
+C000269.940015.280006.000000.00YYN1Y011020150196.900057.7601310000035000Y    
+D0001310000245.550013.900006.000000.001025.00050020000.000231.65N    
+E0000350000076.530004.330006.000000.002140.00050020000.00000750000015000000072.20N    
+KF0100000000000.000000.000006.00                   N4     
+c248Ageas Insurance Ltd                                                                                           
+
+h273CEH9
+b300PREMIUM FLEX
+b300- #54.93   809              # 221.10
+X30100B05C
+X30100B05V
+X31000B05S
+X30100C13C
+X30100C13V
+X30100F01C
+X30100S04C
+X30100P02C
+U31  F01     Included In Contents
+U31  S04     Included in AllRisks
+U31  B05     Subsidence #1000 XS
+U31  C13     Minimum S.I. #45,000
+U31  MAI     Rates Guaranteed
+U32          THATCHED properties are unacceptable-refer to Heaths for alternative quotation
+U32          DECLINE IF NON-STANDARD CONSTRUCTION / DECLINE CONVERTED BARNS.
+U32          RATES GUARANTEED PROVIDING THAT:-
+U32          * the risk is within the underwriting guidelines.
+U32          * you are not aware of any material fact that the system  does not cater for
+U32          * a printout is attached to all proposal forms submitted to Heath
+U32          * the quotation is run on the most recent software update available.
+U32          * the risk details have been accurately entered onto the system
+U32          You may Hold Covered for 30 days subject to the Hold Covered Rules - a copy is
+U32          available from Heath Lamberts upon request.
+U31          Should your client wish to make payment in full by credit/debit card or
+U31          monthly under a credit facility, please contact our Credit Control
+U31          Department on 01403 321119 with details.
+PBROKER APRIL 2014   
+e645 00000000000THREE YEARS CLAIM FREE DISCOUNT                                    45   
+e649 00000000000APPROVED LOCKS DISCOUNT                                            49   
+e752 00000000000BUILDINGS SUM INSURED DISCOUNT                                     52   
+e660 00000000000COMBINED BUILDINGS AND CONTENTS DISCOUNT                           60   
+e781 00000000000OVER 40'S DISCOUNT                                                 81   
+e710200000000000ADDITIONAL VOLUNTARY EXCESS                                        102  
+e794 00000000000BEDROOMS - SUM INSURED LIMITATION CLAUSE                           94   
+p01  00000000000BUILDINGS                                                          1         
+p02  00000000000CONTENTS                                                           2         
+p03  00000000000ACCIDENTS TO DOMESTIC EMPLOYEES                                    3         
+p04  00000000000LEGAL LIABILITY TO THE PUBLIC                                      4         
+p05  00000000000VALUABLES AND PERSONAL EFFECTS                                     5         
+p06  00000000000DOMESTIC DEEP FREEZER EXTENSION                                    6         
+p07  00000000000PEDAL CYCLES EXTENSION                                             7         
+p08  00000000000PERSONAL MONEY AND CREDIT CARDS EXTENSION                          8         
+A4000010117          0110201501102015A08882HOMELINE BEDROOMS FC  DN94  4N445000CEH9273     
+C000276.030015.620006.000000.00YYN1N011120140184.810075.6001310000045000N    
+D0001310000195.900011.090006.000000.001215.00050020001.000184.81N    
+E0000450000080.130004.540006.000000.001915.00050020000.00000000000000000000075.60N    
+G00000000000.000000.000006.0000000000000.000000.000006.00  00.00000020000.00NN0004     
+KF0100002000000.000000.000006.00                   I4     
+c445Heath Lambert                                                                                                 
+
+h469MDS0
+b300PREMIUM FLEX
+b300- #57.60   809              # 221.10
+X30200B05C
+X31000B05S
+X30200C13C
+U31  B05     Subsidence #1000 XS
+U32          A #300 Escape of Water Excess applies
+U32          Maximum cover in outbuildings #5000
+U32          Maximum items in the open #500
+PV.11/10             
+e701000000000000SECURITY LOCKS CLAUSE                                              010  
+e701200000000000SECURITY MAINTENANCE CLAUSE                                        012  
+p01  00000000000BUILDINGS                                                          1         
+p02  00000000000CONTENTS                                                           2         
+p03  00000000000ACCIDENTS TO DOMESTIC STAFF                                        3         
+p04  00000000000LEGAL LIABILITY TO THE PUBLIC                                      4         
+p06  00000000000DOMESTIC FREEZER COVER                                             6         
+A4000010117          0110201501102015A08882MIDAS CROWN         HHMC    4N477000MDS0469     
+C000278.700015.780006.000000.00YYN1Y010820140142.740095.1801310000035000N    
+D0001310000238.500013.500006.000000.001315.00050020001.000142.74N    
+E0000350000238.500013.500006.000000.001415.00050020001.00000000000000000000095.18N    
+c477Midas Underwriting Agency                                                                                     
+
+h087GRO0
+b300PREMIUM FLEX
+b300- #63.06   809              # 221.10
+U31  MAI     Full Cycle/ Rates Guaranteed/ Polaris
+U31          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U31          A #1,000 Subsidence Excess applies to Buildings Section
+U31          A #250 Escape of Water Excess applies to Buildings Section
+U31          A #100 Compulsory Excess applies to Buildings Section
+U31          A #150 Voluntary Excess applies to Buildings Section
+U31          Please Refer to the insurer if the Property is undergoing building works
+U31          A #250 Escape of Water Excess applies to Contents Section
+U31          A #100 Compulsory Excess applies to Contents Section
+U31          A #150 Voluntary Excess applies to Contents Section
+U31          Frozen Food cover up to total sum insured automatically included under
+U31          contents
+U31          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  B05     #1,000 Subsidence XS
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+X31000B05S
+X30100B05C
+X30150B05V
+X30100C13C
+X30150C13V
+U11          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U11          A #1,000 Subsidence Excess applies to Buildings Section
+U11          A #250 Escape of Water Excess applies to Buildings Section
+U11          A #100 Compulsory Excess applies to Buildings Section
+U11          A #150 Voluntary Excess applies to Buildings Section
+U11          Please Refer to the insurer if the Property is undergoing building works
+U31  B05     #1,000 Subsidence XS
+U21          Ageas Optima Household FCEDI - 1501263 October 2015 rates, revision 58. FPC 23
+U21          A #250 Escape of Water Excess applies to Contents Section
+U21          A #100 Compulsory Excess applies to Contents Section
+U21          A #150 Voluntary Excess applies to Contents Section
+U21          Frozen Food cover up to total sum insured automatically included under
+U21          contents
+U21          Replacement locks up to #1,000 if the keys are lost or stolen
+U31  C13     Valuables Total 40%
+U31  F01     SAL #1500
+PGR215
+A4000010117 2630288100110201501102015A08882Ageas Home FCEDI    H7      PY231000GRO0087     
+C000284.160016.090006.000000.00YYN1Y011020150207.270060.8001310000035000N    
+D0001310000258.480014.630006.000000.001025.00050020000.000243.85N    
+E0000350000080.560004.560006.000000.002140.00050020000.00000750000015000000076.00N    
+KF0100000000000.000000.000006.00                   N4     
+c248Ageas Insurance Ltd                                                                                           
+t
+
+</RawResponse><RawRequest>SPSPMBMBBB4000DQO101001      00000                   343740010 T 1      A088820                    91      1 1    10101009                                                                                                                                                                                 1
+000010100000101100110100000001000000100101001000011000100000000000010000000100110000010000001000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+100001010011110010000000010100000000101110011111111001101001010000010001101001101101111100011000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+100000101001000000000000010001111001101110111011100000000110100000000000110000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000001000001000000100000000110000000000000000000000000101001000111010000000000010000001000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000001100100000000000100111100000000000010001100000001000010000000111000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000010000000011100100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+100020020000010000000000001000001000000000000000000000000001000010000100000020010010102021001110021000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000200021001000000000000200000020000020010121001001001000200000111000010000000100010000201011001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000021011000000000002000001101000001110000000000000000000000000010100100000000002000000010001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+010000000000000100100010001000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+|0040000301Y02    0000000000000YYYNY0100000100          
+01201510282015102820151028120000.000000.000000.00                                          
+02201510270100000219660101MMNNN000N   00000000NNNNNNN 20001027P         
+0320151027383063EY          
+0620151027201510280524B05HHY                    
+0620151027201510280524C13HHY                    
+092015102702CH63 7ND  0319661003NY03PHY00N3NY030Y   N   NYNNN0215YYYNYYN000000  03Y01NN          
+1320151027B05          
+1520151027Y0131000000000000000000N02500250Y000          
+140205          
+1320151027C13          
+1620151027Y003500000000000000000NN02500250YY0000000000          
+140505          
+                   
+ACN10460000000000
+AHO02880000000000
+AIG00820000000000
+AIG10880000000000
+AIG21520000000000
+AIH01930120071116
+AIH11940120071116
+AIH21950120071116
+ALB00760000000000
+ALB11030000000000
+ALI02250000000000
+ALI12270000000000
+ALL01400120070227
+ALL11530120070227
+ALL21540120070227
+ALL31580120070227
+ANS00320000000000
+ANS10640000000000
+AOM02440000000000
+ASU02340000000000
+ASU12350000000000
+ASU22360000000000
+ASU32370000000000
+AUA00470000000000
+AVO00190000000000
+AVO20410000000000
+AXA00900120070612
+AXA10920120070612
+AXA20930120070612
+AXA31510120070612
+AXA40330120070612
+AXA52330120070612
+AXA62590120070612
+AXA72600120070612
+AXA82760000000000
+AXI02180000000000
+AXI12560000000000
+AXI22570000000000
+AXI32580000000000
+BDZ00450120070227
+BDZ10520120070227
+BDZ21710120070227
+BDZ31730120070227
+BEL00380000000000
+BEL12710000000000
+BIS11280000000000
+BIS21170000000000
+BIS31180000000000
+BIS41190000000000
+BIS50960120070112
+BIS61020120070112
+BIS71100120070112
+BIS81150120070112
+BMI02290000000000
+BMI12450000000000
+BMI22460000000000
+BMI32470000000000
+BMI42480000000000
+BMI52490000000000
+BRT02680120070628
+BZD01960120071004
+BZD11970120071004
+BZD22120120071004
+C&amp;G00790000000000
+C-G02100120070620
+C-G12110120070620
+CCA01980000000000
+CCA12910000000000
+CCG02420000000000
+CCI02430000000000
+CCL02000000000000
+CCL12650000000000
+CCM02660000000000
+CCR01990000000000
+CCR12900000000000
+CCX02380000000000
+CEH00140000000000
+CEH10080000000000
+CEH21120000000000
+CEH31130000000000
+CEH50050000000000
+CEH60110000000000
+CEH71250000000000
+CEH82700000000000
+CEH92730000000000
+CHB02670000000000
+CIS01370000000000
+CON00720000000000
+CON10090000000000
+CON20170000000000
+CON31260000000000
+CON41002000000000
+CON51012000000000
+CON61042000000000
+CON71052000000000
+CON82080120070620
+CON92090120070620
+COR00340000000000
+COR10710000000000
+ECC00890000000000
+ECC10660000000000
+ECC20770120070705
+ECC30850120070705
+ECC42920000000000
+EQL01110000000000
+EQU00120000000000
+EQU12230120070227
+EQU22240120070227
+EQU30200000000000
+EQU42260120070227
+EQU52300000000000
+EQU62310000000000
+EQU72400120070227
+EQU82390120070227
+EQU92410120070227
+ERS02770000000000
+ESI02190000000000
+ESI12200000000000
+ESI22210000000000
+ESI32220000000000
+ESI42610000000000
+ESI52620000000000
+ESI62630000000000
+ESI72640000000000
+EXA02750000000000
+EXL02520000000000
+EXL12530000000000
+EXL22540000000000
+EXN02550000000000
+EXT02740000000000
+FHO02870000000000
+FOA01740000000000
+FOA11750000000000
+FOA21760000000000
+FOA31720000000000
+FOA42060000000000
+FOA52070000000000
+FOL21420000000000
+FOL31300000000000
+FOL60680000000000
+FOL71270000000000
+FOR00800000000000
+FOR10940000000000
+FRT01620120070112
+FRT11630120070112
+FTK02130120070112
+FTK12140120070112
+FTK22150120070112
+FTK32160120070112
+FTK42170120070112
+FTS00040000000000
+FTS10150000000000
+FTS20220000000000
+FTS30420000000000
+FTS40600120070112
+FTS50610120070112
+FTS60620120070112
+FTS70700120070112
+FTS80780000000000
+FTS90860120070112
+GAT02320000000000
+GHO02790000000000
+GMK01590120070227
+GMK11600120070227
+GMK21610120070227
+GRE10310000000000
+GRE30500000000000
+GRO00870120070227
+GRO10980120070227
+GRO21160120070227
+HLM02890000000000
+L&amp;G10560000000000
+L&amp;G20840000000000
+L&amp;G30290000000000
+L&amp;G71460000000000
+L&amp;G81470000000000
+L&amp;G91490000000000
+LAG01640120070616
+LAG11650120070616
+LAG21660120070616
+LHO02850000000000
+LNK00250000000000
+LNK10260000000000
+MET10910000000000
+MET20370000000000
+MHO02800000000000
+MIN00300000000000
+MIN10670000000000
+MIN30180000000000
+MMA01290120070227
+MMA11330120070227
+MMA20990000000000
+MMA31320000000000
+MMA41480120070227
+MMA51850120070227
+MMA61860120070227
+MMA71870120070227
+MMA81880120070227
+MMK01890120070227
+MMK11900120070227
+MMK21910120070227
+MMK31920120070227
+N-S30970000000000
+N-U00070000000000
+N-U20730000000000
+N-U30740000000000
+N-U61500000000000
+N-U70690000000000
+N-U80350000000000
+N-U90810000000000
+NAT01210120070227
+NEL01090000000000
+NHO02830000000000
+NIG00270000000000
+NIG10440000000000
+NIG20540000000000
+NIG30280120070227
+NIG40650120070227
+NIG61380120070227
+NIG72690000000000
+NIG82720000000000
+NMN00100000000000
+NMN10360000000000
+NMN20750000000000
+NMN40510000000000
+NMN51060120070227
+NMN61080120070227
+NMN71070120070227
+NMN81200000000000
+NOR01340000000000
+NOR10010120070227
+NOR20950120070227
+NUO02860000000000
+NYM01350120070227
+NYM11390120070227
+NYM20480120070227
+NYM30490120070227
+RAX01670000000000
+RAX12020000000000
+RBJ10830000000000
+RBJ21140000000000
+RCN00230000000000
+RCN12010000000000
+RFO01690000000000
+RFO12030000000000
+RJR02780000000000
+RLG01680000000000
+RLG12040000000000
+RLI01700000000000
+RLI12050000000000
+RSA00630000000000
+RSA10160000000000
+RSA21310000000000
+RSI02500000000000
+RSI12510000000000
+SAN02840120080109
+SUN30570000000000
+TES02810000000000
+TES12820000000000
+TOW11430120070612
+TOW21440120070612
+TOW31450120070612
+TRE01550000000000
+TRE11560000000000
+TRE21570000000000
+TUG01410000000000
+WES01220000000000
+WIN00210000000000
+WRE00020000000000
+WRE10030000000000
+WRI02280000000000
+ZEN01360000000000
+ZRS01770120070227
+ZRS11780120070227
+ZRS21790120070227
+ZRS31800120070227
+ZUK00430000000000
+ZUK11240000000000
+ZUK20390000000000
+ZUK30400000000000
+ZUK40530000000000
+ZUK51810000000000
+ZUK61820000000000
+ZUK71830000000000
+ZUK81840000000000
+ZUR00130000000000
+ZUR11230000000000
+ZUR20060000000000
+ZUR30550000000000
+ZUR40580000000000
+ZUR50590000000000
+ZUR60240000000000
+ZZZ02930000000000
+}
+</RawRequest></GetQuoteResult></GetQuoteResponse></soap:Body></soap:Envelope>

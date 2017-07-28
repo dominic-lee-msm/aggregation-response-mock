@@ -1,0 +1,15 @@
+{
+    "scenarioName": "zenithTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "topquotesuat.zenith-direct.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/TopQuotesService.svc/TopQuotesService.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "zenith-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

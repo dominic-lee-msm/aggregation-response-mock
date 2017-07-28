@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Holiday Genie Florida",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "advertholiday2.holidaygenie.com",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/process.aspx"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "holidayGenieFloridaResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

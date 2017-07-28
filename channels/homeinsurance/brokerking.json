@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Broker King",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "AllenAllen.ssp-uk.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/AllenAllenHouseholdQuoteservice/1/0/HouseholdQuoteservice.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "brokerking-response-success.xml",
+        "fixedDelayMilliseconds": 1000
+    }
+}

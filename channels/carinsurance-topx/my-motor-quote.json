@@ -1,0 +1,15 @@
+{
+    "scenarioName": "MyMotorQuoteTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "pricing.uat.taaglservices.net",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/PricingServiceWcf.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "my-motor-quote-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

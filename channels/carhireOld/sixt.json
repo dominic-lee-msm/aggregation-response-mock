@@ -1,0 +1,14 @@
+{
+    "scenarioName": "Sixt",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/webservices/reservation/prod/availability_2\\.00\\.json\\?.*"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "sixt-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

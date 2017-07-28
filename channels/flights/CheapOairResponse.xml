@@ -1,0 +1,255 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<soap:Body>
+		<SearchFlightAvailability31Response
+			xmlns="http://FpwebBox.Fareportal.com/Gateway.asmx">
+			<SearchFlightAvailability31Result><![CDATA[<Fareportal>
+	<FpSearch_AirLowFaresRS>
+		<CntKey>f61649c6-aa64-4788-8101-6f69feebe34e</CntKey>
+		<Currency CurrencyCode="GBP" />
+		<OriginDestinationOptions>
+			<OutBoundOptions>
+				<OutBoundOption segmentid="TP351O">
+					<FlightSegment FlightNumber="351" DepartureDateTime="${outboundDay}${outboundMonthName}${outboundYear}T06:00 AM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T08:35 AM" FlightDuration="02.35"
+						FDType="T" StopQuantity="0" RPH="1">
+						<DepartureAirport LocationCode="LHR" />
+						<ArrivalAirport LocationCode="LIS" />
+						<Equipment AirEquipType="320" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="S" />
+						<MarketingAirline Code="TP" />
+						<OperatedByAirline CompanyText="TP" />
+						<Flight FlightType="O" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+				</OutBoundOption>
+				<OutBoundOption segmentid="TP377T">
+					<FlightSegment FlightNumber="377" DepartureDateTime="${outboundDay}${outboundMonthName}${outboundYear}T06:30 PM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T09:10 PM" FlightDuration="02.40"
+						FDType="T" StopQuantity="0" RPH="1">
+						<DepartureAirport LocationCode="LHR" />
+						<ArrivalAirport LocationCode="LIS" />
+						<Equipment AirEquipType="321" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="T" />
+						<MarketingAirline Code="TP" />
+						<OperatedByAirline CompanyText="TP" />
+						<Flight FlightType="O" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+				</OutBoundOption>
+				<OutBoundOption segmentid="TP353T">
+					<FlightSegment FlightNumber="2104" DepartureDateTime="${outboundDay}${outboundMonthName}${outboundYear}T06:50 AM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T09:00 AM" FlightDuration="06.20"
+						FDType="T" StopQuantity="0" RPH="1">
+						<DepartureAirport LocationCode="LHR" />
+						<ArrivalAirport LocationCode="BRU" />
+						<Equipment AirEquipType="319" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="T" />
+						<MarketingAirline Code="SN" />
+						<OperatedByAirline CompanyText="SN" />
+						<Flight FlightType="O" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+					<FlightSegment FlightNumber="3815" DepartureDateTime="${outboundDay}${outboundMonthName}${outboundYear}T11:25 AM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T01:10 PM" FlightDuration="06.20"
+						FDType="T" StopQuantity="0" RPH="2">
+						<DepartureAirport LocationCode="BRU" />
+						<ArrivalAirport LocationCode="LIS" />
+						<Equipment AirEquipType="320" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="T" />
+						<MarketingAirline Code="SN" />
+						<OperatedByAirline CompanyText="SN" />
+						<Flight FlightType="O" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+				</OutBoundOption>
+			</OutBoundOptions>
+			<InBoundOptions>
+				<InBoundOption segmentid="TP356T">
+					<FlightSegment FlightNumber="356" DepartureDateTime="${inboundDay}${inboundMonthName}${inboundYear}T02:55 PM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T05:35 PM" FlightDuration="02.40"
+						FDType="T" StopQuantity="0" RPH="1">
+						<DepartureAirport LocationCode="LIS" />
+						<ArrivalAirport LocationCode="LHR" />
+						<Equipment AirEquipType="321" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="T" />
+						<MarketingAirline Code="TP" />
+						<OperatedByAirline CompanyText="TP" />
+						<Flight FlightType="I" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+				</InBoundOption>
+				<InBoundOption segmentid="TP358T">
+					<FlightSegment FlightNumber="358" DepartureDateTime="${inboundDay}${inboundMonthName}${inboundYear}T06:50 PM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T09:30 PM" FlightDuration="02.40"
+						FDType="T" StopQuantity="0" RPH="1">
+						<DepartureAirport LocationCode="LIS" />
+						<ArrivalAirport LocationCode="LHR" />
+						<Equipment AirEquipType="319" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="T" />
+						<MarketingAirline Code="TP" />
+						<OperatedByAirline CompanyText="TP" />
+						<Flight FlightType="I" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+				</InBoundOption>
+				<InBoundOption segmentid="TP362T">
+					<FlightSegment FlightNumber="3816" DepartureDateTime="${inboundDay}${inboundMonthName}${inboundYear}T01:50 PM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T05:30 PM" FlightDuration="07.45"
+						FDType="T" StopQuantity="0" RPH="1">
+						<DepartureAirport LocationCode="LIS" />
+						<ArrivalAirport LocationCode="BRU" />
+						<Equipment AirEquipType="320" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="S" />
+						<MarketingAirline Code="SN" />
+						<OperatedByAirline CompanyText="SN" />
+						<Flight FlightType="I" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+					<FlightSegment FlightNumber="2103" DepartureDateTime="${inboundDay}${inboundMonthName}${inboundYear}T09:30 PM"
+						ArrivalDateTime="${inboundDay}${inboundMonthName}${inboundYear}T09:35 PM" FlightDuration="07.45"
+						FDType="T" StopQuantity="0" RPH="2">
+						<DepartureAirport LocationCode="BRU" />
+						<ArrivalAirport LocationCode="LHR" />
+						<Equipment AirEquipType="319" />
+						<FlightCabin CabinType="Y" />
+						<FlightClass ClassType="S" />
+						<MarketingAirline Code="SN" />
+						<OperatedByAirline CompanyText="SN" />
+						<Flight FlightType="I" />
+						<Opaque>False</Opaque>
+					</FlightSegment>
+				</InBoundOption>
+			</InBoundOptions>
+		</OriginDestinationOptions>
+		<SegmentReference>
+			<SegmentRefDetails>
+				<CNT ID="162" ETicket="True" Source="9"></CNT>
+				<OutBoundOptionId>TP351O</OutBoundOptionId>
+				<InBoundOptionId>TP356T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="33" TaxesandFees="95.7" TotalAdultFare="128.7"
+						TaxCode="FP" />
+					<Child BaseFare="33" TaxesandFees="95.7" TotalChildFare="128.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="3" TaxesandFees="31.3"
+						TotalLapInfantFare="34.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="160" ETicket="True" Source="9"></CNT>
+				<OutBoundOptionId>TP351O</OutBoundOptionId>
+				<InBoundOptionId>TP358T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="28" TaxesandFees="95.7" TotalAdultFare="123.7"
+						TaxCode="FP" />
+					<Child BaseFare="28" TaxesandFees="95.7" TotalChildFare="123.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="3" TaxesandFees="31.3"
+						TotalLapInfantFare="34.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="2" ETicket="True" Source="10"></CNT>
+				<OutBoundOptionId>TP377T</OutBoundOptionId>
+				<InBoundOptionId>TP356T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="53" TaxesandFees="92.7" TotalAdultFare="145.7"
+						TaxCode="FP" />
+					<Child BaseFare="53" TaxesandFees="92.7" TotalChildFare="145.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="8" TaxesandFees="28.3"
+						TotalLapInfantFare="36.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="171" ETicket="True" Source="9"></CNT>
+				<OutBoundOptionId>TP377T</OutBoundOptionId>
+				<InBoundOptionId>TP358T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="45" TaxesandFees="95.7" TotalAdultFare="140.7"
+						TaxCode="FP" />
+					<Child BaseFare="45" TaxesandFees="95.7" TotalChildFare="140.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="4" TaxesandFees="31.3"
+						TotalLapInfantFare="35.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="161" ETicket="True" Source="9"></CNT>
+				<OutBoundOptionId>TP351O</OutBoundOptionId>
+				<InBoundOptionId>TP362T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="28" TaxesandFees="95.7" TotalAdultFare="123.7"
+						TaxCode="FP" />
+					<Child BaseFare="28" TaxesandFees="95.7" TotalChildFare="123.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="3" TaxesandFees="31.3"
+						TotalLapInfantFare="34.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="172" ETicket="True" Source="9"></CNT>
+				<OutBoundOptionId>TP377T</OutBoundOptionId>
+				<InBoundOptionId>TP362T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="45" TaxesandFees="95.7" TotalAdultFare="140.7"
+						TaxCode="FP" />
+					<Child BaseFare="45" TaxesandFees="95.7" TotalChildFare="140.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="4" TaxesandFees="31.3"
+						TotalLapInfantFare="35.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="6" ETicket="True" Source="10"></CNT>
+				<OutBoundOptionId>TP353T</OutBoundOptionId>
+				<InBoundOptionId>TP356T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="53" TaxesandFees="92.7" TotalAdultFare="145.7"
+						TaxCode="FP" />
+					<Child BaseFare="53" TaxesandFees="92.7" TotalChildFare="145.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="8" TaxesandFees="28.3"
+						TotalLapInfantFare="36.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="169" ETicket="True" Source="9"></CNT>
+				<OutBoundOptionId>TP353T</OutBoundOptionId>
+				<InBoundOptionId>TP358T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="45" TaxesandFees="95.7" TotalAdultFare="140.7"
+						TaxCode="FP" />
+					<Child BaseFare="45" TaxesandFees="95.7" TotalChildFare="140.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="4" TaxesandFees="31.3"
+						TotalLapInfantFare="35.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+			<SegmentRefDetails>
+				<CNT ID="170" ETicket="True" Source="9"></CNT>
+				<OutBoundOptionId>TP353T</OutBoundOptionId>
+				<InBoundOptionId>TP362T</InBoundOptionId>
+				<PTC_FareBreakdown>
+					<Adult BaseFare="45" TaxesandFees="95.7" TotalAdultFare="140.7"
+						TaxCode="FP" />
+					<Child BaseFare="45" TaxesandFees="95.7" TotalChildFare="140.7"
+						TaxCode="FP" />
+					<LapInfant BaseFare="4" TaxesandFees="31.3"
+						TotalLapInfantFare="35.3" TaxCode="FP" />
+				</PTC_FareBreakdown>
+			</SegmentRefDetails>
+		</SegmentReference>
+	</FpSearch_AirLowFaresRS>
+</Fareportal>]]></SearchFlightAvailability31Result>
+		</SearchFlightAvailability31Response>
+	</soap:Body>
+</soap:Envelope>

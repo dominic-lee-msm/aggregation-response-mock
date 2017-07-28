@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <soap:Body>
+        <GeocodeAvailabilityResponse xmlns="http://v2_0.soap/">
+            <getAvailabilityReturn>
+                <errors />
+                <requestID>1860079</requestID>
+                <hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>310.5</fromPrice>
+                            <hotelName>Berne Opera Hotel</hotelName>
+                            <id>8933</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/berne_opera_hotel_bedroom_1_bed_8933.JPG</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Berne Opera Hotel</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/berne_opera_hotel_bedroom_1_bed_8933.JPG</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8818</latitude>
+                            <location>Paris</location>
+                            <longitude>2.32232</longitude>
+                            <starRating>3</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Full Breakfast</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>310.5</price>
+                                <stdOccupancy>3</stdOccupancy>
+                                <unitDescription>Triple Room</unitDescription>
+                                <unitID>354</unitID>
+                                <sellUnitId>135471</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>12</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>342.5</fromPrice>
+                            <hotelName>Mirific Hotel - Opera</hotelName>
+                            <id>16121</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/mirific_hotel_image_1_bro_16121.JPG</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Mirific Hotel - Opera</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/mirific_hotel_image_1_bro_16121.JPG</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8899</latitude>
+                            <location>Paris</location>
+                            <longitude>2.32116</longitude>
+                            <starRating>3</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Breakfast Included</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>342.5</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Triple (2Ad+1Ch)</unitDescription>
+                                <unitID>TRC</unitID>
+                                <sellUnitId>4</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>11</maximumChildAge>
+                            </roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Breakfast Included</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>404.5</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Triple Superior (2Ad+1Ch)</unitDescription>
+                                <unitID>T02</unitID>
+                                <sellUnitId>5</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>11</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>412</fromPrice>
+                            <hotelName>Courtyard by Marriott Paris Saint Denis</hotelName>
+                            <id>17996</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/nopic.gif</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Courtyard by Marriott Paris Saint Denis</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/nopic.gif</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.9223</latitude>
+                            <location>Paris</location>
+                            <longitude>2.3431</longitude>
+                            <starRating>4</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Breakfast Included</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>412</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Triple (2Ad+1Ch)</unitDescription>
+                                <unitID>TRC</unitID>
+                                <sellUnitId>6</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>15</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>416</fromPrice>
+                            <hotelName>Auteuil Tour Eiffel</hotelName>
+                            <id>12786</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/auteuil_tour_eiffel_hotel_lobby_1_lob_12786.JPG</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Auteuil Tour Eiffel</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/auteuil_tour_eiffel_hotel_lobby_1_lob_12786.JPG</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8509</latitude>
+                            <location>Paris</location>
+                            <longitude>2.27545</longitude>
+                            <starRating>4</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Full Breakfast</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>2</minOccupancy>
+                                <price>416</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Superior Double 2-3</unitDescription>
+                                <unitID>576</unitID>
+                                <sellUnitId>138952</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>11</maximumChildAge>
+                            </roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Full Breakfast</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>2</minOccupancy>
+                                <price>416</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Superior Twin 2-3</unitDescription>
+                                <unitID>575</unitID>
+                                <sellUnitId>138951</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>11</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>421</fromPrice>
+                            <hotelName>Courtyard by Marriott Paris Arcueil</hotelName>
+                            <id>17993</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/nopic.gif</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Courtyard by Marriott Paris Arcueil</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/nopic.gif</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8102</latitude>
+                            <location>Paris</location>
+                            <longitude>2.32761</longitude>
+                            <starRating>4</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Breakfast Included</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>421</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Triple (2Ad+1Ch)</unitDescription>
+                                <unitID>TRC</unitID>
+                                <sellUnitId>7</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>15</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>500</fromPrice>
+                            <hotelName>Le Chat Noir Design Hotel</hotelName>
+                            <id>16177</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/nopic.gif</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Le Chat Noir Design Hotel</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/nopic.gif</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8835</latitude>
+                            <location>Paris</location>
+                            <longitude>2.33414</longitude>
+                            <starRating>3</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>RO</boardCode>
+                                <boardDescription>Room only</boardDescription>
+                                <maxOccupancy>3</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>500</price>
+                                <stdOccupancy>3</stdOccupancy>
+                                <unitDescription>Triple Room</unitDescription>
+                                <unitID>5</unitID>
+                                <sellUnitId>221101012</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>12</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>517.5</fromPrice>
+                            <hotelName>Holiday Inn Paris Gare de l Est</hotelName>
+                            <id>8251</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/holiday_inn_paris_gare_de_l_est_hotel_image_1_bro_8251.JPG</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Holiday Inn Paris Gare de l Est</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/holiday_inn_paris_gare_de_l_est_hotel_image_1_bro_8251.JPG</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8761</latitude>
+                            <location>Paris</location>
+                            <longitude>2.35827</longitude>
+                            <starRating>3</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Full Breakfast</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>517.5</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>1 King Bed Suite Nonsmoking</unitDescription>
+                                <unitID>XSTNIKQ30</unitID>
+                                <sellUnitId>1</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>15</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>674.5</fromPrice>
+                            <hotelName>Crowne Plaza Paris Republique</hotelName>
+                            <id>8234</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/crowne_plaza_paris_republique_hotel_image_1_bro_8234.JPG</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Crowne Plaza Paris Republique</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/crowne_plaza_paris_republique_hotel_image_1_bro_8234.JPG</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8673</latitude>
+                            <location>Paris</location>
+                            <longitude>2.36492</longitude>
+                            <starRating>4</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Full Breakfast</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>674.5</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>1 Queen Bed Suite Nonsmoking</unitDescription>
+                                <unitID>XSTNIKQ30</unitID>
+                                <sellUnitId>2</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>12</maximumChildAge>
+                            </roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Full Breakfast</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>715.5</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Suite 2 Rooms Nonsmoke</unitDescription>
+                                <unitID>XOTNIKQ30</unitID>
+                                <sellUnitId>3</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>12</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>837</fromPrice>
+                            <hotelName>Hotel Powers - Champs Elysees</hotelName>
+                            <id>17384</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/hotel_powers_champs_elysees_hotel_bedroom_1_bed_17384.JPG</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Hotel Powers - Champs Elysees</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/hotel_powers_champs_elysees_hotel_bedroom_1_bed_17384.JPG</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8691</latitude>
+                            <location>Paris</location>
+                            <longitude>2.30311</longitude>
+                            <starRating>4</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Full Breakfast</boardDescription>
+                                <maxOccupancy>3</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>837</price>
+                                <stdOccupancy>3</stdOccupancy>
+                                <unitDescription>Deluxe Triple</unitDescription>
+                                <unitID>5</unitID>
+                                <sellUnitId>30814500</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>12</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                    <hotels>
+                        <hotel>
+                            <apt>false</apt>
+                            <distance>0</distance>
+                            <fromPrice>3111</fromPrice>
+                            <hotelName>Saint James Albany Paris Hotel Spa</hotelName>
+                            <id>17594</id>
+                            <images>
+                                <images>
+                                    <hasThumbnail>true</hasThumbnail>
+                                    <height>187</height>
+                                    <thumbnailHeight>50</thumbnailHeight>
+                                    <thumbnailURL>http://img1.superbreak.net/content/images/Hotel/thumbs/st_james_albany_hotel_bedroom_1_bed_17594.JPG</thumbnailURL>
+                                    <thumbnailWidth>68</thumbnailWidth>
+                                    <title>Saint James Albany Paris Hotel Spa</title>
+                                    <url>http://img1.superbreak.net/content/images/Hotel/st_james_albany_hotel_bedroom_1_bed_17594.JPG</url>
+                                    <width>257</width>
+                                </images>
+                            </images>
+                            <latitude>48.8643</latitude>
+                            <location>Paris</location>
+                            <longitude>2.33082</longitude>
+                            <starRating>4</starRating>
+                        </hotel>
+                        <roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>RO</boardCode>
+                                <boardDescription>Room only</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>3111</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Triple Junior Suite</unitDescription>
+                                <unitID>0XO</unitID>
+                                <sellUnitId>9</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>11</maximumChildAge>
+                            </roomUnits>
+                            <roomUnits>
+                                <allocation>1</allocation>
+                                <boardCode>BB</boardCode>
+                                <boardDescription>Breakfast Included</boardDescription>
+                                <maxOccupancy>2</maxOccupancy>
+                                <minOccupancy>3</minOccupancy>
+                                <price>3111</price>
+                                <stdOccupancy>2</stdOccupancy>
+                                <unitDescription>Triple Junior Suite</unitDescription>
+                                <unitID>0XO</unitID>
+                                <sellUnitId>8</sellUnitId>
+                                <minimumChildAge>2</minimumChildAge>
+                                <maximumChildAge>11</maximumChildAge>
+                            </roomUnits>
+                        </roomUnits>
+                    </hotels>
+                </hotels>
+                <packagedProduct>
+                    <eventDate />
+                    <eventTime />
+                    <location />
+                    <packageType />
+                    <productDescription />
+                    <quantity>0</quantity>
+                    <ticketCode>0</ticketCode>
+                    <ticketDescription />
+                </packagedProduct>
+            </getAvailabilityReturn>
+        </GeocodeAvailabilityResponse>
+    </soap:Body>
+</soap:Envelope>

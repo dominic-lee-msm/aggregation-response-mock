@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soap:Body>
+		<GetQuoteV2Response xmlns="http://performancedirect.co.uk/webquoteservices/">
+			<GetQuoteV2Result>
+				<results xmlns="">
+					<user>
+						<password>9O1iatLdt9Y5</password>
+					</user>
+					<errors/>
+					<product name="Performance Direct" reference="M51213940806" sitecode="Webms">
+						<errors/>
+						<annually insurer="Hawkwell" premium="676.16" scheme="HPCF">
+							<excess>350</excess>
+							<excessDetails>
+								<windscreen>75</windscreen>
+								<compulsory>150</compulsory>
+								<voluntary>200</voluntary>
+							</excessDetails>
+							<details>
+								<detail category="Windscreen" included="true" name="ApprovedRepairerLimit" value="99999"/>
+							</details>
+							<extras>
+								<extra included="false" name="legal" value="27.50"/>
+								<extra included="false" name="breakdown" value="69.99"/>
+							</extras>
+						</annually>
+						<monthly insurer="Hawkwell" premium="676.16" scheme="HPCF">
+							<installments>
+								<BasePremium>676.16</BasePremium>
+								<NumberOfPayments>9</NumberOfPayments>
+								<Deposit>118.33</Deposit>
+								<CreditAdminCost>20.00</CreditAdminCost>
+								<InterestCharge>72.81</InterestCharge>
+								<PaymentCosts>72.29</PaymentCosts>
+								<APR>33.6</APR>
+							</installments>
+							<excess>350</excess>
+							<excessDetails>
+								<windscreen>75</windscreen>
+								<compulsory>150</compulsory>
+								<voluntary>200</voluntary>
+							</excessDetails>
+							<details>
+								<detail category="Windscreen" included="true" name="ApprovedRepairerLimit" value="99999"/>
+							</details>
+							<extras>
+								<extra included="false" name="legal" value="27.50"/>
+								<extra included="false" name="breakdown" value="69.99"/>
+							</extras>
+						</monthly>
+					</product>
+					<additionalproducts>
+						<product name="Grove and Dean" reference="G51214940806" sitecode="GDms">
+							<errors/>
+							<annually insurer="Hawkwell" premium="705.16" scheme="HPCF">
+								<excess>350</excess>
+								<excessDetails>
+									<windscreen>75</windscreen>
+									<compulsory>150</compulsory>
+									<voluntary>200</voluntary>
+								</excessDetails>
+								<details>
+									<detail category="Windscreen" included="true" name="ApprovedRepairerLimit" value="99999"/>
+								</details>
+								<extras>
+									<extra included="true" name="legal" value="0"/>
+									<extra included="false" name="breakdown" value="49.99"/>
+								</extras>
+							</annually>
+							<monthly insurer="Hawkwell" premium="705.16" scheme="HPCF">
+								<installments>
+									<BasePremium>705.16</BasePremium>
+									<NumberOfPayments>9</NumberOfPayments>
+									<Deposit>123.40</Deposit>
+									<CreditAdminCost>15.00</CreditAdminCost>
+									<InterestCharge>75.19</InterestCharge>
+									<PaymentCosts>74.66</PaymentCosts>
+									<APR>33.6</APR>
+								</installments>
+								<excess>350</excess>
+								<excessDetails>
+									<windscreen>75</windscreen>
+									<compulsory>150</compulsory>
+									<voluntary>200</voluntary>
+								</excessDetails>
+								<details>
+									<detail category="Windscreen" included="true" name="ApprovedRepairerLimit" value="99999"/>
+								</details>
+								<extras>
+									<extra included="true" name="legal" value="0"/>
+									<extra included="true" name="breakdown" value="0"/>
+								</extras>
+							</monthly>
+						</product>
+					</additionalproducts>
+				</results>
+			</GetQuoteV2Result>
+		</GetQuoteV2Response>
+	</soap:Body>
+</soap:Envelope>

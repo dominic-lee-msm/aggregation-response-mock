@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Rusty Deploy Test",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "private-10eb-aggregationapi.apiary-mock.com",
+    "request": {
+        "method": "GET",
+        "urlPattern": "/v2/providermock/car-insurance/rusty"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "rusty-response.json",
+        "fixedDelayMilliseconds": 2000
+    }
+}

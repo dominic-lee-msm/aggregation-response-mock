@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <ns2:sendToBrokerResponse xmlns:ns2="www.openecommerce.co.uk">
+      <return>&lt;Response&gt;&lt;Status&gt;&lt;State&gt;S&lt;/State&gt;&lt;Description&gt;Delivered Successfully&lt;/Description&gt;&lt;/Status&gt;&lt;/Response&gt;</return>
+    </ns2:sendToBrokerResponse>
+  </S:Body>
+</S:Envelope>

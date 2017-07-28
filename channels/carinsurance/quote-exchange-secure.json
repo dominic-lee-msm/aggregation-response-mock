@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Quote Secure Exchange",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "msmx-test.quoteexchange.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/services/MoneySuperMarket-PC-Service.php"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "quote-exchange-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Ebookers",
+    "requiredScenarioState": "Started",
+    "domain":"ws.orbitzworldwide.com",
+    "scheme":"https",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/xml/service"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "EbookersFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

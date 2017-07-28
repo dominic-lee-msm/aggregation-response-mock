@@ -1,0 +1,15 @@
+{
+    "scenarioName": "One Call Insurance Ltd",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "iconstestgrp17.ssp-hosting.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/HouseholdAggregator/0/1/HouseholdAggregator.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "onecall-response-success.xml",
+        "fixedDelayMilliseconds": 1000
+    }
+}

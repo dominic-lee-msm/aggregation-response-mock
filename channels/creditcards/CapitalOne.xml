@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<env:Envelope xmlns:wsa="http://www.w3.org/2005/08/addressing" xmlns:env="http://schemas.xmlsoap.org/soap/envelope/">
+    <env:Header>
+        <wsa:MessageID>urn:939C0FB0DD2E11E4AF7591D9E2CE78B8</wsa:MessageID>
+        <wsa:ReplyTo>
+            <wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>
+            <wsa:ReferenceParameters>
+                <instra:tracking.ecid xmlns:instra="http://xmlns.oracle.com/sca/tracking/1.0">22b8331e73a89762:523a785f:14c8e9296f2:-8000-0000000000022cbf</instra:tracking.ecid>
+            </wsa:ReferenceParameters>
+        </wsa:ReplyTo>
+        <wsa:FaultTo>
+            <wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>
+            <wsa:ReferenceParameters>
+                <instra:tracking.ecid xmlns:instra="http://xmlns.oracle.com/sca/tracking/1.0">22b8331e73a89762:523a785f:14c8e9296f2:-8000-0000000000022cbf</instra:tracking.ecid>
+            </wsa:ReferenceParameters>
+        </wsa:FaultTo>
+    </env:Header>
+    <env:Body wsu:Id="Body-I2iFF779KADVYFN8YyFq4Q22" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+        <generateQuotationRs xmlns:ns0="http://www.capitalone.co.uk/XMLMsg" xmlns="http://www.capitalone.co.uk/XMLMsg">
+            <ns0:HeaderResponse>
+                <ns:Stat xmlns:ns="http://capitalone.com/XMLMsgSet/2004/07/EIL">
+                    <ns:StatCd>0</ns:StatCd>
+                    <ns:Sevrty>INFO</ns:Sevrty>
+                    <ns:StatDesc>SUCCESS</ns:StatDesc>
+                </ns:Stat>
+            </ns0:HeaderResponse>
+            <ns0:Quotation>
+                <ns0:QuotationID>999</ns0:QuotationID>
+                <ns0:QuotationOutcome>Scored</ns0:QuotationOutcome>
+                <ns0:FreshBureauDataUsed>true</ns0:FreshBureauDataUsed>
+                <ns0:ProductResult>
+                    <ns0:ProductID>CCS18</ns0:ProductID>
+                    <ns0:LikelihoodValue>10.0</ns0:LikelihoodValue>
+                </ns0:ProductResult>
+                <ns0:ProductResult>
+                    <ns0:ProductID>CCS07</ns0:ProductID>
+                    <ns0:LikelihoodValue>9.0</ns0:LikelihoodValue>
+                </ns0:ProductResult>
+                <ns0:ProductResult>
+                    <ns0:ProductID>CCS53</ns0:ProductID>
+                    <ns0:LikelihoodValue>9.0</ns0:LikelihoodValue>
+                </ns0:ProductResult>
+                 <ns0:ProductResult>
+                    <ns0:ProductID>CCS01</ns0:ProductID>
+                    <ns0:LikelihoodValue>6.0</ns0:LikelihoodValue>
+                </ns0:ProductResult>
+            </ns0:Quotation>
+        </generateQuotationRs>
+    </env:Body>
+</env:Envelope>

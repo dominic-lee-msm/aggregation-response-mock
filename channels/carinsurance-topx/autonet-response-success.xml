@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><PostXMLResponse xmlns="http://tempuri.org/"><PostXMLResult>&lt;TopExDetailsResponse&gt;
+  &lt;transactionId&gt;49270ec0-4551-4b6f-920f-a2779782030c&lt;/transactionId&gt;
+  &lt;result&gt;
+    &lt;message&gt;The request has been processed successfully. 
+&lt;/message&gt;
+    &lt;isError&gt;False&lt;/isError&gt;
+  &lt;/result&gt;
+&lt;/TopExDetailsResponse&gt;</PostXMLResult></PostXMLResponse></soap:Body></soap:Envelope>

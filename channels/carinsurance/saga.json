@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Saga",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "preprod.aggs.saga.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/public/api/getmotorquote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "saga-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

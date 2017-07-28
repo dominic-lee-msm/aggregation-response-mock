@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HD Decisions Not Found At Bureau",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "loansv2wspreprod.msm-smart-search.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/LoansEnquiryV2/Loans.svc/LoanScore/NotFound"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "HDDecisionsNotFound-response.json",
+        "fixedDelayMilliseconds": 5000
+    }
+}

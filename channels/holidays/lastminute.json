@@ -1,0 +1,15 @@
+{
+  "scenarioName": "lastminute.com",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "ext.lastminute.com",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/api/packages/search?"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "lastminuteResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

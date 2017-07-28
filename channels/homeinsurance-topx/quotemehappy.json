@@ -1,0 +1,15 @@
+{
+    "scenarioName": "QuoteMeHappyTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "servlets.aggs.dev.quotemehappy.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/PortalServices/IIA/MoneySuperMarketHome/MsmHomeBestPrice.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "quotemehappy-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

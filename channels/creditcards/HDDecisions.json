@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HD Decisions",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "securepreprod.hdd2.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/webservices/enquiryv2.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "HDDecisions.xml",
+        "fixedDelayMilliseconds": 5000
+    }
+}

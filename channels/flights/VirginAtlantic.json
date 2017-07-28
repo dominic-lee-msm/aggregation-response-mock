@@ -1,0 +1,15 @@
+{
+    "scenarioName": "VirginAtlantic",
+    "requiredScenarioState": "Started",
+    "domain":"virgin.nonstopwebservices.de",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/v1/FindFlightsRequest"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "VirginAtlanticTestResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

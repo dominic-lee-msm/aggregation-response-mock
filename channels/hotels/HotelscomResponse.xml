@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.onhotels.com/schema/xmlsearchresponsemini.xsd">
+   <HotelAvailability>
+      <ResultsURL>http://www.onhotels.com/search-results?page=1&amp;sort=recommend&amp;currency_code=GBP&amp;SID=1ugga1lcj3f47ndju88ei5mfr7&amp;agcode=AFTSM&amp;ct=1</ResultsURL>
+      <NumberHotelsFound>1</NumberHotelsFound>
+      <Currency>GBP</Currency>
+      <Hotels>
+         <Hotel>
+            <HotelCode>HILLRNGZTMNWEBLVPYBS</HotelCode>
+            <HotelName>Citadines Prestige Les Halles</HotelName>
+            <CountryName>France</CountryName>
+            <CityName>Paris</CityName>
+            <TotalPrice>1,147.45</TotalPrice>
+            <TaxInclusive>Yes</TaxInclusive>
+            <AllLocalTaxesIncluded>1</AllLocalTaxesIncluded>
+            <DeepLinkURL>http://www.onhotels.com/search-hotel-details-xml?agcode=AFTSM&amp;shfid=4214261543065739980&amp;ct=1&amp;ssid=5501634216195497734215&amp;shc=HILLRNGZTMNWEBLVPYBS&amp;price=1147.45&amp;currency=GBP</DeepLinkURL>
+            <Rooms>
+               <Room id="1">
+                  <RoomDescription>Apartment One Bedroom</RoomDescription>
+                  <BoardTypeCode>RO</BoardTypeCode>
+                  <BoardType>Room Only</BoardType>
+                  <TotalRate>1,147.45</TotalRate>
+                  <AverageNightRate>229.49</AverageNightRate>
+                  <Policy>
+                     <FromDate>27 Mar 2015</FromDate>
+                     <ToDate>1 Apr 2015</ToDate>
+                  </Policy>
+               </Room>
+            </Rooms>
+         </Hotel>
+      </Hotels>
+   </HotelAvailability>
+</Response>

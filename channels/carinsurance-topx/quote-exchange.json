@@ -1,0 +1,15 @@
+{
+    "scenarioName": "quoteExchangeTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "t-qe-msm.quoteexchange.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/services/MoneySuperMarket-PC-Service-Topx.php"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "quote-exchange-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

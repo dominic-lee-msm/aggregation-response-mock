@@ -1,0 +1,15 @@
+{
+    "scenarioName": "QuoteaTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "pcaggregator.mmq-test.isisextranet.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/quote.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "quotea-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

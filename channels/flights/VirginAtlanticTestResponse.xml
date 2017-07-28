@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindFlightsResponse>
+    <flights>
+        <flight>
+            <prices>
+                <taxCharge>1164.6</taxCharge>
+                <flightPrice>363.00</flightPrice>
+                <totalPrice>1527.60</totalPrice>
+                <currencyCode>GBP</currencyCode>
+            </prices>
+            <outward fromIATA="MAN" toIATA="JFK">
+                <fromDate>${outboundDate}</fromDate>
+                <fromTime>14:40:00</fromTime>
+                <toDate>${outboundDate}</toDate>
+                <toTime>20:25:00</toTime>
+                <segments fromIATA="MAN" toIATA="LHR">
+                    <fromDate>${outboundDate}</fromDate>
+                    <fromTime>14:40:00</fromTime>
+                    <toDate>${outboundDate}</toDate>
+                    <toTime>15:45:00</toTime>
+                    <FlightNumber>3042</FlightNumber>
+                    <duration>1:5</duration>
+                </segments>
+                <segments fromIATA="LHR" toIATA="JFK">
+                    <fromDate>${outboundDate}</fromDate>
+                    <fromTime>17:30:00</fromTime>
+                    <toDate>${outboundDate}</toDate>
+                    <toTime>20:25:00</toTime>
+                    <FlightNumber>5303</FlightNumber>
+                    <duration>7:55</duration>
+                </segments>
+            </outward>
+            <return fromIATA="JFK" toIATA="MAN">
+                <fromDate>${inboundDate}</fromDate>
+                <fromTime>07:40:00</fromTime>
+                <toDate>${inboundDate}</toDate>
+                <toTime>21:45:00</toTime>
+                <segments fromIATA="JFK" toIATA="LHR">
+                    <fromDate>${inboundDate}</fromDate>
+                    <fromTime>07:40:00</fromTime>
+                    <toDate>${inboundDate}</toDate>
+                    <toTime>19:40:00</toTime>
+                    <FlightNumber>26</FlightNumber>
+                    <duration>7:</duration>
+                </segments>
+                <segments fromIATA="LHR" toIATA="MAN">
+                    <fromDate>${inboundDate}</fromDate>
+                    <fromTime>20:45:00</fromTime>
+                    <toDate>${inboundDate}</toDate>
+                    <toTime>21:45:00</toTime>
+                    <FlightNumber>3045</FlightNumber>
+                    <duration>1:</duration>
+                </segments>
+            </return>
+            <deeplink>http://a.nonstoppartner.net/a/?i=click&amp;client=virginatlantic&amp;camp=webservice&amp;tmclickref=travelsupermarket&amp;l=uk&amp;nw=a3fu&amp;deepurl=http%3A%2F%2Fwww.virgin-atlantic.com%2FpartnerSearch.do%3FisReturn%3Dyes%26departure%3DMAN%26arrival%3DJFK%26class%3DO%26adult%3D2%26child%3D1%26infant%3D0%26departureDay%3D11%26departureMonth%3D9%26departureYear%3D2014%26outboundKey%3D3042%2CO%26pKey%3D13%26itinCost%3D1527.60%26departureReturn%3DJFK%26arrivalReturn%3DMAN%26inboundKey%3D26%2CO%26returnDay%3D25%26returnMonth%3D9%26returnYear%3D2014%26classReturn%3DO%26outboundSoDuration%3D0%26outboundSoAirport%3DLHR%26outboundConnectingKey%3D5303%2CO%26inboundSoDuration%3D0%26inboundSoAirport%3DLHR%26inboundConnectingKey%3D3045%2CO
+            </deeplink>
+        </flight>
+    </flights>
+</FindFlightsResponse>

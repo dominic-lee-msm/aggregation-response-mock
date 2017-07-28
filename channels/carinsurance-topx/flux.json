@@ -1,0 +1,15 @@
+{
+    "scenarioName": "FluxTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "aggtest.fluxdirect.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/tes_aggregator/aggregator.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "flux-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Jet2",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "api.jet2holidays.com",
+  "request": {
+  "method": "POST",
+  "urlPattern": "/Jet2Holidays.ExternalV3/HolidayService.svc"
+  },
+  "response": {
+  "status": 200,
+  "bodyFileName": "jet2Response.xml",
+  "fixedDelayMilliseconds": 2000
+  }
+}

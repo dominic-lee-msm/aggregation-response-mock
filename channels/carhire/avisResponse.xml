@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Body>
+        <ns:Response TID="96cd7936-3cd7-4fa3-bb56-6d12f14c1fff" xmlns:ns="http://wsg.avis.com/wsbang">
+            <OTA_VehAvailRateRS xsi:schemaLocation="http://www.opentravel.org/OTA/2008/05 OTA_VehAvailRateRS"
+                                EchoToken="XXX1234" Target="Production" Version="1.0" SequenceNmbr="1"
+                                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                xmlns="http://www.opentravel.org/OTA/2003/05">
+                <Success/>
+                <VehAvailRSCore>
+                    <VehRentalCore PickUpDateTime="2015-10-10T10:00:00" ReturnDateTime="2015-10-11T10:00:00">
+                        <PickUpLocation LocationCode="SYR" CodeContext="IATA"/>
+                        <ReturnLocation LocationCode="SYR" CodeContext="IATA"/>
+                    </VehRentalCore>
+                    <VehVendorAvails>
+                        <VehVendorAvail>
+                            <Vendor>Avis</Vendor>
+                            <VehAvails>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="3"/>
+                                            <VehMakeModel Name="Group A - Ford Fiesta or similar" Code="ECAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="55.20" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="55.20" EstimatedTotalAmount="55.20"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="4"/>
+                                            <VehMakeModel Name="Group B - Ford Focus or similar" Code="CCAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="57.60" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="57.60" EstimatedTotalAmount="57.60"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="6"/>
+                                            <VehMakeModel Name="Group C - Chevrolet Cruze or similar" Code="ICAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="61.20" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="61.20" EstimatedTotalAmount="61.20"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="7"/>
+                                            <VehMakeModel Name="Group D - Subaru Legacy or similar" Code="SCAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="65.20" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="65.20" EstimatedTotalAmount="65.20"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="8"/>
+                                            <VehMakeModel Name="Group E - Ford Fusion or similar" Code="FCAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="69.60" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="69.60" EstimatedTotalAmount="69.60"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="37"/>
+                                            <VehMakeModel Name="Group S - Chevrolet Traverse or similar" Code="RFAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="116.40" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="116.40" EstimatedTotalAmount="116.40"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="2"/>
+                                            <VehClass Size="8"/>
+                                            <VehMakeModel Name="Group P - Ford Transit Van or similar" Code="FVAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="184.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="184.80" EstimatedTotalAmount="184.80"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="10"/>
+                                            <VehMakeModel Name="Group G - Ford Taurus LTD or similar" Code="PCAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="76.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="76.80" EstimatedTotalAmount="76.80"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="9"/>
+                                            <VehMakeModel Name="Group H - Lincoln MKS or similar" Code="LCAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="125.60" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="125.60" EstimatedTotalAmount="125.60"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="10"/>
+                                            <VehMakeModel Name="Group L - Chevrolet Suburban or similar" Code="PFAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="160.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="160.80" EstimatedTotalAmount="160.80"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="4"/>
+                                            <VehClass Size="7"/>
+                                            <VehMakeModel Name="Group K - Ford Mustang Convertible or similar"
+                                                          Code="STAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="100.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="100.80" EstimatedTotalAmount="100.80"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="7"/>
+                                            <VehMakeModel Name="Group W - Ford Edge or similar" Code="SFAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="93.20" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="93.20" EstimatedTotalAmount="93.20"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="2"/>
+                                            <VehClass Size="1"/>
+                                            <VehMakeModel Name="Group V - Chrysler Town and Country or similar"
+                                                          Code="MVAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="93.60" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="93.60" EstimatedTotalAmount="93.60"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="6"/>
+                                            <VehMakeModel Name="Group F - Ford Escape or similar" Code="IFAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="80.40" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="80.40" EstimatedTotalAmount="80.40"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="8"/>
+                                            <VehMakeModel Name="Group Z - Chevrolet Tahoe or similar" Code="FFAR"/>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="false" Description="Vehicle Rental"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="144.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                </VehicleCharge>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" RateQualifier="8K"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="144.80" EstimatedTotalAmount="144.80"
+                                                     CurrencyCode="GBP"/>
+                                    </VehAvailCore>
+                                </VehAvail>
+                            </VehAvails>
+                            <Info>
+                                <LocationDetails AtAirport="true" Code="SYR" Name="Syracuse Hancock Intl Airport"
+                                                 CodeContext="Rental Location" ExtendedLocationCode="SYRT01">
+                                    <Address>
+                                        <StreetNmbr>1000 Col Eileen Collins Boulevard</StreetNmbr>
+                                        <CityName>Syracuse</CityName>
+                                        <PostalCode>13212</PostalCode>
+                                        <StateProv StateCode="NY">New York</StateProv>
+                                        <CountryName Code="US">U S A</CountryName>
+                                    </Address>
+                                    <Telephone PhoneNumber="(1) 315-455-9601"/>
+                                </LocationDetails>
+                            </Info>
+                        </VehVendorAvail>
+                    </VehVendorAvails>
+                </VehAvailRSCore>
+            </OTA_VehAvailRateRS>
+            <!-- Processed by Direct Connect ver. 8.29 build 0 -->
+        </ns:Response>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

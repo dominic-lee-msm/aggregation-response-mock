@@ -1,0 +1,1157 @@
+<RS>
+    <Administration>
+        <Errors/>
+    </Administration>
+    <Responses>
+        <VehicleRS>
+            <VehicleInfo>
+                <Car id="25317935" group="Cars" subgroup="Economy" class="EDAR" internalClass="EDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="4" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Chevrolet Spark 5DUSA.jpg"
+                     smallSuitcases="1" bigSuitcases="1" freeSell="0"
+                     searchId="bVDBbsMgDP0XztFEQgh0t1Xrobceqt0ZEGa1g8ihlapq_z4T2q3Sxgm_Z_v5vSubvUH7sXXsWWulpe7lqmHWYEE6KVq1ErJhDmabTjEXlLGGTWAPp2kPn57qtqc3qIFzYhymKY3jAyVlzxfKJiQovJd5Yw8m-LKOL3I7BEsDShFXvwN_0g_K3u3-xZcFZ48wXm4NbTkCCHoJVAnRMOMcZEjRHF9_CX53sUYTawKd7Ibux8IfnA6uCbRcFDcxo7F5UT3CnO9mbvibx5k0qxD1QAybGCD6muHXNw,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Chevrolet Spark US 5door
+                </Car>
+                <PriceCust realdeposit="60.85" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="60.85" duration="1">60.85
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="27448844" group="Cars" subgroup="Economy" class="ECAR" internalClass="EDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="4" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Chevrolet Spark 5DUSA.jpg"
+                     smallSuitcases="1" bigSuitcases="1" freeSell="0"
+                     searchId="bVDLbsMgEPwXzlaFbTC0t1btobccotwJYLpKCtaaVIqi_HsWk0ellhM7s7uzMyc2e4P269OxF62VllrI54ZZgwXplBBaC9EwB7NNh5gLyljDJrC7w7SGb091K-gNauCcGIdpSuP4i5JS8IWyCQkK2zJv7M4EX9bxRW6FYGlAKeLqd-BPWj6UvVv9iy8LfjzCeLw2tOUIIOg1UNX3DTPOQYYUzf79QfCbizc0sSbQyW7o7hb-4HRwTaDlfXETMxqbF9U9zPlm5opvPM6kWYWoB2L4iAGirxmeLw,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Chevrolet Spark US 5door
+                </Car>
+                <PriceCust realdeposit="60.85" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="60.85" duration="1">60.85
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="27448845" group="Cars" subgroup="Compact" class="CCAR" internalClass="CDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="nissan-versa-usa.jpg" smallSuitcases="2"
+                     bigSuitcases="1" freeSell="0"
+                     searchId="bZDBbsMgDIbfhXNUkQQI3a3Vdtith2l3BoRZbSFy6KRp2rvPhHat1HLC32_7t_3DZm_Qfr469qT1oKUWct0wa7CQbhBCE2mYg9mmU8yFMtawCez-NL3B0VPcCnpqUJyT4jBNaRxvJCkFXySbkFD4KPXG7k3wpR1f7HYIlgoGTVr9qnalxNXZu91DvjT48gjj9zmhLUMAoU2gqO8bZpyDDCmaw_NV4JcttmhivUAnO9X9r3DHaeB6gZb3ZZuY0di8uB5gzpdlzvzd40ye1YhyIIaXGCD6esPfPw,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Nissan Versa US
+                </Car>
+                <PriceCust realdeposit="61.64" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="61.64" duration="1">61.64
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317934" group="Cars" subgroup="Compact" class="CDAR" internalClass="CDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="nissan-versa-usa.jpg" smallSuitcases="2"
+                     bigSuitcases="1" freeSell="0"
+                     searchId="bVDBbsMgDP0XztFEICR0t1Xtobcept4ZEGa1hcihk6ap_z4T2nXSxgm_Z_v5vS82e4P2fefYs9aDVrpTq4ZZgwURSrbDSnYNczDbdIm5oIw1bAJ7vEyvcPZUtx29fug5J8ZhmtI4_qKU6vhC2YQEhbcyb-zRBF_W8UVuj2BpQFM11W8vn4R4KHu3_xdfFnx4hPHz1tCWI4Cgl0CVlA0zzkGGFM1p8yD43cUaTawJCCV68WPhD04H1wRaLoubmNHYvKieYM53Mzf84HEmzSpEPRDDNgaIvmZ4_QY,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Nissan Versa US
+                </Car>
+                <PriceCust realdeposit="63.22" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="63.22" duration="1">63.22
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25344673" group="Cars" subgroup="Economy" class="ECAR" internalClass="EDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="4" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00 " image="Chevrolet Spark 5DUSA.jpg"
+                     smallSuitcases="1" bigSuitcases="1" freeSell="0"
+                     searchId="bZBBT8MwDIX_S87VlDZOG3EDwYHbDoh7SNJgbSSVmyEhxH_HaTaGBEd_z_bz86dYgyX3-ujFjTGT0QYG3QlnqZJBK4BxUp3wuLp8SqVSITqxoDuclid8C1z3ALVtlJIVT3nJ8_xL0hrkJrlMjOJLnbfuYGOo6-Rmtyd0PKBhN0pgvZUj7Aa4uge__5dvS94D4fxxbujrIcjoNnKlOIH1HgvmZI_3V0FektyRTe0LatLa_MT4w_no9oVeqpooFbKubK5HXMsl0Jk_B1rZsxlxD6b4kCKm0P749Q0,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="20" driverMaximumAge="75"
+                     gps="0">Chevrolet Spark US 5door
+                </Car>
+                <PriceCust realdeposit="64.24" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="64.24" duration="1">64.24
+                </PriceCust>
+                <Supplier logo="supplier_logo_bd5d42e5efe8b9c0ce69dc1b8486a060_Hertz.png" isMajorSupplier="1"
+                          locId="37558" dropLocId="37558" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="13"
+                          pickUpLatitude="43.1265910" pickUpLongitude="-76.1327260">Hertz
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317933" group="Cars" subgroup="Intermediate" class="ICAR" internalClass="IDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="toyota-corolla-sedan.jpg"
+                     smallSuitcases="2" bigSuitcases="1" freeSell="0"
+                     searchId="bZAxb8MgEIX_C7NVYWxskq1RM2TLEHWngMnJKVhnEimK-t97mKSp1DJx3-Pu3ePGZqfRHHeWrZXqlVStXFXMaMxEyKbuV01TMQuzieeQMmWsYhOY8Twd4NNRXbd0ur7jnBSLcYrD8EuSsuWLZCIS8h-5X5tRe5fH8cVuj2CoQQnSyrVrX9TT2Nn9f3hpvziE4XrX67wCEHr1VOXdtbWQIAZ9ensK_JFhgzqU_EKKTvwE-MNp3ZK_5k3OEhJqkxbXE8zpEeXO3x3O5FmM6A0Evw0egis_-PUN"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Toyota Corolla US 4-5door
+                </Car>
+                <PriceCust realdeposit="64.8" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="64.80" duration="1">64.8
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317931" group="Cars" subgroup="Standard" class="SDAR" internalClass="SDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Chrysler 200.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsMgDP0XzlFFQkhob53aQ289VLszINRqB5FDK1XT_n0mNNukjRN-z37Pzx9schrN-WDZRqleSdXKdcWMxow0UtT9WtQVszCZeAspo4xVbARzuY0neHdU1y29ru84J8ZiHOMw_KKkbPlMmYgE-bc8r81Fe5fl-Gx3RDA0oARx5dvJVV5lcXb2-C8-C9wdwvB4NuR1EQjaeqoEKWprIUEM-rr7IfiS4gV1KBdoZNM13xH-4LRwuUDNRU4TEmqTZtcrTGkJ88RfHU7kWYyoB4LfBw_BlRt-fgE,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Chrysler 200
+                </Car>
+                <PriceCust realdeposit="65.59" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="65.59" duration="1">65.59
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317932" group="Cars" subgroup="Intermediate" class="IDAR" internalClass="IDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="toyota-corolla-sedan.jpg"
+                     smallSuitcases="2" bigSuitcases="1" freeSell="0"
+                     searchId="bVDBbsMgDP0XztFEICR0t03bobcept4ZEGa1g8ihlaaq_14Tmm3Sxgm_Z7_n5wubvUH7sXXsUetBK92pTcOswYIIJdthI0XDHMw2nWIuKGMNm8AeTtMbfHqq245eP_ScE-MwTWkcf1FKdXyhbEKCwnuZN_Zggi9yfLHbIVga0JK4-u3VQ1lldfZu9y--CJw9wvh1b2jLEkDQU6BKkqJxDjKkaI4vPwRfUzyjifUCQolefEf4g9PC9QItlyVNzGhsXlyPMOc1zB3fe5zJsxpRD8TwGgNEX294vQE,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Toyota Corolla US 4-5door
+                </Car>
+                <PriceCust realdeposit="65.59" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="65.59" duration="1">65.59
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="27448843" group="Cars" subgroup="Standard" class="SCAR" internalClass="SDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Chrysler 200.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsMgDP0XzlFFEkhYb63WQ289VLszINRqB5FDK1XV_n0mNNukjRN-z37Pzw82OY3mtLdsrVSvpBLypWJGY0aaXgilRFsxC5OJ15AyyljFRjDn63iED0d1Leh1fcc5MRbjGIfhFyWl4DNlIhLk3_O8NmftXZbjs90BwdCAIq-xfDu5yqsszs4e_sVngZtDGO7PhjovAQRtPFUtKWprIUEM-vL6Q_AlxRZ1KBdoZNM13xH-4LRwuUDN25wmJNQmza4XmNIS5om_OZzIsxhRDwS_Cx6CKzf8_AI,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Chrysler 200
+                </Car>
+                <PriceCust realdeposit="65.59" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="65.59" duration="1">65.59
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25297269" group="Cars" subgroup="Compact" class="CCAR" internalClass="CDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00 " image="Ford Focus US 4-5.jpg"
+                     smallSuitcases="1" bigSuitcases="2" freeSell="0"
+                     searchId="bZBBTwMhEIX_C-dNw7LMQr1p9NBbD8Y7AouTVtiwtIkx_neHpbUmym2-N8ObN59s8Sbbt51jd1orDVoK6Jg1uRIBYqvEuO2Yw8WmUyyVMtaxGe3hND_ju6e6l_RGNXJOistpTtP0SwKQfJVsyoTCa5039mCCr9_x1W6f0dIAqE0PkvRWjmoj5M3du_2_fP3k7DNOH5eGvi6ChO4DVcPQMeMcFkzRHB9vAr8mecgmtisMCkD_xPjDael2hZ4PNVEs2diyuh5xKddAF_7i80KezYh6MIanGDD6dsevbw,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="20" driverMaximumAge="75"
+                     gps="0">Ford Focus US 4-5door
+                </Car>
+                <PriceCust realdeposit="67.24" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="67.24" duration="1">67.24
+                </PriceCust>
+                <Supplier logo="supplier_logo_bd5d42e5efe8b9c0ce69dc1b8486a060_Hertz.png" isMajorSupplier="1"
+                          locId="37558" dropLocId="37558" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="13"
+                          pickUpLatitude="43.1265910" pickUpLongitude="-76.1327260">Hertz
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317930" group="Cars" subgroup="Fullsize" class="FCAR" internalClass="FDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="UfwQlFir.JPG" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsMgDP0XztFEQiBkt1XbYbceqt4ZEGa1g8ihk6aq_z4T2nXSxgm_Z_v5vTNbvEH7_urYo9aDlrqXY8OswYJ0UrTDKHjDHCw2nWIuKGMNm8EeTvMOPjzVbU9PDYpzYhymOU3TL0rKnq-UTUhQeCvzxh5M8GUdX-W2CJYGtCKuftXwMKq7snfbf_F1wadHmL6uDW05Agh6ClQJ0TDjHGRI0Ryf7wS_udigiTWBTnaq-7HwB6eDawItF8VNzGhsXlWPsOSbmSu-97iQZhWiHojhJQaIvmZ4-QY,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Ford Fusion US 4-5door
+                </Car>
+                <PriceCust realdeposit="67.96" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="67.96" duration="1">67.96
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25297270" group="Cars" subgroup="Intermediate" class="ICAR" internalClass="IDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00 " image="toyota-corolla-sedan.jpg"
+                     smallSuitcases="2" bigSuitcases="1" freeSell="0"
+                     searchId="bZBBTwMhEIX_C-dNw7KwoDcbe-itB-MdgcVJK2xmqYkx_neHpbUmym2-N8ObN59sCRbd696ze2O0UUYK1TFnsRKhxJ0WmnfMw-LyOZVKGevYDO54np_gLVDdS3qjHjknxWOe8zT9kpSSfJVcRkLxpc5bd7Qx1O_4andAcDQw9hvJJemt1GIj5M09-MO_fP3kPSBMH5eGvi4ChB4iVcPQMes9FMjJnh5vAr8m2aJN7QqDVsr8xPjDael2hZ4PNVEqaF1ZXU-wlGugC38OuJBnM6IeSHGXIqTQ7vj1DQ,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="20" driverMaximumAge="75"
+                     gps="0">Toyota Corolla US 4-5door
+                </Car>
+                <PriceCust realdeposit="72.24" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="72.24" duration="1">72.24
+                </PriceCust>
+                <Supplier logo="supplier_logo_bd5d42e5efe8b9c0ce69dc1b8486a060_Hertz.png" isMajorSupplier="1"
+                          locId="37558" dropLocId="37558" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="13"
+                          pickUpLatitude="43.1265910" pickUpLongitude="-76.1327260">Hertz
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25297271" group="Cars" subgroup="Standard" class="SCAR" internalClass="SCAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="2/4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00 " image="Nissan Altima1.jpg" smallSuitcases="2"
+                     bigSuitcases="1" freeSell="0"
+                     searchId="bZBBTwMhEIX_C-dNw8KyoDcbe-itB-MdgcVJK2xmqYkx_neHpbUmym2-N8ybN59sCRbd696ze2O0UWYQqmPOYiVCiTstdN8xD4vL51QqZaxjM7jjeX6Ct0B1P9Ab9cg5KR7znKfpl6TUwFfJZSQUX-p_6442hjqOr3YHBEcfRrkRQpLeSj1spLm5B3_4l69D3gPC9HFpqCsjEHqIVEmaaL2HAjnZ0-NN4NckW7SpXUFqpcxPjD-clm5X6LmsiVJB68rqeoKlXANd-HPAhTybEfVAirsUIYV2x69v"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="20" driverMaximumAge="75"
+                     gps="0">Nissan Altima US 3door
+                </Car>
+                <PriceCust realdeposit="74.38" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="74.38" duration="1">74.38
+                </PriceCust>
+                <Supplier logo="supplier_logo_bd5d42e5efe8b9c0ce69dc1b8486a060_Hertz.png" isMajorSupplier="1"
+                          locId="37558" dropLocId="37558" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="13"
+                          pickUpLatitude="43.1265910" pickUpLongitude="-76.1327260">Hertz
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317928" group="Cars" subgroup="Premium" class="PDAR" internalClass="PDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Nissan-Maxima.jpg" smallSuitcases="1"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsMgDP0XztFESCBkt1XbYbceqt4ZEGa1g8ihk6aq_z4T2nXSxgm_Z_v5vTNbvEH7_urYo9aDlrqXY8OswYII2bXDKHTDHCw2nWIuKGMNm8EeTvMOPjzVbU9PDYpzYhymOU3TL0rKnq-UTUhQeCvzxh5M8GUdX-W2CJYGRkVc_Q7yQau7snfbf_F1wadHmL6uDW05Agh6ClR1XcOMc5AhRXN8vhP85mKDJtYEhBRK_Fj4g9PBNYGWd8VNzGhsXlWPsOSbmSu-97iQZhWiHojhJQaIvmZ4-QY,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Nissan Maxima
+                </Car>
+                <PriceCust realdeposit="75.86" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="75.86" duration="1">75.86
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317929" group="Cars" subgroup="Premium" class="PCAR" internalClass="PDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Nissan-Maxima.jpg" smallSuitcases="1"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bZDBbsMgDIbfhXM0ERII2W3Vdtith6p3BoRZ7SBy6KSp6rvPhHadtHHC32_7t31mizdo318de9R60FL3cmyYNViIkF07jIKAg8WmU8yFMtawGezhNO_gw1Pc9vTUoDgnxWGa0zT9kqTs-SrZhITCW6k39mCCL-34ardFsFQwKtLqd5APWt2dvdv-y9cGnx5h-romtGUIIPQUKOq6hhnnIEOK5vh8F_htiw2aWC8gpFDiZ4U_nAauF2h5V7aJGY3Nq-sRlnxb5sr3HhfyrEaUAzG8xADR1xtevgE,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Nissan Maxima
+                </Car>
+                <PriceCust realdeposit="75.86" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="75.86" duration="1">75.86
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25297272" group="Cars" subgroup="Fullsize" class="FCAR" internalClass="FDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00 " image="chevrolet-malibu.JPG" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bZBBTwMhEIX_C-dNw7KwoDcbe-itB-MdgcVJK2xmqYkx_neHpbUmym2-N8ObN59sCRbd696ze2O0UUYK1TFnsRKhxJ0WWnTMw-LyOZVKGevYDO54np_gLVDdS3qjHjknxWOe8zT9kpSSfJVcRkLxpc5bd7Qx1O_4andAcDQwyo3hkvRW6nEj5M09-MO_fP3kPSBMH5eGvi4ChB4iVcPQMes9FMjJnh5vAr8m2aJN7QqDVsr8xPjDael2hZ4PNVEqaF1ZXU-wlGugC38OuJBnM6IeSHGXIqTQ7vj1DQ,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="20" driverMaximumAge="75"
+                     gps="0">Chevrolet Malibu 4-5door
+                </Car>
+                <PriceCust realdeposit="76.24" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="76.24" duration="1">76.24
+                </PriceCust>
+                <Supplier logo="supplier_logo_bd5d42e5efe8b9c0ce69dc1b8486a060_Hertz.png" isMajorSupplier="1"
+                          locId="37558" dropLocId="37558" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="13"
+                          pickUpLatitude="43.1265910" pickUpLongitude="-76.1327260">Hertz
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317925" group="SUV" subgroup="Intermediate" class="IFAR" internalClass="IFAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Toyota RAV4.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDLbsMgEPwXzlaFsbFxb43aQ285RLlTwHSVFKw1qVRF-fcuJi8p4cTO7O7szJHNTqP5_rTsValeSdXKoWJGY0aEbOp-ELJiFmYTDyFllLGKTWB2h2kDP47quqXX9R3nxFiMUxzHO0rKli-UiUiQ_8rz2uy0d3kdX-TWCIYGBhKfyrdXL6K5KTu7foovC34dwvh3bqjzEUDQm6eqoV5tLSSIQe_fbwS_uFihDiUBIUUnrhYecDq4JFDzJrsJCbVJi-oe5nQxc8a3DmfSLELUA8F_BA_BlQxP_w,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Toyota Rav4
+                </Car>
+                <PriceCust realdeposit="78.23" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="78.23" duration="1">78.23
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317927" group="Cars" subgroup="Luxury" class="LCAR" internalClass="LDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Qhaa1vxu.png" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bZAxb8MgEIX_C7NVYWxs0q1VMmTLEGWngOkpKVhnEimK8t9zmLqp1DLB97h79-7GJqfRfG4te1WqV1K1clUxozETIZu6X4m-YhYmE88hZcpYxUYwx_O4hy9H77ql0_Ud56RYjGMchl-SlC2fJRORkP_I9doctXe5HZ_tdgiGCmouSCx3xV-6p7Ozu__wXH9xCMN1aZFnAEJvnl5NUzFtLSSIQZ_WT4EvId5Rh7IAIUUnfhL84TRvWUDNmxwmJNQmza4nmNKS5ZsfHE7kWYzoDwS_CR6CKyu8PwA,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Cadillac ATS
+                </Car>
+                <PriceCust realdeposit="80.6" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="80.60" duration="1">80.6
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25317926" group="Passenger Van" subgroup="Fullsize" class="MVAR" internalClass="FVAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="7" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Dodge Grand Caravan.jpg"
+                     smallSuitcases="3" bigSuitcases="3" freeSell="0"
+                     searchId="bZAxb8MgEIX_C7NVYTA26daqHbJlqLJTwPSUFKwziVRF-e85TN1Uapm478G9e3dhszdoP7aOPWo9aKU7tWmYNViIULIdNqJvmIPZplPMhTLWsAns4TS9waenuu3o9EPPOSkO05TG8ZekVMcXySYkFN7Lf2MPJvjSji92OwRLH1quSax3rR5kd7f2bvcvXzqcPcL4tTYpUwChp0CVlA0zzkGGFM3x5S7wNcYzmlhXIJToxU-GP5wmritouSxxYkZj8-J6hDmvab753uNMntWI3kAMrzFA9HWJ1xs,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Dodge Grand Caravan 7 Pax Van
+                </Car>
+                <PriceCust realdeposit="85.34" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="85.34" duration="1">85.34
+                </PriceCust>
+                <Supplier logo="supplier_logo_236fa2f2e452f84b4ef09a49be8da91b_Alamo.png" isMajorSupplier="1"
+                          locId="25262" dropLocId="25262" locationId="4124" dropOffLocationId="4124" locName="SYRT71"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="1"
+                          pickUpLatitude="43.1135674" pickUpLongitude="-76.1181488">Alamo
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995458" group="Cars" subgroup="Economy" class="ECAR" internalClass="ECAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="2/4" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="Hyundai_Accent 3door.jpg" smallSuitcases="2"
+                     bigSuitcases="1" freeSell="0"
+                     searchId="bZAxb8MgEIX_C7MV4RpsnC1RM2TLEHWngMkpKVhnEimK-t97mLqp1DJx34N79-7BJqfRnPaWrZXqlFSikRUzGjN5kX0vhVQVszCZeA0pU8YqNoI5X8cjfDiqa0Gn7VrOSbEYxzgMvyQpBZ8lE5GQf8__tTlr73I7PtsdEAx9qDmZjeWu2lXXP62dPfzL5w43hzDclyZ5CiC08VQ1TcW0tZAgBn15fQp8ibFFHcoKRMfr9ifDH04TlxXUvMlxQkJt0ux6gSktab75m8OJPIsRvYHgd8FDcGWJn18,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="18" driverMaximumAge="75"
+                     gps="0">Hyundai Accent US 3door
+                </Car>
+                <PriceCust realdeposit="86.79" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="86.79" duration="1">86.79
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995452" group="Cars" subgroup="Compact" class="CCAR" internalClass="CCAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="2/4" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="Ford Focus US 2-4.jpg" smallSuitcases="1"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bZBBb8MgDIX_C-eoggYSstuq7bBbD1XvDAiz2kHk0ElT1f8-E5Z10sbN38N-fr6y2Ru0by-OPWjda6VlqxpmDRayVcOgpNo2zMFs0yXmQhlr2AT2dJkO8O6pFpJe13eck-IwTWkcf0lKSb5INiGh8Fr6jT2Z4Ms4vtjtESw1CKE3kuRaDWoj1N3cu_2_fJnx4RHGz3VM2QMIPQaq2rZhxjnIkKI5P90FvgbZoYn1CLLnovtJ8YfTzvUIgrclUMxobF5czzDnNc83P3qcybMa0R-I4TkGiL6e8fYF"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="18" driverMaximumAge="75"
+                     gps="0">Ford Focus US 3door
+                </Car>
+                <PriceCust realdeposit="95.15" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="95.15" duration="1">95.15
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995459" group="Cars" subgroup="Intermediate" class="ICAR" internalClass="IDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="dodge avenger.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDLbsMgEPwXzlYENvjRW6LmkJsPVe8UMF0lBWtNKlVV_72LH0mklhM7s7uzM99schrN-8myp7ZtWtXKShXMaMxIqbpOSdUVzMJk4jWkjDJWsBHM-Tq-wIejWkh6dVNzTozFOMZheKCUknymTESC_Fue1-asvcvr-CzXIxgaEGVN5PrnYlequ7az_f_EvOPTIQxfW0e-Awjae6qqqmDaWkgQg7483wm-GTmgDksIsuGivrn4g9PNSwiCV9lQSKhNmlUvMKXNz4q_OpxIcxGiHgj-GDwEt8T48ws,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="18" driverMaximumAge="75"
+                     gps="0">Dodge Avenger
+                </Car>
+                <PriceCust realdeposit="101.25" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="101.25" duration="1">101.25
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995449" group="Cars" subgroup="Standard" class="SCAR" internalClass="SDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="Chrysler 200.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVBNT8MwDP0vOVdTSj7acmNih916QNxDkgZrI6ncdNKE-O847cqQwLf3nu3n5082eYP2_ejYY9s2rWqlUBWzBgvzoLpOSdlVzMFk0xxzYRmr2Aj2NI8v8OEJ15JKN5pzUhymMQ3DL0kpyRfJJiQqvJV5Y08m-LKOL3Y9gqWBWoidJvmGeLMT-u7uXf-_sGy5eIThunWUS4Cop0BIiIoZ5yBDiub8fBf4FmWPJq5vkA2v9U-OPzxdvb6h5qJEihmNzYvrGaa8Jbrxrx4n8lyNqAdiOMQA0a-P_PoG"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="18" driverMaximumAge="75"
+                     gps="0">Chrysler 200
+                </Car>
+                <PriceCust realdeposit="107.36" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="107.36" duration="1">107.36
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25357920" group="Cars" subgroup="Economy" class="ECAR" internalClass="EDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="DMmpMni7.jpg" smallSuitcases="2"
+                     bigSuitcases="1" freeSell="0"
+                     searchId="bVDBbsMgDP0XzlEFBRK226r20FsPU-8MCLPaQuTQSdPUf59JmnXS5tt7z_bz8xcbg0X3vvfs2ZjOaKO6tmHOYmXWWuruac0b5mF0-ZpKZRlr2ADudB1e4RIIC0XVdi3npHjMQ-77X5LWik-Sy0hUfKvz1p1sDHUdn-wOCI4GhDQrQ_IdCbHS6uEe_OF_YdryERD6z6WjXgJEvURCUjbMeg8FcrLn7UPgS5QN2jS_gWII9ZPjD09Xz28QXNZIqaB1ZXI9w1iWRHf-GHAkz9mIeiDFXYqQwvzI2zc,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Hyundai Accent US 4-5door
+                </Car>
+                <PriceCust realdeposit="111.54" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="111.54" duration="1">111.54
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995451" group="Cars" subgroup="Fullsize" class="FCAR" internalClass="FCAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="2/4" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="Ford Fussion US.JPG" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsIwDP2XnCuUkKQt3DbBgRsHtHuWpJlVllRuQELT_n1OS8ek4dt7z_bz8xcbvUH7cXBs27ZNq1sldcWswcKs9WajlRYVczDadIm5sIxVbADbX4YTfHrCQlHVTc05KQ7TkLruj6S14pNkExIV3su8sb0Jvqzjk90RwdKAUGK1JvmOhFyp5uHu3fG5MG25eoTutnSUS4Col0BIyooZ5yBDiua8ewh8ifKKJs5vUA0X9W-OfzxdPb9BcFkixYzG5sn1DGNeEt35N48jec5G1AMx7GOA6OdHfv8A"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="18" driverMaximumAge="75"
+                     gps="0">Ford Fusion US 2/4door
+                </Car>
+                <PriceCust realdeposit="113.47" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="113.47" duration="1">113.47
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25357921" group="Cars" subgroup="Compact" class="CCAR" internalClass="CDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Ford Focus US 4-5.jpg" smallSuitcases="1"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVBBjsIwDPxLzhVKaNKWvS2CAzcOiHtI0qwFJJUbkBDi7zgtXVZifZsZ2-PxnfVOo_nZWPbVNHWjGllXBTMaMzNXpaoXc1EwC72Jl5Ayy1jBOjDHS7eDsyMsJFVVV5yTYjF2sW3_SEpJPkgmIlH-kOe1OWrv8jo-2G0RDA1Q_0yS_EKimnH5dnd2-78wbLk6hPY2deRLgKhvT6gsC6athQQx6NPqLfApyhJ1GN9AMYT8zfHB09XjGwQvc6SQUJs0uJ6gT1OiF7932JPnaEQ9EPw6eAhufOTjCQ,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Ford Focus US 4-5door
+                </Car>
+                <PriceCust realdeposit="116.04" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="116.04" duration="1">116.04
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="19232358" group="Cars" subgroup="Intermediate" class="ICAR" internalClass="IDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Chevrolet-Cruze-1.jpg" smallSuitcases="2"
+                     bigSuitcases="1" freeSell="0"
+                     searchId="bVDBTsMwDP2XnCuUNEkbuIHgsNsOaPeQpMHaSCo3m4Sm_fucdmVI4Nt7z_bz85lNwaL73Hj2ZExvtFF91zBnsTLisZWt1KZhHiaXj6lUlrGGjeD2x_EdvgJhoai6vuOcFI95zMPwS9Ja8VlyGYmKH3Xeur2Noa7js90WwdGA0O2DIvmGWkL93T347f_CvOUUEIbvtaNeAkQ9R0JSNsx6DwVysofXu8DXKC9o0_IGiiHUT44_PF29vEFwWSOlgtaV2fUAU1kT3fhdwIk8FyPqgRTfUoQUlkderg,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Chevrolet Cruze
+                </Car>
+                <PriceCust realdeposit="122.47" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="122.47" duration="1">122.47
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995450" group="Cars" subgroup="Premium" class="PCAR" internalClass="PDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="Ford Taurus3JPG.jpg" smallSuitcases="4"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsIwDP2XnCuU0KQN3DbBgRsHtHuWpJlVllRuQELT_n1OS8ek4dt7z_bz8xcbvUH7cXBsq3WrlZa1qpg1WJi12myUVLxiDkabLjEXlrGKDWD7y3CCT09YSKqmbTgnxWEaUtf9kZSSfJJsQqLCe5k3tjfBl3V8sjsiWBoQSq80yXe0bleNeLh7d3wuTFuuHqG7LR3lEiDqJRCq64oZ5yBDiua8ewh8ifKKJs5vkC0XzW-OfzxdPb9B8LpEihmNzZPrGca8JLrzbx5H8pyNqAdi2McA0c-P_P4B"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="25" driverMaximumAge="75"
+                     gps="0">Ford Taurus 4-5door
+                </Car>
+                <PriceCust realdeposit="127.61" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="127.61" duration="1">127.61
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25357922" group="Cars" subgroup="Standard" class="SCAR" internalClass="SDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Chrysler 200.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDLjsIwDPyXnCuUPtIGbiA4cOthtfdskgYLSCo3RVqt9t_XaemCBL7NjO3x-IcNVqE-HQ3bSNlIIaumzphWmJhClKJZF0XGDAw6jD4mlrGM9aDPY_8BV0s4r6jqpuacFIOhD133JAlR8UnSAYlyX2le6bNyNq3jk12LoGkgr_lKknxHxXr17G5N-16YttwsQve9dKRLgKitI1SWGVPGQITg1WX_EPgSZYfKz2-gGHn1n-OFp6vnN-S8TJF8RKXj5HqBIS6J7vynxYE8ZyPqAe8O3oG38yN__wA,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Chrysler 200
+                </Car>
+                <PriceCust realdeposit="129.22" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="129.22" duration="1">129.22
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25357923" group="Cars" subgroup="Fullsize" class="FCAR" internalClass="FDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="UfwQlFir.JPG" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsIwDP2XnCuUkqQt3EBw4MZh2j1L0mAVksoNSNO0f5_T0oEEOcXv2X5-74cNTqM5HSxbN03dqEbWVcGMxowslVD1aikKZmEw8RpSRhkrWA-mu_YfcHFUl5JeVVecE2Mx9rFtnyilJB8pE5Eg_5Xntem0d3kdH-WOCIYGyorU-_tfiIV8SDt7fIuPG24Oof2eG_IVQNDGUyXofG0tJIhBn3cPgs82tqjDFAFZKOW_hxecLp4iKLnIdkJCbdKoeoYhzW7u-KfDgTQnIeqB4PfBQ3BTiL9_"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Ford Fusion US 4-5door
+                </Car>
+                <PriceCust realdeposit="133.4" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="133.40" duration="1">133.4
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995448" group="SUV" subgroup="Intermediate" class="IFAR" internalClass="IFAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess EUR ?" image="Ford Escape.png" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVC7bsMwDPwXzUYgVw8r3RokQ7YMRXZVklUiiWTQSoGiyL-XsuOmQMvt7kgej19sDBbd-96zZ2M6o4wUqmHOYmWe1HqtpDQN8zC6fE2lsow1bAB3ug6vcAmEW0mlO805KR7zkPv-l6SU5JPkMhIV3-q8dScbQ13HJ7sDgqOBVpsV2Q13JNRKq4d78If_hWnLR0DoP5eOegkQ9RIJCdEw6z0UyMmetw-BL1E2aNP8BtnxVv_k-MPT1fMbWi5qpFTQujK5nmEsS6I7fww4kudsRD2Q4i5FSGF-5O0b"
+                     availChecked="0" excess="0.00" excessCurrency="" driverMinimumAge="25" driverMaximumAge="75"
+                     gps="0">Ford Escape
+                </Car>
+                <PriceCust realdeposit="135.65" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="135.65" duration="1">135.65
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25357925" group="Cars" subgroup="Premium" class="PCAR" internalClass="PDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Ford Taurus3JPG.jpg" smallSuitcases="4"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsMgDP0XzlFFEiCst07bobcept0pEGq1g8ihlaZp_z6TNO2klhN-z_bzez9s9AbtYevYWutOSy06VTFrsCCNbGX30siKORhtOsdcUMYqNoA9nocP-PJU14Ke6hTnxDhMQ-r7f5SUgk-UTUhQ2Jd5Y48m-LKOT3I7BEsDtW6IvP6FWjXqru3d7jkx7bh4hP576Sh3AEGbQFXbVsw4BxlSNKe3O8EXI69o4hwCmajFzcUDTjfPIdS8LYZiRmPzpHqCMS9-rvinx5E0ZyHqgRjeY4Do5xh__wA,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Ford Taurus 4-5door
+                </Car>
+                <PriceCust realdeposit="146.26" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="146.26" duration="1">146.26
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995455" group="Cars" subgroup="Luxury" class="LCAR" internalClass="LDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="lincoln-MKS.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsIwDP2XnKspXZM2cBvaDrtxQNxDkgarkFRumIQQ_47TUpgEOcXv2X5-78IGp9Hsfy1bKtUoqUQlC2Y0ZuRTLhZSSAIsDCaeQsooYwXrwXSnfgNHR3Up6NVNzTkxFmMf2_YfJaXgI2UiEuR3eV6bTnuX1_FRbo1gaKBUgsj7XzQfqn5qO7t-T4w7_hxCe5478h1A0JenqqoKpq2FBDHow_eT4LORFeowhSAaXtYPFy843TyFUPIqGwoJtUmj6gGGNPu541uHA2lOQtQDwf8ED8FNMV5v"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="25" driverMaximumAge="75"
+                     gps="0">Lincoln MKS
+                </Car>
+                <PriceCust realdeposit="147.86" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="147.86" duration="1">147.86
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995453" group="SUV" subgroup="Fullsize" class="SFAR" internalClass="FFAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="Ford_Edge.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDLjsIwDPyXnCuUtkkfe1sEB24cEPeQpFkLSCo3ICHEv-O0FFba9W1mbI_HdzZYhfpnY9hX09SNbEQpM6YVJqaQbSuFLDNmYNDh4mNiGctYD_p46XdwtoRzQVXVFeekGAx96LpfkpSCj5IOSJQ7pHmlj8rZtI6PdlsETQN5KxaC5BeS1aIoPu7WbP8Xxi1Xi9Dd5o50CRD17QiVFEEZAxGCV6fVR-BzlCUqP71B1Dyv3jn-8HT19IaclymSj6h0HF1PMMQ50YvfWxzIczKiHvBu7R14Oz3y8QQ,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="25" driverMaximumAge="75"
+                     gps="0">Ford Edge
+                </Car>
+                <PriceCust realdeposit="156.22" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="156.22" duration="1">156.22
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25995454" group="Passenger Van" subgroup="Fullsize" class="MVAR" internalClass="FVAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="7" airbag="YES"
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0" image="RTbb7V9S.jpg" smallSuitcases="3"
+                     bigSuitcases="3" freeSell="0"
+                     searchId="bVDLjsIwDPyXnCuUtkkfe1sEB24cEPeQpFkLSCo3ICHEv-O0FFba9W1mbI_HdzZYhfpnY9hX09SNbEQpM6YVJqaQbSuFFBkzMOhw8TGxjGWsB3289Ds4W8K5oKrqinNSDIY-dN0vSUrBR0kHJMod0rzSR-VsWsdHuy2CpoG8FQuy619IVoui-Lhbs_1fGLdcLUJ3mzvSJUDUtyNUlhlTxkCE4NVp9RH4HGWJyk9vEDXPq3eOPzxdPb0h52WK5CMqHUfXEwxxTvTi9xYH8pyMqAe8W3sH3k6PfDwB"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="25" driverMaximumAge="75"
+                     gps="0">Dodge Caravan 7 Pax Van
+                </Car>
+                <PriceCust realdeposit="156.22" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="156.22" duration="1">156.22
+                </PriceCust>
+                <Supplier logo="supplier_logo_fba551fd54fb2dce59dae1b4d3a8b8d2_Budget.png" isMajorSupplier="1"
+                          locId="47016" dropLocId="47016" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="261"
+                          pickUpLatitude="" pickUpLongitude="">Budget USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="19234649" group="SUV" subgroup="Intermediate" class="IFAR" internalClass="IFAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Ford Escape.png" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBbsMgDP0XztEEhZBkt03bobcept4ZEGa1g8ihlaaq_14TlnXSxgm_Z_v5vQubvUH7sXXsse-7vu1VpxtmDRZEDBuptBoa5mC26RRzQRlr2AT2cJre4NNTLRQ93WnOiXGYpjSOv6i2VXyhbEKCwnuZN_Zggi_r-CK3Q7A0sOGKyPoXWj4M8q7t3e5_Ytlx9gjj19pR7gCCngJVknqNc5AhRXN8uRN8NfKMJtYQyIRQPy7-4HRzDUFwWQzFjMbmRfUIc179fON7jzNpViHqgRheY4Doa4zXGw,,"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Ford Escape
+                </Car>
+                <PriceCust realdeposit="163.93" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="163.93" duration="1">163.93
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="19238074" group="Cars" subgroup="Luxury" class="LCAR" internalClass="LDAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="lincoln-MKS.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBTsMwDP2XnKspadMm240JDtx2QNxDkgZrI6ncDAkh_h2noWzS5tt7z_bz8zebvUH7_uzYTmuley3V0DBrsDBi23aaK9kwB7NN55gLy1jDJrDH8_QCH56wkFSDGjgnxWGa0jheSX0v-SLZhESFtzJv7NEEX9bxxe6AYGmgbftNS3JFQvPNVl3cvTvcF5Ytnx5h_Fo7yiVA1EMg1HUNM85BhhTN6fEi8DXKHk2sb6AYQv7nuOHp6voGwbsSKWY0Ni-uJ5jzmuiPf_U4k2c1oh6I4SkGiL4-8ucX"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Lincoln MKS
+                </Car>
+                <PriceCust realdeposit="180.97" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="180.97" duration="1">180.97
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="19236994" group="SUV" subgroup="Fullsize" class="SFAR" internalClass="FFAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="4-5" seats="5" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Ford_Edge.jpg" smallSuitcases="2"
+                     bigSuitcases="2" freeSell="0"
+                     searchId="bVDBTsMwDP2XnKspadI25cbEDrvtgLiHJA3WRlK5GRJC_DtOQ2ES-Pbes_38_MEWb9C-HB2703rQnVZD3zBrsDBibGU_jqphDhabrjEXlrGGzWDP1_kRXj1hoaj6oeecFIdpTtN0I3Wd4qtkExIVnsu8sWcTfFnHV7sTgqWBttU7spsrElruuht3707_C-uWN48wvW8d5RIg6j4QkrJhxjnIkKK5PPwKfIuyRxPrGyiGUD85_vB0dX2D4LJEihmNzavrBZa8Jfrmnzwu5FmNqAdiOMQA0ddHfn4B"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Ford Edge
+                </Car>
+                <PriceCust realdeposit="183.54" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="183.54" duration="1">183.54
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25357926" group="Passenger Van" subgroup="Fullsize" class="MVAR" internalClass="FVAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="7" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="Dodge Grand Caravan.jpg"
+                     smallSuitcases="3" bigSuitcases="3" freeSell="0"
+                     searchId="bZBBb8MgDIX_C-eoIgESttum7dBbD1PvDAiz2kHk0EpT1f9eE5Z10sbN37N5fr6w2Ru0H1vHHrUetNJy6BtmDRbSKaGGh46Ag9mmU8yFMtawCezhNL3Bp6e6lfT6oeecFIdpSuP4S1JK8kWyCQmF9zJv7MEEX77ji90OwdJA1-mNJLlWrRYbJe_u3u3-F5Zfzh5h_Fo7yiZA6ClQJUTDjHOQIUVzfLkLfI3yjCbWM1CMVv7k-MNp63qGlosSKWY0Ni-uR5jzmuib7z3O5FmNqAdieI0Boq-HvN4A"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="21" driverMaximumAge="75"
+                     gps="0">Dodge Grand Caravan 7 Pax Van
+                </Car>
+                <PriceCust realdeposit="183.54" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="183.54" duration="1">183.54
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="25357924" group="Passenger Van" subgroup="Oversize" class="FVAR" internalClass="OVAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="12" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="ford tourneo custom 12pax.jpg"
+                     smallSuitcases="3" bigSuitcases="2" freeSell="0"
+                     searchId="bVDBTsMwDP2XnKspbZKmcAPBYbcdEPeQpMHaSCo3m4QQ_46TrIAEvvk92-89f7DVG7Sve8dup0lPapJ67Jg1WJBBCaVvBtkxB6tN55gLyljHFrDH8_IEb576XlKNeuScGIdpSfP8i1JK8krZhASFl7Jv7NEEX87xKndAsLQghNgNRLduGPWu2NnUvTv8T9QrF48wv18n-uIECLoL9WzHjHOQIUVzevgh-BblHk1sb6AYvfzO8Qcn1-0NPRclUsxobK6qJ1jzluiKP3tcSbMJ0QzE8BgDRN8e-fkF"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="25" driverMaximumAge="75"
+                     gps="0">Ford Tourneo 12 Pax Van
+                </Car>
+                <PriceCust realdeposit="267.76" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="267.76" duration="1">267.76
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+            <VehicleInfo>
+                <Car id="23824415" group="SUV" subgroup="Fullsize" class="PFAR" internalClass="FFAR"
+                     transmissionId="AUTOMATIC" transmission="Automatic" airco="YES" doors="5" seats="7" airbag=""
+                     fuelId="N_A" fuel="N/A" comments="Excess USD 0.00" image="RP26agey.jpg" smallSuitcases="2"
+                     bigSuitcases="3" freeSell="0"
+                     searchId="bVDBbsMgDP0XzlEFhCRst1Xtobcept4ZEGa1hcihk6ap_z4T2nXS5pvfs9_z8xebvUH7vnPsWetBd1oNfcOswYLIVkulRNcwB7NNl5gLyljDJrDHy_QKZ0-9UFT90HNOjMM0pXH8RXWd4gtlExIU3sq-sUcTfJHji90ewdJCq55WkujaSc1XvXy4e7f_n1hUPjzC-HmbEOUSIOglFNm2YcY5yJCiOW0eBL9HWaOJ9Q0UQ6ifHH9wurq-QfC2RIoZjc2L6wnmfE90ww8eZ_KsRjQDMWxjgOjrI6_f"
+                     availChecked="0" excess="0.00" excessCurrency="USD" driverMinimumAge="25" driverMaximumAge="75"
+                     gps="0">Chevrolet Suburban 7 Pax
+                </Car>
+                <PriceCust realdeposit="280.62" balancePaymentDate="" commission="0" currency="GBP" localCurrency="USD"
+                           drvFee="0.00" addDrvFee="0.00" dropOffFee="0.00" isDropOffFeeLocal="1"
+                           isOutOfHoursFeeLocal="1" isYoungDriverFeeLocal="1" outOfHourFee="0.00" discount="0.00"
+                           promDiscount="0" mult="0.66966677381335" discountedPrice="280.62" duration="1">280.62
+                </PriceCust>
+                <Supplier logo="supplier_logo_47f3b438289ae16af80c86a72d6ca587_Avis.png" isMajorSupplier="1"
+                          locId="60014" dropLocId="60014" locationId="4124" dropOffLocationId="4124" locName="SYR"
+                          isDeposit="0" productType="1" hasOnlinePrices="1" hasXmlBooking="1" supplierId="262"
+                          pickUpLatitude="43.1235000" pickUpLongitude="-76.1207000">Avis USA
+                </Supplier>
+                <FuelPolicy code="F2F">
+                    <Name>Full to Full</Name>
+                    <Description>Collect the car with full tank of fuel, return the car with full tank of fuel. No
+                        charge for fuel unless you do not return the car with a full tank.
+                    </Description>
+                </FuelPolicy>
+                <VehicleAt id="100">On Airport - Desk in Terminal</VehicleAt>
+                <RateDistance Unlimited="true" DistUnitName="Mile" VehiclePeriodUnitName="RentalPeriod"/>
+            </VehicleInfo>
+        </VehicleRS>
+    </Responses>
+</RS>

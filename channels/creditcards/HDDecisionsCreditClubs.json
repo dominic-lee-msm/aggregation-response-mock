@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HD Decisions Credit Club",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "ultraloadtest.hdd2.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/webservicesv3/enquiryv2.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "HDDecisionsCreditClubs.xml",
+        "fixedDelayMilliseconds": 5000
+    }
+}

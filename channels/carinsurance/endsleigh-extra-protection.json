@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Endsleigh Extra Protection",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "dev.services.endsleigh.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/motor/quote/ServiceHandler.eisws"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "endsleigh-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

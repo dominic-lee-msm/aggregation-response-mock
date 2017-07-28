@@ -1,0 +1,15 @@
+{
+    "scenarioName": "TravelBag",
+    "requiredScenarioState": "Started",
+    "domain":"tsaggregator.travelbag.co.uk",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/AggregatorService.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "TravelbagFlightsResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

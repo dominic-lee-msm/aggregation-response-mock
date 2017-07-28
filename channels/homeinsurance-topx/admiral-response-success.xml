@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://com/kcom/opencontact/ws/loadaccount/LoadAccount.wsdl/types/"><env:Body><ns0:loadaccountxmlResponseElement><ns0:result><AccountResult><ResultCode>0</ResultCode><AccountReference>ADAPT1020067</AccountReference></AccountResult></ns0:result></ns0:loadaccountxmlResponseElement></env:Body></env:Envelope>

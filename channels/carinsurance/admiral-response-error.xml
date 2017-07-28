@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quoteresponse
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="response.xsd">
+    <errors>
+        <errordescription/>
+        <errordescription/>
+        <errordescription/>
+        <errordescription/>
+    </errors>
+    <errordetails>
+        <errordetail>
+            <brand>
+                <name>Bell</name>
+                <branchcode>BL</branchcode>
+                <productcode>CAR</productcode>
+                <budget>false</budget>
+            </brand>
+            <errordescription/>
+        </errordetail>
+        <errordetail>
+            <brand>
+                <name>Diamond</name>
+                <branchcode>DI</branchcode>
+                <productcode>AMO</productcode>
+                <budget>false</budget>
+            </brand>
+            <errordescription/>
+        </errordetail>
+        <errordetail>
+            <brand>
+                <name>Admiral</name>
+                <branchcode>AD</branchcode>
+                <productcode>MOT</productcode>
+                <budget>false</budget>
+            </brand>
+            <errordescription/>
+        </errordetail>
+        <errordetail>
+            <brand>
+                <name>Elephant</name>
+                <branchcode>EL</branchcode>
+                <productcode>INT</productcode>
+                <budget>false</budget>
+            </brand>
+            <errordescription/>
+        </errordetail>
+    </errordetails>
+</quoteresponse>

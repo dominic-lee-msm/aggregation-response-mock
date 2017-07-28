@@ -1,0 +1,1916 @@
+<PackageHolidaysResponse>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>CONTINENTAL BREAKFAST</Board>
+      <RoomType>DOUBLE ISLAND VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-12974&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-12974|Bayside%20Inn%20Key%20Largo&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>704.92</PricePerAdult>
+         <TotalPrice>1409.84</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Bayside Inn Key Largo</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-12974</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/012974/012974a_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>SUITE 1 BEDROOM-ISLAND VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-12975&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-12975|Ocean%20Pointe%20Suites%20at%20Key%20Largo&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>739.08</PricePerAdult>
+         <TotalPrice>1478.16</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Ocean Pointe Suites at Key Largo</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-12975</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/012975/012975a_hb_w_002.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>CONTINENTAL BREAKFAST</Board>
+      <RoomType>DOUBLE RUN OF THE HOUSE</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-163430&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-163430|Marina%20Del%20Mar%20Key%20Largo&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>768.6</PricePerAdult>
+         <TotalPrice>1537.2</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Marina Del Mar Key Largo</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-163430</HotelIdentifierCode>
+         <StarRating>2</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/16/163430/163430a_hb_p_006.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>BED &amp; BREAKFAST</Board>
+      <RoomType>STUDIO KING SIZE BED-GARDEN VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-159867&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-159867|Hampton%20Inn%20Key%20Largo&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>797.95</PricePerAdult>
+         <TotalPrice>1595.9</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Hampton Inn Key Largo</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-159867</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/hilton/KYLGO/KYLGOa_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>CONTINENTAL BREAKFAST</Board>
+      <RoomType>SUITE GARDEN VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-229134&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-229134|La%20Siesta%20Resort%20andamp;%20Marina&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>798.12</PricePerAdult>
+         <TotalPrice>1596.24</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>La Siesta Resort andamp; Marina</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-229134</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/22/229134/229134a_hb_w_003.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE RUN OF THE HOUSE</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-12973&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-12973|Holiday%20Inn%20Resort%20andamp;%20Marina%20Key%20Largo&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>815.83</PricePerAdult>
+         <TotalPrice>1631.66</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Holiday Inn Resort andamp; Marina Key Largo</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-12973</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/012973/012973a_hb_w_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE RESORT VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-100594&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-100594|Banana%20Bay%20Resort%20andamp;%20Marina&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>827.64</PricePerAdult>
+         <TotalPrice>1655.28</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Banana Bay Resort andamp; Marina</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-100594</HotelIdentifierCode>
+         <StarRating>2</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/10/100594/100594a_hb_a_002.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE STANDARD</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-146381&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-146381|Courtyard%20by%20Marriott%20Key%20Largo&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>827.64</PricePerAdult>
+         <TotalPrice>1655.28</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Courtyard by Marriott Key Largo</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-146381</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/14/146381/146381a_hb_w_006.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE CLASSIC-KING SIZE BED</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-181410&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-181410|Postcard%20Inn%20Beach%20Resort%20and%20Marina&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>827.64</PricePerAdult>
+         <TotalPrice>1655.28</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Postcard Inn Beach Resort and Marina</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-181410</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/18/181410/181410a_hb_ba_009.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE KING SIZE BED</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-12976&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-12976|Hilton%20Key%20Largo%20Resort&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>852.89</PricePerAdult>
+         <TotalPrice>1705.78</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Hilton Key Largo Resort</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-12976</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/012976/012976a_hb_w_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE RUN OF THE HOUSE</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-85854&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-85854|Marriott%20Key%20Largo%20Bay%20Resort&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>886.68</PricePerAdult>
+         <TotalPrice>1773.36</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Marriott Key Largo Bay Resort</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-85854</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/08/085854/085854a_hb_r_003.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE BALCONY ROOM-KING SIZE BED-NON SMOKING</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-130910&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-130910|Doubletree%20Grand%20Key%20Resort%20&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>893.75</PricePerAdult>
+         <TotalPrice>1787.5</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Doubletree Grand Key Resort</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-130910</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/hilton/EYWDT/EYWDTa_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE GUEST ROOM</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-38458&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-38458|The%20Inn%20at%20Key%20West&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>903.55</PricePerAdult>
+         <TotalPrice>1807.1</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>The Inn at Key West</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-38458</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/03/038458/038458a_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE KING SIZE BED</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-131031&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-131031|Amara%20Cay%20Resort%20Islamorada&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>916.2</PricePerAdult>
+         <TotalPrice>1832.4</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Amara Cay Resort Islamorada</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-131031</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/hilton/EYWIS/EYWISa_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>SINGLE LAND VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-13238&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-13238|Hawk s%20Cay%20Resort&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>932.96</PricePerAdult>
+         <TotalPrice>1865.92</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Hawk s Cay Resort</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-13238</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/013238/013238a_hb_w_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE ISLAND VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-150936&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-150936|Duck%20Key%20Vacation%20Rentals%20at%20Hawks%20Cay%20Resort&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>953.08</PricePerAdult>
+         <TotalPrice>1906.16</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Duck Key Vacation Rentals at Hawks Cay Resort</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-150936</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/15/150936/150936a_hb_p_003.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE LAND VIEW</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-13660&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-13660|Cheeca%20Lodge%20andamp;%20Spa&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>969.76</PricePerAdult>
+         <TotalPrice>1939.52</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Cheeca Lodge andamp; Spa</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-13660</HotelIdentifierCode>
+         <StarRating>5</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/013660/013660a_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE GUEST ROOM</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-48714&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-48714|Crowne%20Plaza%20La%20Concha&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>1000.54</PricePerAdult>
+         <TotalPrice>2001.08</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Crowne Plaza La Concha</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-48714</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/04/048714/048714a_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>SUITE STANDARD</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-12980&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-12980|Sheraton%20Suites%20Key%20West&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>1034.28</PricePerAdult>
+         <TotalPrice>2068.56</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Sheraton Suites Key West</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-12980</HotelIdentifierCode>
+         <StarRating>3</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/012980/012980a_hb_a_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE 2  DOUBLE BEDS</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-13706&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-13706|Casa%20Marina%20A%20Waldorf%20Astoria%20Resort&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>1170.29</PricePerAdult>
+         <TotalPrice>2340.58</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Casa Marina A Waldorf Astoria Resort</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-13706</HotelIdentifierCode>
+         <StarRating>5</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/013706/013706a_hb_w_002.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE RUN OF THE HOUSE</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-14733&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-14733|Westin%20Key%20West%20Resort&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>1288.17</PricePerAdult>
+         <TotalPrice>2576.34</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Westin Key West Resort</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-14733</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/01/014733/014733a_hb_p_001.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+   <PackageHoliday>
+      <HolidayCountry>United States</HolidayCountry>
+      <HolidayRegion>FLORIDA</HolidayRegion>
+      <HolidayResort>FLORIDA</HolidayResort>
+      <Duration>7</Duration>
+      <Board>Room Only</Board>
+      <RoomType>DOUBLE JUNIOR-SUITE</RoomType>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/package/waittsm.aspx?hid=HB-136466&Resort=0&Region=12102&IATACode=MIA&CityName=Florida%20-%20Florida%20Keys&Destination=FLORIDA%20KEYS,%20FLORIDA,%20UNITED%20STATES&CheckIn=22/09/2015&CheckOut=29/09/2015&Units=1&Adults=2,0,0&Children=0,0,0&ChildrenAges=-1|-1|-1&DepartureAirport=LON&JourneyType=2&CabinClass=1&DirectFlight=False&AirlineName=&UniqueID=1d0079ce-84fb-4a37-a5e0-e5e09339e6fa&_$ja=tsid:31034|prd:Holidaygenie|cat:FlightHotel&HotelInformation=HB-136466|Ocean%20Key%20Resort%20andamp;%20Spa&SearchDates=22/09/2015-29/09/2015&stid=tsm]]></DeepLink>
+      <PriceDetails>
+         <Currency>GB</Currency>
+         <PricePerAdult>1344.13</PricePerAdult>
+         <TotalPrice>2688.26</TotalPrice>
+         <NumberOfAdults>2</NumberOfAdults>
+      </PriceDetails>
+      <HotelDetails>
+         <HotelName>Ocean Key Resort andamp; Spa</HotelName>
+         <HotelPostcode/>
+         <HotelAddress/>
+         <HotelTelephone/>
+         <Latitude/>
+         <Longitude/>
+         <HotelAllocation/>
+         <HotelIdentifierCode>HB-136466</HotelIdentifierCode>
+         <StarRating>4</StarRating>
+         <HotelImages>
+            <Url>http://www.hotelbeds.com/giata/13/136466/136466a_hb_p_006.jpg</Url>
+         </HotelImages>
+      </HotelDetails>
+      <FlightDetails>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 06:30:00</DepartureDateTime>
+            <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+            <DepartureAirportCode>LHR</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 09:05:00</ArrivalDateTime>
+            <ArrivalAirportName>Frankfurt - Frankfurt International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>FRA</ArrivalAirportCode>
+            <FlightNumber>9546</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>1:35</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>OB</Direction>
+            <AirLineName>United Airlines</AirLineName>
+            <DepartureDateTime>22/09/2015 10:35:00</DepartureDateTime>
+            <DepartureAirportName>Frankfurt - Frankfurt International Airport</DepartureAirportName>
+            <DepartureAirportCode>FRA</DepartureAirportCode>
+            <ArrivalDateTime>22/09/2015 14:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Miami - Miami International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>MIA</ArrivalAirportCode>
+            <FlightNumber>8849</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>10:0</FlightDuration>
+            <AirlineCode>UA</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 12:20:00</DepartureDateTime>
+            <DepartureAirportName>Miami - Miami International Airport</DepartureAirportName>
+            <DepartureAirportCode>MIA</DepartureAirportCode>
+            <ArrivalDateTime>29/09/2015 15:35:00</ArrivalDateTime>
+            <ArrivalAirportName>Toronto - Lester B. Pearson International Airport</ArrivalAirportName>
+            <ArrivalAirportCode>YYZ</ArrivalAirportCode>
+            <FlightNumber>0917</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>3:15</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+         <FlightSector>
+            <Direction>IB</Direction>
+            <AirLineName>Air Canada</AirLineName>
+            <DepartureDateTime>29/09/2015 18:30:00</DepartureDateTime>
+            <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+            <DepartureAirportCode>YYZ</DepartureAirportCode>
+            <ArrivalDateTime>30/09/2015 06:25:00</ArrivalDateTime>
+            <ArrivalAirportName>London - Heathrow Airport</ArrivalAirportName>
+            <ArrivalAirportCode>LHR</ArrivalAirportCode>
+            <FlightNumber>0856</FlightNumber>
+            <NumberOfStops>1</NumberOfStops>
+            <FlightDuration>6:55</FlightDuration>
+            <AirlineCode>AC</AirlineCode>
+         </FlightSector>
+      </FlightDetails>
+   </PackageHoliday>
+</PackageHolidaysResponse>

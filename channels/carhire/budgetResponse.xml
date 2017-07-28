@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Body>
+        <ns:Response TID="b08436f8-f1ba-447e-bcc9-eca35958e41a" xmlns:ns="http://wsg.avis.com/wsbang">
+            <OTA_VehAvailRateRS xsi:schemaLocation="http://www.opentravel.org/OTA/2008/05 OTA_VehAvailRateRS"
+                                EchoToken="XXX1234" Target="Production" Version="1.0" SequenceNmbr="1"
+                                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                xmlns="http://www.opentravel.org/OTA/2003/05">
+                <Success/>
+                <VehAvailRSCore>
+                    <VehRentalCore PickUpDateTime="2015-10-10T10:00:00" ReturnDateTime="2015-10-11T10:00:00">
+                        <PickUpLocation LocationCode="SYR" CodeContext="IATA"/>
+                        <ReturnLocation LocationCode="SYR" CodeContext="IATA"/>
+                    </VehRentalCore>
+                    <VehVendorAvails>
+                        <VehVendorAvail>
+                            <Vendor>Budget</Vendor>
+                            <VehAvails>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="3"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="A"/>
+                                            <VehMakeModel Name="Group A - FORD FIESTA SEDAN or similar" Code="ECAR"/>
+                                            <PictureURL>2015_BU_Ford_Fiesta.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="26.00" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="26.00" EstimatedTotalAmount="26.00"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Fiesta.png|thumb=2015_BU_Ford_Fiesta.png|cargroup=A"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="4"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="B"/>
+                                            <VehMakeModel Name="Group B - FORD FOCUS or similar" Code="CCAR"/>
+                                            <PictureURL>2015_BU_Ford_Focus.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="27.60" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="27.60" EstimatedTotalAmount="27.60"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Focus.png|thumb=2015_BU_Ford_Focus.png|cargroup=B"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="6"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="C"/>
+                                            <VehMakeModel Name="Group C - HYUNDAI ELANTRA SEDAN 4DR or similar"
+                                                          Code="ICAR"/>
+                                            <PictureURL>2015_BU_Hyundai_Elantra.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="29.00" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="29.00" EstimatedTotalAmount="29.00"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Hyundai_Elantra.png|thumb=2015_BU_Hyundai_Elantra.png|cargroup=C"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="7"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="D"/>
+                                            <VehMakeModel Name="Group D - SUBARU LEGACY or similar" Code="SCAR"/>
+                                            <PictureURL>2015_BU_Subaru_Legacy.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="30.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="30.80" EstimatedTotalAmount="30.80"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Subaru_Legacy.png|thumb=2015_BU_Subaru_Legacy.png|cargroup=D"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="8"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="E"/>
+                                            <VehMakeModel Name="Group E - FORD FUSION FWD or similar" Code="FCAR"/>
+                                            <PictureURL>2015_BU_Ford_Fusion.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="32.40" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="32.40" EstimatedTotalAmount="32.40"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Fusion.png|thumb=2015_BU_Ford_Fusion.png|cargroup=E"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="37"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="S"/>
+                                            <VehMakeModel Name="Group S - FORD EXPLORER 2WD or similar" Code="RFAR"/>
+                                            <PictureURL>2015_BU_Ford_Explorer.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="57.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="57.80" EstimatedTotalAmount="57.80"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Explorer.png|thumb=2015_BU_Ford_Explorer.png|cargroup=S"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="2"/>
+                                            <VehClass Size="8"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="P"/>
+                                            <VehMakeModel Name="Group P - FORD TRANSIT WAGON or similar" Code="FVAR"/>
+                                            <PictureURL>2015_BU_Ford_Transit.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="91.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="91.80" EstimatedTotalAmount="91.80"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Transit.png|thumb=2015_BU_Ford_Transit.png|cargroup=P"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="10"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="G"/>
+                                            <VehMakeModel Name="Group G - FORD TAURUS LTD FWD or similar" Code="PCAR"/>
+                                            <PictureURL>2015_BU_Ford_Taurus.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="36.40" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="36.40" EstimatedTotalAmount="36.40"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Taurus.png|thumb=2015_BU_Ford_Taurus.png|cargroup=G"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="1"/>
+                                            <VehClass Size="9"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="H"/>
+                                            <VehMakeModel Name="Group H - LINCOLN MKS FWD or similar" Code="LCAR"/>
+                                            <PictureURL>2013_BU_Lincoln_MKS.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="58.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="58.80" EstimatedTotalAmount="58.80"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2013_BU_Lincoln_MKS.png|thumb=2013_BU_Lincoln_MKS.png|cargroup=H"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="10"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="L"/>
+                                            <VehMakeModel Name="Group L - FORD EXPEDITION EL 4WD or similar"
+                                                          Code="PFAR"/>
+                                            <PictureURL>2014_BU_Ford_Expedition.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="89.60" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="89.60" EstimatedTotalAmount="89.60"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2014_BU_Ford_Expedition.png|thumb=2014_BU_Ford_Expedition.png|cargroup=L"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="4"/>
+                                            <VehClass Size="7"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="K"/>
+                                            <VehMakeModel Name="Group K - FORD MUSTANG CON 2DR/4PSGR or similar"
+                                                          Code="STAR"/>
+                                            <PictureURL>2015_BU_Ford_Mustang_Conv.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="47.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="47.80" EstimatedTotalAmount="47.80"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Mustang_Conv.png|thumb=2015_BU_Ford_Mustang_Conv.png|cargroup=K"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="7"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="W"/>
+                                            <VehMakeModel Name="Group W - FORD EDGE 2WD or similar" Code="SFAR"/>
+                                            <PictureURL>2015_BU_Ford_Edge.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="41.00" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="41.00" EstimatedTotalAmount="41.00"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2015_BU_Ford_Edge.png|thumb=2015_BU_Ford_Edge.png|cargroup=W"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="2"/>
+                                            <VehClass Size="1"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="V"/>
+                                            <VehMakeModel Name="Group V - DODGE GRAND CARAVAN or similar" Code="MVAR"/>
+                                            <PictureURL>2014_BU_Dodge_Grand_Caravan.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="44.80" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="44.80" EstimatedTotalAmount="44.80"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2014_BU_Dodge_Grand_Caravan.png|thumb=2014_BU_Dodge_Grand_Caravan.png|cargroup=V"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="6"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="F"/>
+                                            <VehMakeModel Name="Group F - FORD ESCAPE 2WD or similar" Code="IFAR"/>
+                                            <PictureURL>2014_BU_Ford_Escape.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="37.40" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="37.40" EstimatedTotalAmount="37.40"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2014_BU_Ford_Escape.png|thumb=2014_BU_Ford_Escape.png|cargroup=F"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                                <VehAvail>
+                                    <VehAvailCore Status="Available">
+                                        <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                            <VehType VehicleCategory="3"/>
+                                            <VehClass Size="8"/>
+                                            <VehGroup GroupType="CarGroup" GroupValue="Z"/>
+                                            <VehMakeModel Name="Group Z - FORD EXPEDITION 4WD 4DR or similar"
+                                                          Code="FFAR"/>
+                                            <PictureURL>2014_BU_Ford_Expedition.png</PictureURL>
+                                        </Vehicle>
+                                        <RentalRate>
+                                            <RateDistance Unlimited="true" DistUnitName="Mile"
+                                                          VehiclePeriodUnitName="RentalPeriod"/>
+                                            <VehicleCharges>
+                                                <VehicleCharge TaxInclusive="true"
+                                                               Description="Minimum 1 Day(s); Maximum 59 Day(s)"
+                                                               GuaranteedInd="false" IncludedInRate="true"
+                                                               Amount="74.00" CurrencyCode="GBP" Purpose="1">
+                                                    <TaxAmounts>
+                                                        <TaxAmount Total="0.00" CurrencyCode="GBP"
+                                                                   Description="Taxes and surcharges"/>
+                                                    </TaxAmounts>
+                                                    <Calculation UnitName="Day" Quantity="1"/>
+                                                </VehicleCharge>
+                                                <VehicleCharge TaxInclusive="false" Description="Under Age Surcharge"
+                                                               GuaranteedInd="false" IncludedInRate="false"
+                                                               Amount="0.00" CurrencyCode="GBP" Purpose="13"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 EXTENSION FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                                <VehicleCharge TaxInclusive="false"
+                                                               Description="$10.00 LATE FEE MAY APPLY"
+                                                               IncludedInRate="false" Amount="0.00" CurrencyCode="USD"
+                                                               Purpose="28"/>
+                                            </VehicleCharges>
+                                            <RateQualifier RateCategory="3" CorpDiscountNmbr="L173000"
+                                                           RateQualifier="BB"/>
+                                        </RentalRate>
+                                        <TotalCharge RateTotalAmount="74.00" EstimatedTotalAmount="74.00"
+                                                     CurrencyCode="GBP"/>
+                                        <TPA_Extensions>
+                                            <Reference Type="Features"
+                                                       ID="image=2014_BU_Ford_Expedition.png|thumb=2014_BU_Ford_Expedition.png|cargroup=Z"/>
+                                        </TPA_Extensions>
+                                    </VehAvailCore>
+                                    <VehAvailInfo>
+                                        <PricedCoverages>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="1" Code="ALI">
+                                                    <Details CoverageTextType="Description">Additional Liability
+                                                        Insurance (ALI)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                            <PricedCoverage>
+                                                <Coverage CoverageType="7" Code="CDW">
+                                                    <Details CoverageTextType="Description">Collision Damage Waiver
+                                                        (CDW)
+                                                    </Details>
+                                                </Coverage>
+                                                <Charge TaxInclusive="false"
+                                                        Description="Coverage costs are quoted per day"
+                                                        IncludedInRate="true" Amount="0.00" CurrencyCode="USD">
+                                                    <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                                </Charge>
+                                            </PricedCoverage>
+                                        </PricedCoverages>
+                                    </VehAvailInfo>
+                                </VehAvail>
+                            </VehAvails>
+                            <Info>
+                                <LocationDetails AtAirport="true" Code="SYR" Name="SYRACUSE, NY APO"
+                                                 CodeContext="Rental Location" ExtendedLocationCode="SYRT01">
+                                    <Address>
+                                        <StreetNmbr>1000 COLONEL EILEEN COLLINS BL</StreetNmbr>
+                                        <AddressLine>SYRACUSE HANCOCK INTL AIRPORT</AddressLine>
+                                        <CityName>NORTH SYRACUSE</CityName>
+                                        <PostalCode>13212</PostalCode>
+                                        <StateProv StateCode="NY"/>
+                                        <CountryName Code="US"/>
+                                    </Address>
+                                    <Telephone PhoneNumber="315-455-8287"/>
+                                </LocationDetails>
+                            </Info>
+                        </VehVendorAvail>
+                    </VehVendorAvails>
+                </VehAvailRSCore>
+            </OTA_VehAvailRateRS>
+            <!-- Processed by Direct Connect ver. 8.29 build 0 -->
+        </ns:Response>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

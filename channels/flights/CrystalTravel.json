@@ -1,0 +1,15 @@
+{
+    "scenarioName": "CrystalTravel",
+    "requiredScenarioState": "Started",
+    "domain":"marketing.crystaltravel.co.uk",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/flightservice.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "CheapOairResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

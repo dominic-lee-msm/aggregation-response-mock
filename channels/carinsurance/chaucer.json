@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Chaucer",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "www.chaucerdirect.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/MSMWebService/service.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "chaucer-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

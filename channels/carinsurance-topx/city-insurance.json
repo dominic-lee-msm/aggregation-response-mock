@@ -1,0 +1,15 @@
+{
+    "scenarioName": "CityInsuranceTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "mail.cityinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/interfacexml/receive_xml.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "city-insurance-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

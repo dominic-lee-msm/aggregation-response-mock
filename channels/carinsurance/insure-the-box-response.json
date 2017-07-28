@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Insure The Box ",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "www.box-napier-test.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/msm-quote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "insure-the-box-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

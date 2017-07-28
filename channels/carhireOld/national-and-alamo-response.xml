@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<quotes>
+    <vehicle>
+        <vehicleType>Mini</vehicleType>
+        <currency>GBP</currency>
+        <price>34.1</price>
+        <description>Hyundai I10</description>
+        <aircon>Yes</aircon>
+        <deeplink>https%3A%2F%2Fwww.nationalcar.co.uk%2FRatesAndReservationResult%2F630%2Fuk%2Ftravelsupermarket%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_NCUKTSPP_ZL_STNT01_ZL_STNT01_25Oct2013_10%3A00_26Oct2013_10%3A00_UK__GBP_GB_ZL_%26vehicle_id%3DALAMO-769008%26configuration_xml_default%3Dtravelsupermarket%26utm_source%3DTravelSupermarket%26utm_medium%3DPPC%26utm_campaign%3DTravelSupermarket</deeplink>
+        <pictureUrl>https://www.nationalcar.co.uk/ImageLib/vehicles/T_MCMR_GB.jpg</pictureUrl>
+    </vehicle>
+    <vehicle><vehicleType>Economy</vehicleType><currency>GBP</currency><price>35.2</price><description>Vauxhall Corsa</description><aircon>Yes</aircon><deeplink>https%3A%2F%2Fwww.nationalcar.co.uk%2FRatesAndReservationResult%2F630%2Fuk%2Ftravelsupermarket%3Fportalsearchcar_alamo_dialog%3DpscPassengersComponent%26cache_key%3DCAR_FARES%3AALAMO_FULLY_NCUKTSPP_ZL_STNT01_ZL_STNT01_25Oct2013_10%3A00_26Oct2013_10%3A00_UK__GBP_GB_ZL_%26vehicle_id%3DALAMO-768978%26configuration_xml_default%3Dtravelsupermarket%26utm_source%3DTravelSupermarket%26utm_medium%3DPPC%26utm_campaign%3DTravelSupermarket</deeplink>
+        <pictureUrl>https://www.nationalcar.co.uk/ImageLib/vehicles/T_ECMR_GB.jpg</pictureUrl>
+    </vehicle>
+</quotes>

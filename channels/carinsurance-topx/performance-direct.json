@@ -1,0 +1,15 @@
+{
+    "scenarioName": "performanceDirectTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "webservice.performancedirect.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/quoteserver.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "performance-direct-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

@@ -1,0 +1,1110 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <rppav:RetrievePricedProductAvailabilityResponse xmlns:rppav="http://www.ba.com/schema/pas/RetrievePricedProductAvailabilityV02">
+         <SearchType>FH</SearchType>
+         <PackageProduct>
+            <JourneyDetails>
+               <DepartureAirport>LHR</DepartureAirport>
+               <DestinationAirport>ROM</DestinationAirport>
+               <DestinationCityCode>ROM</DestinationCityCode>
+               <DepartureDate>2015-11-25Z</DepartureDate>
+               <ReturnDate>2015-11-27Z</ReturnDate>
+               <PackageDuration>2</PackageDuration>
+               <PointOfSale>GB</PointOfSale>
+               <CurrencyCode>GBP</CurrencyCode>
+               <DestinationCity>ROM</DestinationCity>
+            </JourneyDetails>
+            <FlightSegmentsProductReference>
+               <ProductReference>2</ProductReference>
+               <FlightSegment>
+                  <DepartureDateTime>2015-11-25T14:25:00+00:00</DepartureDateTime>
+                  <ArrivalDateTime>2015-11-25T17:45:00+00:00</ArrivalDateTime>
+                  <DepartureAirport>
+                     <AirportCode>LHR</AirportCode>
+                  </DepartureAirport>
+                  <ArrivalAirport>
+                     <AirportCode>FCO</AirportCode>
+                  </ArrivalAirport>
+                  <Flight>
+                     <CarrierCode>BA</CarrierCode>
+                     <FlightNumber>0556</FlightNumber>
+                  </Flight>
+               </FlightSegment>
+               <FlightSegment>
+                  <DepartureDateTime>2015-11-27T20:25:00+00:00</DepartureDateTime>
+                  <ArrivalDateTime>2015-11-27T21:55:00+00:00</ArrivalDateTime>
+                  <DepartureAirport>
+                     <AirportCode>FCO</AirportCode>
+                  </DepartureAirport>
+                  <ArrivalAirport>
+                     <AirportCode>LHR</AirportCode>
+                  </ArrivalAirport>
+                  <Flight>
+                     <CarrierCode>BA</CarrierCode>
+                     <FlightNumber>0547</FlightNumber>
+                  </Flight>
+               </FlightSegment>
+            </FlightSegmentsProductReference>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-5921901</HotelId>
+                     <HotelName>Cristoforo Colombo</HotelName>
+                     <Amenities>1,66,184,78,148,5,20,33,223,58,72,77,165,26,154,76,996,994,992,991,993,997</Amenities>
+                     <HotelAddress>710 VIA CRISTOFORO COLOMBO,ROME,00144</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>This elegant city hotel is situated in the heart of Rome&amp;apos;s business center, and is a fantastic choice to visit Italy&amp;apos;s capital. The hotel is a modern complex made up of three buildings,...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.81822</Latitude>
+                     <Longitude>12.46219</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-5921901/tn_31_IT-ROM-5921901-H33714190423.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-5921901/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=285.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin STANDARD</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>285.0</TotalPrice>
+                  <CombineAndSaveDiscount>65.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>153.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6660071</HotelId>
+                     <HotelName>The Church Village</HotelName>
+                     <Amenities>78,5,165,76,68,993,997,994</Amenities>
+                     <HotelAddress>Via di Torre Rossa 94,Rome,00165</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>This modern and comfortable hotel is immersed in the peaceful greenery of a magnificent park near the famous Villa Pamphili. Its public areas have been recently renovated giving the hotel a...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>3.0</StarRating>
+                     <Latitude>41.890903</Latitude>
+                     <Longitude>12.426277</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6660071/tn_68_IT-ROM-6660071-H63412948610.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6660071/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=290.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>DOUBLE STANDARD</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>290.0</TotalPrice>
+                  <CombineAndSaveDiscount>65.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>146.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6489441</HotelId>
+                     <HotelName>Domus Romana</HotelName>
+                     <Amenities>1,179,148,5,33,223,58,77,154,992,991</Amenities>
+                     <HotelAddress>113 VIA DELLE QUATTRO FONTANE,ROMA,00184</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Built in 1600, this hotel is a refined and comfortable establishment right in the heart of Rome. Its guests will be a 5-minute walk from the Barberini underground stations and a short way from the...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.90096</Latitude>
+                     <Longitude>12.49249</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6489441/tn_66_IT-ROM-6489441-H61325599617.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6489441/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=300.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>DOUBLE CLASSIC</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>300.0</TotalPrice>
+                  <CombineAndSaveDiscount>83.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>151.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>0</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-4363836</HotelId>
+                     <HotelName>Yes Hotel</HotelName>
+                     <Amenities>1,184,78,148,5,33,77,165,994,992,991,993</Amenities>
+                     <HotelAddress>15 VIA MAGENTA,ROMA,00185</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>This hotel is located on a quiet street in the city centre, just around the corner from Termini central Rome&amp;apos;s train station. It comprises a total of 29 guest rooms. This small, charming,...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>3.0</StarRating>
+                     <Latitude>41.90334</Latitude>
+                     <Longitude>12.50264</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-4363836/tn_63_IT-ROM-4363836-H62926025173.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-4363836/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=304.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>TWIN STANDARD</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>304.0</TotalPrice>
+                  <CombineAndSaveDiscount>66.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>0.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-4466918</HotelId>
+                     <HotelName>Palladium Palace</HotelName>
+                     <Amenities>83,78,5,33,79,58,165,992,993</Amenities>
+                     <HotelAddress>36 VIA GIOBERTI,ROME,00185</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Located in the historical centre of Rome, this hotel is close to the Basilica di Santa Maria Maggiore (50 m) and the main train station. The Roman Forum and the Colosseum are approximately 800 m, and...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.89844</Latitude>
+                     <Longitude>12.49995</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-4466918/tn_66_IT-ROM-4466918-H61176915687.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-4466918/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=314.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin STANDARD</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>314.0</TotalPrice>
+                  <CombineAndSaveDiscount>86.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>161.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>0</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-5565215</HotelId>
+                     <HotelName>H10 Roma Citta</HotelName>
+                     <Amenities>66,61,83,78,5,33,77,165,76,68,996,992,991,993,997,994</Amenities>
+                     <HotelAddress>Via Pietro Blaserna 101,Rome,00146</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>This city hotel is located on a major commercial street, just a 5-minute walk from Trastevere, one of the most charming neighbourhoods famous for its narrow streets, restaurants and nightlife. Links...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.86589</Latitude>
+                     <Longitude>12.47159</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-5565215/tn_68_IT-ROM-5565215-H62108107879.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-5565215/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=316.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin STANDARD</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>316.0</TotalPrice>
+                  <CombineAndSaveDiscount>67.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>0.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-0648780</HotelId>
+                     <HotelName>Veneto Palace</HotelName>
+                     <Amenities>1,53,78,148,5,20,33,223,58,77,165,26,994,992,991,993</Amenities>
+                     <HotelAddress>63 VIA PIEMONTE,ROMA,00187</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>The hotel enjoys a central location in the historical centre of Rome, just a short walk from the Villa Borghese, the Trevi Fountain and the Spanish Steps. Termini train station is also nearby. The...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.90959</Latitude>
+                     <Longitude>12.49532</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-0648780/tn_64_IT-ROM-0648780-H62134389665.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-0648780/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=332.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin STANDARD</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>332.0</TotalPrice>
+                  <CombineAndSaveDiscount>68.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>160.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6478681</HotelId>
+                     <HotelName>Diana Roof Garden</HotelName>
+                     <Amenities>1,78,148,5,33,223,58,77,165,26,76,992,991,993,997</Amenities>
+                     <HotelAddress>4 VIA PRINCIPE AMEDEO,ROMA,00185</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Experience an oasis in the heart of the city, at the Hotel Diana Roof Garden. Spend relaxing evenings gazing at the views while dining at the Roof Garden. While Rome beckons from the convenience of...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.90069</Latitude>
+                     <Longitude>12.49717</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6478681/tn_66_IT-ROM-6478681-H62465817897.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6478681/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=340.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>DOUBLE STANDARD</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>340.0</TotalPrice>
+                  <CombineAndSaveDiscount>69.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>178.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>0</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6491096</HotelId>
+                     <HotelName>Aphrodite</HotelName>
+                     <Amenities>1,78,148,5,33,58,165,992,993</Amenities>
+                     <HotelAddress>90 VIA MARSALA,ROME,00185</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Just 50 metres away from the Termini train station, this family-friendly 4 star hotel offers easy access to Rome’s historical treasures.  The Vatican, the Spanish Steps and Piazza Navona are a 15...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.90118</Latitude>
+                     <Longitude>12.50418</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6491096/tn_65_IT-ROM-6491096-H63129065168.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6491096/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=340.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>DOUBLE ECONOMY</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>340.0</TotalPrice>
+                  <CombineAndSaveDiscount>69.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>0.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6798866</HotelId>
+                     <HotelName>Kolbe Hotel Rome</HotelName>
+                     <Amenities>1,179,78,148,5,33,58,77,165,26,76,992,991,993,997</Amenities>
+                     <HotelAddress>48 Via di San Teodoro,ROME,00186</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Strategically located in the heart of Rome, this hotel is just steps from the Roman Forum, a short walk to the Coliseum and a few metro stops from the Spanish Steps, Trevi Fountain and Piazza Navona....</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.8895</Latitude>
+                     <Longitude>12.48373</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6798866/tn_16_IT-ROM-6798866-H1174359901.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6798866/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=395.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin ECONOMY</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>395.0</TotalPrice>
+                  <CombineAndSaveDiscount>72.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>222.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-FCO-5259000</HotelId>
+                     <HotelName>Hilton Garden Inn Rome Airport</HotelName>
+                     <Amenities>184,41,137,228,5,198,132,58,240,26,64,68,994</Amenities>
+                     <HotelAddress>Via Vittorio Bragadin 2,Fiumicino,00054</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>The Hilton Garden Inn Rome Airport is located on the Rome Fiumicino Airport platform /Leonardo da Vinci Airport/ in front of Cargo City and within immediate reach of all the major attractions of...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>3.0</StarRating>
+                     <Latitude>41.8002</Latitude>
+                     <Longitude>12.2733</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-FCO-5259000/tn_11_IT-FCO-5259000-T1153843140.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-FCO-5259000/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=401.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>104,102</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>KING BED EVOLUTION ROOM ADJUST SLEEP SYSTEM BED - CRISP WHITE DUVET LCD TV - COMP HI SPEED INTERNET-REFRIGERATOR</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>401.0</TotalPrice>
+                  <CombineAndSaveDiscount>0.0</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>196.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-0665258</HotelId>
+                     <HotelName>Hilton Rome Airport hotel</HotelName>
+                     <Amenities>172,71,61,54,184,78,137,228,5,20,22,198,55,34,241,181,132,58,233,240,26,102,64,3,68,996,994,995</Amenities>
+                     <HotelAddress>Via Arturo Ferrarin 2 Fiumicino,Rome,00054</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>It*s just a short walk from the terminal to the Hilton Rome Airport hotel via moving walkway and Rome the Eternal City is 30 minutes away by free shuttle.  Work in the business center and 21 meeting...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.7936</Latitude>
+                     <Longitude>12.250561</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-0665258/tn_11_IT-ROM-0665258-T11321504942.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-0665258/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=433.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>102</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>KING HILTON GUESTROOM MODERN DECOR,BRIGHT AND COMFORTABLE WORKING DESK.MODEM PORT.WIFI.</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>433.0</TotalPrice>
+                  <CombineAndSaveDiscount>0.0</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>213.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6444841</HotelId>
+                     <HotelName>Radisson BLU Es</HotelName>
+                     <Amenities>71,96,61,1158,78,228,33,35,79,1129,223,58,63,240,77,165,64,76,996,992,995,999,994,991,993,997</Amenities>
+                     <HotelAddress>Via Filippo Turati 171,Rome,185</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>The Radisson BLU Es combines contemporary, minimalist style with impressive amenities to striking effect. Situated in the Esquilino Quarter of the city, it is adjacent to Termini Central Railway...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>5.0</StarRating>
+                     <Latitude>41.89665</Latitude>
+                     <Longitude>12.505516</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6444841/tn_1_IT-ROM-6444841-HTLRAS-B1202.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6444841/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=433.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin STANDARD</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>433.0</TotalPrice>
+                  <CombineAndSaveDiscount>75.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>222.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-0684991</HotelId>
+                     <HotelName>Albani Rome</HotelName>
+                     <Amenities>1,179,53,78,148,5,33,223,58,77,165,26,154,76,994,992,991,993,997</Amenities>
+                     <HotelAddress>45 VIA ADDA,Rome,00198</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Located in the quiet, elegant Parioli-Salario residential area, this luminous, ultra-modern hotel is the perfect base for both business and leisure in Rome.  Attractions such as Villa Borghese,...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.91542</Latitude>
+                     <Longitude>12.49851</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-0684991/tn_47_IT-ROM-0684991-H44186517801.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-0684991/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=449.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin CLASSIC</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>449.0</TotalPrice>
+                  <CombineAndSaveDiscount>76.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>145.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6991242</HotelId>
+                     <HotelName>White</HotelName>
+                     <Amenities>96,78,33,198,223,58,240,77,165,992,991,993</Amenities>
+                     <HotelAddress>Via in Arcione 77,Spanish Steps &amp; Trevi Fountain,187</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>This elegant, family run hotel occupies a completely restored 19th century building, and offers modern conveniences and comforts. This top seller is close to the Trevi Fountain and the historic...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.90194</Latitude>
+                     <Longitude>12.485681</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6991242/tn_11_IT-ROM-6991242-HTLWHI-H1203.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6991242/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=471.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Standard Room</RoomTypeDescription>
+                     <MealPlan>Bed &amp; breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>471.0</TotalPrice>
+                  <CombineAndSaveDiscount>77.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>211.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6658821</HotelId>
+                     <HotelName>Rome Marriott Park Hotel</HotelName>
+                     <Amenities>145,1,66,179,71,48,8,96,78,84,148,228,22,33,35,79,198,107,132,58,240,77,165,102,64,56,168,76,45,2,68,996,995,999,998,992,991,993,994,997</Amenities>
+                     <HotelAddress>via Colonnello Tommaso Masala, 54,Rome,00148</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>The Rome Marriott Park Hotel is located only 11km from the Fiumicino International Airport and 14km from Rome&amp;apos;s city center. A short shuttle bus ride will take you downtown, where you can wander...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.0</StarRating>
+                     <Latitude>41.828716</Latitude>
+                     <Longitude>12.393257</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6658821/tn_64_IT-ROM-6658821-P6793955782.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6658821/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=504.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104,105</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Deluxe Guest Room, 1 King or 2 Twin/Single Bed( s), 30sqm/323sqft, Living/sitting area, Wireles s Internet for a fee, Wired Internet for a fee,</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>504.0</TotalPrice>
+                  <CombineAndSaveDiscount>0.0</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>230.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>0</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6328711</HotelId>
+                     <HotelName>Art by the Spanish Steps Hotel</HotelName>
+                     <Amenities>78,5,33,79,77,165,76,992,991,993,997</Amenities>
+                     <HotelAddress>Via Margutta 56,Rome,00187</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>The Hotel Art at the Spanish Steps boasts a unique location to walk everywhere and to every site in Rome city centre, few steps away from Spanish Steps, in the quiet street of Via Margutta, where...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>4.5</StarRating>
+                     <Latitude>41.905632</Latitude>
+                     <Longitude>12.481531</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6328711/tn_69_IT-ROM-6328711-H61784451587.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6328711/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=521.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>DOUBLE STANDARD</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>521.0</TotalPrice>
+                  <CombineAndSaveDiscount>81.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>0.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6421441</HotelId>
+                     <HotelName>Majestic Rome</HotelName>
+                     <Amenities>1,53,184,78,148,5,20,33,35,58,77,165,26,154,76,994,992,995,991,993,997</Amenities>
+                     <HotelAddress>50 VIA VITTORIO VENETO,ROME,00187</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>This luxurious hotel boasts a stunning setting in the mesmerising city of Rome. The hotel is located on the famous Via Veneto, lying within easy access of a host of stylish shopping, dining and...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>5.0</StarRating>
+                     <Latitude>41.905403</Latitude>
+                     <Longitude>12.488215</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6421441/tn_64_IT-ROM-6421441-H62376872787.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6421441/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=570.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin SUPERIOR</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>570.0</TotalPrice>
+                  <CombineAndSaveDiscount>83.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>255.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-6478021</HotelId>
+                     <HotelName>Sofitel Rome Villa Borghese</HotelName>
+                     <Amenities>1,97,179,8,78,22,33,223,77,165,28,76,994,999,992,991,993,997,998</Amenities>
+                     <HotelAddress>Via Lombardia 47,ROMA,00187</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>When in Rome for business or pleasure, stay at the historic Sofitel Rome Villa Borghese. This 5 star hotel in central Rome, close to the Spanish steps, Trevi Fountain and designer shops, has a top...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>5.0</StarRating>
+                     <Latitude>41.907516</Latitude>
+                     <Longitude>12.486524</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-6478021/tn_614_IT-ROM-6478021-P6536249642.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-6478021/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=588.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>42,104,105</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double or Twin SUPERIOR</RoomTypeDescription>
+                     <MealPlan>Continental breakfast</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>588.0</TotalPrice>
+                  <CombineAndSaveDiscount>84.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>266.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>0</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-4744313</HotelId>
+                     <HotelName>Amalfi</HotelName>
+                     <Amenities>1,179,78,148,5,20,33,223,58,26,154,992</Amenities>
+                     <HotelAddress>278 Via Merulana,Termini Central Station,00185</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>In an excellent location near Termini train station and a short walk away from the Basilica of Santa Maria Maggiore, the 3 star Hotel Amalfi represents fantastic value for money for business...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>3.0</StarRating>
+                     <Latitude>41.89623</Latitude>
+                     <Longitude>12.49947</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-4744313/tn_22_IT-ROM-4744313-H23373678277.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-4744313/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=666.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>20,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Double Room - With Breakfast</RoomTypeDescription>
+                     <MealPlan>As brochured</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>666.0</TotalPrice>
+                  <CombineAndSaveDiscount>89.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>0.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-7591380</HotelId>
+                     <HotelName>Hotel Palazzo Manfredi</HotelName>
+                     <HotelAddress>Via Labicana, 125, Rome, 00185,Rome</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Description: The Colosseum is king at Palazzo Manfredi hotel in Rome, a 16th-century palazzo next to an old gladiator gym, with original marble floors, luxurious drapes and a restaurant-enhanced...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>5.0</StarRating>
+                     <Latitude>41.8905</Latitude>
+                     <Longitude>12.4946</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-7591380/tn_209_IT-ROM-7591380-MK1244377012.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-7591380/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=677.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>111,104,1</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>Prestige Domus Aurea View</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>677.0</TotalPrice>
+                  <CombineAndSaveDiscount>43.62</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>338.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>3</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-0635091</HotelId>
+                     <HotelName>Rome Cavalieri Waldorf Astoria Hotels  Resorts</HotelName>
+                     <Amenities>97,172,61,184,83,78,228,5,20,22,55,34,181,132,233,240,26,102,64,56,3,45,68,994,995,998</Amenities>
+                     <HotelAddress>Via Alberto Cadlolo 101,Rome,00136</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>Perched on 15-acres of Mediterranean private parkland overlooking the Eternal City and the Vatican the Rome Cavalieri part of Waldorf Astoria Hotels - Resorts offers 345 spacious guestrooms and 25...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>5.0</StarRating>
+                     <Latitude>41.9172</Latitude>
+                     <Longitude>12.4458</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-0635091/tn_363_IT-ROM-0635091-P31520127380.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-0635091/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=681.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>42,105,101</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>TWIN DELUXE GARDEN / RESIDENTIAL VIEWS, 2 SEPARATE BEDS BALCONY, SITTING AREA, LARGE MARBLE BATHROOM</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>681.0</TotalPrice>
+                  <CombineAndSaveDiscount>0.0</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>287.5</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+            <PackageHotel>
+               <ProductRefernce>0</ProductRefernce>
+               <HotelDetails>
+                  <NoOfRooms>1</NoOfRooms>
+                  <PaxCount>
+                     <NumberOfAdults>2</NumberOfAdults>
+                     <NumberOfChildren>0</NumberOfChildren>
+                     <NumberOfInfants>0</NumberOfInfants>
+                  </PaxCount>
+                  <CheckInDate>2015-11-25Z</CheckInDate>
+                  <CheckOutDate>2015-11-27Z</CheckOutDate>
+                  <StayDuration>2</StayDuration>
+                  <HotelBasicInformation>
+                     <HotelId>IT-ROM-4893813</HotelId>
+                     <HotelName>Boscolo Exedra Roma</HotelName>
+                     <Amenities>71,96,61,1158,78,228,20,33,35,198,223,46,107,58,63,240,77,165,76,996,992,995,994,991,993,997,998</Amenities>
+                     <HotelAddress>Piazza Della Republica 47,Republicca &amp; Via Nazionale,185</HotelAddress>
+                     <HotelPropertyDescription>
+                        <DescriptiveText>In the heart of the Eternal City between the baths of Diocletian and the Basilica. It is a restored 19th century palace, with a roof terrace, luxury spa and swimming pool.
+
+An amazing neo-classical...</DescriptiveText>
+                     </HotelPropertyDescription>
+                     <StarRating>5.0</StarRating>
+                     <Latitude>41.90257</Latitude>
+                     <Longitude>12.495934</Longitude>
+                     <ImageUrls>
+                        <Url>http://www.britishairways.com/badp/static/external/IT-ROM-4893813/tn_11_IT-ROM-4893813-HTLEXE-H0803.jpeg</Url>
+                     </ImageUrls>
+                     <DeepLinkUrl><![CDATA[http://www.ba.com/travel/fx/public/en_GB/pCode1-IT-ROM-4893813/?&saleOption=PAKFH&depCountryPkg=GB&fromPkg=LHR&packageTo=CITY_ROM_IT&ojDd=CITY_ROM_IT&ojGw=CITY_ROM_IT&roomsRqd=1&adultsRoom1=2&childrenRoom1=0&infantsRoom1=0&flightHotelDate=Y&eId=111077&cabin=M&restrictionType=Restricted&totalPrice=852.0&currencyCode=GBP&depDate=25/11/15&retDate=27/11/15]]></DeepLinkUrl>
+                     <HotelCategory>42,104</HotelCategory>
+                     <HotelSupplier>BAH</HotelSupplier>
+                  </HotelBasicInformation>
+                  <RoomInformation>
+                     <RoomTypeDescription>1 King or 2 Twin/Single Bed(s), Mini-fridge, 40 sqm/430sqft, Wireless Internet, complimentary,  Wired Internet, complimentary, 32in/81cm LCD TV</RoomTypeDescription>
+                     <MealPlan>Room only</MealPlan>
+                  </RoomInformation>
+               </HotelDetails>
+               <PriceDetails>
+                  <TotalPrice>852.0</TotalPrice>
+                  <CombineAndSaveDiscount>0.0</CombineAndSaveDiscount>
+                  <TotalTax>0.0</TotalTax>
+                  <IBSPrice>0.0</IBSPrice>
+                  <CurrencyCode>GBP</CurrencyCode>
+                  <TotalPriceExclOfTax>0.0</TotalPriceExclOfTax>
+                  <ExchangeRate>0.0</ExchangeRate>
+                  <AveragePricePerPerson>0.0</AveragePricePerPerson>
+               </PriceDetails>
+            </PackageHotel>
+         </PackageProduct>
+      </rppav:RetrievePricedProductAvailabilityResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,651 @@
+<!-- Processed by WSBang ver 1.9.4 at Mon Oct 28 03:02:26 MDT 2013 -->
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<SOAP-ENV:Body>
+    <ns:Response TID="babcrws007.00000952.0001218497" xmlns:ns="http://wsg.avis.com/wsbang">
+        <OTA_VehAvailRateRS EchoToken="XXX1234" SequenceNmbr="1" Target="Production" Version="1.0" xmlns="http://www.opentravel.org/OTA/2003/05" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opentravel.org/OTA/2008/05 OTA_VehAvailRateRS">
+            <Success/>
+            <VehAvailRSCore>
+                <VehRentalCore PickUpDateTime="2013-11-03T09:02:20" ReturnDateTime="2013-11-04T09:02:20">
+                    <PickUpLocation CodeContext="IATA" LocationCode="JFK"/>
+                    <ReturnLocation CodeContext="IATA" LocationCode="JFK"/>
+                </VehRentalCore>
+                <VehVendorAvails>
+                    <VehVendorAvail>
+                        <Vendor>Budget</Vendor>
+                        <VehAvails>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="1"/>
+                                        <VehClass Size="3"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="A"/>
+                                        <VehMakeModel Code="ECAR" Name="Group A - HYUNDAI ACCENT or similar"/>
+                                        <PictureURL>hyundai_accent_2011_rate.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="42.60" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="42.60" RateTotalAmount="42.60"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=hyundai_accent_2011_rate.gif|thumb=hyundai_accent_2011_rate.gif|cargroup=A" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="1"/>
+                                        <VehClass Size="4"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="B"/>
+                                        <VehMakeModel Code="CCAR" Name="Group B - FORD FOCUS or similar"/>
+                                        <PictureURL>Ford_Focus_2012.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="43.60" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="43.60" RateTotalAmount="43.60"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=Ford_Focus_2012.gif|thumb=Ford_Focus_2012.gif|cargroup=B" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="1"/>
+                                        <VehClass Size="6"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="C"/>
+                                        <VehMakeModel Code="ICAR" Name="Group C - DODGE AVENGER or similar"/>
+                                        <PictureURL>dodge_avenger_2011_rate.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="45.00" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="45.00" RateTotalAmount="45.00"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=dodge_avenger_2011_rate.gif|thumb=dodge_avenger_2011_rate.gif|cargroup=C" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="1"/>
+                                        <VehClass Size="7"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="D"/>
+                                        <VehMakeModel Code="SCAR" Name="Group D - NISSAN ALTIMA COUPE or similar"/>
+                                        <PictureURL>nissan_altima_sedan_2011_rate.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="46.60" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="46.60" RateTotalAmount="46.60"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=nissan_altima_sedan_2011_rate.gif|thumb=nissan_altima_sedan_2011_rate.gif|cargroup=D" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="1"/>
+                                        <VehClass Size="8"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="E"/>
+                                        <VehMakeModel Code="FCAR" Name="Group E - CHEVROLET IMPALA LTD 4DR/5P or similar"/>
+                                        <PictureURL>chevrolet_impala_2011_rate.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="47.80" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="47.80" RateTotalAmount="47.80"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=chevrolet_impala_2011_rate.gif|thumb=chevrolet_impala_2011_rate.gif|cargroup=E" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="3"/>
+                                        <VehClass Size="37"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="S"/>
+                                        <VehMakeModel Code="RFAR" Name="Group S - FORD EXPLORER 2WD or similar"/>
+                                        <PictureURL>ford_explorer_2012.png</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="69.00" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="69.00" RateTotalAmount="69.00"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=ford_explorer_2012.png|thumb=ford_explorer_2012.png|cargroup=S" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="2"/>
+                                        <VehClass Size="8"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="P"/>
+                                        <VehMakeModel Code="FVAR" Name="Group P - FORD ECONOLINE WAG.EXT&amp;REG or similar"/>
+                                        <PictureURL>Ford_Econoline_2011.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="104.00" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="104.00" RateTotalAmount="104.00"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=Ford_Econoline_2011.gif|thumb=Ford_Econoline_2011.gif|cargroup=P" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="1"/>
+                                        <VehClass Size="10"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="G"/>
+                                        <VehMakeModel Code="PCAR" Name="Group G - FORD TAURUS LTD FWD or similar"/>
+                                        <PictureURL>ford_taurus_2wd_2011_rate.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="56.60" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="56.60" RateTotalAmount="56.60"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=ford_taurus_2wd_2011_rate.gif|thumb=ford_taurus_2wd_2011_rate.gif|cargroup=G" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="1"/>
+                                        <VehClass Size="9"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="H"/>
+                                        <VehMakeModel Code="LCAR" Name="Group H - LINCOLN MKS FWD or similar"/>
+                                        <PictureURL>lincoln_mks_2012.jpg</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="73.20" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="73.20" RateTotalAmount="73.20"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=lincoln_mks_2012.jpg|thumb=lincoln_mks_2012.jpg|cargroup=H" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="3"/>
+                                        <VehClass Size="7"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="W"/>
+                                        <VehMakeModel Code="SFAR" Name="Group W - FORD EDGE 2WD or similar"/>
+                                        <PictureURL>ford_edge_2012.png</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="66.80" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="66.80" RateTotalAmount="66.80"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=ford_edge_2012.png|thumb=ford_edge_2012.png|cargroup=W" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="2"/>
+                                        <VehClass Size="1"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="V"/>
+                                        <VehMakeModel Code="MVAR" Name="Group V - DODGE GRAND CARAVAN or similar"/>
+                                        <PictureURL>dodge_grand_caravan_2011_rate.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="63.00" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="63.00" RateTotalAmount="63.00"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=dodge_grand_caravan_2011_rate.gif|thumb=dodge_grand_caravan_2011_rate.gif|cargroup=V" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                            <VehAvail>
+                                <VehAvailCore Status="Available">
+                                    <Vehicle AirConditionInd="true" TransmissionType="Automatic">
+                                        <VehType VehicleCategory="3"/>
+                                        <VehClass Size="6"/>
+                                        <VehGroup GroupType="CarGroup" GroupValue="F"/>
+                                        <VehMakeModel Code="IFAR" Name="Group F - FORD ESCAPE 2WD or similar"/>
+                                        <PictureURL>ford_escape_4wd_2011_rate.gif</PictureURL>
+                                    </Vehicle>
+                                    <RentalRate>
+                                        <RateDistance DistUnitName="Mile" Unlimited="true" VehiclePeriodUnitName="RentalPeriod"/>
+                                        <VehicleCharges>
+                                            <VehicleCharge Amount="54.60" CurrencyCode="GBP" Description="Minimum 1 Day(s); Maximum 59 Day(s)" GuaranteedInd="false" IncludedInRate="true" Purpose="1" TaxInclusive="true">
+                                                <TaxAmounts>
+                                                    <TaxAmount CurrencyCode="GBP" Description="Taxes and surcharges" Total="0.00"/>
+                                                </TaxAmounts>
+                                                <Calculation Quantity="1" UnitName="Day"/>
+                                            </VehicleCharge>
+                                            <VehicleCharge Amount="52.00" CurrencyCode="GBP" Description="Under Age Surcharge" GuaranteedInd="false" IncludedInRate="false" Purpose="13" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="GBP" Description="TRANSP FAC CHG" IncludedInRate="true" Purpose="6" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    EXTENSION FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                            <VehicleCharge Amount="0.00" CurrencyCode="USD" Description="$10.00    LATE FEE MAY APPLY" IncludedInRate="false" Purpose="28" TaxInclusive="false"/>
+                                        </VehicleCharges>
+                                        <RateQualifier CorpDiscountNmbr="L173000" RateCategory="3" RateQualifier="BB"/>
+                                    </RentalRate>
+                                    <TotalCharge CurrencyCode="GBP" EstimatedTotalAmount="54.60" RateTotalAmount="54.60"/>
+                                    <TPA_Extensions>
+                                        <Reference ID="image=ford_escape_4wd_2011_rate.gif|thumb=ford_escape_4wd_2011_rate.gif|cargroup=F" Type="Features"/>
+                                    </TPA_Extensions>
+                                </VehAvailCore>
+                                <VehAvailInfo>
+                                    <PricedCoverages>
+                                        <PricedCoverage>
+                                            <Coverage Code="ALI" CoverageType="1">
+                                                <Details CoverageTextType="Description">Additional Liability Insurance (ALI)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                        <PricedCoverage>
+                                            <Coverage Code="CDW" CoverageType="7">
+                                                <Details CoverageTextType="Description">Collision Damage Waiver (CDW)</Details>
+                                            </Coverage>
+                                            <Charge Amount="0.00" CurrencyCode="USD" Description="Coverage costs are quoted per day" IncludedInRate="true" TaxInclusive="false">
+                                                <Calculation UnitCharge="0.00" UnitName="Daily"/>
+                                            </Charge>
+                                        </PricedCoverage>
+                                    </PricedCoverages>
+                                </VehAvailInfo>
+                            </VehAvail>
+                        </VehAvails>
+                        <Info>
+                            <LocationDetails AtAirport="true" Code="JFK" CodeContext="Rental Location" ExtendedLocationCode="JFKT02" Name="JFK APO/JAMAICA">
+                                <Address>
+                                    <StreetNmbr>BUILDING 305 FEDERAL CIRCLE</StreetNmbr>
+                                    <AddressLine>JFK AIRPORT</AddressLine>
+                                    <CityName>JAMAICA</CityName>
+                                    <PostalCode>11430</PostalCode>
+                                    <StateProv StateCode="NY"/>
+                                    <CountryName Code="US"/>
+                                </Address>
+                                <Telephone PhoneNumber="718-656-1890"/>
+                            </LocationDetails>
+                        </Info>
+                    </VehVendorAvail>
+                </VehVendorAvails>
+            </VehAvailRSCore>
+        </OTA_VehAvailRateRS>
+        <!-- Processed by Direct Connect ver. 8.1 build 0 -->
+
+
+    </ns:Response>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

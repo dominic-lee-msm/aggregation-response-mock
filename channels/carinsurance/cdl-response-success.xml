@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:aggregateQuoteResponse xmlns:ns="http://schemas.cdlis.co.uk/aggregator/api/v3-9">
+  <transactionID>07014b1a18b75821:21a79c84:153a83286e8:-55e3.Tue Mar 29 15:09:52 BST 2016</transactionID>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>esurebroker</brokerRef>
+    <webReference>0139-445316-5289</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>130857</premium>
+      <ipt>11353</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>B3</insurerCode>
+      <insurerName>Ageas</insurerName>
+      <schemeCode>A4</schemeCode>
+      <schemeName>Agg. Net</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>0</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>99900</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Close 1 Esure New Business Private Car</schemeName>
+          <deposit>26171</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>11777</amount>
+          <schemeCode>CL1ESNB</schemeCode>
+          <flatInterestAmount>13086</flatInterestAmount>
+          <variedAmount>11779</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>12.5</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>LGL</code>
+        <price>3099</price>
+        <desc>Motor Legal Protection</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>BreakdownHome</type>
+        <code>BK3</code>
+        <price>8999</price>
+        <desc>BK Home</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>BreakdownRoadside</type>
+        <code>BK6</code>
+        <price>14199</price>
+        <desc>BK Roadside</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>CarHire</type>
+        <code>CHC</code>
+        <price>2598</price>
+        <desc>Car Hire Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>PersonalInjury</type>
+        <code>PIB</code>
+        <price>2099</price>
+        <desc>Personal Injury Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Autonet</brokerRef>
+    <webReference>444-182-219</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>34843</premium>
+      <ipt>3059</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>OR</insurerCode>
+      <insurerName>ERS</insurerName>
+      <schemeCode>OR</schemeCode>
+      <schemeName>ERS PC</schemeName>
+      <reason>Premium ...........................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>15000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>60</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>50000</audioLimit>
+      <phoneLimit>50000</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>false</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>20% DEP &amp; 10 NB</schemeName>
+          <deposit>6969</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>3345</amount>
+          <schemeCode>26</schemeCode>
+          <flatInterestAmount>5576</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>20.004305</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal Cover</type>
+        <code>1L</code>
+        <price>3495</price>
+        <desc>Legal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Breakdown Cover</type>
+        <code>R2</code>
+        <price>5995</price>
+        <desc>Breakdown Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Hastings-Dir</brokerRef>
+    <webReference>Z99B-8B8-507</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>24118</premium>
+      <ipt>1919</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>HB</insurerCode>
+      <insurerName>Advantage</insurerName>
+      <schemeCode>C5</schemeCode>
+      <schemeName>SELECT</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>false</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>9500</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>30000</audioLimit>
+      <phoneLimit>30000</phoneLimit>
+      <contentsLimit>30000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Standard NB</schemeName>
+          <deposit>2423</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>2299</amount>
+          <schemeCode>17</schemeCode>
+          <flatInterestAmount>3594</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>16.566029</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>LC</code>
+        <price>2699</price>
+        <desc>Legal Expenses</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Breakdown</type>
+        <code>D3</code>
+        <price>3499</price>
+        <desc>Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>PersonalAcc</type>
+        <code>Y7</code>
+        <price>2499</price>
+        <desc>Personal Accident</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Insure-Pink</brokerRef>
+    <webReference>7F3-1GA-962</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>36536</premium>
+      <ipt>3170</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>HB</insurerCode>
+      <insurerName>Advantage</insurerName>
+      <schemeCode>HZ</schemeCode>
+      <schemeName>Annual Pay</schemeName>
+      <reason>Premium ...........................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>9500</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>30000</audioLimit>
+      <phoneLimit>30000</phoneLimit>
+      <contentsLimit>30000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>CPF Funded NB</schemeName>
+          <deposit>5480</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>3289</amount>
+          <schemeCode>1</schemeCode>
+          <flatInterestAmount>5123</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>16.496008</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>UL</code>
+        <price>2699</price>
+        <desc>Legal Expenses</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Breakdown</type>
+        <code>R1</code>
+        <price>3499</price>
+        <desc>RAC Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Windscreen</type>
+        <code>W1</code>
+        <price>3500</price>
+        <desc>Windscreen (Note this is for TPFT and TPO covers only)</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Hastings-Prem</brokerRef>
+    <webReference>Z8B9-7FB-058</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>28080</premium>
+      <ipt>1872</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>HB</insurerCode>
+      <insurerName>Advantage</insurerName>
+      <schemeCode>C5</schemeCode>
+      <schemeName>SELECT</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>false</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="G4" price="4499" />
+      </optionalExtensions>
+      <compulsoryExcess>0</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>30000</audioLimit>
+      <phoneLimit>30000</phoneLimit>
+      <contentsLimit>30000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Standard NB</schemeName>
+          <deposit>2817</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>2677</amount>
+          <schemeCode>17</schemeCode>
+          <flatInterestAmount>4184</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>16.56177</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>wisedriving</brokerRef>
+    <errors>
+      <error code="REFUSED">SIServiceCaller - StrataV8WebService.quoteStore() error: Short response test.com is not valid for Policy userfield with code [TRANQUOT].
+VALD1007 - Short response  is not valid for  userfield with code [].</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>sheilasbroker</brokerRef>
+    <webReference>2845-354419-1691</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>130895</premium>
+      <ipt>11356</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>B3</insurerCode>
+      <insurerName>Ageas</insurerName>
+      <schemeCode>A4</schemeCode>
+      <schemeName>Agg. Net</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="HBC" price="0" />
+      </optionalExtensions>
+      <compulsoryExcess>0</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>99900</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Close 3 Sheilas Wheels New Business Private Car</schemeName>
+          <deposit>26179</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>11781</amount>
+          <schemeCode>CL3SWNB</schemeCode>
+          <flatInterestAmount>13090</flatInterestAmount>
+          <variedAmount>11777</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>12.5</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>LGL</code>
+        <price>3099</price>
+        <desc>Motor Legal Protection</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>BreakdownHome</type>
+        <code>BK3</code>
+        <price>8999</price>
+        <desc>BK Home</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>BreakdownRoadside</type>
+        <code>BK6</code>
+        <price>14199</price>
+        <desc>BK Roadside</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>CarHire</type>
+        <code>CHC</code>
+        <price>2598</price>
+        <desc>Car Hire Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>PersonalInjury</type>
+        <code>PIB</code>
+        <price>2099</price>
+        <desc>Personal Injury Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>QLD</brokerRef>
+    <webReference>R553-335-088</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>35262</premium>
+      <ipt>2861</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>WE</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>LT</schemeCode>
+      <schemeName>Car Live</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>93</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>50000</audioLimit>
+      <phoneLimit>50000</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>NB</schemeName>
+          <deposit>7052</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>3286</amount>
+          <schemeCode>16</schemeCode>
+          <flatInterestAmount>4650</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>16.483517</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>LegalExpenses</type>
+        <code>UL</code>
+        <price>2995</price>
+        <desc>Legal Expenses</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Hastings-Peoples</brokerRef>
+    <webReference>Z0B5-9D7-88A</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>35080</premium>
+      <ipt>2870</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>HB</insurerCode>
+      <insurerName>Advantage</insurerName>
+      <schemeCode>C5</schemeCode>
+      <schemeName>SELECT</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>false</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>9500</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>30000</audioLimit>
+      <phoneLimit>30000</phoneLimit>
+      <contentsLimit>30000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Standard NB</schemeName>
+          <deposit>3512</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>3345</amount>
+          <schemeCode>17</schemeCode>
+          <flatInterestAmount>5227</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>16.557907</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>Ingenie</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: ingenie Direction: Post Quote  - RULE RESPONSE:msm_pc_20140707-1148
+ : ingenie_pc_20160318-1657
+**** Rejecting due to above maximum premium ****</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>Europa</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: europa Direction: Post Quote  - RULE RESPONSE:msm_pc_20140707-1148
+ : europa_pc_20160323-1608
+**** Rejecting due to maximum premium ****</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>CastleCover-Ageas50</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: castlecover-ageas50 Direction: Post Quote  - RULE RESPONSE:msm_pc_20140707-1148
+ : castlecover-ageas50_pc_20150512-1138
+**** Rejecting due to premium: 9999900</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>MotorQuoteDirect</brokerRef>
+    <webReference>568-957-296</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>30975</premium>
+      <ipt>2687</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>WE</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>LT</schemeCode>
+      <schemeName>Car Live</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>93</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>50000</audioLimit>
+      <phoneLimit>50000</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Close NB</schemeName>
+          <deposit>10841</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>2411</amount>
+          <schemeCode>7</schemeCode>
+          <flatInterestAmount>3976</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>19.74769</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>LE</code>
+        <price>2583</price>
+        <desc>Motor Legal Expenses</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Breakdown</type>
+        <code>B2</code>
+        <price>6295</price>
+        <desc>Motor Breakdown</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>sheilaswheelsmd</brokerRef>
+    <webReference>6975-943813-8215</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>134876</premium>
+      <ipt>11702</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>SB</insurerCode>
+      <insurerName>Sabre</insurerName>
+      <schemeCode>SS</schemeCode>
+      <schemeName>Telematics</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="HBC" price="0" />
+      </optionalExtensions>
+      <compulsoryExcess>15000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>91</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>false</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>15000</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Close 5 Model Driver New Business Private Car</schemeName>
+          <deposit>26975</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>12139</amount>
+          <schemeCode>CL5MDNB</schemeCode>
+          <flatInterestAmount>13488</flatInterestAmount>
+          <variedAmount>12138</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>12.5</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>LGL</code>
+        <price>3099</price>
+        <desc>Motor Legal Protection</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Car Hire</type>
+        <code>CHC</code>
+        <price>2598</price>
+        <desc>Car Hire Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Personal Injury</type>
+        <code>PIB</code>
+        <price>2099</price>
+        <desc>Personal Injury Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>BreakdownRoadside</type>
+        <code>BK1</code>
+        <price>4699</price>
+        <desc>BK Roadside</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>BreakdownHome</type>
+        <code>BK3</code>
+        <price>8999</price>
+        <desc>BK Home</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>BreakdownRecovery</type>
+        <code>BK6</code>
+        <price>14199</price>
+        <desc>BK Recovery</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>IGo4Insurance</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: igo4insurance Direction: Post Quote  - RULE RESPONSE:msm_pc_20140707-1148
+ : igo4insurance_pc_20160315-1050
+**** Rejecting due to premium: 9999900</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Hastings-Ess</brokerRef>
+    <webReference>Z788-BI9-084</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>23044</premium>
+      <ipt>1826</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>HB</insurerCode>
+      <insurerName>Advantage</insurerName>
+      <schemeCode>C7</schemeCode>
+      <schemeName>ESSENTIAL</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>false</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>19500</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>0</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>false</drivingOtherCars>
+      <windscreenLimit>0</windscreenLimit>
+      <audioLimit>0</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>0</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Ess All Agregs</schemeName>
+          <deposit>4611</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>1974</amount>
+          <schemeCode>11</schemeCode>
+          <flatInterestAmount>3281</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>17.799599</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>LC</code>
+        <price>2699</price>
+        <desc>Legal Expenses</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Breakdown</type>
+        <code>D3</code>
+        <price>3499</price>
+        <desc>Breakdown</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>City</brokerRef>
+    <webReference>011-257-751</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>34095</premium>
+      <ipt>2829</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>WE</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>LT</schemeCode>
+      <schemeName>Car Live</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>93</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>50000</audioLimit>
+      <phoneLimit>50000</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>CPF</schemeName>
+          <deposit>9319</deposit>
+          <numberOfPayments>9</numberOfPayments>
+          <amount>3508</amount>
+          <schemeCode>23</schemeCode>
+          <flatInterestAmount>6796</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>27.429771</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>SureThing</brokerRef>
+    <webReference>7984-085666-3361</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>104837</premium>
+      <ipt>9483</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>NU</insurerCode>
+      <insurerName>Aviva</insurerName>
+      <schemeCode>DD</schemeCode>
+      <schemeName>PowerPoint Plus</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>20000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>99900</audioLimit>
+      <phoneLimit>15000</phoneLimit>
+      <contentsLimit>15000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>NB 16.6% deposit 10 instalments</schemeName>
+          <deposit>17403</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>10440</amount>
+          <schemeCode>IDONB10</schemeCode>
+          <flatInterestAmount>16962</flatInterestAmount>
+          <variedAmount>10436</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>19.4</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>smartmiles</brokerRef>
+    <webReference>5179-174569-6398</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>9999900</premium>
+      <ipt>0</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>HB</insurerCode>
+      <insurerName>Advantage Ins</insurerName>
+      <schemeCode>H2</schemeCode>
+      <schemeName>Telematics</schemeName>
+      <reason>REFER - Please see terms and conditions</reason>
+      <guaranteedIndicator>false</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>9500</compulsoryExcess>
+      <grantedVoluntaryExcess>0</grantedVoluntaryExcess>
+      <greenCardDays>0</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>false</drivingOtherCars>
+      <windscreenLimit>0</windscreenLimit>
+      <audioLimit>0</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>0</contentsLimit>
+      <carHire>false</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>InsureWiser</brokerRef>
+    <webReference>Z833-761-114</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>37521</premium>
+      <ipt>2952</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>OR</insurerCode>
+      <insurerName>ERS</insurerName>
+      <schemeCode>OR</schemeCode>
+      <schemeName>ERS PC</schemeName>
+      <reason>Premium ...........................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="PR" price="3500" />
+      </optionalExtensions>
+      <compulsoryExcess>15000</compulsoryExcess>
+      <grantedVoluntaryExcess>20000</grantedVoluntaryExcess>
+      <greenCardDays>60</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>50000</audioLimit>
+      <phoneLimit>50000</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>false</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>ddm</schemeName>
+          <deposit>10499</deposit>
+          <numberOfPayments>9</numberOfPayments>
+          <amount>3736</amount>
+          <schemeCode>2</schemeCode>
+          <flatInterestAmount>6602</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>24.431944</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Kwik-Fit-Plat</brokerRef>
+    <webReference>8341-859941-9146</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>31665</premium>
+      <ipt>2443</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>LJ</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>NX</schemeCode>
+      <schemeName>Live</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="NPLE1" price="3275" />
+        <optionalExtension code="NPLA1" price="2210" />
+      </optionalExtensions>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>60</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>99900</audioLimit>
+      <phoneLimit>99900</phoneLimit>
+      <contentsLimit>15000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Renewal Plan / NB Standard 10% Dep 19% interest</schemeName>
+          <deposit>3167</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>3401</amount>
+          <schemeCode>INST02</schemeCode>
+          <flatInterestAmount>8915</flatInterestAmount>
+          <variedAmount>3403</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>19.0</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>3500</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>LegalExpensesInsurance</type>
+        <code>NMLEI</code>
+        <price>2898</price>
+        <desc>Legal Expenses Insurance</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel1</type>
+        <code>NMKM1</code>
+        <price>3750</price>
+        <desc>Keep Motoring Cover - Level 1</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel2</type>
+        <code>NMKM2</code>
+        <price>4350</price>
+        <desc>Keep Motoring Cover - Level 2</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel3</type>
+        <code>NMKM3</code>
+        <price>4650</price>
+        <desc>Keep Motoring Cover - Level 3</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel4</type>
+        <code>NMKM4</code>
+        <price>5499</price>
+        <desc>Keep Motoring Cover - Level 4</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>PersonalAccidentCover</type>
+        <code>NMPAC</code>
+        <price>2650</price>
+        <desc>Personal Accident Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>ExcessProtectionLevel1</type>
+        <code>NMEX1</code>
+        <price>3750</price>
+        <desc>Excess Protection - Level 1</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>ExcessProtectionLevel2</type>
+        <code>NMEX2</code>
+        <price>4250</price>
+        <desc>Excess Protection - Level 2</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>ExcessProtectionLevel3</type>
+        <code>NMEX3</code>
+        <price>5500</price>
+        <desc>Excess Protection - Level 3</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>WindscreenCover</type>
+        <code>NMWS1</code>
+        <price>3650</price>
+        <desc>Windscreen Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeyCoverLevel1</type>
+        <code>NMKC1</code>
+        <price>2650</price>
+        <desc>Key Cover - Level 1</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeyCoverLevel2</type>
+        <code>NMKC2</code>
+        <price>3150</price>
+        <desc>Key Cover - Level 2</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Kwik-Fit</brokerRef>
+    <webReference>1459-485091-6381</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>26180</premium>
+      <ipt>2443</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>LJ</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>NX</schemeCode>
+      <schemeName>Live</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>60</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>99900</audioLimit>
+      <phoneLimit>99900</phoneLimit>
+      <contentsLimit>15000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Renewal Plan / NB Standard 10% Dep 19% interest</schemeName>
+          <deposit>2618</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>2867</amount>
+          <schemeCode>INST02</schemeCode>
+          <flatInterestAmount>7977</flatInterestAmount>
+          <variedAmount>2869</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>19.0</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>3500</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>LegalExpensesInsurance</type>
+        <code>NMLEI</code>
+        <price>2898</price>
+        <desc>Legal Expenses Insurance</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel1</type>
+        <code>NMKM1</code>
+        <price>3750</price>
+        <desc>Keep Motoring Cover - Level 1</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel2</type>
+        <code>NMKM2</code>
+        <price>4350</price>
+        <desc>Keep Motoring Cover - Level 2</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel3</type>
+        <code>NMKM3</code>
+        <price>4650</price>
+        <desc>Keep Motoring Cover - Level 3</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeepMotoringCoverLevel4</type>
+        <code>NMKM4</code>
+        <price>5499</price>
+        <desc>Keep Motoring Cover - Level 4</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>PersonalAccidentCover</type>
+        <code>NMPAC</code>
+        <price>2650</price>
+        <desc>Personal Accident Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>ExcessProtectionLevel1</type>
+        <code>NMEX1</code>
+        <price>3750</price>
+        <desc>Excess Protection - Level 1</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>ExcessProtectionLevel2</type>
+        <code>NMEX2</code>
+        <price>4250</price>
+        <desc>Excess Protection - Level 2</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>ExcessProtectionLevel3</type>
+        <code>NMEX3</code>
+        <price>5500</price>
+        <desc>Excess Protection - Level 3</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>WindscreenCover</type>
+        <code>NMWS1</code>
+        <price>3650</price>
+        <desc>Windscreen Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeyCoverLevel1</type>
+        <code>NMKC1</code>
+        <price>2650</price>
+        <desc>Key Cover - Level 1</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeyCoverLevel2</type>
+        <code>NMKC2</code>
+        <price>3150</price>
+        <desc>Key Cover - Level 2</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideBreakdownCover</type>
+        <code>NROA1</code>
+        <price>4899</price>
+        <desc>Roadside Breakdown Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideBreakdownCover</type>
+        <code>NROA2</code>
+        <price>7200</price>
+        <desc>Roadside Breakdown Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideBreakdown</type>
+        <code>NROA3</code>
+        <price>876</price>
+        <desc>Roadside Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsidePlusBreakdown</type>
+        <code>NRAP1</code>
+        <price>7699</price>
+        <desc>Roadside Plus Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsidePlusBreakdown</type>
+        <code>NRAP2</code>
+        <price>7799</price>
+        <desc>Roadside Plus Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsidePlusBreakdown</type>
+        <code>NRAP3</code>
+        <price>8999</price>
+        <desc>Roadside Plus Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdown</type>
+        <code>NREC1</code>
+        <price>8299</price>
+        <desc>Full UK Recovery Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdown</type>
+        <code>NREC2</code>
+        <price>9599</price>
+        <desc>Full UK Recovery Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdown</type>
+        <code>NREC3</code>
+        <price>10699</price>
+        <desc>Full UK Recovery Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKEuroRecoveryBreakdown</type>
+        <code>NREP1</code>
+        <price>8599</price>
+        <desc>Full UK and Euro Recovery Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKEuroRecoveryBreakdown</type>
+        <code>NREP2</code>
+        <price>9899</price>
+        <desc>Full UK and Euro Recovery Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKEuroRecoveryBreakdown</type>
+        <code>NREP3</code>
+        <price>11799</price>
+        <desc>Full UK and Euro Recovery Breakdown</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideBreakdownPersonalCover</type>
+        <code>NROC1</code>
+        <price>6849</price>
+        <desc>Roadside Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideBreakdownPersonalCover</type>
+        <code>NROC2</code>
+        <price>9150</price>
+        <desc>Roadside Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideBreakdownPersonalCover</type>
+        <code>NROC3</code>
+        <price>9949</price>
+        <desc>Roadside Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsidePlusBreakdownPersonalCover</type>
+        <code>NROP1</code>
+        <price>9649</price>
+        <desc>Roadside Plus Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsidePlusBreakdownPersonalCover</type>
+        <code>NROP2</code>
+        <price>9749</price>
+        <desc>Roadside Plus Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsidePlusBreakdownPersonalCover</type>
+        <code>NROP3</code>
+        <price>10949</price>
+        <desc>Roadside Plus Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdownPersonalCover</type>
+        <code>NRHP1</code>
+        <price>10249</price>
+        <desc>Full UK Recovery Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdownPersonalCover</type>
+        <code>NRHP2</code>
+        <price>11549</price>
+        <desc>Full UK Recovery Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdownPersonalCover</type>
+        <code>NRHP3</code>
+        <price>12649</price>
+        <desc>Full UK Recovery Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKEuroBreakdownPersonalCover</type>
+        <code>NRPP1</code>
+        <price>10549</price>
+        <desc>Full UK and Euro Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdownPersonalCover</type>
+        <code>NRPP2</code>
+        <price>11849</price>
+        <desc>Full UK Recovery Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>FullUKRecoveryBreakdownPersonalCover</type>
+        <code>NRPP3</code>
+        <price>13749</price>
+        <desc>Full UK Recovery Breakdown and Personal Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>Greenbee</brokerRef>
+    <errors>
+      <error code="RULES ENGINE RESPONSE">The risk passed through did not pass the rules engine checks for broker: greenbee Direction: Post Quote  - RULE RESPONSE:msm_pc_20140707-1148
+ : greenbee_pc_20160318-1657
+**** Rejecting due to premium: 906600</error>
+    </errors>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Quotea</brokerRef>
+    <webReference>189-253-723</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>68530</premium>
+      <ipt>4864</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>IB</insurerCode>
+      <insurerName>Chaucer</insurerName>
+      <schemeCode>RR</schemeCode>
+      <schemeName>AutoM 10</schemeName>
+      <reason>Premium ...........................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="BB" price="1797" />
+        <optionalExtension code="CH" price="285" />
+        <optionalExtension code="LC" price="3195" />
+        <optionalExtension code="PA" price="263" />
+        <optionalExtension code="WS" price="931" />
+        <optionalExtension code="LE" price="2995" />
+      </optionalExtensions>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>50000</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>0</contentsLimit>
+      <carHire>false</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Close (N/B)</schemeName>
+          <deposit>18708</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>6018</amount>
+          <schemeCode>35</schemeCode>
+          <flatInterestAmount>16376</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>32.869015</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>LegalExpenses</type>
+        <code>LE</code>
+        <price>2995</price>
+        <desc>Legal Expenses</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>SureThing-Max</brokerRef>
+    <webReference>3341-859916-6067</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>109542</premium>
+      <ipt>9483</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>NU</insurerCode>
+      <insurerName>Aviva</insurerName>
+      <schemeCode>DD</schemeCode>
+      <schemeName>PowerPoint Plus</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="LEGALMX" price="1420" />
+        <optionalExtension code="CAMI10" price="3285" />
+      </optionalExtensions>
+      <compulsoryExcess>20000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>99900</audioLimit>
+      <phoneLimit>15000</phoneLimit>
+      <contentsLimit>15000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>NB 16.6% deposit 10 instalments</schemeName>
+          <deposit>18184</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>10908</amount>
+          <schemeCode>IDONB10</schemeCode>
+          <flatInterestAmount>17723</flatInterestAmount>
+          <variedAmount>10909</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>19.4</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>brightside</brokerRef>
+    <webReference>5280-114589-9378</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>28383</premium>
+      <ipt>2545</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>LJ</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>LJ</schemeCode>
+      <schemeName>Car Live N</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <optionalExtensions>
+        <optionalExtension code="WINDSCRN" price="0" />
+      </optionalExtensions>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>75000</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>false</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Brightside NB 12.5%</schemeName>
+          <deposit>6161</deposit>
+          <numberOfPayments>11</numberOfPayments>
+          <amount>2554</amount>
+          <schemeCode>NB12.512</schemeCode>
+          <flatInterestAmount>3122</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>12.5</interestPercentage>
+          <depositFee>2750</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>RAC European Breakdown Upgrade</type>
+        <code>BDEURAC</code>
+        <price>11000</price>
+        <desc>RAC European Breakdown Upgrade</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RAC UK Breakdown Cover</type>
+        <code>BDUKRAC</code>
+        <price>7499</price>
+        <desc>RAC UK Breakdown Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Excess Protection £500</type>
+        <code>RDEP500</code>
+        <price>3599</price>
+        <desc>Excess Protection £500</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Key Cover</type>
+        <code>RDKEYCOV</code>
+        <price>2099</price>
+        <desc>Key Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Private Car LEgal</type>
+        <code>LEGALOPT</code>
+        <price>2799</price>
+        <desc>Private Car Legal</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Substitute Vehicle</type>
+        <code>RDSUBVEH</code>
+        <price>2099</price>
+        <desc>Substitute Vehicle</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Enhanced Personal Accident</type>
+        <code>RDPERSAC</code>
+        <price>2499</price>
+        <desc>Enhanced Personal Accident</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Coverbox</brokerRef>
+    <webReference>2415-955135-8038</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>49809</premium>
+      <ipt>4321</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>HW</insurerCode>
+      <insurerName>Highway</insurerName>
+      <schemeCode>JF</schemeCode>
+      <schemeName>Telematics</schemeName>
+      <reason>Premium............................................................</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>90</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>false</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>15000</audioLimit>
+      <phoneLimit>0</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>true</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>Premium Credit Ltd New Business 10Terms 30% Deposit</schemeName>
+          <deposit>14943</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>3982</amount>
+          <schemeCode>HLM</schemeCode>
+          <flatInterestAmount>4951</flatInterestAmount>
+          <variedAmount>3979</variedAmount>
+          <paymentFrequency>OneMonth</paymentFrequency>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>14.2</interestPercentage>
+          <depositFee>0</depositFee>
+          <variedRepayment>Next</variedRepayment>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Roadside</type>
+        <code>AA1</code>
+        <price>3500</price>
+        <desc>Roadside Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideHomeStart</type>
+        <code>AA2</code>
+        <price>6200</price>
+        <desc>Roadside,Home Start,Relay</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>RoadsideHomeStartRelay</type>
+        <code>AA3</code>
+        <price>8799</price>
+        <desc>Roadside,Home Start,Relay</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>AnywhereGadgetCover</type>
+        <code>ANYGADGE</code>
+        <price>3500</price>
+        <desc>Anywhere Gadget Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>KeyProtection</type>
+        <code>SOTKEY</code>
+        <price>1500</price>
+        <desc>Key Protection Cover</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>VehicleProtection</type>
+        <code>VPROTECT</code>
+        <price>2950</price>
+        <desc>Vehicle Protection</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>LegalProtectionGuaranteedHireCar</type>
+        <code>LEGALCAR</code>
+        <price>1950</price>
+        <desc>Legal Protection with Guaranteed Hire Car</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>WindscreenCover</type>
+        <code>TPFTSCRN</code>
+        <price>2500</price>
+        <desc>TPFT Windscreen Cover</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+  </brokerResponse>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Carnet</brokerRef>
+    <webReference>214-904-215</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypePC">
+      <premium>27734</premium>
+      <ipt>2233</ipt>
+      <iptRate>9.5</iptRate>
+      <insurerCode>LJ</insurerCode>
+      <insurerName>Axa</insurerName>
+      <schemeCode>LJ</schemeCode>
+      <schemeName>Car Live N</schemeName>
+      <reason>Final Premium</reason>
+      <guaranteedIndicator>true</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <compulsoryExcess>10000</compulsoryExcess>
+      <grantedVoluntaryExcess>25000</grantedVoluntaryExcess>
+      <greenCardDays>93</greenCardDays>
+      <openCert>false</openCert>
+      <drivingOtherCars>true</drivingOtherCars>
+      <windscreenLimit>99900</windscreenLimit>
+      <audioLimit>50000</audioLimit>
+      <phoneLimit>50000</phoneLimit>
+      <contentsLimit>10000</contentsLimit>
+      <carHire>true</carHire>
+      <legalExpenses>false</legalExpenses>
+      <replacementCar>true</replacementCar>
+      <authorisedRepairers>false</authorisedRepairers>
+      <instalments>
+        <instalment>
+          <schemeName>20% DEP &amp; 10 NB</schemeName>
+          <deposit>5547</deposit>
+          <numberOfPayments>10</numberOfPayments>
+          <amount>2662</amount>
+          <schemeCode>26</schemeCode>
+          <flatInterestAmount>4433</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>true</fundedIndicator>
+          <interestPercentage>19.98017</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+  </brokerResponse>
+  <brokerResponse>
+    <brokerRef>IGo4More</brokerRef>
+    <errors>
+      <error code="REFUSED">Invalid broker: IGo4More</error>
+    </errors>
+  </brokerResponse>
+</ns:aggregateQuoteResponse>

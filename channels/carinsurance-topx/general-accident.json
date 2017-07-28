@@ -1,0 +1,15 @@
+{
+    "scenarioName": "GeneralAccidentTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "test.servlets.generalaccident.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/PortalServices/GA/MoneySuperMarket/MsmBestPriceGA.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "general-accident-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

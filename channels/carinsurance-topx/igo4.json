@@ -1,0 +1,15 @@
+{
+    "scenarioName": "ig04TopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "api.sign-up.to",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/capture.php"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "igo4-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

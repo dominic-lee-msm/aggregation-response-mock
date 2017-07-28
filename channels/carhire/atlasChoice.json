@@ -1,0 +1,16 @@
+{
+    "providerId" : "528a6fd784ae51f8a8c7e3b0",
+    "domain": "tsm.atlaschoice.com:8080",
+    "scenarioName": "AtlasChoice",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/xmlService.php"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "atlasChoiceResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

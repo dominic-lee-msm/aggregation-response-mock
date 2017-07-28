@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Caribbean Classics",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "travelsupermarket.caribbeanclassics.co.uk",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/TDayXMLGateway.aspx"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "caribbeanClassicResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

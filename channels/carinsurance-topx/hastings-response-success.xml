@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <p845:bestPriceResponse xmlns:p845="http://quote.hastingsdirect.com">
+      <getBestPriceReturn>
+        <responseObjectHeader>
+          <returnValue>1</returnValue>
+        </responseObjectHeader>
+      </getBestPriceReturn>
+    </p845:bestPriceResponse>
+  </soapenv:Body>
+</soapenv:Envelope>

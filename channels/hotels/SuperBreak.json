@@ -1,0 +1,15 @@
+{
+    "scenarioName": "SuperBreak",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "live.webservices.superbreak.com:80",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/v5/availability.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "SuperBreakResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

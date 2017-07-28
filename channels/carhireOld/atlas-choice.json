@@ -1,0 +1,14 @@
+{
+    "scenarioName": "AtlasChoice",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/xmlService.php/"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "atlas-choice-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

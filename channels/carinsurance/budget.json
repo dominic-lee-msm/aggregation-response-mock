@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Budget",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "dev.doodleinsurance.co.uk:39200",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/LeadServices/services/LeadServices"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "budget-response.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

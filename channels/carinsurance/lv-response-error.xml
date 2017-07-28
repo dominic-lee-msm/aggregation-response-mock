@@ -1,0 +1,35 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <MotorInsuranceResponse xmlns="http://www.moneysupermarket.com/MotorInsuranceResponse">
+            <ErrorList>
+                <Error>
+                    <InsurerName>LV=</InsurerName>
+                    <BrandName>LV</BrandName>
+                    <ErrorText>Driver Age for vehicle - Provider MOCK</ErrorText>
+                    <ErrorCode>0</ErrorCode>
+                </Error>
+                <Error>
+                    <InsurerName>LV=</InsurerName>
+                    <BrandName>LVPlus</BrandName>
+                    <ErrorText>Driver Age for vehicle - PROVIDER MOCKk</ErrorText>
+                    <ErrorCode>0</ErrorCode>
+                </Error>
+                <Error>
+                    <InsurerName>NW</InsurerName>
+                    <BrandName>NW</BrandName>
+                    <ErrorText>Driver Age for vehicle - MOCK</ErrorText>
+                    <ErrorCode>0</ErrorCode>
+                </Error>
+                <Error>
+                    <InsurerName>LV=</InsurerName>
+                    <BrandName>LV</BrandName>
+                    <ErrorText>Driver Age for vehicle - MOCK</ErrorText>
+                    <ErrorCode>0</ErrorCode>
+                </Error>
+            </ErrorList>
+            <WebReference>xxxxxxx</WebReference>
+            <Quotes/>
+        </MotorInsuranceResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,14 @@
+{
+    "scenarioName": "Hertz",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/DirectLinkWEB/handlers/DirectLinkHandler?id=ota2004a"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "hertz-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

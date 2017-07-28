@@ -1,0 +1,8 @@
+<DsGBIReplyV5 xmlns="http://tempuri.org/GBIReply5.xsd">
+  <PriceLine>
+    <ProductName>AXA-Direct</ProductName>
+    <CalculationStatus>-1</CalculationStatus>
+    <ErrorDescription>BusinessRule BR25ConvictionTooOld returned error: 9025</ErrorDescription>
+    <ProcessingTime>453</ProcessingTime>
+  </PriceLine>
+</DsGBIReplyV5>

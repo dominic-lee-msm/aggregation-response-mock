@@ -1,0 +1,15 @@
+{
+    "scenarioName": "QuotelineDirectTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "ww3.quotelinedirect.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/quotesystem-bol/_msm/index_hc.asp"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "quotelinedirect-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+  <s:Body>
+    <ReceiveWinsListResponse xmlns="http://www.swinton.co.uk/MotorAggregatorInterface"/>
+  </s:Body>
+</s:Envelope>

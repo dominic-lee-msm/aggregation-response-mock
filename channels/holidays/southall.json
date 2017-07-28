@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Southall Travel",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "hwebservice-tsm.southalltravel.co.uk",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/tsmholiday/gethotelslist.asmx"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "southallResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

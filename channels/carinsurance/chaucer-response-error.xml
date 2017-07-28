@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope
+    xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+    >
+    <soap:Body>
+        <FileToAndFromMSMResponse
+            xmlns="http://tempuri.org/">
+            <FileToAndFromMSMResult>
+                <MotorInsuranceResponse
+                    xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+                    xmlns="http://www.moneysupermarket.com/MotorInsuranceResponse">
+
+                    <ErrorList>
+                        <Error>
+                            <ErrorText>Rating Error: Aggregator no quote.</ErrorText>
+                            <ErrorCode>0</ErrorCode>
+                        </Error>
+                        <Error>
+                            <ErrorText>Second error</ErrorText>
+                            <ErrorCode>1</ErrorCode>
+                        </Error>
+                    </ErrorList>
+
+                    <WebReference>123-456-789</WebReference>
+
+                    <Quotes>
+                    </Quotes>
+                </MotorInsuranceResponse>
+            </FileToAndFromMSMResult>
+        </FileToAndFromMSMResponse>
+    </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Header/>
+<soapenv:Body>
+<getQuoteResponse xmlns="http://rbsinsurance.com/schemas/webservice/home/quote/businessentity/1/0/">
+<externalQuoteIdentifier xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+<quoteReference>823bd599-c0c6-4a60-a770-e991cbd4f992</quoteReference>
+<productBrandID>0062</productBrandID></externalQuoteIdentifier>
+<clickThroughURI xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">http://www.churchill.com/insurance/home/startaction.do?entrypoint=0108&amp;productline=0002&amp;quoteReference=3000238547992&amp;Fd_AddTracker_Site=8503&amp;Fd_AddTracker_Area=0002&amp;Fd_AddTracker_Adcamp=0100&amp;Fd_Tracking_Introducer=C&amp;cmpid=000/home/agg/moneysupermarket/standard</clickThroughURI>
+<internalQuoteIdentifier xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">3000238547992</internalQuoteIdentifier>
+<PLEB xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+<product>0002</product>
+<line>0002</line>
+<entryPoint>0108</entryPoint>
+<brand>0062</brand></PLEB>
+<homeRating xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+<totalPremium>9999.99</totalPremium>
+<monthlyInstallmentCount>12</monthlyInstallmentCount>
+<firstInstallment>99.99</firstInstallment>
+<subsequentInstallments>99.99</subsequentInstallments>
+<creditPremium>9999.99</creditPremium>
+<typicalAPR>23.60</typicalAPR>
+<rateDate>
+<dayOfMonth>28</dayOfMonth>
+<month>10</month>
+<year>2015</year></rateDate>
+<buildingsVoluntaryExcess>250</buildingsVoluntaryExcess>
+<contentsVoluntaryExcess>250</contentsVoluntaryExcess>
+<buildingsSumsInsured>1000000</buildingsSumsInsured>
+<contentsSumsInsured>50000</contentsSumsInsured>
+<hasBuildingsAccidentalDamage>Y</hasBuildingsAccidentalDamage>
+<hasContentsAccidentalDamage>Y</hasContentsAccidentalDamage>
+<hasFLP>N</hasFLP>
+<buildingsPNCD>N</buildingsPNCD>
+<contentsPNCD>N</contentsPNCD>
+<FLPPremiumAmount>25.44</FLPPremiumAmount>
+<contentsPPAwayFromHomePremium>0.00</contentsPPAwayFromHomePremium>
+<contentsNCDYears>5</contentsNCDYears>
+<buildingsNCDYears>5</buildingsNCDYears>
+<coverType>D</coverType>
+<isPNCDAvailable>Y</isPNCDAvailable>
+<personalPossessionsSumsInsured>0</personalPossessionsSumsInsured>
+<compulsoryExcess>0</compulsoryExcess>
+<hasHE24>N</hasHE24>
+<isHE24Available>Y</isHE24Available>
+<HE24PremiumAmount>57.24</HE24PremiumAmount></homeRating>
+<returnCode xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">0</returnCode></getQuoteResponse></soapenv:Body></soapenv:Envelope>

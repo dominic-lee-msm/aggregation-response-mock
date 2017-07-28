@@ -1,0 +1,15 @@
+{
+    "scenarioName": "optileadTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "secure.optilead.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/followup/?"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "optilead-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Drive Like A Girl",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "www.box-napier-test.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/msm-quote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "drive-like-a-girl-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

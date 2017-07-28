@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HD Decisions Error",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "loansv2wspreprod.msm-smart-search.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/LoansEnquiryV2/Loans.svc/LoanScore/Error"
+    },
+    "response": {
+        "status": 400,
+        "bodyFileName": "HDDecisionsError-response.json",
+        "fixedDelayMilliseconds": 5000
+    }
+}

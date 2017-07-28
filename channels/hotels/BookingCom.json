@@ -1,0 +1,15 @@
+{
+    "scenarioName": "BookingCom",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "distribution-xml.booking.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/xml/bookings.getBlockAvailability"
+    },
+    "response": {
+        "status": 200,
+        "bodyDirectoryName": "booking-com-responses",
+        "fixedDelayMilliseconds": 2000
+    }
+}

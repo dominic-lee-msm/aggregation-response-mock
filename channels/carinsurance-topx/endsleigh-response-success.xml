@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <CreateBusinessLeadResponse xmlns="http://services.endsleigh.co.uk/Client/Diary/Messages">
+      <MessageID>356d9533-a04f-4b4e-97dd-02badc4e7a70</MessageID>
+    </CreateBusinessLeadResponse>
+  </soap:Body>
+</soap:Envelope>

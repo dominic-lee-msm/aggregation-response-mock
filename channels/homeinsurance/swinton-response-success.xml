@@ -1,0 +1,41 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+  <s:Body>
+    <GetQuoteResponse xmlns="http://www.swinton.co.uk/HomeAggregatorInterface">
+      <GetQuoteResult xmlns:a="http://www.swinton.co.uk/ExtendedHomeAggregatorInterface/QuoteResponse"
+      xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <a:Charges>
+          <a:Charge>
+            <a:Amount>35.5</a:Amount>
+            <a:Name>APR</a:Name>
+          </a:Charge>
+        </a:Charges>
+        <a:Exception i:nil="true" />
+        <a:QuoteReference>445993</a:QuoteReference>
+        <a:Schemes>
+          <a:Scheme>
+            <a:AddOns xmlns:b="http://www.swinton.co.uk/ExtendedHomeAggregatorInterface/GetQuoteRequest" />
+            <a:AnnualPremiumWithAddons>9999.99</a:AnnualPremiumWithAddons>
+            <a:AnnualPremiumWithoutAddons>9999.99</a:AnnualPremiumWithoutAddons>
+            <a:Brand>Swinton</a:Brand>
+            <a:BuildingsDetail>
+              <a:CompulsoryExcess>50</a:CompulsoryExcess>
+              <a:SumInsured>500000</a:SumInsured>
+              <a:VoluntaryExcess>250</a:VoluntaryExcess>
+            </a:BuildingsDetail>
+            <a:ContentsDetail>
+              <a:CompulsoryExcess>50</a:CompulsoryExcess>
+              <a:SumInsured>50000</a:SumInsured>
+              <a:VoluntaryExcess>250</a:VoluntaryExcess>
+            </a:ContentsDetail>
+            <a:Deposit>11.89</a:Deposit>
+            <a:InsurerName>Covea Insurance PLC</a:InsurerName>
+            <a:MonthlyPremiumWithAddons>11.89</a:MonthlyPremiumWithAddons>
+            <a:MonthlyPremiumWithoutAddons>11.89</a:MonthlyPremiumWithoutAddons>
+            <a:SchemeBenefits i:nil="true" />
+          </a:Scheme>
+        </a:Schemes>
+        <a:SessionHash>445993-QUEHKD7JV6LNDJ7WYJGAF2NCDFJR44P3KN68P7YY5B2V9XEFIOG5I1DP8255SDFS</a:SessionHash>
+      </GetQuoteResult>
+    </GetQuoteResponse>
+  </s:Body>
+</s:Envelope>

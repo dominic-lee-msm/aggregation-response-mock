@@ -1,0 +1,29 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <getquoteresponse xmlns="http://www.allianz.co.uk/moneysupermarket/motor">
+            <privatecarquoteresponse xmlns="http://www.allianz.co.uk/ns/acp/pres/v1.0">
+                <quote>
+                    <reference>
+                        <quotereferencenumber>5AA54937</quotereferencenumber>
+                        <aggregatorquoteid/>
+                        <brand>S2G</brand>
+                        <quotevalidityperiod>45</quotevalidityperiod>
+                        <covertype>comprehensive</covertype>
+                        <buyurllink>
+                            <![CDATA[https://uat2u.allianz.co.uk/yc/common/linkRequestHandler.faces?data=%2B%2BiqmFJyIycL2%2FK7JD%2FXK8iPbVJGkYKiB%2BRCyzhJvGhXNH7Wodx4KYtqjE3ml23g]]></buyurllink>
+                        <generatedpassword>fVywnY1C</generatedpassword>
+                        <campaigncode/>
+                        <brandcallcentretelephoneno>0800 9753 247</brandcallcentretelephoneno>
+                    </reference>
+                    <message>
+                        <messagetext>We are unable to quote at this moment in time, please call 0800 9753 247.
+                            Completion code was AGG[8]. Message was [This is aggregation  Provider MOCK error].
+                        </messagetext>
+                    </message>
+                    <completioncode>8</completioncode>
+                </quote>
+            </privatecarquoteresponse>
+        </getquoteresponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

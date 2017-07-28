@@ -1,0 +1,15 @@
+{
+    "scenarioName": "KLM",
+    "requiredScenarioState": "Started",
+    "domain":"services.klm.com",
+    "scheme":"https",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/MetaSearchService/MetaSearchService_v1.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "KLMTestFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

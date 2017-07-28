@@ -1,0 +1,15 @@
+{
+    "scenarioName": "DriveLikeAGirlTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "drs.callconnection.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/Service.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "drive-like-a-girl-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

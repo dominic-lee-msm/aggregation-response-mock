@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Agoda",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "meta.xmltravelgate.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/Service/Travel/Hotel/META/Service.svc/HOTPOST"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "LowcostbedsResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

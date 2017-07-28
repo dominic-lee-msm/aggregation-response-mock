@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RequestorResult id="0"
+                 sessionId="DD89E3569D2A10F2F9F19F0AB7A8516E">
+    <Administration>
+        <UserType>P</UserType>
+        <LanguageId>uk</LanguageId>
+        <OperatorId>33231</OperatorId>
+        <BrokerId>37982</BrokerId>
+    </Administration>
+    <CarAvailRSCore>
+        <CarRentalCore AirportStationsOnly="true"
+                       PickUpDate="2013-11-17" PickUpTime="09:00"
+                       DropOffDate="2013-11-24" DropOffTime="09:00"
+                       LocationType="Airport">
+            <PickUpLocation Code="BGI" />
+            <DropOffLocation Code="BGI" />
+        </CarRentalCore>
+    </CarAvailRSCore>
+    <CarSupplierAvails>
+        <CarSupplierAvail>
+            <Supplier Id="158282" Name="Stoutes Car Rental Ltd." />
+            <OffAirport>0</OffAirport>
+            <OffTerminal>1</OffTerminal>
+            <Cars>
+                <Car>
+                    <GroupId>2201</GroupId>
+                    <GroupName>ETAN</GroupName>
+                    <TypeId>983</TypeId>
+                    <TypeName>Moke</TypeName>
+                    <FormId>3</FormId>
+                    <FormName>Mini</FormName>
+                    <Producer>Mini</Producer>
+                    <ACRISS>ETAN</ACRISS>
+                    <Doors>2</Doors>
+                    <Seats>4</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>4</Adults>
+                    <Children>0</Children>
+                    <LuggageLarge>0</LuggageLarge>
+                    <LuggageSmall>1</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard">
+                            <Price Amount="184.52" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="150.92" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="212.72" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="150.92" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="210.62" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="150.92" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2204</GroupId>
+                    <GroupName>ITAR</GroupName>
+                    <TypeId>985</TypeId>
+                    <TypeName>Jimny Jeep (Soft Top)</TypeName>
+                    <FormId>12</FormId>
+                    <FormName>Sports Utility Vehicle</FormName>
+                    <Producer>Suzuki</Producer>
+                    <ACRISS>ITAR</ACRISS>
+                    <Doors>2</Doors>
+                    <Seats>4</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>2</Adults>
+                    <Children>2</Children>
+                    <LuggageLarge>1</LuggageLarge>
+                    <LuggageSmall>1</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard1">
+                            <Price Amount="233.37" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="190.87" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="262.56" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="190.87" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="260.46" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="190.87" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2205</GroupId>
+                    <GroupName>SFAR</GroupName>
+                    <TypeId>987</TypeId>
+                    <TypeName>Jimny Jeep</TypeName>
+                    <FormId>12</FormId>
+                    <FormName>Sports Utility Vehicle</FormName>
+                    <Producer>Suzuki</Producer>
+                    <ACRISS>SFAR</ACRISS>
+                    <Doors>2</Doors>
+                    <Seats>4</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>2</Adults>
+                    <Children>2</Children>
+                    <LuggageLarge>1</LuggageLarge>
+                    <LuggageSmall>1</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard1">
+                            <Price Amount="223.45" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="182.76" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="252.44" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="182.76" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive1">
+                            <Price Amount="250.34" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="182.76" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2206</GroupId>
+                    <GroupName>IFAR</GroupName>
+                    <TypeId>1815</TypeId>
+                    <TypeName>Terios</TypeName>
+                    <FormId>12</FormId>
+                    <FormName>Sports Utility Vehicle</FormName>
+                    <Producer>Daihatsu</Producer>
+                    <ACRISS>IFAR</ACRISS>
+                    <Doors>2</Doors>
+                    <Seats>5</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>0</Adults>
+                    <Children>0</Children>
+                    <LuggageLarge>0</LuggageLarge>
+                    <LuggageSmall>0</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard">
+                            <Price Amount="279.62" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="228.70" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="309.76" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="228.70" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="307.66" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="228.70" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2207</GroupId>
+                    <GroupName>FDAR</GroupName>
+                    <TypeId>989</TypeId>
+                    <TypeName>Vitara</TypeName>
+                    <FormId>12</FormId>
+                    <FormName>Sports Utility Vehicle</FormName>
+                    <Producer>Suzuki</Producer>
+                    <ACRISS>FDAR</ACRISS>
+                    <Doors>2</Doors>
+                    <Seats>5</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>3</Adults>
+                    <Children>2</Children>
+                    <LuggageLarge>1</LuggageLarge>
+                    <LuggageSmall>1</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard">
+                            <Price Amount="325.36" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="266.11" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="356.43" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="266.11" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="354.33" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="266.11" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2211</GroupId>
+                    <GroupName>ICAR</GroupName>
+                    <TypeId>1234</TypeId>
+                    <TypeName>Tiida</TypeName>
+                    <FormId>2</FormId>
+                    <FormName>Compact</FormName>
+                    <Producer>Nissan</Producer>
+                    <ACRISS>ICAR</ACRISS>
+                    <Doors>5</Doors>
+                    <Seats>5</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>4</Adults>
+                    <Children>1</Children>
+                    <LuggageLarge>2</LuggageLarge>
+                    <LuggageSmall>2</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard">
+                            <Price Amount="239.97" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="196.27" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="269.30" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="196.27" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="267.20" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="196.27" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2209</GroupId>
+                    <GroupName>EDAR</GroupName>
+                    <TypeId>1000</TypeId>
+                    <TypeName>Yaris</TypeName>
+                    <FormId>1</FormId>
+                    <FormName>Economy</FormName>
+                    <Producer>Toyota</Producer>
+                    <ACRISS>EDAR</ACRISS>
+                    <Doors>5</Doors>
+                    <Seats>5</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>3</Adults>
+                    <Children>2</Children>
+                    <LuggageLarge>1</LuggageLarge>
+                    <LuggageSmall>1</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard">
+                            <Price Amount="220.68" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="180.49" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="249.61" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="180.49" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="247.51" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="180.49" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2208</GroupId>
+                    <GroupName>ECAR</GroupName>
+                    <TypeId>1127</TypeId>
+                    <TypeName>Picanto</TypeName>
+                    <FormId>1</FormId>
+                    <FormName>Economy</FormName>
+                    <Producer>Kia</Producer>
+                    <ACRISS>ECAR</ACRISS>
+                    <Doors>4</Doors>
+                    <Seats>4</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>2</Adults>
+                    <Children>2</Children>
+                    <LuggageLarge>1</LuggageLarge>
+                    <LuggageSmall>2</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard">
+                            <Price Amount="190.40" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="155.73" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="218.72" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="155.73" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="216.62" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="155.73" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+                <Car>
+                    <GroupId>2213</GroupId>
+                    <GroupName>MVAR</GroupName>
+                    <TypeId>992</TypeId>
+                    <TypeName>APV Van</TypeName>
+                    <FormId>15</FormId>
+                    <FormName>Minibus (6 seater)</FormName>
+                    <Producer>Suzuki</Producer>
+                    <ACRISS>MVAR</ACRISS>
+                    <Doors>2</Doors>
+                    <Seats>6</Seats>
+                    <HorsePower>0</HorsePower>
+                    <TrunkSize>0</TrunkSize>
+                    <Adults>6</Adults>
+                    <Children>0</Children>
+                    <LuggageLarge>1</LuggageLarge>
+                    <LuggageSmall>1</LuggageSmall>
+                    <FuelType>Petrol/gasoline</FuelType>
+                    <ServiceCatalogs>
+                        <ServiceCatalog Id="34" Status="0" Name="Standard">
+                            <Price Amount="242.13" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="198.04" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="71" Status="0"
+                                        Name="All Inclusive Plus">
+                            <Price Amount="271.50" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="198.04" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>GLASSTYRES</Code>
+                                    <Id>157</Id>
+                                    <Description>Refund of excess for damages to
+                                        tyres, glass</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                        <ServiceCatalog Id="35" Status="0"
+                                        Name="All Inclusive">
+                            <Price Amount="269.40" Currency="GBP" PromoText="" />
+                            <PriceStd Amount="198.04" Currency="GBP" />
+                            <Inclusives>
+                                <Inclusive>
+                                    <Code>REFEXCESS</Code>
+                                    <Id>156</Id>
+                                    <Description>Refund of Excess</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>APTFEE</Code>
+                                    <Id>158</Id>
+                                    <Description>Airport and emergency delivery
+                                        fee</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>CDWTPSTBA</Code>
+                                    <Id>349</Id>
+                                    <Description>Comprehensive cover and Theft
+                                        Protection with excess (1750 USD)</Description>
+                                    <Class>Full Coverage/Theft protection</Class>
+                                    <ClassId>2</ClassId>
+                                    <ClassCode>CDWTP</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>UNL</Code>
+                                    <Id>1</Id>
+                                    <Description>Unlimited mileage</Description>
+                                    <Class>Mileage</Class>
+                                    <ClassId>1</ClassId>
+                                    <ClassCode>MILAGE</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>VAT</Code>
+                                    <Id>3</Id>
+                                    <Description>Local Taxes</Description>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>FUELFTE</Code>
+                                    <Id>162</Id>
+                                    <Description>Fuel policy: Full to
+                                        Empty</Description>
+                                    <Class>Fuel Policy</Class>
+                                    <ClassId>9</ClassId>
+                                    <ClassCode>FUEL</ClassCode>
+                                </Inclusive>
+                                <Inclusive>
+                                    <Code>TPW155USD</Code>
+                                    <Id>350</Id>
+                                    <Description>Third Party Liability [Limit: 15
+                                        Million USD / 5 Million USD]</Description>
+                                    <Class>Third Party Liability</Class>
+                                    <ClassId>3</ClassId>
+                                    <ClassCode>TPW</ClassCode>
+                                </Inclusive>
+                            </Inclusives>
+                        </ServiceCatalog>
+                    </ServiceCatalogs>
+                </Car>
+            </Cars>
+        </CarSupplierAvail>
+    </CarSupplierAvails>
+</RequestorResult>

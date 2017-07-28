@@ -1,0 +1,1061 @@
+<SearchResponse>
+	<ReturnStatus>
+		<Success>true</Success>
+		<Exception />
+	</ReturnStatus>
+	<SearchURL />
+	<PropertyResults>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1844926</PropertyID>
+			<PropertyReferenceID>56602</PropertyReferenceID>
+			<PropertyName>Paris Bastille</PropertyName>
+			<Rating>3.0</Rating>
+			<OurRating>3.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(12) Gare de Lyon &amp; Bercy</Resort>
+			<Strapline>Facing the Bastille Opera house and close to the trendy fashion shops in Le Marais district! Paris Bastille is facing the Opera and ideally located within walking distance to the Latin Quarter, histo</Strapline>
+			<Description>Facing the Bastille Opera house and close to the trendy fashion shops in Le Marais district! Paris Bastille is facing the Opera and ideally located within walking distance to the Latin Quarter, historical Marais, and Place des Vosges, Georges Pompidou Centre, Picasso and Carnavalet museums, in an area offering a large range of places to wine and dine. The soundproofed rooms are well equipped with complete bathroom with bath tub or shower, air conditioning, radio, mini bar, hairdryer, TV and telephone. The hotel also features a breakfast room, a cosy bar and conference facilities. Nearest Underground station: Bastille or Gare de Lyon railway station. Address: 67 Rue de Lyon, 75012 Paris, France.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext45/image_44382_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext45/imagethumb_44382_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Tm+EVWEnN0ojHF4xU8zu89ZO0yMw2LUGe/uEa4Zn0/C/aO9eWqB4tJqZ+JKcGD/NYtDzqbK1Xaw=</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Triple Room</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>696</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>696</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>4145</PropertyID>
+			<PropertyReferenceID>77450</PropertyReferenceID>
+			<PropertyName>Les Jardins du Marais</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(11) Republique &amp; Bastille</Resort>
+			<Strapline>## Overview Hotel Les Jardins du Marais is situated in the heart of Paris. Guests of this hotel will enjoy a relaxing atmosphere. The hotel meets the needs of all types of travelers with dedicated co</Strapline>
+			<Description>## Overview Hotel Les Jardins du Marais is situated in the heart of Paris. Guests of this hotel will enjoy a relaxing atmosphere. The hotel meets the needs of all types of travelers with dedicated conference space. It boasts air-conditioned rooms with all the amenities one would expect from a 4 star property. Wi-Fi is available throughout the property. ## Location This Parisian hotel is located in the famous district of Marais, between Place de Vosges and Opera Bastille. Leisure guests will appreciate the hotel’s convenient location with easy access to Carnavalet Museum or the Picasso Museum. ## Rooms The rooms at Hotel Campanile are good value for money, with amenities including air-conditioning, cable/satellite TV, coffee/tea making facilities, hairdryer, telephone and Wi-Fi connection. ## Features Apart from the in room amenities, residents of this hotel are offered free Wi-Fi connection, room service, laundry and ironing services. ## Tourist information 1 minute walk to Boulevard Beaumarchais bus stop 1 minute walk to Saint Sebastien Froissart line 8 Metro 5 minute walk to Musee Picasso 3 kilometers to Gare de Lyon/Gare de L’Est 25 kilometers to Charles de Gaulle Airport</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/Property/Image/ext3/image_2753_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/Property/Image/ext3/imagethumb_2753_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>42057</PropertyRoomTypeID>
+					<MealBasisID>9</MealBasisID>
+					<RoomType>Executive Room (Extra bed)</RoomType>
+					<RoomView />
+					<MealBasis>Hot buffet breakfast</MealBasis>
+					<SubTotal>799</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>799</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>Imoprtant Information</Subject>
+							<Description>Please note: rates are valid for up to 9 rooms.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important Information</Subject>
+							<Description>*Please note that: Early Departure: 1 unused additional night will be charged.*</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important Information</Subject>
+							<Description>Please note: type of bedding for children when sharing parents room - extra bed.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>32432</PropertyRoomTypeID>
+					<MealBasisID>9</MealBasisID>
+					<RoomType>Junior Suite (3pax)</RoomType>
+					<RoomView />
+					<MealBasis>Hot buffet breakfast</MealBasis>
+					<SubTotal>1066</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1066</Total>
+					<Adults>3</Adults>
+					<Children>0</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>Imoprtant Information</Subject>
+							<Description>Please note: rates are valid for up to 9 rooms.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important Information</Subject>
+							<Description>*Please note that: Early Departure: 1 unused additional night will be charged.*</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important Information</Subject>
+							<Description>Please note: type of bedding for children when sharing parents room - extra bed.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>32433</PropertyRoomTypeID>
+					<MealBasisID>9</MealBasisID>
+					<RoomType>Junior Suite (4pax)</RoomType>
+					<RoomView />
+					<MealBasis>Hot buffet breakfast</MealBasis>
+					<SubTotal>1203</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1203</Total>
+					<Adults>3</Adults>
+					<Children>0</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>Imoprtant Information</Subject>
+							<Description>Please note: rates are valid for up to 9 rooms.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important Information</Subject>
+							<Description>*Please note that: Early Departure: 1 unused additional night will be charged.*</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important Information</Subject>
+							<Description>Please note: type of bedding for children when sharing parents room - extra bed.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1034199</PropertyID>
+			<PropertyReferenceID>66729</PropertyReferenceID>
+			<PropertyName>Citadines Opera Grands Boulevards</PropertyName>
+			<Rating>3.0</Rating>
+			<OurRating>3.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(02) Les Halles &amp; Bourse</Resort>
+			<Strapline>## Overview Modern 3-star Apart'hotel located in the very heart of Paris in the Bourse district (2nd Arrondissement), next to the Opera Comique. This hotel offers spacious accommodation, ideal for fam</Strapline>
+			<Description>## Overview Modern 3-star Apart'hotel located in the very heart of Paris in the Bourse district (2nd Arrondissement), next to the Opera Comique. This hotel offers spacious accommodation, ideal for families and for long stays, in an area full of Parisian charm. ## Location Located in the middle of a major shopping district, your Apart'hotel, situated around Richelieu-Drouot, is a great place to base yourself for your shopping expeditions. Here, you will find countless luxury boutiques, shopping galleries such as the Passages Verdeau, Choiseul, Jouffroy and des Panoramas. Rest your tired feet at any of its stylish restaurants in the area, drop your shopping off in the Apart'hotel, then start again at large department stores just 10 minutes away on foot. For a different kind of culture, the Opera house and the Grevin wax museum are also just around the corner. And you can catch a movie at the cinema or a concert at the Grand Rex, just a 10 minute walk away. Take your pick - there is an abundance of theatres in this neighbourhood. The hotel is also set near the Opera-Comique and the Hotel Drouot auction rooms. ## Exterior Traditional 5-storey building with a Haussmann style facade. ## Rooms There are 76 apartments over 5 floors, including 42 studios for 2, 8 studios for 3, 17 one-bedroom apartments for 3-4 people, 5 one-bedroom duplex apartments for 3 and 4 one-bedroom duplex apartments for 4. In the studios, you may choose to reserve a double or single sofa-bed. In the apartments, there are sofa beds in the living room and you can choose from a double bed or two single beds in the bedrooms. All studios and apartments have a full bathroom with hairdryer with a separate toilet, a fully equipped separate kitchen area complete with stove, oven, fridge, dishwasher and electric kettle; TV with satellite channels and a Hi-Fi system. Linen and towels are provided. The apartment is cleaned and linen and towels are changed once a week free of charge. Additional house-cleaning service is available on request and is charged according to your requirements. 4 apartments are equipped for people with reduced mobility. ## Restaurant and bar There are numerous dining options nearby.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext53/image_52933_v2.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext53/imagethumb_52933_v2.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zfuI7OOdOjlGvOBIFWa25jEUWXCsfika+dlJ6NNQ9ecge3ieiWP/q2CaGrkdwETFnUe/2DrmPMCoJIdWnEbxa60zMtqED53wDEXncqNBqbTVULJQPJIoF5b10/1GOyhi1gkZskZ+o95ZlEJeaXiJQjOrtRPJ4ZrDYqHTmS/XWbSDSE85MFiE9ei8Cp1JoCYI5</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Apartment Premier</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>825</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>825</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1463747</PropertyID>
+			<PropertyReferenceID>33147</PropertyReferenceID>
+			<PropertyName>Victoires Opera</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(02) Les Halles &amp; Bourse</Resort>
+			<Strapline>##General The neighborhood is lively, trendy and proud of its 2 highlights the rue Etienne Marcel and the place des Victoires lined with the biggest fashion names and hip boutiques. Also enjoy the num</Strapline>
+			<Description>##General The neighborhood is lively, trendy and proud of its 2 highlights the rue Etienne Marcel and the place des Victoires lined with the biggest fashion names and hip boutiques. Also enjoy the numerous trendy restaurants, cafes and terraces and do not mis unforgettable sights such as the Louvre and the Opera. ##Rooms Our six standard/superior rooms are very quiet and luxurious and contain a double bed and bathroom with shower. Our superior rooms are slightly more spacious than the standard rooms. Our 24 rooms and junior suites are fully equipped and very comfortable, ensuring that you will enjoy the sweetest of dreams Our 14 spacious de luxe rooms are equipped with a large bathroom with a bathtub. They either have a double bed and overlook the street or a courtyard, or twin beds overlooking the courtyard. Two rooms have disabled access.Our four junior suites are very spacious and quiet and have a bathroom with bathtub. Each is different one has a dressing-room and toilets separate from the bathroom and some have a small sitting-room area. ##Exterior This is a traditional 6 floor building with a modern style entrance. The hotel is a traditional building designed in a typical Parisian Haussmann style, characteristic in all buildings located in neighborhoods around Paris. ##Lobby In a contemporary decor, you will be warmly welcomed by our multilingual receptionists who speak English,Spanish and Italian. They are totally at your service and can provide you with invaluable assistance. Our delightfully cosy lounge is at your disposal for meeting friends, reading a daily newspaper or simply relaxing. We can serve you with alcoholic and non-alcoholic drinks. ##Restaurant As a delightful prelude to your excursions, you can enjoy a delightful breakfast-cold buffet between 7.00 a.m. and 11.00 a.m. Located in the basement, the breakfast room is located in a charming environment decorated with vaulted ceiling with a very friendly atmosphere with wooden furniture and soft lighting.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/ThirdPartyProperty/Image/ext996/image_995447_16577543.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/ThirdPartyProperty/Image/ext996/image_995447_16577543.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zvC0bYd04H5ddgj5NlE5FgxD7UklCytH/kzbRGO8arWyOKG7DuKvihwBc8pa1Jwu2d5qEMU0lqmYKTybPWJvTkRnqR6OqmAx7nQie9lp1it1XuSeSnwkrwVdYAhWrLUbsWLRkg6ivsSYODFwrJu1a55EsyBTHmRWy/QWyZz91oETgZEyMvrrO3g==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1125</SubTotal>
+					<Discount>272</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>853</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zQUFqDChOBzTZ//gZRGHPQaJHAATgpaXib4uumGMaQ3vmQLN7ni0s0mCvc0QIaTU8xlaUi/Xp3iCcIiB7NQlyv2qE6a7a/mNroCs11GTn+wK5FQT7edH89ahmRoNvgngkySRZBrGpkCn1ETPWBJaz4OIFv5DZMx1zUO52PJhnEQmI4QfTIshV1Q==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1125</SubTotal>
+					<Discount>272</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>853</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zFGL6FZl9fN+mLhAwHH29PiJAZGmJPJWveeysGFEoEaCeRHEaKPQWx2rgQez25L+DuJY+o7bDVdB9jPO8Y+GVI4gMlx6X6c1A2gmPShZZduDOTzgztWg2sUVKaFgftVwwlZTN0xGqFoM1z2ROYtKtZEc076G6Kmnyaxr4Z2xUJwHw4Bkht/ICXR15rSaEuHyT</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1207</SubTotal>
+					<Discount>283</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>924</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6ziktRQe6kNPQLnZZ0nbszGIouXciam1CYK5E+4qQuhmMTLWVsaQd9bQhKFcm46gMa8AG4Soxu2gHBjJ2XKELpaYHB+wX+Nts5WfE8F+e06VcvANSwmPZBhfMMamyJTGpSLPxdbIKa7qRtbPyMZ/Nk9VsLKs4paQddFZKbm4HasbzrqwNqk2UKAy1qJHHA5YjX</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1207</SubTotal>
+					<Discount>283</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>924</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zp8eAhu5tyCsNkxS94iwS4hOE9hf1Zj3NkrWnhH0ro3SXI/+3Aq3PB0qdNMwzV4tOyKN+BPM9ASd7oitiFJCiAUw1eo+Kn10tlHwClyA/WzP78zkwXmG7UhDlpNFYAw6zZrwQdkSv5X8EYrdg5cHIB+3ZeofoLF5M5D5G+a7sATWNmbpzHvGbtLZQJ0OTFAxB</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1353</SubTotal>
+					<Discount>325</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1028</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6z/GH1MMPSwtfjAqhHq6+wWYMvS2Byj0mOEu1fV0tMZYEnVwIEc5urQKukWuLSBpN9Xg9hZKjMhGbrIEMz9vQ1X3o/y/j8/PuQot+YobCTVNAObzd4+NIO7AZPC6DW9bGQ0p+vy45oniym8w0A61lz6Rnp2c2/e+Q9bG0xqwbL25GTeO/IK+vRhtMqNvPeM2tX</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1573</SubTotal>
+					<Discount>389</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1184</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1362265</PropertyID>
+			<PropertyReferenceID>77448</PropertyReferenceID>
+			<PropertyName>Crowne Plaza Republique</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(11) Republique &amp; Bastille</Resort>
+			<Description>## Overview Crowne Plaza Republique is a 4 star hotel offering easy access to Paris shopping, dining and cultural life. The rooms were recently renovated and guests may benefit from a fitness area, bar, restaurant and 18 meeting rooms overlooking an inner courtyard. ## Location Only 3 metro stops away from Eurostar or Thalys train stations, this Paris hotel provides all the connections one needs. The metro connection provides easy access from the hotel to the must-sees of the city, like the Eiffel Tower, the Champs-Elysées or Notre-Dame. Trendy shops and restaurants overlooking the canals are 5 minutes walking distance from the hotel. ## Rooms Rooms were recently renovated and have individual climate control. Some even offer a view over Place de la Republique and chic Parisian streets. ## Food &amp; drink Le Dix restaurant offers French and European cuisine with fine wines. ## Tourist information 1 min walk to the nearest metro station/bus stop (Republique) 10 min walk to the nearest train station (Gare de l'Est) 2.7 km to the city centre (Opera Garnier) 17 km to the nearest airport (Aeroport de Paris Orly) 22 km to the nearest traid fair ground (Parc des Expositions Villepinte)</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext61/image_60244_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext61/imagethumb_60244_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>/syeyNVF4YdJz9d8NiHIwK3lctixBIiL/a8Kr///eKNGqpIzb9/3H819/EEBl3hfvJ/orniOru0=</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin/double Room</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>887</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>887</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1811</PropertyID>
+			<PropertyReferenceID>33133</PropertyReferenceID>
+			<PropertyName>Normandy</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(01) Louvre &amp; Palais-Royal</Resort>
+			<Strapline>## Overview A delicate retro environment for this large hotel which accomodated the English customers in Beautiful Epoque. Guests will appreciate there the charm of the waxed woodworks and the atmosp</Strapline>
+			<Description>## Overview A delicate retro environment for this large hotel which accomodated the English customers in Beautiful Epoque. Guests will appreciate there the charm of the waxed woodworks and the atmosphere cosy of its piano bar. But Normandy has a master trump: its exceptional location near the Louvre Museum and at the corner of the street St-Honore, famous for its luxuries shops. ## Location The location of this hotel is excellent, just off to the famous area of the Louvre Museum, Place de La Concorde, Place Vendome and Avenue de l'Opera. The hotel is a few minutes walk from the subway station (line 14). The district is very attractive, and offers many advantages, such as fashionable boutiques on Faubourg Saint Honore, restaurants and public transport. ## Rooms The rooms and bathrooms are medium in size. The facilities are a bit old fashioned, but are in good condition. The rooms décor is old fashion and in need of modernisation. Each room has a different colour scheme, with traditional Louis 16 style furniture. Please note that only some of the rooms offer air conditioning. ## Food &amp; Drink The breakfast room is located on the ground floor, and welcomes its guests with its red and gold colour scheme. ## Tourist Information Central / Louvre/Les Halles/Palais Royal / 01e Arrondissement 1 minute walk to the nearest bus stop 1 minute walk to the nearest metro station (palais royal/pyramide) 1 km to the nearest station (gare du nord) 15 kms to the airport (orly) 25 kms to the airport (charles de gaulle) ## Number of rooms 117</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/Property/Image/image_186_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/Property/Image/imagethumb_186_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>10846</PropertyRoomTypeID>
+					<MealBasisID>8</MealBasisID>
+					<RoomType>Triple Superior</RoomType>
+					<RoomView />
+					<MealBasis>Buffet breakfast</MealBasis>
+					<SubTotal>939</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>939</Total>
+					<Adults>3</Adults>
+					<Children>0</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata />
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>2058472</PropertyID>
+			<PropertyReferenceID>33207</PropertyReferenceID>
+			<PropertyName>Astor Saint Honore</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(08) Champs Elysees &amp; St Lazare</Resort>
+			<Strapline>##General The hotel is just a few steps from the Rue du Faubourg Saint-Honore and its luxurious boutiques. The Hotel Astor Saint-Honore welcomes you to an intimate and warming atmosphere. The Hotel of</Strapline>
+			<Description>##General The hotel is just a few steps from the Rue du Faubourg Saint-Honore and its luxurious boutiques. The Hotel Astor Saint-Honore welcomes you to an intimate and warming atmosphere. The Hotel offers,in addition, a wide range of optionals for fitness and health of customers. ##Rooms The hotel arranges of 128 rooms of middle measure, situated on 7 plans, provided of every confort and neatly furnished with original furniture in contemporary style, decorated with pastel colors from the tone of the green to a lavande tone.Every room is supplied of air conditioning, tv, access to internet, telephone, minibar, box of safety,bathroom. The rooms have a balcony with panoramic vista that gives on the town of Paris. ##Exterior The hotel Astor Saint Honore is presented like an elegant historical building built in 1907 and is become well-known for its luxurious decorations inspired to the Regency of the years '30, to work of the well-known decorator Frederic Mechiche. ##Lobby The hotel arranges of a spacious lounge neatly furnished in style years '30, with precious paintings and very high furniture of standard. The hotel is characterized also from a stocked library available of the customers for spend moments of true relaxation. For business meetings or meetings for pleasure, the customers will be able to make use of spacious room meetings situated to the first plan. This area is situated on the first floor, furnished in classic style, it is equipped of air conditioning and screen LCD. ##Restaurant The hotel is provided of an elegant inside restaurant situated on the ground floor and brags an environment in style art deco, with walls painted to sand color rumbles are sprinkled of stars navies and of basins in plaster, the dishes are decorated with the rose of twenty, magnificent cloths and classic furniture. The chef proposes traditional kitchen Frenchman and creative dishes, light and zesty. In the oval room, like in the private area, it blows an essence of flower of salt and of crustaceans. The hotel offers customers a service of drinks served at the bar, furnished with seats like gondola in mahogany. The room service is available.The restaurant will be open from monday to friday,while the hotel informs own guests that the restaurant will be closed on friday and sunday.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext31/image_30740_v2.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext31/imagethumb_30740_v2.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>hlX6w0WaqTX27jwKfpdIQ+60nCvSduEsBQJSaWUkGhP1Z9W6QVz0QbhWWzg0m5wMlGciIeevu5GPiH5LwqFMtg==</BookingToken>
+					<MealBasisID>148</MealBasisID>
+					<RoomType>Double/twin + 1 Child Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Buffet Continental Breakfast</MealBasis>
+					<SubTotal>1111</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1111</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1171243</PropertyID>
+			<PropertyReferenceID>33160</PropertyReferenceID>
+			<PropertyName>Best Western Villa Des Artiste</PropertyName>
+			<Rating>3.0</Rating>
+			<OurRating>3.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(06) Luxembourg &amp; St Germain</Resort>
+			<Strapline>This is 3 star hotel considered a first category property. The location is very good and the staff is friendly and efficient. Highly recommended (1008/IU) ## Location The hotel is very well located c</Strapline>
+			<Description>This is 3 star hotel considered a first category property. The location is very good and the staff is friendly and efficient. Highly recommended (1008/IU) ## Location The hotel is very well located close to Montparnasse railway station and just 2 minutes walk from the Vavin metro station (line 4) which takes you directly to Saint Germain de Pres, Saint Michel and/ or the Les Halles shopping centre. This well-known artists area is lively with many shops, good restaurants and bars. ## Distance Centrally located 30 kms to the airport (orlando executive airport) 45 kms to the airport (paris-charles de gaulle airport) 1 minute walk to the nearest metro station (vavin) 2 km to the nearest station (montparnasse) 1 minute walk to the nearest bus stop 2 km to the nearest fair site (porte de versailles) ## Rooms The light coloured bedrooms vary in size from small to medium. Fully equipped and nicely decorated in a contemporary style, they are of a very good standard. Each room is air conditioned. ## Restaurant The breakfast room is open plan with a reception area. There is a lot of natural light coming through the big windows and the door, which leads to the garden. In summertime guests can enjoy having Le Notre breakfast in the backyard garden. ## Exterior This is a traditional 6-storey building. ## Lobby The medium sized reception is open plan with the lounge where local and regional artists exhibit their works. The decor is very nice and contemporary. The use of warm colours and the seating area with the bibliotheca create a very welcoming atmosphere. Guests can enjoy drinks throughout day and eve at the bar which is part of the lounge.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/ThirdPartyProperty/Image/ext168/image_167926_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/ThirdPartyProperty/Image/ext168/imagethumb_167926_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>z/XoXMYzxDHbw06SdxSnGNu9WQW9bWQc9arRG4la/ePFHAs0b05zRfHrKF6oAWtDwdgEE+k4ZW/cuRhiawP/P72qlYp6ngDZGrDtlyT2Nme28EyVnTWRbLmR2xAoyvx+</BookingToken>
+					<MealBasisID>8</MealBasisID>
+					<RoomType>Family Triple</RoomType>
+					<RoomView />
+					<MealBasis>Buffet breakfast</MealBasis>
+					<SubTotal>1114</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1114</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1465269</PropertyID>
+			<PropertyReferenceID>33207</PropertyReferenceID>
+			<PropertyName>Astor Saint Honore</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(08) Champs Elysees &amp; St Lazare</Resort>
+			<Strapline>##General The hotel is just a few steps from the Rue du Faubourg Saint-Honore and its luxurious boutiques. The Hotel Astor Saint-Honore welcomes you to an intimate and warming atmosphere. The Hotel of</Strapline>
+			<Description>##General The hotel is just a few steps from the Rue du Faubourg Saint-Honore and its luxurious boutiques. The Hotel Astor Saint-Honore welcomes you to an intimate and warming atmosphere. The Hotel offers,in addition, a wide range of optionals for fitness and health of customers. ##Rooms The hotel arranges of 128 rooms of middle measure, situated on 7 plans, provided of every confort and neatly furnished with original furniture in contemporary style, decorated with pastel colors from the tone of the green to a lavande tone.Every room is supplied of air conditioning, tv, access to internet, telephone, minibar, box of safety,bathroom. The rooms have a balcony with panoramic vista that gives on the town of Paris. ##Exterior The hotel Astor Saint Honore is presented like an elegant historical building built in 1907 and is become well-known for its luxurious decorations inspired to the Regency of the years '30, to work of the well-known decorator Frederic Mechiche. ##Lobby The hotel arranges of a spacious lounge neatly furnished in style years '30, with precious paintings and very high furniture of standard. The hotel is characterized also from a stocked library available of the customers for spend moments of true relaxation. For business meetings or meetings for pleasure, the customers will be able to make use of spacious room meetings situated to the first plan. This area is situated on the first floor, furnished in classic style, it is equipped of air conditioning and screen LCD. ##Restaurant The hotel is provided of an elegant inside restaurant situated on the ground floor and brags an environment in style art deco, with walls painted to sand color rumbles are sprinkled of stars navies and of basins in plaster, the dishes are decorated with the rose of twenty, magnificent cloths and classic furniture. The chef proposes traditional kitchen Frenchman and creative dishes, light and zesty. In the oval room, like in the private area, it blows an essence of flower of salt and of crustaceans. The hotel offers customers a service of drinks served at the bar, furnished with seats like gondola in mahogany. The room service is available.The restaurant will be open from monday to friday,while the hotel informs own guests that the restaurant will be closed on friday and sunday.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext31/image_30740_v2.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext31/imagethumb_30740_v2.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zLYwt27tlwgOpnl51v5U5FIIWGD1yqWkuTGC+GGi6EZPPxhoCOBMv3MHk5SDCaAlNCAzalYSRqWXdB6LVa/YnVhjfUl5HHj0X1UcLkImB2WFGAQ2scm5My8byye0jh4BU+iQfhG2beP9IsikQMGSyLjw/Vr3N2f6KC/iY3Ym1uNcLZ/5elrmaWDr5pPPGrl34</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Luxury</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1780</SubTotal>
+					<Discount>629</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Early Booking discount, Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1151</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1171101</PropertyID>
+			<PropertyReferenceID>5610</PropertyReferenceID>
+			<PropertyName>Serotel Lutece</PropertyName>
+			<Rating>3.0</Rating>
+			<OurRating>3.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(05) Latin Quarter </Resort>
+			<Strapline>This is a 3-star hotel considered as a good superior tourist class. The entire hotel is air conditioned. The area of Mouffetard is very charming and surrounded by restaurants from all over the world. </Strapline>
+			<Description>This is a 3-star hotel considered as a good superior tourist class. The entire hotel is air conditioned. The area of Mouffetard is very charming and surrounded by restaurants from all over the world. The staffs are very friendly and welcoming and guarantee a pleasant stay. ## Location The hotel is situated on the left bank at the famous Quartier Latin close to the lively street of Mouffetard where several bars, restaurants, and shops are located. Sights like the Luxemburg Garden or the Pantheon are close by. A bus stops in front of the hotel. The subway is a few minutes away with line 7 direct to Opera and to department stores. ## Distance 1 kms to city centre 33 kms to the airport (paris-charles de gaulle airport) 17 kms to the airport (paris-orly international airport) 5 minute walk to the nearest metro station (censier daubenton) 5 km to the nearest station (gare de lyon) 5 minute walk to the nearest bus stop ## Rooms The rooms are small to medium size with either pink or blue light wallpapers, some of which need replacing. The rooms are well equipped, the windows are double-glazed and there is a hot water cooker in every room. All rooms are air conditioned. Bathrooms are white and blue, and are separate from the toilet. ## Restaurant The breakfast room is located on the lower ground floor and is medium in size. The white stone walls are decorated with modern, colourful pictures. ## Exterior This is a 6-floor traditional building. ## Lobby The medium-sized lobby is decorated in light colours and the reception desk is made of marble. Behind the reception there is a little patio where guests can enjoy some drinks from the bar which is located in the traditional lounge.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext74/image_73202_v2.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext74/imagethumb_73202_v2.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>dpDSXjIs71/0vBcdxhUiRv3ajRrZfvBL1sJ4NTznATfK8DXU9lgkfY/ECM7hwGGJQ3V/XxQ/p5LbioiBTAWOaXYbnipsk44LRX75u1m8A+ogbtIAy3iwxg==</BookingToken>
+					<MealBasisID>8</MealBasisID>
+					<RoomType>Family Room</RoomType>
+					<RoomView />
+					<MealBasis>Buffet breakfast</MealBasis>
+					<SubTotal>1162</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Special Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1162</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1364582</PropertyID>
+			<PropertyReferenceID>5778</PropertyReferenceID>
+			<PropertyName>Corona Opera</PropertyName>
+			<Rating>3.0</Rating>
+			<OurRating>3.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(09) Opera</Resort>
+			<Strapline>##General The Hotel Corona Opera is an ideal destination to give guests comfort and relax. It is located in the heart of the 9th district where there are so many things to discover. The famous Musee G</Strapline>
+			<Description>##General The Hotel Corona Opera is an ideal destination to give guests comfort and relax. It is located in the heart of the 9th district where there are so many things to discover. The famous Musee Grevin is 5 minutes away. The departments stores Printemps and Galeries Lafayette are 15 minutes away on foot.Orly airport is located 20 km, Charles de Gaulle to 25 km. ##Rooms The Corona Opera has 60 air-conditioned rooms (6 single, 23 double, 18 twin, 8 triple rooms, 4 suites and 1 specially equipped room for disabled guests)decorated with light wood furnishings, brightened by Japanese inspired double curtains, the rooms are arranged on 5 floors. 38 rooms are non smoking. All accommodations feature a private bathroom with bathtub, hairdryer, 220V shaver point, cotton wool, shower gel, shampoo and soap.Rooms come furthermore equipped with direct dial telephone, satellite TV,Wi-Fi Intenet access, personal safe and mini bar. ##Exterior The hotel is presented the customers like a building typically Parisian. L' hotel is in style Art Deco, characterized from the splendor and attentive in the decorative details. ##Lobby The hotel boasts a classic setting thanks to its large, luminous lobby with magnificent chandeliers and mirrors that give it a rare charm, as well as marble floor leading to the elevator and stairs. ##Restaurant The breakfast room is situated on the ground floor. The buffet breakfast is comprised of various cereals, French pastries and breads, honey, scrambled eggs, bacon, salami and yogurt. A continental breakfast can also be served in your room on request. Honesty bar serves national and international drinks.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext74/image_73346_v2.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext74/imagethumb_73346_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>kHlPVCoca0gA8RuWpMsVMn06j08CGU06fYseFjwrBO8PD1SQuWhgqjXpnhsSHdB3R2TcPqPtLsU=</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Twin/double Room</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1164</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1164</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1658829</PropertyID>
+			<PropertyReferenceID>33804</PropertyReferenceID>
+			<PropertyName>Millennium Hotel Paris Opera</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(09) Opera</Resort>
+			<Strapline>## Overview The Millennium Hotel Paris Opera is a 4 star property located on Haussmann Boulevard, close to many famous monuments and attractions such as The Galeries Lafayette, The Opera Garnier, Cha</Strapline>
+			<Description>## Overview The Millennium Hotel Paris Opera is a 4 star property located on Haussmann Boulevard, close to many famous monuments and attractions such as The Galeries Lafayette, The Opera Garnier, Champs Elysees, The Louvre, Casino de Paris and The Opera Comique. Rooms of the hotel offer a relaxing ambience and are equipped with modern amenities. Facilities of the hotel include a business center, a restaurant and a bar. ## Location The hotel is situated in center of Paris, close to several of the city’s attractions, business centers and shopping centers. The nearest airport is 25 km away but the nearest train station and metro station is only about 10-15 minutes walking time away. ## Rooms Guests can choose from a variety of rooms, all decorated with the touch of the 1920’s but with modern amenities such as air conditioning, cable Tv, hairdryer, telephone, television, mini fridge, coffee/tea maker and Wi-Fi. ## Food &amp; Drink The Brasserie Haussmann offers guests French and international cuisine. The Bar La Bibliotheque can be a good choice for relaxing and serving refreshments.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/Property/Image/ext4/image_3401_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/Property/Image/ext4/imagethumb_3401_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Za1DcKwMKh1+wfjG9aucnN/oEizY7vEil2JKyPfUYwjgvZsiFXW0w8THYN6fBZ3cdgUalwwPtdS1YFJhJ3FweBTVrQSfFtUB</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin/double Room - Club Room</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1230</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1230</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1034293</PropertyID>
+			<PropertyReferenceID>5681</PropertyReferenceID>
+			<PropertyName>Champs Elysees Plaza</PropertyName>
+			<Rating>5.0</Rating>
+			<OurRating>5.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(08) Champs Elysees &amp; St Lazare</Resort>
+			<Strapline>Luxury boutique hotel (19th century building) which combines contemporary decoration with a parisian touch. Exceptional size of rooms with Jacuzzi bath and wellness centre associates with the latest t</Strapline>
+			<Description>Luxury boutique hotel (19th century building) which combines contemporary decoration with a parisian touch. Exceptional size of rooms with Jacuzzi bath and wellness centre associates with the latest tecnologies. ## Location The Champs Elysess Plaza is one of the best location in Paris next to the famous Champs Elysees Avenue, the major points of interest in Paris Arc de Triomphe, Concorde Place, Lido, Louvre Museum. Luxury shopping area Dior, Vuitton, Chanel, Cartier, Galeries Lafayette and important business district of Paris *Congress center of Paris Porte Maillot and La Defense business area. ## Distance 21 kms to the airport (paris-charles de gaulle airport) 17 kms to the airport (paris-orly international airport) 3 minute walk to the nearest metro station (george v) 2 km to the nearest station (st lazare) 3 minute walk to the nearest bus stop 2 km to the nearest fair site (palais des congres) ## Rooms All rooms are actually suites and are very large in size, one king or 2 twin beds, particular care has been given to the choice of materials and fabrics. Hermes Guest amenities and welcome chocolates are provided on arrival. Around 45 square meters, decorated with charm and refinement, with old-fashioned moulding on the ceiling, marble fireplaces, wide windows overlooking the rue de Berri and the rue d'Artois or even the inner courtyard. All the Rooms have Art Deco bathroom with shower and separate Jacuzzi bathtube with bathrobes, slippers and Hermes toiletries. All of the Rooms, distributed on the seven floors of this mansion, combines a concentration of French chic associated with the latest technologies. Individual air conditioning, Satellite television with Flat Screen and Video on demand, Mini Hi-Fi, CD lector, Individual safe, High-speed Internet access, Mini-bar, Nespresso machine, tea pot... ## Restaurant Restaurant le Keller of the Luxury Champs Elysees Plaza Hotel Paris, the elegance and atmosphere of a unique place.The Chef Vincent Boucher of Hotel Champs Elysees Plaza Paris invites you to discover an inventive and refined cuisine using products selected with care for their quality, their freshness and their particularity. The elegance of the place and of the table lends itself naturally to private luncheons, business luncheons or a leisure lunch. ## Exterior Elegant building in the Haussmann style. It has small balconies with large imposing glazing bar windows. On the other hand, its construction, post Haussmann period, freed it from the austere style imposed by the baron Haussmann. It could thus be adorned with a superb glass and wrought iron awning inspired by Hector Guimards* design for the Dauphine metro station. The entrance doors, made out of the same style and materials, confer to the hotel its elegance ## Lobby Indoor, the hotel is characterized by its great clearance, mouldings and pediments, with genuine marble mantelpieces and in the lobby, a magnificent period mosaic welcomes guests upon their arrival. After the Second World War, a small wood and copper hydraulic lift was fitted into the stairwell. The entirety gives out a certain charm and a definite parisian atmosphere. Since then, the hotel is home to the portrait of the Comtesse Marie Victoire de Riznitch-Keller better known as the Comtesse de Keller, who is a niece of Honore de Balzac</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext74/image_73259_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext74/imagethumb_73259_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6znxlY3NufPiG5YFSqJwknJOBS4FnMYTjiqKF0RXc2bqEQOSb3/QE7XWxhZSkBhS9alzTm5gmSECjek3+HkcUmhMf93xI61bFctGy/e2n8msNdaKTZf1mYcFejERD4VfY8pljOlbfG/s4oT19qdqM9aO0YRb8IWg+WwSZCHguKoYXfwqia338Uzx9626I541Wb</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Junior Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2376</SubTotal>
+					<Discount>691</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1685</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zQbEKpdkkIcFMw3aFYV88wsQjdoQbay/8s4jYh9Md5/YMWd1xHDPDM4kZ7dRiNCo7cLKGL5fF+cPoCO1VOTyx7g4wI9+sMSPq8WkgX1kISeYW/zvusdvOFbi1sasjnkuZ7qtnch2AqJWCI+k6+Zb+RwRK9eGetopNNMXycYeBZaDq5i4mnv3HgwW0u2dObikS</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Junior Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2376</SubTotal>
+					<Discount>691</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1685</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zONfo7T/BxTsnuOBgG+/VT9BRrmKGl3ZqPl0aqsU/ixEBXW6YZhJpGM3gpT1zqywdrd23iLZ3ZlvOTmzoeNVrzJx86gLNgbZQHKnBThR4kSXfQ/bq1hnix2XCR9+q9Bt61xKmuvmNPvNP/H2Lve3y1A+0nme7W7ba2YOe0IpVGmpJMcy+SdkZ40aNJj+1PXjM</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Deluxe-Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3751</SubTotal>
+					<Discount>1091</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>2660</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zol30QgamrMAHP9SkkASZw1+x9gbHByTe40LW/g0w1ePDoY9IXADo/tZGXKm+hYD1fz7fbyTgEg01kqiSSvBgApqQhBWkPQXLAg4avzEnjCgdxKChpNsCrG2owfXYVUFfYL5rWFf4Lcgf6fA8Y6/ntyDsswnW+pNidnMkhKw+GWLbR2vIDM1zLQ==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Prestige</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3954</SubTotal>
+					<Discount>673</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>3281</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6z5xiJicvHqeJiXLyGAz6fKXDHuGDMdEbTNpJD+nRWinOK9XFheCPtJJTMeGx5g2l7RflPO8+5sANSuucBxoLaZzLpo2YVAaE8E5EK9cTzpHlo13q5dbRVvJCTfqMBctUQ41K/AZwm/DtQuIlphX17xTAfxoIVFqdu2pdsEs68husV+bfJ3qPfr6jnu2oRFvXJlW9sbm54RhE=</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Prestige Room-Plus</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>4488</SubTotal>
+					<Discount>764</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>3724</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>2060567</PropertyID>
+			<PropertyReferenceID>183898</PropertyReferenceID>
+			<PropertyName>Hotel De Nell</PropertyName>
+			<Rating>5.0</Rating>
+			<OurRating>5.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(09) Opera</Resort>
+			<Strapline>##Property Location With a stay at Hotel de Nell, you'll be centrally located in Paris, steps from Folies Bergere and minutes from Le Palace Theatre. This 5-star hotel is close to Louvre Museum and N</Strapline>
+			<Description>##Property Location With a stay at Hotel de Nell, you'll be centrally located in Paris, steps from Folies Bergere and minutes from Le Palace Theatre. This 5-star hotel is close to Louvre Museum and Notre Dame Cathedral. ##Rooms Make yourself at home in one of the 33 air-conditioned rooms featuring MP3 docking stations and LCD televisions. Complimentary wireless Internet access keeps you connected, and digital programming is available for your entertainment. Private bathrooms with bathtubs or showers feature rainfall showerheads and designer toiletries. Conveniences include safes and desks, as well as phones with free local calls. ##Rec, Spa, Premium Amenities Relax and unwind with massages, body treatments, and facials. This hotel also features complimentary wireless Internet access, concierge services, and babysitting/childcare (surcharge). ##Dining Grab a bite to eat at the hotel's restaurant, which features a bar, or stay in and take advantage of 24-hour room service. Quench your thirst with your favorite drink at a bar/lounge. Continental breakfasts are available daily for a fee. ##Business, Other Amenities Featured amenities include dry cleaning/laundry services, a 24-hour front desk, and multilingual staff. Planning an event in Paris This hotel has facilities measuring 215 square feet (20 square meters), including a meeting room. A roundtrip airport shuttle is provided for a surcharge (available on request).</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext170/image_169297_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext170/imagethumb_169297_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zb5cYDW4wTYOGyakI3isTgb2WAL60W402ZJ5E31IKWSAuzysJ/7psWyyNYqOXEasdFfzcSslifVUcdi9rTRhud+WC10DCsZqjb1Ys7J25mj2vb+byUClw6R37p9MXykn98jdKoESRzQhmNMFCbaM9oVmoRtt00PlIgTedQW9n833fjImVpBKfNw==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Double Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1881</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1881</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zWGtdLIhJxqXQOZ6Rx64XIjLF+Hy/rwEgZU/HmWp8z5ffwPOAnP7FbDBLcG94s3X4Y24+2ZzK1xMpNZBzhr/0NuftwPBH++hH38Iwui2ukt/tzsyBt2yua2ZMkP+/3oatBxbzub5xMDatWTaI36kU+CfX9LBDAZkNQZo9O5nlx8+dkDke05MPq614FH5cyzXW</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Double Prestige</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>2122</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>2122</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>15</TotalProperties>
+			<PropertyID>1034245</PropertyID>
+			<PropertyReferenceID>66766</PropertyReferenceID>
+			<PropertyName>Bel-Ami</PropertyName>
+			<Rating>5.0</Rating>
+			<OurRating>5.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(06) Luxembourg &amp; St Germain</Resort>
+			<Strapline>## Overview Hotel Bel-Ami is a stylish 5-star property offering trendy accommodation in the heart of Paris. It boasts a tranquil health club, free Wi-Fi and an excellent location near the world-famous</Strapline>
+			<Description>## Overview Hotel Bel-Ami is a stylish 5-star property offering trendy accommodation in the heart of Paris. It boasts a tranquil health club, free Wi-Fi and an excellent location near the world-famous Louvre Museum and Musee d'Orsay. ## Location The hotel is situated on Rue Saint-Benoit. The 6th arrondissement is an exclusive district, home to famous cafes and art galleries, the seat of the French Senate and a high concentration of historic monuments. Nearby places of interest include the 7th-century Saint-Germain Abbey, the Odeon theatre, Saint-Sulpice Church and the beautiful Jardin du Luxembourg. Saint-Germain-des-Pres metro station is located in the vicinity, providing fast and easy access to other popular Paris destinations. ## Exterior The hotel is housed in a classic mid-rise building with a modern entrance. ## Leisure Facilities Facilities include a tranquil health club, which features a well-equipped fitness centre and sauna. It boasts a mosaic wall with aquarium as decoration, and a range of massages and spa treatments are available on request. Free Wi-Fi is available throughout the premises. ## Rooms Superior rooms are 19-22sqm and have a contemporary, warm and colourful design. They boast views of the street or internal courtyard. Amenities include air-conditioning, a flat-screen TV with on-demand content, iPod dock and mini-bar. The marble en-suite bathrooms feature a bathtub. ## Restaurant and bar B.A. Bar is a stylish venue that offers fine drinks and snacks throughout the day. A buffet breakfast is provided every morning and there are plenty of dining opportunities in the vicinity. ## Other Information The hotel has a 24-hour reception. Chargeable private parking is possible nearby.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext53/image_52965_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext53/imagethumb_52965_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>+WKUB84tdIJz629gk8H4GvWDVHV1dk6zNoha/qrk4Vyc9eQycIhQFuDkX6vXMOFyHMor97hnP5r/3ijwttRecl163oPI2Ck6y3EQ3hSPGztOpfC3R1qkQygzRoGghG+BZ0oiM5MpRTaFJ7ynIIYFE/pLjfgeJYOS/rCaFITARH4DWR1sLjDxKvgL9ntc8S882lEZYn7LUA4JI/pKGiVgznORuNcxmIHS</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Triple Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2446</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>2446</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+	</PropertyResults>
+</SearchResponse>

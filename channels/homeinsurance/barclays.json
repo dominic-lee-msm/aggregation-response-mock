@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Barclays",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "staging4.iquo.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/BARCWS/services/getQuote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "barclays-response-success.xml",
+        "fixedDelayMilliseconds": 1000
+    }
+}

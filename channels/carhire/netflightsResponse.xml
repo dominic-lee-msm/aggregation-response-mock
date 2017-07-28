@@ -1,0 +1,522 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Header>
+        <h:conversationId xmlns:h="urn:schemas-goldmedal-co-uk:messaging:ecommerceCarPartner:2010-03">
+            756a45aa-2f92-4740-98d1-f4777994c921
+        </h:conversationId>
+    </s:Header>
+    <s:Body>
+        <availableCarsResponse xmlns="urn:schemas-goldmedal-co-uk:messaging:ecommerceCarPartner:2010-03"
+                               xmlns:a="http://schemas.datacontract.org/2004/07/GoldMedal.Ecommerce.Partner.Domain.Car.Response"
+                               xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+            <a:cars>
+                <a:hireCar>
+                    <a:acrissCode>EDAR</a:acrissCode>
+                    <a:adults>2</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>2</a:children>
+                    <a:class>Economy</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=EDAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/EDAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1398181732594.png
+                    </a:imageUrl>
+                    <a:luggageLarge>0</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Chevrolet Spark or Similar</a:model>
+                    <a:price>57.36</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>ECAR</a:acrissCode>
+                    <a:adults>2</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>2</a:children>
+                    <a:class>Economy</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=ECAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>2</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/ECAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1427393759663.png
+                    </a:imageUrl>
+                    <a:luggageLarge>0</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Chevrolet Spark or Similar</a:model>
+                    <a:price>57.36</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>CCAR</a:acrissCode>
+                    <a:adults>2</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>3</a:children>
+                    <a:class>MidSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=CCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>2</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/CCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1423755550651.png
+                    </a:imageUrl>
+                    <a:luggageLarge>1</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Nissan Versa Sedan or Similar</a:model>
+                    <a:price>58.11</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>CDAR</a:acrissCode>
+                    <a:adults>2</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>3</a:children>
+                    <a:class>MidSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=CDAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/CDAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1398181723781.png
+                    </a:imageUrl>
+                    <a:luggageLarge>1</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Nissan Versa Sedan or Similar</a:model>
+                    <a:price>59.6</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>ICAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>FullSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=ICAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>2</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/ICAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1417468881116.png
+                    </a:imageUrl>
+                    <a:luggageLarge>1</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Toyota Corolla or Similar</a:model>
+                    <a:price>61.09</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>IDAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>FullSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=IDAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/IDAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1398181728446.png
+                    </a:imageUrl>
+                    <a:luggageLarge>1</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Toyota Corolla or Similar</a:model>
+                    <a:price>61.83</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>SCAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>MidSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=SCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/SCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1424187500900.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Chrysler 200 or Similar</a:model>
+                    <a:price>61.83</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>FCAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>FullSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=FCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/FCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1424184197004.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>3</a:luggageSmall>
+                    <a:model>Ford Fusion or Similar</a:model>
+                    <a:price>64.06</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>PDAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>Luxury</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=PDAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/PDAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1369010826224.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Chrysler 300 or Similar</a:model>
+                    <a:price>71.52</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>PCAR</a:acrissCode>
+                    <a:adults>5</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>0</a:children>
+                    <a:class>Luxury</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=PCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>2</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/CARS/PCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1423756766237.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>NISSAN MAXIMA OR SIMILAR</a:model>
+                    <a:price>71.52</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>IFAR</a:acrissCode>
+                    <a:adults>5</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>0</a:children>
+                    <a:class>SUV</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=IFAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>5</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/SUVS/IFAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1413995706030.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Toyota Rav 4 or Similar</a:model>
+                    <a:price>73.75</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>MVAR</a:acrissCode>
+                    <a:adults>7</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>0</a:children>
+                    <a:class>MiniVan</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=MVAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>5</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/VANS/MVAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1420568298654.png
+                    </a:imageUrl>
+                    <a:luggageLarge>3</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Dodge Grand Caravan or Similar</a:model>
+                    <a:price>80.45</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>SFAR</a:acrissCode>
+                    <a:adults>5</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>0</a:children>
+                    <a:class>SUV</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT71&amp;pickupprovider=AP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT71&amp;dropoffprovider=AP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=SFAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>5</a:doors>
+                    <a:imageUrl>
+                        https://assets.alamo.com/alamoData/vehicle/bookingCountries/US/SUVS/SFAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1423761324036.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Hyundai Santa Fe or Similar</a:model>
+                    <a:price>86.42</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>ECAR</a:acrissCode>
+                    <a:adults>2</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>2</a:children>
+                    <a:class>Economy</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=ECAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>2</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/CARS/ECAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1427393759663.png
+                    </a:imageUrl>
+                    <a:luggageLarge>0</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Chevrolet Spark or Similar</a:model>
+                    <a:price>60.34</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>CCAR</a:acrissCode>
+                    <a:adults>2</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>3</a:children>
+                    <a:class>MidSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=CCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>2</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/CARS/CCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1423755550651.png
+                    </a:imageUrl>
+                    <a:luggageLarge>1</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Nissan Versa Sedan or Similar</a:model>
+                    <a:price>61.09</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>ICAR</a:acrissCode>
+                    <a:adults>3</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>2</a:children>
+                    <a:class>FullSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=ICAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>2</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/CARS/ICAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1417468881116.png
+                    </a:imageUrl>
+                    <a:luggageLarge>1</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Toyota Corolla or Similar</a:model>
+                    <a:price>64.06</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>SCAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>MidSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=SCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/CARS/SCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1424187500900.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Chrysler 200 or Similar</a:model>
+                    <a:price>64.81</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>FCAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>FullSize</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=FCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/CARS/FCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1424184197004.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>3</a:luggageSmall>
+                    <a:model>Ford Fusion or Similar</a:model>
+                    <a:price>67.04</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>PCAR</a:acrissCode>
+                    <a:adults>4</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>1</a:children>
+                    <a:class>Luxury</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=PCAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>4</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/CARS/PCAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1423756766237.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Chrysler 300 or Similar</a:model>
+                    <a:price>75.24</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>IFAR</a:acrissCode>
+                    <a:adults>5</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>0</a:children>
+                    <a:class>SUV</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=IFAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>5</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/SUVS/IFAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1413995706030.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Toyota Rav 4 or Similar</a:model>
+                    <a:price>77.47</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>MVAR</a:acrissCode>
+                    <a:adults>7</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>0</a:children>
+                    <a:class>MiniVan</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=MVAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>5</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/VANS/MVAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1420568298654.png
+                    </a:imageUrl>
+                    <a:luggageLarge>3</a:luggageLarge>
+                    <a:luggageSmall>1</a:luggageSmall>
+                    <a:model>Dodge Grand Caravan or Similar</a:model>
+                    <a:price>84.18</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+                <a:hireCar>
+                    <a:acrissCode>SFAR</a:acrissCode>
+                    <a:adults>5</a:adults>
+                    <a:aircon>true</a:aircon>
+                    <a:children>0</a:children>
+                    <a:class>SUV</a:class>
+                    <a:deepLinkUrl>http://www.netflights.com/car-hire-quote.aspx?pickup=Syracuse Hancock International
+                        Airport&amp;pickupdepot=SYRT01&amp;pickupprovider=ZP&amp;dropoff=Syracuse Hancock International
+                        Airport&amp;dropoffdepot=SYRT01&amp;dropoffprovider=ZP&amp;pickupdate=10-10-2015 10:00&amp;dropoffdate=11-10-2015
+                        10:00&amp;carcode=SFAR&amp;resultsid=86bd6ae9-e0a0-4f61-82e8-6fcc9a024a53
+                    </a:deepLinkUrl>
+                    <a:description/>
+                    <a:doors>5</a:doors>
+                    <a:imageUrl>
+                        https://assets.nationalcar.com/content/national/data/vehicle/bookingCountries/US/SUVS/SFAR.doi.320.high.imageLargeThreeQuarterNodePath.png/1423761324036.png
+                    </a:imageUrl>
+                    <a:luggageLarge>2</a:luggageLarge>
+                    <a:luggageSmall>2</a:luggageSmall>
+                    <a:model>Hyundai Santa Fe or Similar</a:model>
+                    <a:price>90.88</a:price>
+                    <a:summary i:nil="true"/>
+                    <a:transmission>Automatic</a:transmission>
+                </a:hireCar>
+            </a:cars>
+            <a:version>1</a:version>
+        </availableCarsResponse>
+    </s:Body>
+</s:Envelope>

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "SSP",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "iconstestgrp17.ssp-hosting.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/SSP.MultiQuoteAggregatorV2/MotorMultiQuoteService.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "ssp-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

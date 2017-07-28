@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EasytobookResponse>
+	<Response target="production" username="moneysupermarket">
+		<Hotelinfo>
+			<Hotel>
+				<Id>741</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>1</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>1</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>1</NonSmoking>
+				</FacilityGroups>
+				<exact>741</exact>
+				<Roomtype>
+					<Roomid parentid="2470">2470</Roomid>
+					<Roomname>Triple Room</Roomname>
+					<Capacity>3</Capacity>
+					<Available>3</Available>
+					<Totalrate currency="EUR" GBP="401.0322">540.9091</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="40.1032">54.0909</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="441.1354">595</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="441.1354">595</Reckratetotal>
+					<Breakfast>0</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=741&amp;exact=741&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[2470]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=741&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>58624</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>58624</exact>
+				<Roomtype>
+					<Roomid parentid="23368">23368</Roomid>
+					<Roomname>Triple Room - Private Bathroom</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="589.7532">795.4545</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="58.9753">79.5455</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="648.7285">875</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="648.7285">875</Reckratetotal>
+					<Breakfast>0</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=58624&amp;exact=58624&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[23368]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=58624&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>82075</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>1</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>1</HasFitnessFacilities>
+					<NonSmoking>1</NonSmoking>
+				</FacilityGroups>
+				<exact>82075</exact>
+				<Roomtype>
+					<Roomid parentid="200359215">202612840</Roomid>
+					<Roomname>Deluxe Room (ART DECO)</Roomname>
+					<Capacity>3</Capacity>
+					<Available>8</Available>
+					<Totalrate currency="EUR" GBP="2415.6427">3258.2</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="241.5494">325.8</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="2657.1921">3584</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="2415.6427">3258.2</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=82075&amp;exact=82075&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202612840]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=82075&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200359215">202194782</Roomid>
+					<Roomname>Deluxe Room (ART DECO)</Roomname>
+					<Capacity>3</Capacity>
+					<Available>8</Available>
+					<Totalrate currency="EUR" GBP="2557.844">3450</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="255.7844">345</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="2813.6284">3795</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="2557.844">3450</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=82075&amp;exact=82075&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202194782]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=82075&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200359218">202612874</Roomid>
+					<Roomname>Three Persons Suite (MOSAIC)</Roomname>
+					<Capacity>3</Capacity>
+					<Available>8</Available>
+					<Totalrate currency="EUR" GBP="4050.105">5462.75</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="405.029">546.3</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="4455.134">6009.05</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="4050.105">5462.75</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=82075&amp;exact=82075&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202612874]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=82075&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200359218">202194802</Roomid>
+					<Roomname>Three Persons Suite (MOSAIC)</Roomname>
+					<Capacity>3</Capacity>
+					<Available>8</Available>
+					<Totalrate currency="EUR" GBP="4192.3063">5654.55</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="419.264">565.5</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="4611.5703">6220.05</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="4192.3063">5654.55</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=82075&amp;exact=82075&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202194802]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=82075&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200359217">202612862</Roomid>
+					<Roomname>Three Persons Suite (MACASSAR )</Roomname>
+					<Capacity>3</Capacity>
+					<Available>8</Available>
+					<Totalrate currency="EUR" GBP="5735.094">7735.45</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="573.5131">773.55</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="6308.6071">8509</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="5735.094">7735.45</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=82075&amp;exact=82075&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202612862]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=82075&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200359217">202194796</Roomid>
+					<Roomname>Three Persons Suite (MACASSAR )</Roomname>
+					<Capacity>3</Capacity>
+					<Available>8</Available>
+					<Totalrate currency="EUR" GBP="5877.2953">7927.25</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="587.7481">792.75</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="6465.0433">8720</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="5877.2953">7927.25</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=82075&amp;exact=82075&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202194796]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=82075&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>241357</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>1</NonSmoking>
+				</FacilityGroups>
+				<exact>241357</exact>
+				<Roomtype>
+					<Roomid parentid="200516378">202765431</Roomid>
+					<Roomname>Three Persons Junior Suite</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="556.0605">750.01</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="55.5979">74.99</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="611.6583">825</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="556.0605">750.01</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=241357&amp;exact=241357&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202765431]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=241357&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>1</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200516378">203402290</Roomid>
+					<Roomname>Three Persons Junior Suite</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="589.7573">795.46</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="58.9713">79.54</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="648.7285">875</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="589.7573">795.46</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=241357&amp;exact=241357&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203402290]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=241357&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200699809">203475364</Roomid>
+					<Roomname>Three Persons Room, Connecting Rooms</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="643.6796">868.19</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="64.3613">86.81</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="708.0409">955</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="643.6796">868.19</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=241357&amp;exact=241357&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203475364]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=241357&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>1</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200699809">203475367</Roomid>
+					<Roomname>Three Persons Room, Connecting Rooms</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="677.3764">913.64</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="67.7347">91.36</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="745.1111">1005</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="677.3764">913.64</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=241357&amp;exact=241357&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203475367]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=241357&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>22127</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>1</NonSmoking>
+				</FacilityGroups>
+				<exact>239718</exact>
+				<Roomtype>
+					<Roomid parentid="200521346">202778751</Roomid>
+					<Roomname>Three Persons Triple Room</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="532.4764">718.2</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="53.2328">71.8</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="585.7092">790</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="532.4764">718.2</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=22127&amp;exact=239718&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202778751]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=22127&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>68117</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>1</HasParking>
+					<PetsAllowed>1</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>253011</exact>
+				<Roomtype>
+					<Roomid parentid="200549529">202849442</Roomid>
+					<Roomname>Three Persons Comfort Triple Room</Roomname>
+					<Capacity>3</Capacity>
+					<Available>3</Available>
+					<Totalrate currency="EUR" GBP="535.8498">722.75</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="53.5664">72.25</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="589.4162">795</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="535.8498">722.75</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=68117&amp;exact=253011&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202849442]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=68117&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200549533">202849446</Roomid>
+					<Roomname>Three Persons Superior Triple Room</Roomname>
+					<Capacity>3</Capacity>
+					<Available>5</Available>
+					<Totalrate currency="EUR" GBP="738.0307">995.45</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="73.8068">99.55</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="811.8374">1095</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="738.0307">995.45</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=68117&amp;exact=253011&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202849446]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=68117&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>70424</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>245903</exact>
+				<Roomtype>
+					<Roomid parentid="200521029">202778320</Roomid>
+					<Roomname>Three Persons Standard Triple Room</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="657.1435">886.35</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="65.7255">88.65</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="722.8689">975</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="657.1435">886.35</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=70424&amp;exact=245903&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202778320]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=70424&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8272</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>1</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>265875</exact>
+				<Roomtype>
+					<Roomid parentid="200662644">203246411</Roomid>
+					<Roomname>Three Persons Suite</Roomname>
+					<Capacity>3</Capacity>
+					<Available>2</Available>
+					<Totalrate currency="EUR" GBP="998.8566">1347.25</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="99.9042">134.75</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1098.7608">1482</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="998.8566">1347.25</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8272&amp;exact=265875&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203246411]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8272&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8376</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>271756</exact>
+				<Roomtype>
+					<Roomid parentid="200516059">202764371</Roomid>
+					<Roomname>Three Persons Junior Suite (Quadruple)</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="866.086">1168.17</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="86.6182">116.83</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="952.7042">1285</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="866.086">1168.17</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8376&amp;exact=271756&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[202764371]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8376&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8907</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>1</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>261938</exact>
+				<Roomtype>
+					<Roomid parentid="200631185">203039216</Roomid>
+					<Roomname>Three Persons Quadruple Room</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="640.3136">863.65</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="64.0202">86.35</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="704.3338">950</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="640.3136">863.65</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8907&amp;exact=261938&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203039216]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8907&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>3072</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>1</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>1</NonSmoking>
+				</FacilityGroups>
+				<exact>281669</exact>
+				<Roomtype>
+					<Roomid parentid="200680572">203345623</Roomid>
+					<Roomname>Three Persons Duplex</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="762.3487">1028.25</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="79.1449">106.75</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="841.4936">1135</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="762.3487">1028.25</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=3072&amp;exact=281669&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203345623]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=3072&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>378697</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>1</HasInternet>
+					<HasParking>1</HasParking>
+					<PetsAllowed>1</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>1</NonSmoking>
+				</FacilityGroups>
+				<exact>378697</exact>
+				<Roomtype>
+					<Roomid parentid="200702522">203488973</Roomid>
+					<Roomname>Three Persons Prestige Room</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="946.9657">1277.26</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="94.707">127.74</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1041.6727">1405</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="946.9657">1277.26</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=378697&amp;exact=378697&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203488973]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=378697&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="200702541">203489055</Roomid>
+					<Roomname>Three Persons Suite, One Bedroom</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="1048.0784">1413.64</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="104.8049">141.36</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1152.8833">1555</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="1048.0784">1413.64</Reckratetotal>
+					<Breakfast>-2</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=378697&amp;exact=378697&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[203489055]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=378697&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=etb4&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>0</Bookable>
+						<Chargepoint>web</Chargepoint>
+						<Requirements>
+							<Capacity>1</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>1</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>1</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>13475</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>485651</exact>
+				<Roomtype>
+					<Roomid parentid="-292362912">-292362912</Roomid>
+					<Roomname>Three Persons Standard + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="772.2835">1041.65</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="54.0484">72.9</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="826.3319">1114.55</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="826.3319">1114.55</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=13475&amp;exact=485651&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[-292362912]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=13475&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>1</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>39071</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>413426</exact>
+				<Roomtype>
+					<Roomid parentid="680757288">680757288</Roomid>
+					<Roomname>Three Persons Standard + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="909.4062">1226.6</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="63.6495">85.85</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="973.0557">1312.45</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="973.0557">1312.45</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=39071&amp;exact=413426&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[680757288]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=39071&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8980</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>413033</exact>
+				<Roomtype>
+					<Roomid parentid="-1340828619">-1340828619</Roomid>
+					<Roomname>Three Persons Standard</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="515.7948">695.7</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="36.1064">48.7</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="551.9012">744.4</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="551.9012">744.4</Reckratetotal>
+					<Breakfast>0</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8980&amp;exact=413033&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[-1340828619]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8980&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8252</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>412934</exact>
+				<Roomtype>
+					<Roomid parentid="972848209">972848209</Roomid>
+					<Roomname>Three Persons Deluxe + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="1128.2687">1521.8</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="78.9966">106.55</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1207.2653">1628.35</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="1207.2653">1628.35</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8252&amp;exact=412934&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[972848209]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8252&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>117478</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>413065</exact>
+				<Roomtype>
+					<Roomid parentid="972848209">972848209</Roomid>
+					<Roomname>Three Persons Deluxe + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="576.7753">777.95</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="40.3695">54.45</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="617.1447">832.4</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="617.1447">832.4</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=117478&amp;exact=413065&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[972848209]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=117478&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8284</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>413521</exact>
+				<Roomtype>
+					<Roomid parentid="-1274322206">-1274322206</Roomid>
+					<Roomname>Three Persons Superior + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="1450.1493">1955.95</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="101.4982">136.9</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1551.6475">2092.85</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="1551.6475">2092.85</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8284&amp;exact=413521&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[-1274322206]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8284&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="-2074495938">-2074495938</Roomid>
+					<Roomname>Three Persons Deluxe + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="1533.965">2069</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="107.3924">144.85</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1641.3574">2213.85</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="1641.3574">2213.85</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8284&amp;exact=413521&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[-2074495938]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8284&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>39027</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>413645</exact>
+				<Roomtype>
+					<Roomid parentid="680757288">680757288</Roomid>
+					<Roomname>Three Persons Standard</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="959.0803">1293.6</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="67.1341">90.55</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1026.2144">1384.15</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="1026.2144">1384.15</Reckratetotal>
+					<Breakfast>0</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=39027&amp;exact=413645&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[680757288]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=39027&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>0</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8750</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>413156</exact>
+				<Roomtype>
+					<Roomid parentid="680757288">680757288</Roomid>
+					<Roomname>Three Persons Standard + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="401.9893">542.2</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="28.1363">37.95</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="430.1256">580.15</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="430.1256">580.15</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8750&amp;exact=413156&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[680757288]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8750&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>8748</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>413290</exact>
+				<Roomtype>
+					<Roomid parentid="-309431212">-309431212</Roomid>
+					<Roomname>Three Persons Standard + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="594.7914">802.25</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="41.6298">56.15</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="636.4212">858.4</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="636.4212">858.4</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=8748&amp;exact=413290&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[-309431212]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=8748&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>1</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+			<Hotel>
+				<Id>38960</Id>
+				<FacilityGroups>
+					<HandicapFacilities>0</HandicapFacilities>
+					<HasInternet>0</HasInternet>
+					<HasParking>0</HasParking>
+					<PetsAllowed>0</PetsAllowed>
+					<HasChildDiscount>0</HasChildDiscount>
+					<HasSwimmingPool>0</HasSwimmingPool>
+					<HasAirCon>0</HasAirCon>
+					<HasFitnessFacilities>0</HasFitnessFacilities>
+					<NonSmoking>0</NonSmoking>
+				</FacilityGroups>
+				<exact>412960</exact>
+				<Roomtype>
+					<Roomid parentid="972848209">972848209</Roomid>
+					<Roomname>Three Persons Deluxe + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="1339.124">1806.2</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="93.7505">126.45</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="1432.8745">1932.65</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="1432.8745">1932.65</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=38960&amp;exact=412960&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[972848209]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=38960&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>0</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+				<Roomtype>
+					<Roomid parentid="1797756708">1797756708</Roomid>
+					<Roomname>Three Persons Suite + Breakfast</Roomname>
+					<Capacity>3</Capacity>
+					<Available>1</Available>
+					<Totalrate currency="EUR" GBP="2070.2967">2792.4</Totalrate>
+					<TotalTaxesAndFees currency="EUR" GBP="144.9074">195.45</TotalTaxesAndFees>
+					<TotalChargeable currency="EUR" GBP="2215.2041">2987.85</TotalChargeable>
+					<Reckratetotal currency="EUR" GBP="2215.2041">2987.85</Reckratetotal>
+					<Breakfast>1</Breakfast>
+					<Booklink>https://secure.easytobook.com/booking_screen.php?hotel_id=38960&amp;exact=412960&amp;city_id=9&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;lang=en&amp;room[1797756708]=1&amp;persons=3&amp;rooms=1&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Booklink>
+					<Hoteldetailslink>http://www.easytobook.com/hotel_proxy.php?hotel_id=38960&amp;lang=en&amp;arrival=27-03-2015&amp;departure=01-04-2015&amp;currency=GBP&amp;prs_arr%5B0%5D=3&amp;amu=280823078&amp;utm_source=moneysupermarket&amp;utm_medium=affiliate&amp;utm_term=Paris&amp;utm_content=&amp;utm_campaign=en</Hoteldetailslink>
+					<Specialoffers/>
+					<Bookingconditions>
+						<Bookable>1</Bookable>
+						<Chargepoint>hotel</Chargepoint>
+						<Requirements>
+							<Capacity>0</Capacity>
+							<Creditcardcvc>1</Creditcardcvc>
+							<Billingaddress>0</Billingaddress>
+						</Requirements>
+					</Bookingconditions>
+					<Rateinfo>
+						<Underoccupancy>0</Underoccupancy>
+						<Earlybooking>0</Earlybooking>
+						<Lastminutebooking>0</Lastminutebooking>
+						<Nonrefundable>1</Nonrefundable>
+						<Breakfastincluded>1</Breakfastincluded>
+					</Rateinfo>
+				</Roomtype>
+			</Hotel>
+		</Hotelinfo>
+	</Response>
+</EasytobookResponse>

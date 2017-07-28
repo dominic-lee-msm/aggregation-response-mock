@@ -1,0 +1,15 @@
+{
+    "scenarioName": "SagaTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "aggs.saga.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/sagaquote.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "saga-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

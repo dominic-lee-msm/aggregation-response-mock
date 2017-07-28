@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+  <s:Body>
+    <SendToBackOfficeResponse xmlns="http://tagglservices.net">
+      <SendToBackOfficeResult>&lt;?xml version="1.0" encoding="utf-16"?&gt;&#xD;&lt;SendToBrokerOutput xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://taaglservices.net/TAAGL.xsd"&gt;&#xD;  &lt;Successful&gt;true&lt;/Successful&gt;&#xD;&lt;/SendToBrokerOutput&gt;</SendToBackOfficeResult>
+    </SendToBackOfficeResponse>
+  </s:Body>
+</s:Envelope>

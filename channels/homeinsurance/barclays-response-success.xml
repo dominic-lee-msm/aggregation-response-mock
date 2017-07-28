@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><soapenv:Body><processData xmlns="http://www.iquo.co.uk/schemas/processData" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+    <client>
+        <title>003</title>
+        <forename>Reg</forename>
+        <clientType>IN</clientType>
+        <surname>Pack</surname>
+        <address>
+            <houseNameNumber>1</houseNameNumber>
+            <addressLine1>Stanbury Avenue</addressLine1>
+            <town>Wirral</town>
+            <county>Merseyside</county>
+            <postcode>CH63 7ND</postcode>
+        </address>
+        <dateOfBirth>
+            <day>1</day>
+            <month>1</month>
+            <year>1966</year>
+        </dateOfBirth>
+        <gender>M</gender>
+        <maritalStatus>M</maritalStatus>
+        <convictionInd>No</convictionInd>
+        <phoneNumber>07412345678</phoneNumber>
+        <emailAddress>regpack@test.com</emailAddress>
+        <contactAllowedInd>No</contactAllowedInd>
+        <bankruptcyInd>No</bankruptcyInd>
+        <ccjInd>No</ccjInd>
+        <refusedInd>No</refusedInd>
+        <specialConditionsInd>No</specialConditionsInd>
+        <employmentDetails>
+            <employmentDetail index="0">
+                <primaryEmploymentInd>Yes</primaryEmploymentInd>
+                <occupation>N</occupation>
+                <employmentType>E</employmentType>
+                <fullTimeEmployedInd>Yes</fullTimeEmployedInd>
+            </employmentDetail>
+        </employmentDetails>
+        
+    <policies>
+            <policy index="0">
+                <policyType>2</policyType>
+                <inceptionDate>
+                    <day>28</day>
+                    <month>10</month>
+                    <year>2015</year>
+                <hour>00</hour><minute>00</minute><second>00</second></inceptionDate>
+                <expiryDate>
+                    <day>27</day>
+                    <month>10</month>
+                    <year>2016</year>
+                <hour>23</hour><minute>59</minute><second>59</second></expiryDate>
+                <firstTimeInsuredInd>No</firstTimeInsuredInd>
+                <previousPolicies>
+                    <previousPolicy name="01">
+                        <paymentRegularity>0001</paymentRegularity>
+                    </previousPolicy>
+                </previousPolicies>
+                <householdPolicy>
+                    <claims />
+                    <insuredPremises>
+                        <premises index="0">
+                            <address>
+                                <houseNameNumber>1</houseNameNumber>
+                                <addressLine1>Stanbury Avenue</addressLine1>
+                                <town>Wirral</town>
+                                <county>Merseyside</county>
+                                <postcode>CH63 7ND</postcode>
+                            </address>
+                            <yearBuilt>1966</yearBuilt>
+                            <smokerInd>No</smokerInd>
+                            <alarmMaintenance>No</alarmMaintenance>
+                            <alarmType>NA</alarmType>
+                            <constructRoof>15</constructRoof>
+                            <flatRoofPercentage>0</flatRoofPercentage>
+                            <constructWall>02</constructWall>
+                            <businessUseInd>No</businessUseInd>
+                            <businessUseType>N</businessUseType>
+                            <selfContainedInd>Yes</selfContainedInd>
+                            <freeFromSubsidenceInd>Yes</freeFromSubsidenceInd>
+                            <freeFromFloodingInd>Yes</freeFromFloodingInd>
+                            <smokeAlarmInd>Yes</smokeAlarmInd>
+                            <neighbourhoodWatchInd>No</neighbourhoodWatchInd>
+                            <goodRepairInd>Yes</goodRepairInd>
+                            <occupancyStatus>PH</occupancyStatus>
+                            <daytimeOccupancy>002</daytimeOccupancy>
+                            <unoccupiedPeriod>7</unoccupiedPeriod>
+                            <physicalProtectionDoors>Yes</physicalProtectionDoors>
+                            <physicalProtectionWindows>Yes</physicalProtectionWindows>
+                            <noBedrooms>3</noBedrooms>
+                            <noBathrooms>1</noBathrooms>
+                            <noResidentAdults>2</noResidentAdults>
+                            <noResidentChildren>1</noResidentChildren>
+                            <noLodgers>0</noLodgers>
+                            <ownership>M</ownership>
+                            <propertyType>10</propertyType>
+                            <listedBuildingType>3</listedBuildingType>
+                            <listedBuildingInd>No</listedBuildingInd>
+                            <covers>
+                                <cover name="BULD">
+                                    <coverType>B</coverType>
+                                    <coverCode>BULD</coverCode>
+                                    <coverRequiredInd>Yes</coverRequiredInd>
+                                    <amount>131000</amount>
+                                    <volxs>200</volxs>
+                                    <accidentalDamageInd>No</accidentalDamageInd>
+                                    <yearsNcd>5</yearsNcd>
+                                    <protectedNcdInd>No</protectedNcdInd>
+                                </cover>
+                                <cover name="CONT">
+                                    <coverType>C</coverType>
+                                    <coverCode>CONT</coverCode>
+                                    <coverRequiredInd>Yes</coverRequiredInd>
+                                    <amount>35000</amount>
+                                    <volxs>200</volxs>
+                                    <accidentalDamageInd>No</accidentalDamageInd>
+                                    <yearsNcd>5</yearsNcd>
+                                    <protectedNcdInd>No</protectedNcdInd>
+                                </cover>
+                                <cover name="VALU">
+                                    <coverCode>VALU</coverCode>
+                                    <coverRequiredInd>Yes</coverRequiredInd>
+                                    <amount>0</amount>
+                                </cover>
+                            </covers>
+                        </premises>
+                    </insuredPremises>
+                </householdPolicy>
+            <avivaCampaignCode /><NoADLevel>NONE</NoADLevel><effectiveDate><year>2015</year><month>10</month><day>28</day><hour>00</hour><minute>00</minute><second>00</second></effectiveDate><quotes><quote index="0"><schemeCode>BarNUDHome</schemeCode><schemeName>MC Barclays/Woolwich Home</schemeName><premiumExclIpt>130</premiumExclIpt><premiumInclIpt>9999.99</premiumInclIpt><iptPercentage>5.0</iptPercentage><covers><cover name="BULD"><coverCode>BULD</coverCode><premiumExclIpt>75.0</premiumExclIpt><premiumInclIpt>99.99</premiumInclIpt><iptPercentage>6</iptPercentage></cover><cover name="CONT"><coverCode>CONT</coverCode><premiumExclIpt>55.0</premiumExclIpt><premiumInclIpt>99.99</premiumInclIpt><iptPercentage>6</iptPercentage></cover><cover name="VALU"><coverCode>VALU</coverCode><premiumExclIpt>0.0</premiumExclIpt><premiumInclIpt>0.0</premiumInclIpt><iptPercentage>6</iptPercentage></cover></covers><sumsInsured><sumInsured name="BULD"><coverCode>BULD</coverCode><allowedSI>500000</allowedSI><requestedSI>131000</requestedSI><ratingSI>120347.18717405</ratingSI></sumInsured><sumInsured name="CONT"><coverCode>CONT</coverCode><allowedSI>35000</allowedSI><requestedSI>35000</requestedSI><ratingSI>35000</ratingSI></sumInsured></sumsInsured><notes><note index="0"><code>13</code><description>0</description><noteType>ADMT</noteType></note><note index="1"><code>14</code><description>25</description><noteType>ADCN</noteType></note><note index="2"><code>7</code><description>Buildings AD cover available</description><noteType>UPSE</noteType></note><note index="3"><code>8</code><description>Contents AD cover available</description><noteType>UPSE</noteType></note><note index="4"><code>35</code><description>CVM Value = Blank</description><noteType>OTHE</noteType></note><note index="5"><description>************MIN-PREM-IND=1</description><noteType>SIFD</noteType></note><note index="6"><description>*******PREM-PRE-MIN-RATE=000000055.01</description><noteType>SIFD</noteType></note><note index="7"><description>*******WEB-DISCOUNT-PCNT=46.3900</description><noteType>SIFD</noteType></note><note index="8"><description>******NEW-BUSINESS-AMOUNT=000000055.01</description><noteType>SIFD</noteType></note><note index="9"><description>************MIN-PREM-IND=1</description><noteType>SIFD</noteType></note><note index="10"><description>*******PREM-PRE-MIN-RATE=000000020.10</description><noteType>SIFD</noteType></note><note index="11"><description>*******WEB-DISCOUNT-PCNT=46.3900</description><noteType>SIFD</noteType></note><note index="12"><description>******NEW-BUSINESS-AMOUNT=000000020.10</description><noteType>SIFD</noteType></note><note index="13"><description>*********DUAL_RATING_BAND2</description><noteType>SIFD</noteType></note><note index="14"><description>************PREM-EXC-IPT=000000075.00</description><noteType>SIFD</noteType></note><note index="15"><description>************PREM-EXC-IPT=000000055.00</description><noteType>SIFD</noteType></note><note index="16"><description>************PREM-EXC-IPT=000000000.00</description><noteType>SIFD</noteType></note><note index="17"><description>COVER-ANNUAL-NET-PREMIUM=000000068.18</description><noteType>SIFD</noteType></note><note index="18"><description>COVER-ANNUAL-NET-PREMIUM=000000050.00</description><noteType>SIFD</noteType></note><note index="19"><description>*****FLOOD-FREQ-DISTRICT=0014</description><noteType>SIFD</noteType></note><note index="20"><description>*****FLOOD-COST-DISTRICT=0011</description><noteType>SIFD</noteType></note><note index="21"><description>*****STORM-FREQ-DISTRICT=0026</description><noteType>SIFD</noteType></note><note index="22"><description>*****STORM-COST-DISTRICT=0002</description><noteType>SIFD</noteType></note><note index="23"><description>******FIRE-FREQ-DISTRICT=0006</description><noteType>SIFD</noteType></note><note index="24"><description>******FIRE-COST-DISTRICT=0007</description><noteType>SIFD</noteType></note><note index="25"><description>********AD-FREQ-DISTRICT=0015</description><noteType>SIFD</noteType></note><note index="26"><description>********AD-COST-DISTRICT=0010</description><noteType>SIFD</noteType></note><note index="27"><description>******SUBS-FREQ-DISTRICT=0017</description><noteType>SIFD</noteType></note><note index="28"><description>******SUBS-COST-DISTRICT=0007</description><noteType>SIFD</noteType></note><note index="29"><description>*******EOW-FREQ-DISTRICT=0013</description><noteType>SIFD</noteType></note><note index="30"><description>*******EOW-COST-DISTRICT=0020</description><noteType>SIFD</noteType></note><note index="31"><description>*****OTHER-FREQ-DISTRICT=0008</description><noteType>SIFD</noteType></note><note index="32"><description>*****OTHER-COST-DISTRICT=0027</description><noteType>SIFD</noteType></note><note index="33"><description>************OPT-DISTRICT=0011</description><noteType>SIFD</noteType></note><note index="34"><description>*****EXPERIAN-HOUSE-SIZE=0016</description><noteType>SIFD</noteType></note><note index="35"><description>********EXPERIAN-REBUILD=0000</description><noteType>SIFD</noteType></note><note index="36"><description>**********FLOOD-CATEGORY=0011</description><noteType>SIFD</noteType></note><note index="37"><description>*****FLOOD-FREQ-DISTRICT=0016</description><noteType>SIFD</noteType></note><note index="38"><description>*****FLOOD-COST-DISTRICT=0006</description><noteType>SIFD</noteType></note><note index="39"><description>*****THEFT-FREQ-DISTRICT=0007</description><noteType>SIFD</noteType></note><note index="40"><description>*****THEFT-COST-DISTRICT=0011</description><noteType>SIFD</noteType></note><note index="41"><description>******FIRE-FREQ-DISTRICT=0011</description><noteType>SIFD</noteType></note><note index="42"><description>******FIRE-COST-DISTRICT=0019</description><noteType>SIFD</noteType></note><note index="43"><description>********AD-FREQ-DISTRICT=0012</description><noteType>SIFD</noteType></note><note index="44"><description>********AD-COST-DISTRICT=0007</description><noteType>SIFD</noteType></note><note index="45"><description>*******EOW-FREQ-DISTRICT=0013</description><noteType>SIFD</noteType></note><note index="46"><description>*******EOW-COST-DISTRICT=0008</description><noteType>SIFD</noteType></note><note index="47"><description>*****OTHER-FREQ-DISTRICT=0010</description><noteType>SIFD</noteType></note><note index="48"><description>*****OTHER-COST-DISTRICT=0014</description><noteType>SIFD</noteType></note><note index="49"><description>************OPT-DISTRICT=0006</description><noteType>SIFD</noteType></note><note index="50"><description>*****EXPERIAN-HOUSE-SIZE=0005</description><noteType>SIFD</noteType></note><note index="51"><description>********EXPERIAN-REBUILD=0015</description><noteType>SIFD</noteType></note><note index="52"><description>**********FLOOD-CATEGORY=0011</description><noteType>SIFD</noteType></note><note index="53"><description>MINIMUM-SECURITY-APPLIES=Y</description><noteType>SIFD</noteType></note><note index="54"><description>EXTENDED-COVERS-DISTRICT=7 </description><noteType>SIFD</noteType></note><note index="55"><description>EXTENDED-COVERS-DISTRICT=7 </description><noteType>SIFD</noteType></note><note index="56"><description>EXTENDED-COVERS-DISTRICT=7 </description><noteType>SIFD</noteType></note><note index="57"><description>EXTENDED-COVERS-DISTRICT=7 </description><noteType>SIFD</noteType></note><note index="58"><description>EXTENDED-COVERS-DISTRICT=7 </description><noteType>SIFD</noteType></note><note index="59"><description>***********NUM-RATD-CLMS=0</description><noteType>SIFD</noteType></note><note index="60"><description>***********NUM-RATD-CLMS=0</description><noteType>SIFD</noteType></note><note index="61"><description>00000000000</description><noteType>SIFD</noteType></note><note index="62"><description>00000000000</description><noteType>SIFD</noteType></note></notes><excesses><excess name="BULD"><code>VOL</code><amount>200</amount><sectionCode>BULD</sectionCode></excess><excess name="CONT"><code>VOL</code><amount>200</amount><sectionCode>CONT</sectionCode></excess><excess name="BULD"><code>SUB</code><amount>1000</amount><sectionCode>BULD</sectionCode></excess></excesses><endorsements /><declines /><referrals /><items /><optionalCovers><optionalCover index="0"><coverCode>LESE</coverCode><description>Legal Expenses</description><premiumExclIpt>9.99</premiumExclIpt><premiumInclIpt>99.99</premiumInclIpt></optionalCover><optionalCover index="1"><coverCode>HOEM</coverCode><description>Home Emergency</description><premiumExclIpt>49.01</premiumExclIpt><premiumInclIpt>54.53</premiumInclIpt></optionalCover></optionalCovers></quote></quotes><quoteDate><year>2015</year><month>10</month><day>27</day><hour>16</hour><minute>05</minute><second>21</second></quoteDate></policy>
+        </policies></client>
+<paymentDetails><paymentOptions><paymentOption name="SP"><paymentType>SP</paymentType><totalToPay>137.80</totalToPay><deposit>137.80</deposit><minimumDeposit>137.80</minimumDeposit><charge>0.00</charge><apr>0.0</apr></paymentOption><paymentOption name="MP"><paymentType>MP</paymentType><totalToPay>137.80</totalToPay><deposit>11.52</deposit><minimumDeposit>11.52</minimumDeposit><charge>0.00</charge><apr>0.0</apr><numberOfPayments>12</numberOfPayments><monthlyPayment>11.48</monthlyPayment></paymentOption></paymentOptions></paymentDetails><clickReference>396995</clickReference><clickThroughReference>d1hZyaKcBwOLPCaTKqzerqNGQu9eQ1GS</clickThroughReference></processData></soapenv:Body></soapenv:Envelope>

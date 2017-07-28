@@ -1,0 +1,14 @@
+{
+    "scenarioName": "Budget",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/wsbang/HTTPSOAPRouter/ws9071"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "budget-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

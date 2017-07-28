@@ -1,0 +1,15 @@
+{
+    "scenarioName": "LateRooms",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "xmlfeed.laterooms.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/index.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "LateRoomsResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

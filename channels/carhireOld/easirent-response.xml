@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<easirent>
+    <vehicle>
+        <vehicleType>A</vehicleType>
+        <SIPP>MDMV</SIPP>
+        <currency>GBP</currency>
+        <price>15.6513</price>
+        <description>Fiat 500 3DR (Manual) or similar</description>
+        <doors>3</doors>
+        <doors>5</doors>
+        <aircon>Yes</aircon>
+        <fuelType>Petrol</fuelType>
+        <transType>Manual</transType>
+        <extras>
+            <extra>
+                <description>1 Additional Driver</description>
+                <price>0</price>
+            </extra>
+            <extra>
+                <description>2 Additional Drivers</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>3 Additional Drivers</description>
+                <price>20</price>
+            </extra>
+            <extra>
+                <description>Sat Nav</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>1 Booster Seat</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>2 Booster Seats</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>1 Baby Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Baby Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>1 Child Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Child Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>Pay As You Go Mobile</description>
+                <price>5</price>
+            </extra>
+        </extras>
+        <deeplink>
+            <![CDATA[
+        http://www.easirent.com/clynch/quote_results_with_discount.asp?VType=1&DateStart=18&MonthStart=11&YearStart=2013&HourStart=15:26&DepotStart=LHR&DateReturn=19&MonthReturn=11&YearReturn=2013&HourReturn=15:26&DepotReturn=LHR&currID=GBP&EstMiles=undefined&driversAge=30&Bcode=$BRO34&bname=travelsuper
+        ]]>
+        </deeplink>
+        <pictureUrl>http://www.easirent.com/vehicle_images_thum/285.gif</pictureUrl>
+    </vehicle>
+
+    <vehicle>
+        <vehicleType>C</vehicleType>
+        <SIPP>CDMV</SIPP>
+        <currency>GBP</currency>
+        <price>17.9133</price>
+        <description>Ford Focus (Manual) or similar</description>
+        <doors>5</doors>
+        <doors>0</doors>
+        <aircon>Yes</aircon>
+        <fuelType>Petrol</fuelType>
+        <transType>Manual</transType>
+        <extras>
+            <extra>
+                <description>1 Additional Driver</description>
+                <price>0</price>
+            </extra>
+            <extra>
+                <description>2 Additional Drivers</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>3 Additional Drivers</description>
+                <price>20</price>
+            </extra>
+            <extra>
+                <description>Sat Nav</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>1 Booster Seat</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>2 Booster Seats</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>1 Baby Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Baby Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>1 Child Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Child Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>Pay As You Go Mobile</description>
+                <price>5</price>
+            </extra>
+        </extras>
+        <deeplink>
+            <![CDATA[
+        http://www.easirent.com/clynch/quote_results_with_discount.asp?VType=1&DateStart=18&MonthStart=11&YearStart=2013&HourStart=15:26&DepotStart=LHR&DateReturn=19&MonthReturn=11&YearReturn=2013&HourReturn=15:26&DepotReturn=LHR&currID=GBP&EstMiles=undefined&driversAge=30&Bcode=$BRO34&bname=travelsuper
+        ]]>
+        </deeplink>
+        <pictureUrl>http://www.easirent.com/vehicle_images_thum/288.gif</pictureUrl>
+    </vehicle>
+
+    <vehicle>
+        <vehicleType>D</vehicleType>
+        <SIPP>IDMD</SIPP>
+        <currency>GBP</currency>
+        <price>32.7918</price>
+        <description>Ford Mondeo (Manual) or similar</description>
+        <doors>5</doors>
+        <doors>5</doors>
+        <aircon>Yes</aircon>
+        <fuelType>Diesel</fuelType>
+        <transType>Manual</transType>
+        <extras>
+            <extra>
+                <description>1 Additional Driver</description>
+                <price>0</price>
+            </extra>
+            <extra>
+                <description>2 Additional Drivers</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>3 Additional Drivers</description>
+                <price>20</price>
+            </extra>
+            <extra>
+                <description>Sat Nav</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>1 Booster Seat</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>2 Booster Seats</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>1 Baby Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Baby Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>1 Child Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Child Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>Pay As You Go Mobile</description>
+                <price>5</price>
+            </extra>
+        </extras>
+        <deeplink>
+            <![CDATA[
+        http://www.easirent.com/clynch/quote_results_with_discount.asp?VType=1&DateStart=18&MonthStart=11&YearStart=2013&HourStart=15:26&DepotStart=LHR&DateReturn=19&MonthReturn=11&YearReturn=2013&HourReturn=15:26&DepotReturn=LHR&currID=GBP&EstMiles=undefined&driversAge=30&Bcode=$BRO34&bname=travelsuper
+        ]]>
+        </deeplink>
+        <pictureUrl>http://www.easirent.com/vehicle_images_thum/154.gif</pictureUrl>
+    </vehicle>
+
+    <vehicle>
+        <vehicleType>M1</vehicleType>
+        <SIPP>SVMD</SIPP>
+        <currency>GBP</currency>
+        <price>43.4913</price>
+        <description>Vauxhall Zafira 7 Seats (Manual) or similar</description>
+        <doors>5</doors>
+        <doors>7</doors>
+        <aircon>Yes</aircon>
+        <fuelType>Diesel</fuelType>
+        <transType>Manual</transType>
+        <extras>
+            <extra>
+                <description>1 Additional Driver</description>
+                <price>0</price>
+            </extra>
+            <extra>
+                <description>2 Additional Drivers</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>3 Additional Drivers</description>
+                <price>20</price>
+            </extra>
+            <extra>
+                <description>Sat Nav</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>1 Booster Seat</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>2 Booster Seats</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>1 Baby Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Baby Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>1 Child Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Child Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>Pay As You Go Mobile</description>
+                <price>5</price>
+            </extra>
+        </extras>
+        <deeplink>
+            <![CDATA[
+        http://www.easirent.com/clynch/quote_results_with_discount.asp?VType=1&DateStart=18&MonthStart=11&YearStart=2013&HourStart=15:26&DepotStart=LHR&DateReturn=19&MonthReturn=11&YearReturn=2013&HourReturn=15:26&DepotReturn=LHR&currID=GBP&EstMiles=undefined&driversAge=30&Bcode=$BRO34&bname=travelsuper
+        ]]>
+        </deeplink>
+        <pictureUrl>http://www.easirent.com/vehicle_images_thum/240.gif</pictureUrl>
+    </vehicle>
+
+    <vehicle>
+        <vehicleType>M2</vehicleType>
+        <SIPP>FVMD</SIPP>
+        <currency>GBP</currency>
+        <price>52.1913</price>
+        <description>Ford Galaxy 7 Seats (Manual) or similar</description>
+        <doors>5</doors>
+        <doors>7</doors>
+        <aircon>Yes</aircon>
+        <fuelType>Diesel</fuelType>
+        <transType>Manual</transType>
+        <extras>
+            <extra>
+                <description>1 Additional Driver</description>
+                <price>0</price>
+            </extra>
+            <extra>
+                <description>2 Additional Drivers</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>3 Additional Drivers</description>
+                <price>20</price>
+            </extra>
+            <extra>
+                <description>Sat Nav</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>1 Booster Seat</description>
+                <price>5</price>
+            </extra>
+            <extra>
+                <description>2 Booster Seats</description>
+                <price>10</price>
+            </extra>
+            <extra>
+                <description>1 Baby Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Baby Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>1 Child Seat</description>
+                <price>6</price>
+            </extra>
+            <extra>
+                <description>2 Child Seats</description>
+                <price>12</price>
+            </extra>
+            <extra>
+                <description>Pay As You Go Mobile</description>
+                <price>5</price>
+            </extra>
+        </extras>
+        <deeplink>
+            <![CDATA[
+        http://www.easirent.com/clynch/quote_results_with_discount.asp?VType=1&DateStart=18&MonthStart=11&YearStart=2013&HourStart=15:26&DepotStart=LHR&DateReturn=19&MonthReturn=11&YearReturn=2013&HourReturn=15:26&DepotReturn=LHR&currID=GBP&EstMiles=undefined&driversAge=30&Bcode=$BRO34&bname=travelsuper
+        ]]>
+        </deeplink>
+        <pictureUrl>http://www.easirent.com/vehicle_images_thum/241.gif</pictureUrl>
+    </vehicle>
+</easirent>

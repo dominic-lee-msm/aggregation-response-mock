@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:aggregateQuoteResponse xmlns:ns="http://schemas.cdlis.co.uk/aggregator/api/v3-9">
+  <transactionID>81f4017cf64f162f:27a193c9:150a8893b17:-696c.Wed Oct 28 13:38:02 GMT 2015</transactionID>
+  <brokerResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <brokerRef>Tesco-Standard</brokerRef>
+    <webReference>6EA-4D7-F9D</webReference>
+    <quote xsi:type="ns:aggregateQuoteResultTypeHC">
+      <premium>999999</premium>
+      <ipt>630</ipt>
+      <iptRate>6.0</iptRate>
+      <insurerCode>TH</insurerCode>
+      <insurerName>Tesco Underwriting Ltd</insurerName>
+      <schemeCode>HL</schemeCode>
+      <schemeName>NB HPR</schemeName>
+      <reason />
+      <guaranteedIndicator>false</guaranteedIndicator>
+      <referedIndicator>false</referedIndicator>
+      <subsidenceExcess>100000</subsidenceExcess>
+      <buildingsVoluntaryExcess>25000</buildingsVoluntaryExcess>
+      <buildingsCompulsoryExcess>10000</buildingsCompulsoryExcess>
+      <contentsSumInsured>7500000</contentsSumInsured>
+      <contentsVoluntaryExcess>25000</contentsVoluntaryExcess>
+      <contentsCompulsoryExcess>10000</contentsCompulsoryExcess>
+      <contentsMaxValuables>1500000</contentsMaxValuables>
+      <contentsItemLimit>0</contentsItemLimit>
+      <cashSumInsured>0</cashSumInsured>
+      <maxCashCreditClaim>0</maxCashCreditClaim>
+      <frozenFoodSumInsured>0</frozenFoodSumInsured>
+      <buildingsSumInsured>999999900</buildingsSumInsured>
+      <buildingsAccDamGranted>false</buildingsAccDamGranted>
+      <contentsAccDamGranted>false</contentsAccDamGranted>
+      <allRisksUnspecifiedValuablesGranted>0</allRisksUnspecifiedValuablesGranted>
+      <allRisksPersonalEffectsGranted>0</allRisksPersonalEffectsGranted>
+      <instalments>
+        <instalment>
+          <schemeName>Renewals</schemeName>
+          <deposit>0</deposit>
+          <numberOfPayments>12</numberOfPayments>
+          <amount>9999</amount>
+          <schemeCode>7</schemeCode>
+          <flatInterestAmount>9999</flatInterestAmount>
+          <variedAmount>0</variedAmount>
+          <fundedIndicator>false</fundedIndicator>
+          <interestPercentage>0</interestPercentage>
+          <depositFee>0</depositFee>
+          <interestTotal>0</interestTotal>
+        </instalment>
+      </instalments>
+    </quote>
+    <optionalExtensionDisplayInformation>
+      <optionalExtensionInformation>
+        <type>Legal</type>
+        <code>FA</code>
+        <price>2275</price>
+        <desc>Family Legal Protection</desc>
+      </optionalExtensionInformation>
+      <optionalExtensionInformation>
+        <type>Home Emergency</type>
+        <code>HO</code>
+        <price>3999</price>
+        <desc>Home Emergency</desc>
+      </optionalExtensionInformation>
+    </optionalExtensionDisplayInformation>
+    <loyaltyCard>
+      <backmatchSuccess>FAIL</backmatchSuccess>
+    </loyaltyCard>
+  </brokerResponse>
+</ns:aggregateQuoteResponse>

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "AdmiralTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "www.admiralxml.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/OpenCONTACT-LoadAccount/LoadAccountSoap12HttpPort"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "admiral-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

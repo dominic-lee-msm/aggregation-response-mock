@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Skoosh",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "www.skoosh.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/s/twibo/api/search.html"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "SkooshResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

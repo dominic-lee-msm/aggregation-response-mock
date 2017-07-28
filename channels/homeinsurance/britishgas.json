@@ -1,0 +1,15 @@
+{
+    "scenarioName": "British Gas",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "portal.extenv101.bg.internal.gbinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/InsuranceSupermarket/BritishGas/Calculate.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "britishgas-response-success.xml",
+        "fixedDelayMilliseconds": 1000
+    }
+}

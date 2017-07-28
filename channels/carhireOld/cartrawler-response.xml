@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!--CAR20131016134925_0006905-->
+<OTA_VehAvailRateRS xmlns="http://www.opentravel.org/OTA/2003/05" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.opentravel.org/OTA/2003/05" Version="2.004" Target="Production"
+                    PrimaryLangID="EN" TimeStamp="2013-10-16T13:49:25.449+01:00">
+    <Success/>
+    <VehAvailRSCore>
+        <VehRentalCore PickUpDateTime="2013-10-22T13:49:09Z" ReturnDateTime="2013-10-23T13:49:09Z">
+        <PickUpLocation CodeContext="CARTRAWLER" LocationCode="2507" Name="Almeria - Airport"/>
+        <ReturnLocation CodeContext="CARTRAWLER" LocationCode="2507" Name="Almeria - Airport"/>
+        </VehRentalCore>
+        <VehVendorAvails>
+            <VehVendorAvail>
+                <Vendor Code="2" CodeContext="CARTRAWLER"/>
+                <VehAvails>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Manual" PassengerQuantity="5" BaggageQuantity="4" Code="CWMR" CodeContext="VENDOR"><VehType VehicleCategory="8" DoorCount="0"/>
+                                <VehClass Size="4"/>
+                                <VehMakeModel Name="H KIA CEED SW OR SIMILAR" Code="CWMR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/Hertz/ZEESCWMR999.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="0"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true" IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN"/></RentalRate>
+                            <TotalCharge RateTotalAmount="95.60" EstimatedTotalAmount="95.60" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="95.60" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="262061942" ID_Context="CARTRAWLER" DateTime="2013-10-16T13:49:25.449+01:00" URL="f72f8077-ea1c-4dd5-b0d7-c7420a4d9e00.06"/>
+                            <TPA_Extensions>
+                                <FuelPolicy Type="UNKNOWN" Description="See Terms &amp; Conditions"/>
+                                <Config OrderBy="5" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="5"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Insurance avail="true"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="EUR" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.847590"/>
+                        </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo/>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Manual" PassengerQuantity="5" BaggageQuantity="3" Code="IDMR" CodeContext="VENDOR"><VehType VehicleCategory="1" DoorCount="4"/><VehClass Size="6"/><VehMakeModel Name="D FORD CMAX OR SIMILAR" Code="IDMR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/Hertz/ZEESIDMR999.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="0"/></Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true" IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="95.60" EstimatedTotalAmount="95.60" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="95.60" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1326285960" ID_Context="CARTRAWLER" DateTime="2013-10-16T13:49:25.449+01:00" URL="49dac794-549c-46e0-a535-4eb5e9862e07.06"/>
+                            <TPA_Extensions>
+                                <FuelPolicy Type="UNKNOWN" Description="See Terms &amp; Conditions"/>
+                                <Config OrderBy="4" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="4"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Insurance avail="true"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="EUR" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.847590"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo/>
+                    </VehAvail>
+                </VehAvails>
+                <Info>
+                    <LocationDetails Code="2507" Name="Almeria - Airport" AtAirport="1">
+                        <Address Remark="36.8480000,-2.3720000">
+                            <AddressLine>Ctra De Nijar, Km 9, Almeria (cds), 4130</AddressLine>
+                            <CountryName Code="ES"/>
+                        </Address>
+                        <AdditionalInfo>
+                            <VehRentLocInfos>
+                                <VehRentLocInfo Type="VLI_1.VLI.X"/>
+                            </VehRentLocInfos><CounterLocation Location="VWF_1.VWF.X"/>
+                        </AdditionalInfo>
+                    </LocationDetails>
+                    <TPA_Extensions>
+                        <Ranking index="1000"/>
+                    </TPA_Extensions>
+                </Info>
+            </VehVendorAvail>
+        </VehVendorAvails>
+    </VehAvailRSCore>
+</OTA_VehAvailRateRS>

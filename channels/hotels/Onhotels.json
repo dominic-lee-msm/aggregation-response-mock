@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Onhotels",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "www.onhotels.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/xmlsearch/search"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "OnhotelsResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

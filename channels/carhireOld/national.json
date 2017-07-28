@@ -1,0 +1,14 @@
+{
+    "scenarioName": "National",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/ConnectionPoint/630/uk/travelsupermarket"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "national-and-alamo-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

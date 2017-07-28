@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Love Holidays",
+  "requiredScenarioState": "Started",
+  "scheme": "https",
+  "domain": "www.loveholidays.com",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/extapis/travelsupermarket/holidays?"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "loveResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

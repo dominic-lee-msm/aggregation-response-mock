@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HomeProtect-AXA",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "development.webmoney.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/homeprotect/webservice/Quote.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "homeprotect-axa-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

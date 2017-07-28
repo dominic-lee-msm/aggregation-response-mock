@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Allianz",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "uatagg.allianz.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/moneysupermarket/motor/quote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "allianz-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

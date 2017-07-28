@@ -1,0 +1,14 @@
+{
+    "scenarioName": "Netflights",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/cps/carservice.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "netflights-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

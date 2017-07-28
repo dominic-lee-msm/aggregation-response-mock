@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<availabilityResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="8.1">
+    <hotel id="14191">
+        <offers>
+            <offer total="905.89" currency="GBP">
+                <rates>
+                    <SearchURL>http://www.lowcostholidays.com/newproperty.aspx?pdl=true&amp;mode=Hotel&amp;depdate=27/03/2015&amp;nights=5&amp;adults=2&amp;children=1&amp;childages=7&amp;propertyreferenceID=14191</SearchURL>
+                    <MobileURL>m.lowcostholidays.com/holidays.aspx?pdl=true&amp;mode=hotelonly&amp;propertyid=14191&amp;departuredate=27/03/2015&amp;duration=5&amp;totalrooms=1&amp;room1adults=2&amp;room1children=1&amp;room1childages=7</MobileURL>
+                    <rate payment="prepaid" freeCancellation="false" description="Bed and Breakfast" left="10">
+                        <meal code="BB" />
+                        <room privateUse="true" occupancy="3" name="Duplex Triple *Non Refundable*" />
+                        <price total="905.89" currency="GBP">
+                            <netprice>724.71</netprice>
+                            <vat>181.18</vat>
+                            <cityTax>0</cityTax>
+                            <resortFee>0</resortFee>
+                            <hotelFee>0</hotelFee>
+                            <partnerFee>0</partnerFee>
+                            <serviceCharge>0</serviceCharge>
+                            <breakfastPrice>0</breakfastPrice>
+                        </price>
+                    </rate>
+                </rates>
+            </offer>
+        </offers>
+    </hotel>
+    <hotel id="20101">
+        <offers>
+            <offer total="729.28" currency="GBP">
+                <rates>
+                    <SearchURL>http://www.lowcostholidays.com/newproperty.aspx?pdl=true&amp;mode=Hotel&amp;depdate=27/03/2015&amp;nights=5&amp;adults=2&amp;children=1&amp;childages=7&amp;propertyreferenceID=20101</SearchURL>
+                    <MobileURL>m.lowcostholidays.com/holidays.aspx?pdl=true&amp;mode=hotelonly&amp;propertyid=20101&amp;departuredate=27/03/2015&amp;duration=5&amp;totalrooms=1&amp;room1adults=2&amp;room1children=1&amp;room1childages=7</MobileURL>
+                    <rate payment="prepaid" freeCancellation="false" description="Bed and Breakfast" left="10">
+                        <meal code="BB" />
+                        <room privateUse="true" occupancy="3" name="Triple Room *Non refundable*" />
+                        <price total="729.28" currency="GBP">
+                            <netprice>583.42</netprice>
+                            <vat>145.86</vat>
+                            <cityTax>0</cityTax>
+                            <resortFee>0</resortFee>
+                            <hotelFee>0</hotelFee>
+                            <partnerFee>0</partnerFee>
+                            <serviceCharge>0</serviceCharge>
+                            <breakfastPrice>0</breakfastPrice>
+                        </price>
+                    </rate>
+                </rates>
+            </offer>
+        </offers>
+    </hotel>
+    <hotel id="20357">
+        <offers>
+            <offer total="994.88" currency="GBP">
+                <rates>
+                    <SearchURL>http://www.lowcostholidays.com/newproperty.aspx?pdl=true&amp;mode=Hotel&amp;depdate=27/03/2015&amp;nights=5&amp;adults=2&amp;children=1&amp;childages=7&amp;propertyreferenceID=20357</SearchURL>
+                    <MobileURL>m.lowcostholidays.com/holidays.aspx?pdl=true&amp;mode=hotelonly&amp;propertyid=20357&amp;departuredate=27/03/2015&amp;duration=5&amp;totalrooms=1&amp;room1adults=2&amp;room1children=1&amp;room1childages=7</MobileURL>
+                    <rate payment="prepaid" freeCancellation="false" description="Bed and Breakfast" left="10">
+                        <meal code="BB" />
+                        <room privateUse="true" occupancy="3" name="Superior Double Grand Lit" />
+                        <price total="994.88" currency="GBP">
+                            <netprice>795.9</netprice>
+                            <vat>198.98</vat>
+                            <cityTax>0</cityTax>
+                            <resortFee>0</resortFee>
+                            <hotelFee>0</hotelFee>
+                            <partnerFee>0</partnerFee>
+                            <serviceCharge>0</serviceCharge>
+                            <breakfastPrice>0</breakfastPrice>
+                        </price>
+                    </rate>
+                </rates>
+            </offer>
+        </offers>
+    </hotel>
+    <hotel id="13441">
+        <offers>
+            <offer total="892.46" currency="GBP">
+                <rates>
+                    <SearchURL>http://www.lowcostholidays.com/newproperty.aspx?pdl=true&amp;mode=Hotel&amp;depdate=27/03/2015&amp;nights=5&amp;adults=2&amp;children=1&amp;childages=7&amp;propertyreferenceID=13441</SearchURL>
+                    <MobileURL>m.lowcostholidays.com/holidays.aspx?pdl=true&amp;mode=hotelonly&amp;propertyid=13441&amp;departuredate=27/03/2015&amp;duration=5&amp;totalrooms=1&amp;room1adults=2&amp;room1children=1&amp;room1childages=7</MobileURL>
+                    <rate payment="prepaid" freeCancellation="false" description="Bed and Breakfast" left="10">
+                        <meal code="BB" />
+                        <room privateUse="true" occupancy="3" name="Superior Twin Room *Non Refundable*" />
+                        <price total="892.46" currency="GBP">
+                            <netprice>713.97</netprice>
+                            <vat>178.49</vat>
+                            <cityTax>0</cityTax>
+                            <resortFee>0</resortFee>
+                            <hotelFee>0</hotelFee>
+                            <partnerFee>0</partnerFee>
+                            <serviceCharge>0</serviceCharge>
+                            <breakfastPrice>0</breakfastPrice>
+                        </price>
+                    </rate>
+                </rates>
+            </offer>
+        </offers>
+    </hotel>
+    <hotel id="20113">
+        <offers>
+            <offer total="465.38" currency="GBP">
+                <rates>
+                    <SearchURL>http://www.lowcostholidays.com/newproperty.aspx?pdl=true&amp;mode=Hotel&amp;depdate=27/03/2015&amp;nights=5&amp;adults=2&amp;children=1&amp;childages=7&amp;propertyreferenceID=20113</SearchURL>
+                    <MobileURL>m.lowcostholidays.com/holidays.aspx?pdl=true&amp;mode=hotelonly&amp;propertyid=20113&amp;departuredate=27/03/2015&amp;duration=5&amp;totalrooms=1&amp;room1adults=2&amp;room1children=1&amp;room1childages=7</MobileURL>
+                    <rate payment="prepaid" freeCancellation="false" description="Room Only" left="10">
+                        <meal code="RO" />
+                        <room privateUse="true" occupancy="3" name="Triple Room Non Refundable - Room only" />
+                        <price total="465.38" currency="GBP">
+                            <netprice>372.3</netprice>
+                            <vat>93.08</vat>
+                            <cityTax>0</cityTax>
+                            <resortFee>0</resortFee>
+                            <hotelFee>0</hotelFee>
+                            <partnerFee>0</partnerFee>
+                            <serviceCharge>0</serviceCharge>
+                            <breakfastPrice>0</breakfastPrice>
+                        </price>
+                    </rate>
+                </rates>
+            </offer>
+        </offers>
+    </hotel>
+    <hotel id="21487">
+        <offers>
+            <offer total="798.7" currency="GBP">
+                <rates>
+                    <SearchURL>http://www.lowcostholidays.com/newproperty.aspx?pdl=true&amp;mode=Hotel&amp;depdate=27/03/2015&amp;nights=5&amp;adults=2&amp;children=1&amp;childages=7&amp;propertyreferenceID=21487</SearchURL>
+                    <MobileURL>m.lowcostholidays.com/holidays.aspx?pdl=true&amp;mode=hotelonly&amp;propertyid=21487&amp;departuredate=27/03/2015&amp;duration=5&amp;totalrooms=1&amp;room1adults=2&amp;room1children=1&amp;room1childages=7</MobileURL>
+                    <rate payment="prepaid" freeCancellation="false" description="Bed and Breakfast" left="10">
+                        <meal code="BB" />
+                        <room privateUse="true" occupancy="3" name="Superior Double/Twin" />
+                        <price total="798.7" currency="GBP">
+                            <netprice>638.96</netprice>
+                            <vat>159.74</vat>
+                            <cityTax>0</cityTax>
+                            <resortFee>0</resortFee>
+                            <hotelFee>0</hotelFee>
+                            <partnerFee>0</partnerFee>
+                            <serviceCharge>0</serviceCharge>
+                            <breakfastPrice>0</breakfastPrice>
+                        </price>
+                    </rate>
+                </rates>
+            </offer>
+        </offers>
+    </hotel>
+</availabilityResponse>

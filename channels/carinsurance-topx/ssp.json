@@ -1,0 +1,15 @@
+{
+    "scenarioName": "sspTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "iconsgrp17.ssp-uk.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/MotorAggregator/0/1/MotorAggregator.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "ssp-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

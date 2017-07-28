@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quoteresponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="response.xsd">
+  <quotes>
+    <quote brandname="Admiral" brandcode="AD" productcode="APT">
+      <quoteretrieval>
+        <clientnumber>380163410</clientnumber>
+        <quotenumber>132561846</quotenumber>
+        <quoteexpiry>2015-11-05</quoteexpiry>
+        <deeplinkurl>https://secure.admiral.com/hhAggOos.php?quoteKey=EA235D5A55005BAD2D4B2377C65998F2&amp;quoteNumber=132561846&amp;brand=AD&amp;product=APT&amp;mediaCode=IMS?H</deeplinkurl>
+      </quoteretrieval>
+      <homeinsurancequote>
+        <tier name="A">
+          <premium>
+            <annualpremium>9999.99</annualpremium>
+            <annualpremiumtax>9.99</annualpremiumtax>
+            <monthlypremium>
+              <deposit>9.99</deposit>
+              <numberofpayments>11</numberofpayments>
+              <monthlyamount>9.99</monthlyamount>
+              <apr>1.1</apr>
+            </monthlypremium>
+          </premium>
+          <includedcover>
+            <cover>
+              <covertype>Buildings</covertype>
+              <suminsured>UNLIMITED</suminsured>
+              <accidentaldamage>false</accidentaldamage>
+              <excess>
+                <voluntary>250</voluntary>
+                <compulsory>100</compulsory>
+                <total>350</total>
+                <additionalexcesses>
+                  <additionalexcess>
+                    <type>SB</type>
+                    <amount>1000</amount>
+                  </additionalexcess>
+                </additionalexcesses>
+              </excess>
+              <inclusions></inclusions>
+            </cover>
+            <cover>
+              <covertype>Contents</covertype>
+              <suminsured>50000</suminsured>
+              <accidentaldamage>false</accidentaldamage>
+              <excess>
+                <voluntary>250</voluntary>
+                <compulsory>100</compulsory>
+                <total>350</total>
+                <additionalexcesses></additionalexcesses>
+              </excess>
+              <inclusions>
+                <inclusion>
+                  <inclusiontype>CONTENTS SUM
+                  INSURED</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>50000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>NEW FOR OLD</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>50000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LOSS OF METERED WATER /
+                  OIL</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>MONEY LIMIT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>150.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>REPLACEMENT LOCKS /
+                  KEYS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>250.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ALTERNATIVE
+                  ACCOMMODATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>OCCUPIERS
+                  LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LEGAL LIABILITY
+                  (TENANTS)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PERSONAL LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FREEZER FOOD</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>250.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>24 HOUR EMERGENCY
+                  HELPLINE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>50000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ACCIDENTAL BREAKAGE OF MIRRORS OR
+                  GLASS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>50000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FULL CONTENTS ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>50000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PEDAL CYCLES &amp;#163;2,500
+                  (&amp;#163;1,000 PER CYCLE)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PERSONAL
+                  POSSESSIONS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SPECIFIED ITEMS &amp;#163;10,000
+                  (&amp;#163;5000 PER ITEM)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+              </inclusions>
+            </cover>
+          </includedcover>
+          <ancillaries>
+            <ancillary>
+              <name>Family Legal Protection</name>
+              <price>19.95</price>
+              <taxamount>1.13</taxamount>
+              <included>false</included>
+            </ancillary>
+            <ancillary>
+              <name>Home Emergency</name>
+              <price>44.95</price>
+              <taxamount>2.54</taxamount>
+              <included>false</included>
+            </ancillary>
+          </ancillaries>
+          <additionaldetails>
+            <detail name="SLC">none</detail>
+            <detail name="TS1">2ND LINE COPY TEST DATA TABLE
+            ENTRY</detail>
+            <detail name="TS2">2ND LINE COPY TEST DATA TABLE
+            ENTRY</detail>
+          </additionaldetails>
+        </tier>
+        <tier name="G">
+          <premium>
+            <annualpremium>9999.99</annualpremium>
+            <annualpremiumtax>9.99</annualpremiumtax>
+            <monthlypremium>
+              <deposit>9.99</deposit>
+              <numberofpayments>11</numberofpayments>
+              <monthlyamount>9.99</monthlyamount>
+              <apr>1.1</apr>
+            </monthlypremium>
+          </premium>
+          <includedcover>
+            <cover>
+              <covertype>Buildings</covertype>
+              <suminsured>UNLIMITED</suminsured>
+              <accidentaldamage>false</accidentaldamage>
+              <excess>
+                <voluntary>250</voluntary>
+                <compulsory>75</compulsory>
+                <total>325</total>
+                <additionalexcesses>
+                  <additionalexcess>
+                    <type>SB</type>
+                    <amount>1000</amount>
+                  </additionalexcess>
+                </additionalexcesses>
+              </excess>
+              <inclusions>
+                <inclusion>
+                  <inclusiontype>BUILDINGS SUM
+                  INSURED</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>REPLACEMENT LOCKS /
+                  KEYS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FEES</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CLEARANCE COSTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LOCAL AUTHORITY
+                  REQUIREMENTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ALTERNATIVE
+                  ACCOMMODATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SALE OF HOME</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>EMERGENCY ACCESS -
+                  BUILDINGS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>EMERGENCY ACCESS -
+                  GARDENS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>250.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PLUMBING
+                  INSTALLATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>TRACE AND ACCESS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>3500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>UNDERGROUND
+                  SERVICES</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PROPERTY OWNERS'
+                  LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>DEFECTIVE PREMISES
+                  ACT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>24 HOUR EMERGENCY
+                  HELPLINE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GARAGE OR
+                  OUTBUILDINGS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GLASS AND SANITARY ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FULL BUILDINGS ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+              </inclusions>
+            </cover>
+            <cover>
+              <covertype>Contents</covertype>
+              <suminsured>75000</suminsured>
+              <accidentaldamage>false</accidentaldamage>
+              <excess>
+                <voluntary>250</voluntary>
+                <compulsory>75</compulsory>
+                <total>325</total>
+                <additionalexcesses></additionalexcesses>
+              </excess>
+              <inclusions>
+                <inclusion>
+                  <inclusiontype>CONTENTS SUM
+                  INSURED</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>NEW FOR OLD</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LOSS OF METERED WATER /
+                  OIL</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>MONEY LIMIT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>300.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>REPLACEMENT LOCKS /
+                  KEYS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ALTERNATIVE
+                  ACCOMMODATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>15000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>OCCUPIERS
+                  LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LEGAL LIABILITY
+                  (TENANTS)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PERSONAL LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FREEZER FOOD</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>24 HOUR EMERGENCY
+                  HELPLINE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CONTENTS TEMPORARILY AWAY FROM
+                  HOME</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>DEEDS AND
+                  DOCUMENTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CELEBRATION COVER</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>THEFT FROM
+                  OUTBUILDING</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GARDEN CONTENTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GARDEN PLANTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CARDS LIMIT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>DIGITAL
+                  INFORMATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>VISITOR'S
+                  BELONGINGS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>HOUSEHOLD REMOVAL / TEMPORARY
+                  STORAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>OFFICE EQUIPMENT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>AUDIOVISUAL ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ACCIDENTAL BREAKAGE OF MIRRORS OR
+                  GLASS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FULL CONTENTS ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>75000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PEDAL CYCLES &amp;#163;5,000
+                  (&amp;#163;2,000 PER CYCLE)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PERSONAL
+                  POSSESSIONS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>7500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SPECIFIED ITEMS &amp;#163;15,000
+                  (&amp;#163;7500 PER ITEM)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>15000.00</inclusionlimit>
+                </inclusion>
+              </inclusions>
+            </cover>
+          </includedcover>
+          <ancillaries>
+            <ancillary>
+              <name>Boiler Emergency Cover</name>
+              <price>0</price>
+              <taxamount>0</taxamount>
+              <included>true</included>
+            </ancillary>
+            <ancillary>
+              <name>Family Legal Protection</name>
+              <price>19.95</price>
+              <taxamount>1.13</taxamount>
+              <included>false</included>
+            </ancillary>
+            <ancillary>
+              <name>Home Emergency</name>
+              <price>24.99</price>
+              <taxamount>1.41</taxamount>
+              <included>false</included>
+            </ancillary>
+          </ancillaries>
+          <additionaldetails>
+            <detail name="SLC">none</detail>
+            <detail name="TS1">2ND LINE COPY TEST DATA TABLE
+            ENTRY</detail>
+          </additionaldetails>
+        </tier>
+        <tier name="P">
+          <premium>
+            <annualpremium>9999.99</annualpremium>
+            <annualpremiumtax>9.99</annualpremiumtax>
+            <monthlypremium>
+              <deposit>9.99</deposit>
+              <numberofpayments>11</numberofpayments>
+              <monthlyamount>9.99</monthlyamount>
+              <apr>1.1</apr>
+            </monthlypremium>
+          </premium>
+          <includedcover>
+            <cover>
+              <covertype>Buildings</covertype>
+              <suminsured>UNLIMITED</suminsured>
+              <accidentaldamage>true</accidentaldamage>
+              <excess>
+                <voluntary>250</voluntary>
+                <compulsory>50</compulsory>
+                <total>300</total>
+                <additionalexcesses>
+                  <additionalexcess>
+                    <type>SB</type>
+                    <amount>1000</amount>
+                  </additionalexcess>
+                </additionalexcesses>
+              </excess>
+              <inclusions>
+                <inclusion>
+                  <inclusiontype>BUILDINGS SUM
+                  INSURED</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>750000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>REPLACEMENT LOCKS /
+                  KEYS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FEES</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CLEARANCE COSTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LOCAL AUTHORITY
+                  REQUIREMENTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ALTERNATIVE
+                  ACCOMMODATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SALE OF HOME</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>EMERGENCY ACCESS -
+                  BUILDINGS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>EMERGENCY ACCESS -
+                  GARDENS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PLUMBING
+                  INSTALLATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>TRACE AND ACCESS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>UNDERGROUND
+                  SERVICES</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PROPERTY OWNERS'
+                  LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>DEFECTIVE PREMISES
+                  ACT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>24 HOUR EMERGENCY
+                  HELPLINE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GARAGE OR
+                  OUTBUILDINGS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>BUYING HOME</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SQUATTERS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>MATCHING SET / PAIR /
+                  SUITE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GLASS AND SANITARY ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FULL BUILDINGS ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500000.00</inclusionlimit>
+                </inclusion>
+              </inclusions>
+            </cover>
+            <cover>
+              <covertype>Contents</covertype>
+              <suminsured>150000</suminsured>
+              <accidentaldamage>true</accidentaldamage>
+              <excess>
+                <voluntary>250</voluntary>
+                <compulsory>50</compulsory>
+                <total>300</total>
+                <additionalexcesses></additionalexcesses>
+              </excess>
+              <inclusions>
+                <inclusion>
+                  <inclusiontype>CONTENTS SUM
+                  INSURED</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>150000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>NEW FOR OLD</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LOSS OF METERED WATER /
+                  OIL</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>MONEY LIMIT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>REPLACEMENT LOCKS /
+                  KEYS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ALTERNATIVE
+                  ACCOMMODATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>25000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>OCCUPIERS
+                  LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>LEGAL LIABILITY
+                  (TENANTS)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>20000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PERSONAL LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FREEZER FOOD</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>24 HOUR EMERGENCY
+                  HELPLINE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CONTENTS TEMPORARILY AWAY FROM
+                  HOME</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>DEEDS AND
+                  DOCUMENTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CELEBRATION COVER</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>THEFT FROM
+                  OUTBUILDING</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GARDEN CONTENTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>GARDEN PLANTS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CARDS LIMIT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>DIGITAL
+                  INFORMATION</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>VISITOR'S
+                  BELONGINGS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>1000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>HOUSEHOLD REMOVAL / TEMPORARY
+                  STORAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>OFFICE EQUIPMENT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>NEW PURCHASES</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>OVERSEAS TRAVEL</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ITEMS IN A BANK</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CONTENTS AT
+                  UNIVERSITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>3500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>CONTENTS AT NURSING
+                  HOME</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>3500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>DOMESTIC STAFF'S
+                  BELONGINGS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>3500.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FATAL INJURY
+                  BENEFIT</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>EMPLOYERS / DOMESTIC STAFF
+                  LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>5000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>TEMPORARY ACCOMMODATION
+                  LIABILITY</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>2000000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>MATCHING ITEMS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>AUDIOVISUAL ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>ACCIDENTAL BREAKAGE OF MIRRORS OR
+                  GLASS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>FULL CONTENTS ACCIDENTAL
+                  DAMAGE</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>100000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PEDAL CYCLES &amp;#163;10,000
+                  (&amp;#163;2,500 PER CYCLE)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>PERSONAL
+                  POSSESSIONS</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SPECIFIED ITEMS &amp;#163;20,000
+                  (&amp;#163;10000 PER ITEM)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>10000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SPECIFIED ITEMS &amp;#163;20,000
+                  (&amp;#163;10000 PER ITEM)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>20000.00</inclusionlimit>
+                </inclusion>
+                <inclusion>
+                  <inclusiontype>SPECIFIED ITEMS &amp;#163;20,000
+                  (&amp;#163;10000 PER ITEM)</inclusiontype>
+                  <inclusionincluded>true</inclusionincluded>
+                  <inclusionlimit>30000.00</inclusionlimit>
+                </inclusion>
+              </inclusions>
+            </cover>
+          </includedcover>
+          <ancillaries>
+            <ancillary>
+              <name>Family Legal Protection</name>
+              <price>0</price>
+              <taxamount>0</taxamount>
+              <included>true</included>
+            </ancillary>
+            <ancillary>
+              <name>Home Emergency</name>
+              <price>0</price>
+              <taxamount>0</taxamount>
+              <included>true</included>
+            </ancillary>
+          </ancillaries>
+          <additionaldetails>
+            <detail name="SLC">none</detail>
+            <detail name="TS1">2ND LINE COPY TEST DATA TABLE
+            ENTRY</detail>
+          </additionaldetails>
+        </tier>
+      </homeinsurancequote>
+    </quote>
+  </quotes>
+</quoteresponse>

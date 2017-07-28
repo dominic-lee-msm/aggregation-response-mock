@@ -1,0 +1,230 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <GetFlightResultsResponse xmlns="http://tempuri.org/SouthallFlightWebService/SouthallFlightSearch">
+         <GetFlightResultsResult>
+            <Fares>
+               <fare>
+                  <AdultFare>171.92</AdultFare>
+                  <AdultNetFare>171.92</AdultNetFare>
+                  <AdultTax>129.92</AdultTax>
+                  <RedirectURL><![CDATA[http://www.traveltrolley.co.uk/tsmsearch.aspx]]></RedirectURL>
+                  <Carrier>SK</Carrier>
+                  <CarrierName>Scandinavian Airlines</CarrierName>
+                  <ChildFare>160.92</ChildFare>
+                  <ChildNetFare>160.92</ChildNetFare>
+                  <ChildTax>129.92</ChildTax>
+                  <DepartureAirportName>Manchester Airport, Manchester, UK</DepartureAirportName>
+                  <DepartureAirportCode>MAN</DepartureAirportCode>
+                  <DepartureDate>${outboundDate}T10:20:00</DepartureDate>
+                  <DestinationAirportName>Dublin Airport , Dublin, Ireland</DestinationAirportName>
+                  <DestinationAirportCode>DUB</DestinationAirportCode>
+                  <Direct>false</Direct>
+                  <InfantFare>4.05</InfantFare>
+                  <InfantNetFare>4.05</InfantNetFare>
+                  <InfantTax>0</InfantTax>
+                  <ReturnDate>${inboundDate}T10:55:00</ReturnDate>
+                  <OneWay>false</OneWay>
+                  <MarkUpFare>0</MarkUpFare>
+                  <TotalFare>508.76</TotalFare>
+                  <TotalNetFare>508.76</TotalNetFare>
+                  <TotalTax>389.76</TotalTax>
+                  <Legs>
+                     <Leg>
+                        <Direction>OUTBOUND</Direction>
+                        <Segments>
+                           <Segment>
+                              <ArrivalDateTime>${outboundDate}T13:10:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>MAN</DeparatureAirportCode>
+                              <DepartureAirportName>Manchester Airport, Manchester, UK</DepartureAirportName>
+                              <DeparatureDateTime>${outboundDate}T10:20:00</DeparatureDateTime>
+                              <DestinationAirportCode>CPH</DestinationAirportCode>
+                              <DestinationAirportName>Copenhagen Intl, Copenhagen, Denmark</DestinationAirportName>
+                              <FlightNumber>540</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                           <Segment>
+                              <ArrivalDateTime>${outboundDate}T18:15:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>CPH</DeparatureAirportCode>
+                              <DepartureAirportName>Copenhagen Intl, Copenhagen, Denmark</DepartureAirportName>
+                              <DeparatureDateTime>${outboundDate}T17:00:00</DeparatureDateTime>
+                              <DestinationAirportCode>DUB</DestinationAirportCode>
+                              <DestinationAirportName>Dublin Airport , Dublin, Ireland</DestinationAirportName>
+                              <FlightNumber>2537</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                        </Segments>
+                     </Leg>
+                     <Leg>
+                        <Direction>INBOUND</Direction>
+                        <Segments>
+                           <Segment>
+                              <ArrivalDateTime>${inboundDate}T14:10:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>DUB</DeparatureAirportCode>
+                              <DepartureAirportName>Dublin Airport , Dublin, Ireland</DepartureAirportName>
+                              <DeparatureDateTime>${inboundDate}T10:55:00</DeparatureDateTime>
+                              <DestinationAirportCode>CPH</DestinationAirportCode>
+                              <DestinationAirportName>Copenhagen Intl, Copenhagen, Denmark</DestinationAirportName>
+                              <FlightNumber>538</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                           <Segment>
+                              <ArrivalDateTime>${inboundDate}T18:40:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>CPH</DeparatureAirportCode>
+                              <DepartureAirportName>Copenhagen Intl, Copenhagen, Denmark</DepartureAirportName>
+                              <DeparatureDateTime>${inboundDate}T17:45:00</DeparatureDateTime>
+                              <DestinationAirportCode>MAN</DestinationAirportCode>
+                              <DestinationAirportName>Manchester Airport, Manchester, UK</DestinationAirportName>
+                              <FlightNumber>541</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                        </Segments>
+                     </Leg>
+                  </Legs>
+                  <FareType>RP</FareType>
+                  <ItemId>0</ItemId>
+                  <Seat>0</Seat>
+               </fare>
+               <fare>
+                  <AdultFare>171.92</AdultFare>
+                  <AdultNetFare>171.92</AdultNetFare>
+                  <AdultTax>129.92</AdultTax>
+                  <RedirectURL></RedirectURL>
+                  <Carrier>SK</Carrier>
+                  <CarrierName>Scandinavian Airlines</CarrierName>
+                  <ChildFare>160.92</ChildFare>
+                  <ChildNetFare>160.92</ChildNetFare>
+                  <ChildTax>129.92</ChildTax>
+                  <DepartureAirportName>Manchester Airport, Manchester, UK</DepartureAirportName>
+                  <DepartureAirportCode>MAN</DepartureAirportCode>
+                  <DepartureDate>${outboundDate}T10:20:00</DepartureDate>
+                  <DestinationAirportName>Dublin Airport , Dublin, Ireland</DestinationAirportName>
+                  <DestinationAirportCode>DUB</DestinationAirportCode>
+                  <Direct>false</Direct>
+                  <InfantFare>4</InfantFare>
+                  <InfantNetFare>4</InfantNetFare>
+                  <InfantTax>0</InfantTax>
+                  <ReturnDate>${inboundDate}T19:00:00</ReturnDate>
+                  <OneWay>false</OneWay>
+                  <MarkUpFare>0</MarkUpFare>
+                  <TotalFare>508.76</TotalFare>
+                  <TotalNetFare>508.76</TotalNetFare>
+                  <TotalTax>389.76</TotalTax>
+                  <Legs>
+                     <Leg>
+                        <Direction>OUTBOUND</Direction>
+                        <Segments>
+                           <Segment>
+                              <ArrivalDateTime>${outboundDate}T13:10:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>MAN</DeparatureAirportCode>
+                              <DepartureAirportName>Manchester Airport, Manchester, UK</DepartureAirportName>
+                              <DeparatureDateTime>${outboundDate}T10:20:00</DeparatureDateTime>
+                              <DestinationAirportCode>CPH</DestinationAirportCode>
+                              <DestinationAirportName>Copenhagen Intl, Copenhagen, Denmark</DestinationAirportName>
+                              <FlightNumber>540</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                           <Segment>
+                              <ArrivalDateTime>${outboundDate}T18:15:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>CPH</DeparatureAirportCode>
+                              <DepartureAirportName>Copenhagen Intl, Copenhagen, Denmark</DepartureAirportName>
+                              <DeparatureDateTime>${outboundDate}T17:00:00</DeparatureDateTime>
+                              <DestinationAirportCode>DUB</DestinationAirportCode>
+                              <DestinationAirportName>Dublin Airport , Dublin, Ireland</DestinationAirportName>
+                              <FlightNumber>2537</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                        </Segments>
+                     </Leg>
+                     <Leg>
+                        <Direction>INBOUND</Direction>
+                        <Segments>
+                           <Segment>
+                              <ArrivalDateTime>${inboundDate}T22:10:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>DUB</DeparatureAirportCode>
+                              <DepartureAirportName>Dublin Airport , Dublin, Ireland</DepartureAirportName>
+                              <DeparatureDateTime>${inboundDate}T19:00:00</DeparatureDateTime>
+                              <DestinationAirportCode>CPH</DestinationAirportCode>
+                              <DestinationAirportName>Copenhagen Intl, Copenhagen, Denmark</DestinationAirportName>
+                              <FlightNumber>2538</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                           <Segment>
+                              <ArrivalDateTime>2014-09-19T09:35:00</ArrivalDateTime>
+                              <BoolConnection>false</BoolConnection>
+                              <CabinClass>M</CabinClass>
+                              <Carrier>SK</Carrier>
+                              <CarrierName>Scandinavian Airlines</CarrierName>
+                              <DeparatureAirportCode>CPH</DeparatureAirportCode>
+                              <DepartureAirportName>Copenhagen Intl, Copenhagen, Denmark</DepartureAirportName>
+                              <DeparatureDateTime>2014-09-19T08:35:00</DeparatureDateTime>
+                              <DestinationAirportCode>MAN</DestinationAirportCode>
+                              <DestinationAirportName>Manchester Airport, Manchester, UK</DestinationAirportName>
+                              <FlightNumber>539</FlightNumber>
+                              <FlightClass>T</FlightClass>
+                              <SeatsAvailable>true</SeatsAvailable>
+                              <eTicketing>true</eTicketing>
+                              <Stops>0</Stops>
+                           </Segment>
+                        </Segments>
+                     </Leg>
+                  </Legs>
+                  <FareType>RP</FareType>
+                  <ItemId>1</ItemId>
+                  <Seat>0</Seat>
+               </fare>
+            </Fares>
+            <ErrorBool>false</ErrorBool>
+            <ErrorMessage/>
+         </GetFlightResultsResult>
+      </GetFlightResultsResponse>
+   </soap:Body>
+</soap:Envelope>

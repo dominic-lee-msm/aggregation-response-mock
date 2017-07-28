@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Emirates",
+    "requiredScenarioState": "Started",
+    "domain":"emiratesapi.performancehorizon.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "http://emiratesapi.performancehorizon.com"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "EmiratesFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

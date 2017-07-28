@@ -1,0 +1,15 @@
+{
+    "scenarioName": "First Central",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "svcuat.1stcentral.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/UAT/AggregatorService/AggregatorService.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "firstcentral-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

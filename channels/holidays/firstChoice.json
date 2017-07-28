@@ -1,0 +1,15 @@
+{
+  "scenarioName": "First Choice",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "",
+  "request": {
+    "method": "POST",
+    "urlPattern": ""
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "firstChoiceResponse.json",
+    "fixedDelayMilliseconds": 2000
+  }
+}

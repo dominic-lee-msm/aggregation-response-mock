@@ -1,0 +1,15 @@
+{
+    "scenarioName": "John Lewis",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "pltestcgi.rsagroup.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/MAINT/TEST_SH/services"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "royal-sun-alliance-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

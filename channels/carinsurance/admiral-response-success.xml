@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quoteresponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="response.xsd">
+   <quotes>
+      <quote>
+            <clientnumber>00351100614</clientnumber>
+            <quotenumber>100586099</quotenumber>
+            <quotekey>F77E0E5D96B34D5AECA302F163F96D89</quotekey>
+            <brand>
+                <name>Diamond</name>
+                <branchcode>DI</branchcode>
+                <productcode>AMO</productcode>
+                <budget>false</budget>
+            </brand>
+            <price>
+                <policyterm>
+                    <term>10</term>
+                    <premium>0</premium>
+                    <premiumtax>0</premiumtax>
+                </policyterm>
+                <policyterm>
+                    <term>12</term>
+                    <premium>9999</premium>
+                    <premiumtax>99</premiumtax>
+                </policyterm>
+                <excess>
+                    <voluntary>1000</voluntary>
+                    <compulsory>0</compulsory>
+                    <total>1000</total>
+                    <windscreen>75</windscreen>
+                    <fireandtheft>150</fireandtheft>
+                </excess>
+            </price>
+            <ddprice>
+                <total>0</total>
+                <initial>0</initial>
+                <subsequent>0</subsequent>
+                <months>11</months>
+            </ddprice>
+            <ancillaries>
+                <ancillary>
+                    <name>Local Cover</name>
+                    <price>4241</price>
+                    <taxamount>403</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>National Plus Cover</name>
+                    <price>7542</price>
+                    <taxamount>716</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>European Plus Cover</name>
+                    <price>9429</price>
+                    <taxamount>896</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Hire Car</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Keycare (1 fob)</name>
+                    <price>1693</price>
+                    <taxamount>161</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Optional MLP</name>
+                    <price>2547</price>
+                    <taxamount>242</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Personal Injury*</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Personal Injury Plus</name>
+                    <price>4241</price>
+                    <taxamount>403</taxamount>
+                    <included>false</included>
+                </ancillary>
+            </ancillaries>
+            <vehicle>
+                <make>HONDA CR-V EX 4WD</make>
+                <description>1997cc 5 Estate 2012-----</description>
+            </vehicle>
+        </quote>
+      <quote>
+            <clientnumber>00351100613</clientnumber>
+            <quotenumber>100692842</quotenumber>
+            <quotekey>9A15F576E4C89C81BF7E5274A1356C1F</quotekey>
+            <brand>
+                <name>Elephant</name>
+                <branchcode>EL</branchcode>
+                <productcode>INT</productcode>
+                <budget>false</budget>
+            </brand>
+            <price>
+                <policyterm>
+                    <term>10</term>
+                    <premium>0</premium>
+                    <premiumtax>0</premiumtax>
+                </policyterm>
+                <policyterm>
+                    <term>12</term>
+                    <premium>9999</premium>
+                    <premiumtax>99</premiumtax>
+                </policyterm>
+                <excess>
+                    <voluntary>1000</voluntary>
+                    <compulsory>0</compulsory>
+                    <total>1000</total>
+                    <windscreen>75</windscreen>
+                    <fireandtheft>150</fireandtheft>
+                </excess>
+            </price>
+            <ddprice>
+                <total>0</total>
+                <initial>0</initial>
+                <subsequent>0</subsequent>
+                <months>11</months>
+            </ddprice>
+            <ancillaries>
+                <ancillary>
+                    <name>Local Cover</name>
+                    <price>4241</price>
+                    <taxamount>403</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>National Plus Cover</name>
+                    <price>7542</price>
+                    <taxamount>716</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>European Plus Cover</name>
+                    <price>9429</price>
+                    <taxamount>896</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Hire Car</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Optional MLP</name>
+                    <price>2547</price>
+                    <taxamount>242</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Personal Injury*</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Extra Care</name>
+                    <price>3396</price>
+                    <taxamount>323</taxamount>
+                    <included>false</included>
+                </ancillary>
+            </ancillaries>
+            <vehicle>
+                <make>HONDA CR-V EX 4WD</make>
+                <description>1997cc 5 Estate 2012-----</description>
+            </vehicle>
+        </quote>
+      <quote>
+            <clientnumber>00351100611</clientnumber>
+            <quotenumber>100798893</quotenumber>
+            <quotekey>6F8909422A86638DE6E682716078DD33</quotekey>
+            <brand>
+                <name>Bell</name>
+                <branchcode>BL</branchcode>
+                <productcode>CAR</productcode>
+                <budget>false</budget>
+            </brand>
+            <price>
+                <policyterm>
+                    <term>10</term>
+                    <premium>0</premium>
+                    <premiumtax>0</premiumtax>
+                </policyterm>
+                <policyterm>
+                    <term>12</term>
+                    <premium>9999</premium>
+                    <premiumtax>99</premiumtax>
+                </policyterm>
+                <excess>
+                    <voluntary>1000</voluntary>
+                    <compulsory>0</compulsory>
+                    <total>1000</total>
+                    <windscreen>75</windscreen>
+                    <fireandtheft>150</fireandtheft>
+                </excess>
+            </price>
+            <ddprice>
+                <total>0</total>
+                <initial>0</initial>
+                <subsequent>0</subsequent>
+                <months>11</months>
+            </ddprice>
+            <ancillaries>
+                <ancillary>
+                    <name>Local Cover</name>
+                    <price>4241</price>
+                    <taxamount>403</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>National Plus Cover</name>
+                    <price>7542</price>
+                    <taxamount>716</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>European Plus Cover</name>
+                    <price>9429</price>
+                    <taxamount>896</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Hire Car</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Keycare (1 fob)</name>
+                    <price>1693</price>
+                    <taxamount>161</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Optional MLP</name>
+                    <price>2547</price>
+                    <taxamount>242</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Personal Injury*</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Personal Injury Plus</name>
+                    <price>4241</price>
+                    <taxamount>403</taxamount>
+                    <included>false</included>
+                </ancillary>
+            </ancillaries>
+            <vehicle>
+                <make>HONDA CR-V EX 4WD</make>
+                <description>1997cc 5 Estate 2012-----</description>
+            </vehicle>
+        </quote>
+      <quote>
+            <clientnumber>00351100612</clientnumber>
+            <quotenumber>101518988</quotenumber>
+            <quotekey>6E3B3AE9B6A763CE4D528F5DD9AF2E44</quotekey>
+            <brand>
+                <name>Admiral</name>
+                <branchcode>AD</branchcode>
+                <productcode>MOT</productcode>
+                <budget>false</budget>
+            </brand>
+            <price>
+                <policyterm>
+                    <term>10</term>
+                    <premium>0</premium>
+                    <premiumtax>0</premiumtax>
+                </policyterm>
+                <policyterm>
+                    <term>12</term>
+                    <premium>9999</premium>
+                    <premiumtax>99</premiumtax>
+                </policyterm>
+                <excess>
+                    <voluntary>1000</voluntary>
+                    <compulsory>0</compulsory>
+                    <total>1000</total>
+                    <windscreen>75</windscreen>
+                    <fireandtheft>150</fireandtheft>
+                </excess>
+            </price>
+            <ddprice>
+                <total>0</total>
+                <initial>0</initial>
+                <subsequent>0</subsequent>
+                <months>11</months>
+            </ddprice>
+            <ancillaries>
+                <ancillary>
+                    <name>Local Cover</name>
+                    <price>4241</price>
+                    <taxamount>403</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>National Plus Cover</name>
+                    <price>7542</price>
+                    <taxamount>716</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>European Plus Cover</name>
+                    <price>9429</price>
+                    <taxamount>896</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Hire Car</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Optional MLP</name>
+                    <price>2547</price>
+                    <taxamount>242</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Personal Injury*</name>
+                    <price>2825</price>
+                    <taxamount>268</taxamount>
+                    <included>false</included>
+                </ancillary>
+                <ancillary>
+                    <name>Personal Injury Plus</name>
+                    <price>4241</price>
+                    <taxamount>403</taxamount>
+                    <included>false</included>
+                </ancillary>
+            </ancillaries>
+            <vehicle>
+                <make>HONDA CR-V EX 4WD</make>
+                <description>1997cc 5 Estate 2012-----</description>
+            </vehicle>
+        </quote>
+   </quotes>
+</quoteresponse>

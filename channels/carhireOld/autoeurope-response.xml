@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AE_Quote_Response Echo="TravelSuperMarket.com"
+                   sess="1127825100000000000000000000000000000000" QuoteID="215418400"
+                   TimeStamp="11/02/2013 07:58:25 AM" QuoteCurrency="GBP">
+    <Reference Days="5" Host="XBE15" Language="ENG"
+               ProcessTime="4.85">
+        <Pickup City="MANCHESTER" Country="GB"
+                DateTime="12/03/2013 15:54" />
+        <Dropoff City="MANCHESTER" Country="GB"
+                 DateTime="12/08/2013 15:54" />
+        <Rental tm="11/02/2013 07:58:25 AM" temp="72000495" QType=""
+                Vehicle="" TravelEast="N" LocationType="" VehicleClass=""
+                DOLocationType="" />
+        <Counts Loc="8" Prod="18" />
+    </Reference>
+    <IMAGEPATH v="www.globalmediaserver.com/images/cars/" />
+    <LOCATIONS>
+        <LOC>
+            <OPERATOR v="BGTLV" FullName="BUDGET" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="A" />
+            <LOCID v="0001372250" Group="4" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="O" />
+            <NAME ad1="MANCHESTER AIRPORT"
+                  ad2="SHUTTLE TO COUNTER &amp; CARS" />
+            <HRL>
+                <HRS>* OPEN Mondays-Sundays 06:00 AM-11:00 PM</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="EASIRENT" FullName="EASIRENT" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="A" />
+            <LOCID v="0002125675" Group="11" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="O" />
+            <NAME ad1="MANCHESTER AIRPORT"
+                  ad2="CALL ON ARRIVAL 0161 636 0275" />
+            <HRL>
+                <HRS>* OPEN Mondays-Sundays 06:00 AM-09:30 PM</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="ECP" FullName="EUROPCAR" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="A" />
+            <LOCID v="0001577075" Group="0" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="O" />
+            <NAME ad1="MANCHESTER AIRPORT"
+                  ad2="RINGWAY ROAD, CAR RENTAL CTR" />
+            <HRL>
+                <HRS>* OPEN Mondays-Sundays all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="ECP" FullName="EUROPCAR" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="D" />
+            <LOCID v="0002015000" Group="0" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="C" />
+            <NAME ad1="MANCHESTER DOWNTOWN" ad2="49 OLDHAM ROAD" />
+            <HRL>
+                <HRS>* OPEN Mondays-Saturdays 08:00 AM-06:00 PM</HRS>
+                <HRS>* CLOSED Sundays</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="ENTERPRISE" FullName="ENTERPRISE" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="A" />
+            <LOCID v="0001333300" Group="5" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="O" />
+            <NAME ad1="MANCHESTER AIRPORT OFFICE"
+                  ad2="SEE BELOW FOR PICK UP DETAILS" />
+            <HRL>
+                <HRS>* OPEN Mondays-Sundays 07:00 AM-midnight</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="A" />
+            <LOCID v="0000013568" Group="3" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="O" />
+            <NAME ad1="MANCHESTER AIRPORT"
+                  ad2="RINGWAY ROAD CAR RENTAL CTR" />
+            <HRL>
+                <HRS>* OPEN Mondays-Sundays 06:30 AM-midnight</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="D" />
+            <LOCID v="0000078657" Group="3" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="C" />
+            <NAME ad1="MANCHESTER DOWNTOWN OFFICE"
+                  ad2="1246 CHESTER ROAD" />
+            <HRL>
+                <HRS>* OPEN Mondays-Fridays 08:30 AM-05:30 PM</HRS>
+                <HRS>* OPEN Saturdays 09:00 AM-01:00 PM</HRS>
+                <HRS>* CLOSED Sundays</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <IATACODE v="MAN" />
+            <LOCTYPE v="D" />
+            <LOCID v="0001935275" Group="3" />
+            <CITY v="1" Ctry="GB" Name="MANCHESTER" />
+            <PUSTAT v="O" />
+            <DOSTAT v="C" />
+            <NAME ad1="MANCHESTER DOWNTOWN OFFICE"
+                  ad2="UNIT 1C BARLOW STREET" />
+            <HRL>
+                <HRS>* OPEN Mondays-Fridays 08:00 AM-06:00 PM</HRS>
+                <HRS>* OPEN Saturdays 09:00 AM-01:00 PM</HRS>
+                <HRS>* CLOSED Sundays</HRS>
+            </HRL>
+        </LOC>
+    </LOCATIONS>
+    <PRODUCTS>
+        <ROW v="1" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="CDMR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <NAME>Ford Focus</NAME>
+            <INAME>Ford Focus</INAME>
+            <PASS v="4" />
+            <LCAP v="14cuft" />
+            <MPGCITY v="28" />
+            <MPGHIGHWAY v="30" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="23" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000078657" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="106.03" Inclusive="106.03" BeforeSaleB="NA"
+                     BeforeSaleI="106.03" />
+            </LOCS>
+        </ROW>
+        <ROW v="2" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="CDMRRS" codes="FE,OA" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="EASIRENT" FullName="EASIRENT" />
+            <NAME>Hyundai i30</NAME>
+            <INAME>Hyundai i30</INAME>
+            <PASS v="4" />
+            <LCAP v="9cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002125675" SaleB="N"
+                     SaleI="Y" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="99.56" Inclusive="99.56" BeforeSaleB="NA"
+                     BeforeSaleI="113.50" />
+            </LOCS>
+        </ROW>
+        <ROW v="3" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="ECMR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <NAME>Vauxhall Corsa</NAME>
+            <INAME>Vauxhall Corsa</INAME>
+            <PASS v="4" />
+            <LCAP v="9cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="2" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="23" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000078657" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="93.20" Inclusive="93.20" BeforeSaleB="NA"
+                     BeforeSaleI="93.20" />
+            </LOCS>
+        </ROW>
+        <ROW v="4" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="EDMRRS" codes="FE,OA" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="EASIRENT" FullName="EASIRENT" />
+            <NAME>Hyundai i20</NAME>
+            <INAME>Hyundai i20 4 dr.</INAME>
+            <PASS v="4" />
+            <LCAP v="" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002125675" SaleB="N"
+                     SaleI="Y" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="73.15" Inclusive="73.15" BeforeSaleB="NA"
+                     BeforeSaleI="83.39" />
+            </LOCS>
+        </ROW>
+        <ROW v="5" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="FDAR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <NAME>Mercedes C Class</NAME>
+            <INAME>Mercedes C180</INAME>
+            <PASS v="5" />
+            <LCAP v="18cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="28" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0001935275" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="580.32" Inclusive="580.32" BeforeSaleB="NA"
+                     BeforeSaleI="580.32" />
+            </LOCS>
+        </ROW>
+        <ROW v="6" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="FVMR" codes="FE,OA" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="EASIRENT" FullName="EASIRENT" />
+            <NAME>VW Sharan</NAME>
+            <INAME>Volkswagen Sharan</INAME>
+            <PASS v="7" />
+            <LCAP v="22cuft" />
+            <MPGCITY v="17" />
+            <MPGHIGHWAY v="22" />
+            <DRS v="3" />
+            <SMLR>Ford Aerostar</SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002125675" SaleB="N"
+                     SaleI="Y" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="266.53" Inclusive="266.53" BeforeSaleB="NA"
+                     BeforeSaleI="303.84" />
+            </LOCS>
+        </ROW>
+        <ROW v="7" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="GDAR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="ECP" FullName="EUROPCAR" />
+            <NAME>BMW 3 Series</NAME>
+            <INAME>BMW 320 SE</INAME>
+            <PASS v="5" />
+            <LCAP v="" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0001577075" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="833.64" Inclusive="833.64" BeforeSaleB="NA"
+                     BeforeSaleI="833.64" />
+                <LOC Stat="R" Basic="NA" LocID="0002015000" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="833.64" Inclusive="833.64" BeforeSaleB="NA"
+                     BeforeSaleI="833.64" />
+            </LOCS>
+        </ROW>
+        <ROW v="8" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="IDAR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <NAME>VW Jetta</NAME>
+            <INAME>VW Jetta</INAME>
+            <PASS v="5" />
+            <LCAP v="14cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000078657" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="378.00" Inclusive="378.00" BeforeSaleB="NA"
+                     BeforeSaleI="378.00" />
+            </LOCS>
+        </ROW>
+        <ROW v="9" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="IDMRRS" codes="FE,OA" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="EASIRENT" FullName="EASIRENT" />
+            <NAME>VW Passat</NAME>
+            <INAME>VW Passat</INAME>
+            <PASS v="5" />
+            <LCAP v="14cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002125675" SaleB="N"
+                     SaleI="Y" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="143.81" Inclusive="143.81" BeforeSaleB="NA"
+                     BeforeSaleI="163.94" />
+            </LOCS>
+        </ROW>
+        <ROW v="10" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="LDAR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <NAME>Volvo S80</NAME>
+            <INAME>Volvo S80</INAME>
+            <PASS v="5" />
+            <LCAP v="18cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="28" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0001935275" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="878.53" Inclusive="878.53" BeforeSaleB="NA"
+                     BeforeSaleI="878.53" />
+            </LOCS>
+        </ROW>
+        <ROW v="11" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="LDMRFD" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes.Includes Additional Driver" />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="ENTERPRISE" FullName="ENTERPRISE" />
+            <NAME>Mercedes E Class</NAME>
+            <INAME>Mercedes E Class</INAME>
+            <PASS v="5" />
+            <LCAP v="18cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="30" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0001333300" SaleB="N"
+                     SaleI="Y" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="444.12" Inclusive="444.12" BeforeSaleB="NA"
+                     BeforeSaleI="506.30" />
+            </LOCS>
+        </ROW>
+        <ROW v="12" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="MBMN" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <NAME>Kia Picanto</NAME>
+            <INAME>Kia Picanto 2 dr</INAME>
+            <PASS v="4" />
+            <LCAP v="" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="2" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="23" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000078657" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="89.95" Inclusive="89.95" BeforeSaleB="NA"
+                     BeforeSaleI="89.95" />
+            </LOCS>
+        </ROW>
+        <ROW v="13" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="MBMNRS" codes="FE,OA" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="EASIRENT" FullName="EASIRENT" />
+            <NAME>Hyundai i10</NAME>
+            <INAME>Hyundai i10 2 door</INAME>
+            <PASS v="4" />
+            <LCAP v="8cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="2" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002125675" SaleB="N"
+                     SaleI="Y" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="66.97" Inclusive="66.97" BeforeSaleB="NA"
+                     BeforeSaleI="76.35" />
+            </LOCS>
+        </ROW>
+        <ROW v="14" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="PFAR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="ECP" FullName="EUROPCAR" />
+            <NAME>Mercedes ML Class</NAME>
+            <INAME>Mercedes ML 320 CDI</INAME>
+            <PASS v="5" />
+            <LCAP v="18cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="30" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002015000" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="869.58" Inclusive="869.58" BeforeSaleB="NA"
+                     BeforeSaleI="869.58" />
+            </LOCS>
+        </ROW>
+        <ROW v="15" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="PWAR" codes="FE,OA" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="EASIRENT" FullName="EASIRENT" />
+            <NAME>Volvo V70 wagon</NAME>
+            <INAME>Volvo V70 Estate</INAME>
+            <PASS v="5" />
+            <LCAP v="18cuft" />
+            <MPGCITY v="30" />
+            <MPGHIGHWAY v="32" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002125675" SaleB="N"
+                     SaleI="Y" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="266.77" Inclusive="266.77" BeforeSaleB="NA"
+                     BeforeSaleI="304.12" />
+            </LOCS>
+        </ROW>
+        <ROW v="16" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="SDMR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="BGTLV" FullName="BUDGET" />
+            <NAME>Vauxhall Insignia</NAME>
+            <INAME>Vauxhall Insignia</INAME>
+            <PASS v="5" />
+            <LCAP v="" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="23" />
+            <MXAGE v="75" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0001372250" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="175.61" Inclusive="175.61" BeforeSaleB="NA"
+                     BeforeSaleI="175.61" />
+            </LOCS>
+        </ROW>
+        <ROW v="17" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="SDMR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="RTZ" FullName="HERTZ" />
+            <NAME>Ford Mondeo</NAME>
+            <INAME>Ford Mondeo</INAME>
+            <PASS v="5" />
+            <LCAP v="16cuft" />
+            <MPGCITY v="20" />
+            <MPGHIGHWAY v="30" />
+            <DRS v="4" />
+            <SMLR>Ford Taurus</SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="25" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="A" Basic="NA" LocID="0000078657" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="265.13" Inclusive="265.13" BeforeSaleB="NA"
+                     BeforeSaleI="265.13" />
+            </LOCS>
+        </ROW>
+        <ROW v="18" DLR="N">
+            <PROD ProdType="CAR" />
+            <SIPP v="XSAR" codes="FF" />
+            <EXPLANATION v="Price includes applicable taxes." />
+            <DROPFEE v="Additional One Way Fee may apply, if dropping at a different station."
+                     vType="1" />
+            <OPERATOR v="ECP" FullName="EUROPCAR" />
+            <NAME>Mercedes S Class</NAME>
+            <INAME>Mercedes S320 CDI</INAME>
+            <PASS v="5" />
+            <LCAP v="16cuft" />
+            <MPGCITY v="" />
+            <MPGHIGHWAY v="" />
+            <DRS v="4" />
+            <SMLR></SMLR>
+            <PPD v="f" />
+            <TAX v="20" />
+            <MNAGE v="30" />
+            <MXAGE v="85" />
+            <LOCS>
+                <LOC Stat="R" Basic="NA" LocID="0002015000" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="1396.62" Inclusive="1396.62" BeforeSaleB="NA"
+                     BeforeSaleI="1396.62" />
+                <LOC Stat="R" Basic="NA" LocID="0001577075" SaleB="N"
+                     SaleI="N" InsList="CDW:THP" UPGRADE="" BasDepReq="NA"
+                     IncDepReq="1396.62" Inclusive="1396.62" BeforeSaleB="NA"
+                     BeforeSaleI="1396.62" />
+            </LOCS>
+        </ROW>
+    </PRODUCTS>
+</AE_Quote_Response>

@@ -1,0 +1,662 @@
+<FlightJourneyAvailabilityResponse>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York - JFK International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>06:00</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>09:20</ArrivalTime>
+               <AirlineCode>LH</AirlineCode>
+               <AirlineName>Lufthansa</AirlineName>
+               <FlightNumber>6379</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>358.64</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>New York - JFK International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>08:55</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>21:00</ArrivalTime>
+               <AirlineCode>LH</AirlineCode>
+               <AirlineName>Lufthansa</AirlineName>
+               <FlightNumber>6589</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>358.64</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=981.28&a=LH&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York - JFK International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>11:55</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>15:05</ArrivalTime>
+               <AirlineCode>TS</AirlineCode>
+               <AirlineName>Air Transat A.T.</AirlineName>
+               <FlightNumber>0123</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>120</BasePrice>
+                     <Tax>370.79</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>New York - JFK International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>18:15</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>06:20</ArrivalTime>
+               <AirlineCode>TS</AirlineCode>
+               <AirlineName>Air Transat A.T.</AirlineName>
+               <FlightNumber>0422</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>120</BasePrice>
+                     <Tax>370.79</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=981.58&a=TS&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York - JFK International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>16:20</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>19:35</ArrivalTime>
+               <AirlineCode>UA</AirlineCode>
+               <AirlineName>United Airlines</AirlineName>
+               <FlightNumber>0925</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>362.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>New York - JFK International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>08:55</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>21:00</ArrivalTime>
+               <AirlineCode>AC</AirlineCode>
+               <AirlineName>Air Canada</AirlineName>
+               <FlightNumber>0868</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>362.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=989.9&a=UA&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York - JFK International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>06:00</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>09:20</ArrivalTime>
+               <AirlineCode>AC</AirlineCode>
+               <AirlineName>Air Canada</AirlineName>
+               <FlightNumber>6156</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>372.2</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>New York - JFK International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>08:55</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>21:00</ArrivalTime>
+               <AirlineCode>AC</AirlineCode>
+               <AirlineName>Air Canada</AirlineName>
+               <FlightNumber>0868</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>372.2</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=1008.4&a=AC&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York - JFK International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>07:45</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>10:30</ArrivalTime>
+               <AirlineCode>AA</AirlineCode>
+               <AirlineName>American Airlines</AirlineName>
+               <FlightNumber>0099</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>374.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>New York - JFK International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>06:10</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>07:05</ArrivalTime>
+               <AirlineCode>AA</AirlineCode>
+               <AirlineName>American Airlines</AirlineName>
+               <FlightNumber>4228</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>374.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=1013.9&a=AA&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York City - John F. Kennedy International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>10:30</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>13:10</ArrivalTime>
+               <AirlineCode>BA</AirlineCode>
+               <AirlineName>British Airways</AirlineName>
+               <FlightNumber>1516</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>388.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>New York City - John F. Kennedy International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>18:05</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>06:20</ArrivalTime>
+               <AirlineCode>BA</AirlineCode>
+               <AirlineName>British Airways</AirlineName>
+               <FlightNumber>1511</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>132</BasePrice>
+                     <Tax>388.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=1041.9&a=BA&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York City - John F. Kennedy International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>12:15</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>15:25</ArrivalTime>
+               <AirlineCode>US</AirlineCode>
+               <AirlineName>US Airways</AirlineName>
+               <FlightNumber>0729</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>192</BasePrice>
+                     <Tax>358.05</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>abcde</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>abcde</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>12:11</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>14:22</ArrivalTime>
+               <AirlineCode>US</AirlineCode>
+               <AirlineName>US Airways</AirlineName>
+               <FlightNumber>3455</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>192</BasePrice>
+                     <Tax>358.05</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=1100.1&a=US&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>hufwe</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>13:05</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>16:19</ArrivalTime>
+               <AirlineCode>DL</AirlineCode>
+               <AirlineName>Delta Air Lines Inc</AirlineName>
+               <FlightNumber>0057</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>187</BasePrice>
+                     <Tax>377.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>qwertt</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>19:10</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>20:27</ArrivalTime>
+               <AirlineCode>DL</AirlineCode>
+               <AirlineName>Delta Air Lines Inc</AirlineName>
+               <FlightNumber>4161</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>187</BasePrice>
+                     <Tax>377.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=1129.9&a=DL&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>New York City - John F. Kennedy International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>11:30</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>14:35</ArrivalTime>
+               <AirlineCode>KL</AirlineCode>
+               <AirlineName>Klm Royal Dutch Airlines</AirlineName>
+               <FlightNumber>6102</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>187</BasePrice>
+                     <Tax>378.39</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>qwerty</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>qwerty</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>19:10</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>20:27</ArrivalTime>
+               <AirlineCode>KL</AirlineCode>
+               <AirlineName>Klm Royal Dutch Airlines</AirlineName>
+               <FlightNumber>8375</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>187</BasePrice>
+                     <Tax>378.39</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=1130.78&a=KL&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>JFK</DestinationAirportCode>
+               <DestinationAirportName>jgolsr</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>14:30</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>17:10</ArrivalTime>
+               <AirlineCode>LX</AirlineCode>
+               <AirlineName>Swiss</AirlineName>
+               <FlightNumber>0355</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>354</BasePrice>
+                     <Tax>373.45</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>JFK</DepartureAirportCode>
+               <DepartureAirportName>ghilrgrh</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>tyo49</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>18:00</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>10:05</ArrivalTime>
+               <AirlineCode>LX</AirlineCode>
+               <AirlineName>Swiss</AirlineName>
+               <FlightNumber>4643</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>354</BasePrice>
+                     <Tax>373.45</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=1454.9&a=LX&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>YYZ</DestinationAirportCode>
+               <DestinationAirportName>Toronto - Lester B. Pearson International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>13:00</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>15:40</ArrivalTime>
+               <AirlineCode>AY</AirlineCode>
+               <AirlineName>Finn Airlines</AirlineName>
+               <FlightNumber>5993</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>1052</BasePrice>
+                     <Tax>346.25</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>YYZ</DepartureAirportCode>
+               <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>21:20</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>09:15</ArrivalTime>
+               <AirlineCode>AY</AirlineCode>
+               <AirlineName>Finn Airlines</AirlineName>
+               <FlightNumber>5998</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>1052</BasePrice>
+                     <Tax>346.25</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=2796.5&a=AY&activedes=False]]></DeepLink>
+   </Flight>
+   <Flight CabinClass="E">
+      <Itinerary JourneyType="R">
+         <OutboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>LHR</DepartureAirportCode>
+               <DepartureAirportName>London - Heathrow Airport</DepartureAirportName>
+               <DestinationAirportCode>YYZ</DestinationAirportCode>
+               <DestinationAirportName>Toronto - Lester B. Pearson International Airport</DestinationAirportName>
+               <DepartureDate>${outboundDate}</DepartureDate>
+               <DepartureTime>16:20</DepartureTime>
+               <ArrivalDate>${outboundDate}</ArrivalDate>
+               <ArrivalTime>19:05</ArrivalTime>
+               <AirlineCode>IB</AirlineCode>
+               <AirlineName>Iberia Airlines</AirlineName>
+               <FlightNumber>7499</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>1599</BasePrice>
+                     <Tax>348.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </OutboundLegs>
+         <InboundLegs>
+            <Leg id="1">
+               <DepartureAirportCode>YYZ</DepartureAirportCode>
+               <DepartureAirportName>Toronto - Lester B. Pearson International Airport</DepartureAirportName>
+               <DestinationAirportCode>LHR</DestinationAirportCode>
+               <DestinationAirportName>London - Heathrow Airport</DestinationAirportName>
+               <DepartureDate>${inboundDate}</DepartureDate>
+               <DepartureTime>21:20</DepartureTime>
+               <ArrivalDate>${inboundDate}</ArrivalDate>
+               <ArrivalTime>09:15</ArrivalTime>
+               <AirlineCode>IB</AirlineCode>
+               <AirlineName>Iberia Airlines</AirlineName>
+               <FlightNumber>7498</FlightNumber>
+            </Leg>
+            <PriceDetails>
+               <Currency>GBP</Currency>
+               <PriceBreakdown>
+                  <Passenger Type="Adult">
+                     <Quantity>2</Quantity>
+                     <BasePrice>1599</BasePrice>
+                     <Tax>348.95</Tax>
+                  </Passenger>
+               </PriceBreakdown>
+            </PriceDetails>
+         </InboundLegs>
+      </Itinerary>
+      <DeepLink><![CDATA[http://www.holidaygenie.com/flights/wait.aspx?stid=tsm&DeparturingFrom=LGW&Goingto=YYZ&DeparturingDate=04-2014-24&ReturnDate=05-2014-01&JourneyType=2&DirectFlight=False&CabinClass=1&adult=2&child=0&Airline=&ChildAges=0,0,0,0&Infanttype=0&price=3895.9&a=IB&activedes=False]]></DeepLink>
+   </Flight>
+</FlightJourneyAvailabilityResponse>

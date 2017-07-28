@@ -1,0 +1,14 @@
+{
+    "scenarioName": "Cartrawler - Argus, Thrifty and Holiday Autos",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "request": {
+        "method": "POST",
+        "url": "/cartrawlerota"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "cartrawler-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

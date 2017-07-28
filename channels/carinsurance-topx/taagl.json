@@ -1,0 +1,15 @@
+{
+    "scenarioName": "taaglTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "pricing.taaglservices.net",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/PricingServiceWcf.svc?"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "taagl-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

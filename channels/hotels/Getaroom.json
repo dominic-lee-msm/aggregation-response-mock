@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Agoda",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "availability.integration2.testaroom.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/api/1.1/room_availability"
+    },
+    "response": {
+        "status": 200,
+        "bodyDirectoryName": "get-a-room-responses",
+        "fixedDelayMilliseconds": 2000
+    }
+}

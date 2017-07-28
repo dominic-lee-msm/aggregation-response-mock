@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Endsleigh Select",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "services.test.myzurich.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/home/QuoteServices.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "endsleigh-select-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

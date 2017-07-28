@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Policy Expert",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "aggregator.MS.qmetric.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/aggregator/quotes"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "policyexpert-response-success.xml",
+        "fixedDelayMilliseconds": 5000
+    }
+}

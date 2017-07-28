@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<quoteresponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <returnValue>1</returnValue>
+  </header>
+  <body>
+    <quotes>
+      <Quote>
+        <retrievelink>https://uat11.web.saga.co.uk/insurance/car-insurance/get-quote/Journey/get?sessionId=44c111fa-ad51-4aa8-80f2-27514b1cf647</retrievelink>
+        <retrieveguid>44c111fa-ad51-4aa8-80f2-27514b1cf647</retrieveguid>
+        <premium>9999.99</premium>
+        <accidentalDamageExcess>150</accidentalDamageExcess>
+        <fireAndTheftExcess>100</fireAndTheftExcess>
+        <voluntaryExcess>895</voluntaryExcess>
+        <windscreenExcess>75</windscreenExcess>
+        <ncbProtectionGranted>N</ncbProtectionGranted>
+        <legalassistance>N</legalassistance>
+        <legalcost>28.50</legalcost>
+        <replacementcarextension>N</replacementcarextension>
+        <replacementcarextensioncost>24.99</replacementcarextensioncost>
+        <replacementcarupgrade>N</replacementcarupgrade>
+        <replacementcarupgradecost>0</replacementcarupgradecost>
+        <personalaccident>N</personalaccident>
+        <personalaccidentcost>15.99</personalaccidentcost>
+        <breakdowncover>N</breakdowncover>
+        <breakdowncovercost>36.99</breakdowncovercost>
+        <accidenthealthcare>N</accidenthealthcare>
+        <accidenthealthcarecost>18.99</accidenthealthcarecost>
+        <BrandCode>1</BrandCode>
+      </Quote>
+    </quotes>
+  </body>
+</quoteresponse>

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "PolicyExpertTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "uat-topx.policyexpert.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/v1/leads"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "policy-expert-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

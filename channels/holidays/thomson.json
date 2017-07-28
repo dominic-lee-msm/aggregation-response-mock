@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Thomson",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "",
+  "request": {
+    "method": "POST",
+    "urlPattern": ""
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "thomsonResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

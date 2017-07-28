@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Esure",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "test.superwish.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/IbisService?env=CTEST2"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "esure-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

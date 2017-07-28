@@ -1,0 +1,15 @@
+{
+    "scenarioName": "HotelPronto",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "totalstaytestxml.ivector.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/xml/book.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyDirectoryName": "hotel-pronto-responses",
+        "fixedDelayMilliseconds": 2000
+    }
+}

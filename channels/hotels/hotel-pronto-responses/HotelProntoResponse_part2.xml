@@ -1,0 +1,1720 @@
+<SearchResponse>
+	<ReturnStatus>
+		<Success>true</Success>
+		<Exception />
+	</ReturnStatus>
+	<SearchURL />
+	<PropertyResults>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1348539</PropertyID>
+			<PropertyReferenceID>55323</PropertyReferenceID>
+			<PropertyName>Cyrnos</PropertyName>
+			<Rating>3.0</Rating>
+			<OurRating>3.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(02) Les Halles &amp; Bourse</Resort>
+			<Strapline>##Property Location Located in Paris (Louvre - Place Vendome), Hotel Cyrnos Opera is minutes from Paris Bourse and Grevin Museum. This hotel is close to Louvre Museum and Notre Dame Cathedral. ##Roo</Strapline>
+			<Description>##Property Location Located in Paris (Louvre - Place Vendome), Hotel Cyrnos Opera is minutes from Paris Bourse and Grevin Museum. This hotel is close to Louvre Museum and Notre Dame Cathedral. ##Rooms Make yourself at home in one of the 23 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment. Conveniences include safes and desks. ##Rec, Spa, Premium Amenities Make use of convenient amenities, which include complimentary wireless Internet access and tour/ticket assistance. ##Dining Take advantage of the hotel's room service (during limited hours). Quench your thirst with your favorite drink at a bar/lounge. ##Business, Other Amenities Featured amenities include a computer station, express check-in, and complimentary newspapers in the lobby. Planning an event in Paris This hotel has facilities measuring 161 square feet (15 square meters), including a meeting room.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext43/image_42917_5748346_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext43/image_42917_5748346_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nbySv7DEcsbL2usue3inVBQVIsoT3ZQ9IHbvqg75+9FbaOmp/Z3MBpP1KR/oVLEOYOdiWt+rl1TfFcxwGPr1OWN/ujyLViTaWTOflHX0c6K3rMmrioyRY6vMVMw4wlfOQl46/wSNcIpRdSRfO+EjL1MVYmpC4rT9gMbYKHYnHi+q0wDmtUqQ+BA==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Double Superior</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1094</SubTotal>
+					<Discount>233</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>861</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nNKpCFbdedZrko87MM56UuDv2CyGxEewLRqGJ6I6w8EMrQZnxANlk1KtgarnhweC9EBPFDTqlIBfkDJnFCD6wXzQPs2G+NsvlGJnB3HmQ8lamt82PsZPuQTr68M+L83ERA8a9WUhveC/0YMe5XytZMIbDOy0SkpYIfWg1SwhX/Hk=</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Suite Spa</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1535</SubTotal>
+					<Discount>361</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1174</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1033966</PropertyID>
+			<PropertyReferenceID>5354</PropertyReferenceID>
+			<PropertyName>GT Washington Opera</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(01) Louvre &amp; Palais-Royal</Resort>
+			<Strapline>This is a 4-star hotel, considered a superior first-class. The staff is very flexible and tries to make guests feel at home. ## Location The hotel is very well-located, in a lively district of the 1s</Strapline>
+			<Description>This is a 4-star hotel, considered a superior first-class. The staff is very flexible and tries to make guests feel at home. ## Location The hotel is very well-located, in a lively district of the 1st arrondissement and close to the Louvre,Palais Royal and Les Halles , and Jardin des Tuileries. Walking distance to the subway station, it's only a few minutes walk to Opera, centrally located and very close to shops and restaurants. ## Distance 30 kms to the airport (paris-charles de gaulle airport) 20 kms to the airport (orlando executive airport) 3 minute walk to the nearest metro station (palais royal/musee du louvre) 6 km to the nearest station (gare du nord) 15 km to the nearest fair site (porte de versailles) ## Rooms The rooms are large by Parisian standards, and very well-decorated, either in blue or red colors, and very charming. Each room has a small sitting area or desk. The rooms are very well-equipped, and the windows are soundproofed, some rooms view the Palais Royal. The marble bathrooms are held in light colors, and all have bathtubs. On the 6th floor, there is also a terrace. ## Restaurant The breakfast room is under the reception, but even downstairs there is natural light coming inside. The furniture is dark, but the light-painted walls make a friendly atmosphere. There is also a small bar, where drinks can be taken any time. ## Exterior This is a historical, 6-floor building, with a beautiful facade, reminiscent of Louis XV. The hotel used to be owned by Madame de Pompadour. ## Lobby The lobby is medium-size, held in very light pastel colors. On the right-hand side, there is a large sitting area, with a fireplace thath gives a cozy and familiar atmosphere. Nicely decorated, with little details like fresh flowers makes guests feel welcome.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/ThirdPartyProperty/Image/ext177/image_176833_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/ThirdPartyProperty/Image/ext177/imagethumb_176833_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nN1jNlcYZ5F3uuaWzR0dIvXByTZH2d+jbtiuSHVCwsj9tAuDWQ4HbwllP52lcSu2hOFSSIe/c5mfEojUKPnXyxGUDfqvi/Av6TFW0M2gW77vcbIab2tziHSnQ4cVC8XhYELMvUDNUJlcfoi+yDsGCQkMjXV5Ztq1eCY3OM7PAOesoBanzcygvTg==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1145</SubTotal>
+					<Discount>278</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>867</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n6Yo79XhdVM0EvjvxpTc6czTsPmAysoATPXPjD9byxVHO/paNNIpKT3J0jAt4AGku3lgh9oJNPwCMbSLap9KmUi3gONnwSQ5wRLeOhB/54JffqusPW+IYcPzf2r+Z4sgh5ARaefpcd5vVuF/RtXb42zJzDFG8Bs+rSXz4cmnmbDCByPNNujUjHg==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1145</SubTotal>
+					<Discount>278</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>867</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n7S+Qlq1pwaoWM7gTaHfVQ4a8aKYhZpdLEc9ahsemKBAYpCnX6marqvKsUOxUyLmwjKYlqOpeYFzr3zH9wmwaEHQzY0NcJ2PKkSKnPXuTHe+ffE7w5kpBkHVf7OTp0g4s5V0sAqOHadWblhKcmrCiqvS4/+takDvxQ9cCD9px26Pl2zDMeSF1GB4czWE1w44a</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1228</SubTotal>
+					<Discount>289</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>939</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nc4cMaUsVemjqGE1ghul+xb6yoG+bEJEu9D6j3hCk7NU3FJ4ilFqsJ5J/UMS5NZRWm9+WVcu5vAhWW7O7p72AHu7QCF6//9yE33YPUxozKfHdXSQNVFdnArBbmNUmG+u9hzVbo9eBNQtqOnN3drQoQexpwOT/aEvIDn0QFShhD/4d+QMM3q0PSw==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Classic</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1228</SubTotal>
+					<Discount>289</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>939</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nOo2ZYaNoyEIQb343SgK2G8HOdRzzF9oqStpWYM0Tjxf24rMvNc+xY+S6ZjAMHtNOdGL+lF1g+ME0Y/GBCW/TLy/pYuFaSM8cWHE0k62khxbTfloDBrz4rzpwNvPjISpsUKjIvOYIxe8IjPsjyfQCV62uYogh5jVZgxaF4BDgT5jezE/gJY0juWaAdu8n0eY9</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1376</SubTotal>
+					<Discount>332</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1044</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4ns3vfn1zFYp8yVSDrBfyTDzyi7iNWzc0Yn7XeLFAH9FTDUF4rcrCLgxtoS+tXjtRPKWYZncq6XyKlfOFQlFpfOkbbEef4dF7ht8CIgJ2FbKWIoKR0d6UUUuAFXIWwFBvH3Ji7meJxIzOYA8Kk/jHg97ET+VDZDi1w5rMkafrspyPyQl6Ym4vHWlcP5WBbMl4F</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1376</SubTotal>
+					<Discount>332</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1044</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nq7ScKqG7OVRsr3tmphEYrXMgXbC1g4ACjFk27QesXICktR+a82YuXdwjCK9Z3kP5XCUUSB0Ael5/xCq+pn8j1Y9yENDpszBUBU2qGi80cLsDIaxFL4dZbdGceyrSd7JIbp+2/W3GdWeuWPjiiMkefi5E1rP/cQ+jL2WAS+As6u7SAA//6IllzQ==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Triple Standard</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1096</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1096</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1874216</PropertyID>
+			<PropertyReferenceID>137844</PropertyReferenceID>
+			<PropertyName>Relais Saint Jacques</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(05) Latin Quarter </Resort>
+			<Strapline>## Overview Relais Saint Jacques is a sophisticated 4-star hotel offering stylish accommodation in the heart of Paris. It boasts free Wi-Fi and an excellent location near the Odeon theatre and Notre D</Strapline>
+			<Description>## Overview Relais Saint Jacques is a sophisticated 4-star hotel offering stylish accommodation in the heart of Paris. It boasts free Wi-Fi and an excellent location near the Odeon theatre and Notre Dame Cathedral. ## Location The 5th arrondissement is notable for its vibrant Latin Quarter and is home to a number of prestigious universities, colleges and schools. Nearby places of interest include the Pantheon, the legendary Shakespeare and Company bookstore and the historic remains of a Roman amphitheatre and thermae. Cluny - La Sorbonne metro and Luxembourg RER stations are located in the vicinity, providing fast and easy access to other popular Paris destinations. ## Exterior The hotel occupies a mid-rise property featuring a classic facade with wrought iron balconies. ## Leisure Facilities There are no leisure facilities onsite, but free Wi-Fi is available throughout the premises. ## Rooms Deluxe rooms are more spacious than Prestige rooms, each individually designed and named after a chateau in the Loire Valley. Amenities include soundproofing, a flat-screen satellite TV, mini-bar and en-suite bathroom. ## Restaurant and bar There is no restaurant onsite, but a buffet breakfast is provided every morning. Guests can enjoy a range of hot and cold drinks and snacks in the bar. There are also plenty of dining opportunities in the vicinity. ## Other Information The hotel has a 24-hour reception.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext124/image_123528_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext124/imagethumb_123528_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nj3RoYFUJAMK6dry5rLYV0a6lYTLX/5nP9x+w8Ky+gbTWlgh5rRpTiuDY3t+DSl1pMJo9tpn3xrpPoYklQkb3U/MnuF5qqck6Sk0Ky3PqhwQJkzCPt32oKQN+qQM1SFs1771/cMBhpQUiemrXiXGXikGlCFmoZ0CxBVFrcNjMvhKOoLEaIhfORZ2TEXX1T4xv</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Or Twin Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>1582</SubTotal>
+					<Discount>460</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1122</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1944596</PropertyID>
+			<PropertyReferenceID>66744</PropertyReferenceID>
+			<PropertyName>Residence Villa Daubenton</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(05) Latin Quarter </Resort>
+			<Strapline>The hotel is situated on a quiet side street, within 15-minutes of the Pantheon, 35 km from Charles de Gaulle airport and 15 km from Orly airport. The hotel is within easy reach of bars and restaurant</Strapline>
+			<Description>The hotel is situated on a quiet side street, within 15-minutes of the Pantheon, 35 km from Charles de Gaulle airport and 15 km from Orly airport. The hotel is within easy reach of bars and restaurants as well as Censier metro station. Gare d'Austerlitz station is around 1.5 km away. Sightseeing attraction such as Montparnasse or Notre Dame lie around 2 km away.This 6 floor apartment hotel has a total of 16 apartments and 4 studios as well as a 24-hour reception with a safe and lift as well as a breakfast room, laundry service (fee), Internet access and WLAN (fees apply) as well as a car park and garage.The individual lodgings are fitted with a hairdryer, a lounge/bedroom, a direct dial telephone, satellite/ cable TV, Internet access, kitchen facilities with a fridge, an oven, tea/coffee maker, a microwave and ironing facilities.Guests are offered breakfast each morning.From Roissy Charles de Gaulle Take the RER B direction Robinson / Saint Remy les Chevreuses and stop at Chatelet station. Reach the metro line 7 direction Mairie d'Ivry / Villejuif and stop at Censier Daubenton. You are close the Residence.From Orly Take the Orlyval shuttle to Antony and reach the RER B direction Roissy Charles de Gaulle / Mitry - Claye and stop at Denfert Rochereau station to take the metro line 6 direction Nation and stop at Place d'Italie. When you are there, reach the correspondance for line 7 and stop at Censier Daubenton.etro Place Monge station line 7 direct access Chatelet, Opera. Cardinal Lemoine station line 10 direct access Odeon - Mabillon.RER RER C Austerlitz, at 5 minutes from the hotel going to Musee d'Orsay and Chateau de Versailles Bus Line 75 direct access to Musee du Louvre, line 20 to Opera, line 91 direct to Gare de Lyon 15 minutes, line 91 direct to Montparnasse, line 83 direct to Champs Elysees.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext53/image_52945_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext53/imagethumb_52945_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4ncPa6abgiNY20Ad/y8mQEsKLbz9Gr82Sc/4M2BjHGqpl2jdQ4PXiv76VE/MeOgnZGs06HUDf34xsqU0jZ4CAVLZV4dRLdukQK5jFCldnFSy8+0Cr3hI09t0KKP/9ryN+a2m4JbNHJqAt0YdI5G+2qHa5EHYwR1QZqtwAqsaB2KM3SBmWxybyW3nlowm3bYii6</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Apartment 4 People</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1365</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1365</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1482534</PropertyID>
+			<PropertyReferenceID>5361</PropertyReferenceID>
+			<PropertyName>Saint James and Albany Hotel Spa</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(01) Louvre &amp; Palais-Royal</Resort>
+			<Strapline>##General In the heart of Paris, member of Great Hotels of the World and the chain Les Hotels France Patrimoine, the hotel Saint James &amp; Albany Hotel-Spa is a real haven of peace in the centre of the </Strapline>
+			<Description>##General In the heart of Paris, member of Great Hotels of the World and the chain Les Hotels France Patrimoine, the hotel Saint James &amp; Albany Hotel-Spa is a real haven of peace in the centre of the French capital, and it features 750m of adjustable meeting rooms, and an eco-friendly spa. With its 250sqm spa and its indoor pool, this Hotel, nearby the famous rue Saint Honore with its legendary boutiques is overlooking 2 inner private courtyards and offers peaceful moments in the heart of Paris. ##Rooms The hotel offers 184 rooms including 9 luxury executive rooms and 11 sumptuous suites. All the rooms offers high standard and combines refinement with contemporary design. The Standard single and double room for 2 persons, 1 Queen Bed or Twin Beds. Approx 20sqm Bedroom overlooking the quiet side street (Rue du 29 juillet). No extra bed or baby cot possible to add. Superior single and double room for 2 persons, 1 Queen Bed or Twin Beds. Approx 25sqm Bedroom with sitting area, and overlooking our private garden or our inner historic courtyard. Possibility to add on baby cot. No extra bed Junior Suite room for 2 persons, 1 Queen Bed or Twin Beds. With approx 30sqm - overlooking our private garden or our inner historic courtyard or the quit side street (Rue du 29 Juillet). Room divided in two parts sitting room and bedroom. Possibility to add one baby cot (free) or one extra bed (extra cost) Junior Suite room for up to 4 persons, 1 Queen Bed and Twin Beds. Approx 30sqm Bedroom -overlooking our private garden or our inner historic courtyard or the quiet side street (Rue du 29 Juillet) and divided in two parts sitting room (with 2 extra beds) and bedroom. Executive room for 2 persons, 1 Queen Bed or Twin Beds. Approx 35sqm Bedroom overlooking our private garden. Located in a private building with VIP Lounge (soft Beverage, internet access, fax). With hifi stereo and CD player, room divided in 2 areas sitting room and bedroom. Possibility to add one baby cot (free) or one extra bed (extra cost). Suite for 2 persons, 1 Queen Bed or Twin Beds. Approx 45sqm Bedroom overlooking our private garden or our inner courtyard and divided in 2 areas sitting room and bedroom. Possibility to add one baby cot (free) or two extra beds (extra cost). Family room for up to 4 persons, 2 connecting rooms with 2 Queen Beds or 2 Twin beds, 2 bathrooms. Approx 40sqm overlooking private garden, inner courtyard or Rue du 29 Juillet. ##Exterior The Louvre Museum (0.3 km) - See the extensive collections, including the famous Mona Lisa, of the most visited art museum in the world. Musee d'Orsay (0.3 km) - Next to the Seine river in the city centre, this museum (which is a former railway station) holds mainly French art dating from 1848 to 1914 (including paintings, sculptures, etc) and an extensive collection of Impressionist masterpieces. Latin Quarter (2 km) - A bustling, popular area with many bistros, shops and bookstores. Notre Dame Cathedral (1.5 km) - A must-see in Paris. This building boasts an impressive Gothic architecture. ##Lobby For your events, we have 700 square metres of rooms available (400 square metres of which have natural light) which can be arranged depending on the number of guests and the nature of the event seminars, conferences, product launches, fashion shows. Whatever the event is, your guests will either be charmed by the elegance and sophistication of our prestigious 18th-century function rooms which look onto our private garden or interior courtyard, or they will be seduced by the sublime vaulted rooms. Our split-level suites and our sub-committee rooms are perfectly suited for smaller meetings. ##Restaurant Restaurant Le Noailles the gastronomic restaurant is the ideal venue for leisure dinner. You will discover a rafinated ambiance that will preserve your intimacy during an elegant dinner. On sunny days the restaurant extends on to a terrace in the magnificient 18th century courtyard. This restaurant close on Sunday and Monday. For dinner and snack there is also le bar Saint James, open daily with 2 courses menu for lunch and a la carte for dinner and snack, on sunny days the restaurant extends on to a terracce next to the garden.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext74/image_73007_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext74/imagethumb_73007_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4ohfh9ky+ZbIqr5v4swRsg440jA9NEST+CHcacuILbyRLjq+83qhI6ZfqehM+Ps03SmOlrPMrE6QypGFeBxvNcpHb1U7rL7ZATKuFH3fcKPtIVqm8b2EB/8QSZjaublfp5cKO2AYzKikoIIFZrLptIuAiNO6y+OwzxRwHH1e44gt/twLecYS9XOnTIF1YnUkhnDN0O8Cx23OKpRwqSUTT5C3LhLYDc6G8+E4YQMhqrKtlg==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Non Refundable Junior Suite + Breakfast - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1397</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1397</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4og4lMzkHvNQ+bXVwOKLCTMQYJwSINOMxNOpuYJ/wcc/AV3E3kfPdHk25JDhJIMFb8xdiEo2OlMc/DtFtLGY4kXntjginoShEdkhPQPpyuScu+LjA5xD5QPQb2KvHyn8oMrKJhrPHelj/biIRjEOe1YP77T3gh5eWrT1n9r7f1Y/kVpdkmgs88PyyPtmcO26lfmpAwFf5iud8A==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Leisure Junior Suite - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1488</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1488</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4ogR/4wiRM8KN66I3zJBwHtGODNWQ/QlhjLNgy5PV7yoLEDtzruYNKzf3CyfEIeaM6PhNezH5ZEZj3LWisPVqCNsI8JT/QmbhjOEIg1u57/bDitpzjyK+haskEPZS9lh9BRjgHqBNwkqgQbaqH0x1R8tftvqLGEXGwpJrAJYCgYr2AsD3DXgqPaRiDsfQj95OdE4Dc/Pg0UZtrBw5sHg8sbwBPHUCYDfQ9c=</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Non Refundable Family Room - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1491</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1491</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4ohGDfsTO+b8ObUlh6d24urVi4qczlkxD3wHXye43C2g8s2Z9tcaq0Y08sj7FP7eQ1GnhF7q748XOvAoJqAjh+UqRATOaL4/nYtb2iV1E0milDqvsYeLSXMVyA4/AgN7Ktq8wsXBIR9TuoRTAkGGBNwC+LSYCfBJM/A6JTigTfUbAj6POB6IzH9CSnScvOJskr84EphZhMaGJN3lp6WGuZ5ZtduON1W78D52MwxxRVzJ5A==</BookingToken>
+					<MealBasisID>8</MealBasisID>
+					<RoomType>Non Refundable Junior Suite - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Buffet breakfast</MealBasis>
+					<SubTotal>1526</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1526</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4ohJ/mrG3o5u7BqO11YrhTJ1bUbZ9DMO3hOqaQCepgTNZ/cH7TYB7ZNBGh0YtSrt2L5CiH9Smzpm1sgZvyp7AIZArG1HPA5/k7VJcNwLgMyHe6m2B2aL5A27jjUeUptxq8B8m5i4oyU8eJixoe2scgGLEBN/7nlZGpVdPgDCMqMwKUqrtLyUvmKJzi2Jmf+9mxVKoakw0vg1WcvMc/D4wQN/TFRI922ac9gZ4LJLzX4LRg==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Non Refundable Family Room + Breakfast - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1697</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1697</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4ohYsgXFNle63XIqk5p6zpZd1Sn7I6nwkpuOuXpKSU5LDR7/wDPi56KHcAcDHqqifjdDgca06bxw+toZZj6zFe9LXiBaoBFGux/IbASLJ9ZY9mbHrTlEw0p7y4K74AkirKILhHGb5So6Ex3IpvVvT2Sjr14xtC1IyirzA2l+njQu/I39euRGCY6+l/kdYc/rQu6YQH2jR8pglAloRgtRwxlrhu4piwhB2UI=</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Leisure Junior Suite + Breakfast - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1733</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1733</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4ohxQg4on+IK208ft4rjf+e7ciTBUtwg8rwqBlu5XVljcauCCOBlYvcOpNv3lT9Qf4G88URX7+714JMv/Cp68U5i0cUedTd+qbqaT72bb1UqxYFAr34751NmAFUcj0ORQuuPyiUSmMgJdaLqURaANSs+va72sY+MCkb2yWlPOItSSTqXVTGS8OrpQDN+OHYr9NkQid19Nb8RdvCYHuvjMYhH</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Leisure Family Room - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1863</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>1863</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>bxv7ta9K4ogNOzpYtoSWKHhYdYtBvASxIf7xxJtuHIRpt5nxP+H/TgepUlXFOgpTLLfBjQC7COFesMD9CBmYZmZ8qrUFNs6dvmh968pQKE7q38ZV7DlRXPSXvsqfGjEQBRUQchZHPwRPbg/Dh4/xnAdiX5ddh8dZGrb6sbw5RpT4GtStPBo6yIfdS/1i//yysEeHlZPPBDKjFAvCO7GWTlsiT+pDYgFCMeFAdogUEqk=</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Leisure Family Room + Breakfast - 2 Beds</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>2097</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>2097</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1352382</PropertyID>
+			<PropertyReferenceID>33188</PropertyReferenceID>
+			<PropertyName>Hyatt Regency Madeleine</PropertyName>
+			<Rating>5.0</Rating>
+			<OurRating>5.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(08) Champs Elysees &amp; St Lazare</Resort>
+			<Strapline>## Overview Hyatt Paris Madeleine is a 5-star boutique hotel offering luxury accommodation and refined interiors in the heart of Paris. It boasts a designer spa, sophisticated restaurant and an excell</Strapline>
+			<Description>## Overview Hyatt Paris Madeleine is a 5-star boutique hotel offering luxury accommodation and refined interiors in the heart of Paris. It boasts a designer spa, sophisticated restaurant and an excellent location in the Madeleine area. ## Location The hotel is situated on the tree-lined Boulevard Malesherbes, close to the fashionable boutiques on Rue du Faubourg Saint-Honore and the prestigious Champs Elysees. Madeleine is an exclusive area in the east of the 8th arrondissement, right next to the Opera district. Nearby places of interest include La Madeleine church, the Palais de l'Elysee, Palais Garnier opera house and the large department stores of Galeries Lafayette and Printemps. Saint-Augustin metro station is located in the vicinity, providing fast and easy access to other popular Paris destinations. ## Exterior The hotel is housed in a typical Haussmann-style building with wrought iron faux balconies. ## Leisure Facilities Facilities include a 24-hour complimentary fitness centre and designer spa, which features a lounge, sauna and steam room. A range of massages and spa treatments are available on request. Chargeable Wi-Fi is available throughout the premises. ## Rooms The Presidential Suite is 81sqm and is located on the top floor, boasting a panoramic view of Paris and the Eiffel Tower. It features three balconies, a separate living room and a magnificent terrace. Amenities include air-conditioning, a flat-screen TV with on-demand movies, DVD player, iPod dock and a mini-bar. The marble bathrooms feature a bathtub and separate walk-in shower, bathrobes and toiletries. ## Restaurant and bar La Chinoiserie offers refined French cuisine in an elegant venue with an amazing glass roof. It is the ideal place for a romantic evening meal, while Cafe M offers a glamorous setting for breakfast or lunch overlooking Boulevard Malesherbes. ## Other Information The hotel provides 24-hour reception, concierge and room service.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext31/image_30722_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext31/imagethumb_30722_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nS4Hh0mUNtmmZhP3Xw0KTkxs5BXqeABKnVGPFrA+4EVOEeCRQ0fWgB5o5VjpOAb+pOprir2ewpcLBnSG43TgJcguTBCIbpwGhjrOl3ep0YT3rDfRckkj0+RA5knrxVYR13u/n0HULpx8mk7nECMQ4qjBRnJCFjkEHEg81gWM3MzB2OSvIy0MEe/uc2vZiwCgN</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2564</SubTotal>
+					<Discount>1155</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount, Long Stay discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1409</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nr6d+niA/K3P7FmQxfWZLcKOhxgtcsmAleYb+MtBLyTcg3Ch/F7kykIB2RsN2AYMFededUcxVZPGDIC6ptOzdNuug+kSliLk/mF1252NWB1jRngaLDigNmbodgpB/tmdyIZChYJvR86vYTG0nlxaBi21A+owaK6C8Q6PzyjqDna/SnFX+vgmMvuAD982kK3H2</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2564</SubTotal>
+					<Discount>1155</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount, Long Stay discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1409</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nqEAMPXJLnmYBbqUfTBcMJvSzG54JM0NGi5f8wPFAZybO1iw7+oA1917RLNkkbn1zkqffBptKAK7F8NaFiN1BRa/W/f922idD9qoOMCpv1f+Ui77kntVZY1iRpOtjtH7FkJ5LuO3QFINjTdtuPxQQhHkwWval871Kas6pzsw3QvIZM1OeBPT69Om3YdoZUk6r</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Double Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>2295</SubTotal>
+					<Discount>667</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1628</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nrllk7X7A3iP6+2KQ4Mv18Eq8EsmhT83uagr8ugA8WnNethrIqPR1/Z4uJBpmpU1KCE9wPF1Jrsl5STOc/HBJMotlOW+foeBrxJG3bwi7oUTX8xLhAuIz72wiQCNVJO9+wY98YPVaPrAFVrCWEkVeW2UeSAV6KVfnn7ztycMEUD67Z+M5Oy1V7/ZwhvTJYhMJ</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Executive</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2990</SubTotal>
+					<Discount>1347</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount, Long Stay discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1643</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n7W2j4OGRMWyXQuc4FPQuw88+GL+vY/I2j9F8kkU+hzXhj04m99uOtkL5iU+ZB2sIeACCmDr/JCY9zeQjoRltVFyAJPO/FN3r/0RKPMZ6/7GcCxsKYweYU5EOt+ZNfOTtW9Xa4aEboCCnhOzmU6NVHDh4Pe2ta+ww/1pi4vkSQspDEjdCG24+49fI86m+Ts7zhzfch5TuisU=</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Executive</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2990</SubTotal>
+					<Discount>1347</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Child discount, Long Stay discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1643</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4noTtSvoFMdXjwjjZpJuKrxPzozJt9TYD+wCL6rDkl6TC3TA4GDOiLvtNYZ+3fVXSOC4lxbuKCRWeB8GIeEMDjaCj0LTjsQ//8e/Zds+mLL+m0uq/f8dbXyckq1Lf4nYDmGrmDa0s5hNDGaUX/xzLRcvxtSHKc7NtpUERp8blfXcBG/qIO5EDrAQ/V2bLSAyDG</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2614</SubTotal>
+					<Discount>924</Discount>
+					<SpecialOfferApplied>Child discount, Free nights.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1690</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4npvsDt0YQUhSgnYXrgGqepE8cQJhh9rtuPRus+6WwuNqP58FOgVP8n8Ei8bR9Ggpov0weAkXH7cV6rZ/fxS26pyK6uy0p8N2uMEW2+TmwJfcWST/U39md888RTK3M5OWqjw+oSH/a7h+uAoudeAubrlp8LOkyg8hY9lw6rw/W8CVHsm5zzeWcSw00GqEo0tJV</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2614</SubTotal>
+					<Discount>924</Discount>
+					<SpecialOfferApplied>Child discount, Free nights.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1690</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4njngoPJAjR+ZqKVsf06VFgyztAINDdtZ05TVWZxpZEXr8mPTHbDAvd0CRp0yCMfhqloRHn5RF8PKR+WzKDUc4i7tKSonXVLEEbRrJVlHuu4HTgB+FQ/Dxhm/UdMd/QC9dTcUomR5k43Ar/xNk4EjzJdNmpbc19TBmxdmWbJKEWAy4sMWAaFQuonpRViKwguK6</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Double Executive</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>2707</SubTotal>
+					<Discount>787</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1920</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n/pFyvMmkA5LO+es2KljR4OBI0QfTNVAWkE8zfCWhuM17vh7Ov/PCrzp4SMCW7vSo3J+s4xCBTga8Adgqw0WL+AiUBygz80gkMEOPUpl+S5U0t0iuD/X9byvbgx2n91nXWYSVPHHOTghxtFrgkGOokZOzbqKv3eTgvc9HEBr4RjIJHNnOabwtbvIvWvfzBH+1QNcaC1uY8DQ=</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Executive</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3050</SubTotal>
+					<Discount>1078</Discount>
+					<SpecialOfferApplied>Child discount, Free nights.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1972</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nTyyttAGkHUYHwRdOx9iRpsa1fVRnzjD4Rn/vW3IGXJPaSXGAFswZTRdHMYYbdpVov6JbYKqBQLG9k8MNfJIdIRMKSyJBdipq17j3MQUwsJVGd+1O2S/ZfneR1TOJsKD/L4F0E1vxpsC0MxS0+0f/OSAbCVxs4jDFoxmzc57xhFuetnLl9cWDDalkcdyAAWuL</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Twin Executive</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3050</SubTotal>
+					<Discount>1078</Discount>
+					<SpecialOfferApplied>Child discount, Free nights.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1972</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nJMCUOULG25vo7cs8K/aiQKWJzal4IAIr2rxfw0TbkLgE4++YnTpha07Z+pR3k1hiokrkbFMclke80Pl0M3gpGVRTwHfXlHwVBfmHlLr9HVyXkuywryRQvK5z/1SqSZwlDuFrnPhyM3GSp75l7b+/xxRZXIFDl/lv+HFzl07saWkqTMPpO+utuOev8s/D/8iR</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Hyatt</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3935</SubTotal>
+					<Discount>845</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Long Stay discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>3090</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n9JjBdu8uYm1k1rU7v0zeQ1weKO7l09+BpT0fKZ0ZZneSY43Kc+c/v9dtePRo3lzswXKtZhxvl7QtiZYM00jAPEiNIGMM+hMO/AE2Nid4oU9MgmGd1ZdxwQCQcYWXp6K8UuJ6wASOxaFJ3cltMw24ZsyVbKbrcFkAKoCpSdrh5LTkXnQmQmmcsA==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Suite Hyatt</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>4825</SubTotal>
+					<Discount>1403</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>3422</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nndllzh8I+Dvdb6/NlNh3ugJvWvWKjIoggtN/jLbAMOSNnf0b9a0IArb74W8UrcGs5ll5Qq9KrUOzJk83BYqsiFKX0MYJnCypc+mm3XlyMFwLE36XPiIXpm3TJ9sUjFFoEpIf9wFt5Y8OnnyT4tsSi/1DojGYF3+maR5r8DDE8MXLX+c4vfGh/nAG6BPnG2mf</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Hyatt</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>4046</SubTotal>
+					<Discount>338</Discount>
+					<SpecialOfferApplied>Free nights.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>3708</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nPKg+I3ipjAEvYUEcnIpUiiwCIAPWohWbdW1XLJY6pDDoqxkrSia3P5zreZXnxlU9WS6AKPvlMQkpZXyQEJ9Lp8qe+A4/zb8klT9aCH86BYKD0Y3/GE2IjmtpmKjbD9dhr8Dhs4rNu3Tsp650A9+y+WzWoo27DwGnHlfK4Zh2HCmzAynt1cXz+gRjOc0rGlFYAICs45CN/pchpFtKmrljQg==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Presidential</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>8866</SubTotal>
+					<Discount>1903</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - . Long Stay discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>6963</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nOhtklczJkms528c2Kw3Siz6U6TtbqFjLUTkDEvx7QXlKfh43KM9M83OjerQKAYw4CBKxt539l6bA3EYuviF6AaDa0X2NVqWEwFShtjrPSaTh1ubdqMsyzeq8EYQ3/KQkhcoAAdzkO/zo9EalmyVtk4jttXYW8YvpSaXRQLrbdIcJZcF3D8Iu5o9TQ/eKPtw+qQQGoe8vBTc=</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Suite Presidential</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>10647</SubTotal>
+					<Discount>3095</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>7552</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nUi7ZPrzHqDziI0T1f3pX/ALfNWI4NtM7JewtC5ly2QaYCZw6Fe933GAwueGDxHLg/0dalKhqnW1OmRVO7Sc+kzI2IyVmHj100ayqQNhoR0gd+eyglt4g2iBVH165WxG8I9ai5BJ2LA6Nbc90cWyHWqkPo4uH7x/b8vZ5Hn1r3jXuiTPi6AQ+9+7PHwA/8M14pL1Y/iv5VD8=</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Presidential</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>9116</SubTotal>
+					<Discount>761</Discount>
+					<SpecialOfferApplied>Free nights.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>8355</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1033973</PropertyID>
+			<PropertyReferenceID>5361</PropertyReferenceID>
+			<PropertyName>Saint James and Albany Hotel Spa</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(01) Louvre &amp; Palais-Royal</Resort>
+			<Strapline>##General In the heart of Paris, member of Great Hotels of the World and the chain Les Hotels France Patrimoine, the hotel Saint James &amp; Albany Hotel-Spa is a real haven of peace in the centre of the </Strapline>
+			<Description>##General In the heart of Paris, member of Great Hotels of the World and the chain Les Hotels France Patrimoine, the hotel Saint James &amp; Albany Hotel-Spa is a real haven of peace in the centre of the French capital, and it features 750m of adjustable meeting rooms, and an eco-friendly spa. With its 250sqm spa and its indoor pool, this Hotel, nearby the famous rue Saint Honore with its legendary boutiques is overlooking 2 inner private courtyards and offers peaceful moments in the heart of Paris. ##Rooms The hotel offers 184 rooms including 9 luxury executive rooms and 11 sumptuous suites. All the rooms offers high standard and combines refinement with contemporary design. The Standard single and double room for 2 persons, 1 Queen Bed or Twin Beds. Approx 20sqm Bedroom overlooking the quiet side street (Rue du 29 juillet). No extra bed or baby cot possible to add. Superior single and double room for 2 persons, 1 Queen Bed or Twin Beds. Approx 25sqm Bedroom with sitting area, and overlooking our private garden or our inner historic courtyard. Possibility to add on baby cot. No extra bed Junior Suite room for 2 persons, 1 Queen Bed or Twin Beds. With approx 30sqm - overlooking our private garden or our inner historic courtyard or the quit side street (Rue du 29 Juillet). Room divided in two parts sitting room and bedroom. Possibility to add one baby cot (free) or one extra bed (extra cost) Junior Suite room for up to 4 persons, 1 Queen Bed and Twin Beds. Approx 30sqm Bedroom -overlooking our private garden or our inner historic courtyard or the quiet side street (Rue du 29 Juillet) and divided in two parts sitting room (with 2 extra beds) and bedroom. Executive room for 2 persons, 1 Queen Bed or Twin Beds. Approx 35sqm Bedroom overlooking our private garden. Located in a private building with VIP Lounge (soft Beverage, internet access, fax). With hifi stereo and CD player, room divided in 2 areas sitting room and bedroom. Possibility to add one baby cot (free) or one extra bed (extra cost). Suite for 2 persons, 1 Queen Bed or Twin Beds. Approx 45sqm Bedroom overlooking our private garden or our inner courtyard and divided in 2 areas sitting room and bedroom. Possibility to add one baby cot (free) or two extra beds (extra cost). Family room for up to 4 persons, 2 connecting rooms with 2 Queen Beds or 2 Twin beds, 2 bathrooms. Approx 40sqm overlooking private garden, inner courtyard or Rue du 29 Juillet. ##Exterior The Louvre Museum (0.3 km) - See the extensive collections, including the famous Mona Lisa, of the most visited art museum in the world. Musee d'Orsay (0.3 km) - Next to the Seine river in the city centre, this museum (which is a former railway station) holds mainly French art dating from 1848 to 1914 (including paintings, sculptures, etc) and an extensive collection of Impressionist masterpieces. Latin Quarter (2 km) - A bustling, popular area with many bistros, shops and bookstores. Notre Dame Cathedral (1.5 km) - A must-see in Paris. This building boasts an impressive Gothic architecture. ##Lobby For your events, we have 700 square metres of rooms available (400 square metres of which have natural light) which can be arranged depending on the number of guests and the nature of the event seminars, conferences, product launches, fashion shows. Whatever the event is, your guests will either be charmed by the elegance and sophistication of our prestigious 18th-century function rooms which look onto our private garden or interior courtyard, or they will be seduced by the sublime vaulted rooms. Our split-level suites and our sub-committee rooms are perfectly suited for smaller meetings. ##Restaurant Restaurant Le Noailles the gastronomic restaurant is the ideal venue for leisure dinner. You will discover a rafinated ambiance that will preserve your intimacy during an elegant dinner. On sunny days the restaurant extends on to a terrace in the magnificient 18th century courtyard. This restaurant close on Sunday and Monday. For dinner and snack there is also le bar Saint James, open daily with 2 courses menu for lunch and a la carte for dinner and snack, on sunny days the restaurant extends on to a terracce next to the garden.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext74/image_73007_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext74/imagethumb_73007_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4neAHlhqP1hvgpKwbHQD0JSJG6QcGpMOrPpwP6KWd26BG91Ha5us1r7OW5redo9adEvkYuJvChyx+8YorLGU621SiLSL2FqrDphcam8dNI3DaWMJV9W91V851aVfRucbxUi/0plVFiSo4G9B710lfeTj0HfHjFDSY5tdCZ8gsAdCZrZejlBmfn4Ex+Tt9WWoXS</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Triple Junior Suite</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1947</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - .</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1947</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n7svFwwvCU1NjyHq82oUF/2I8su1IRPUK9xmOy8MCfJfo4ley3uOLMF8/UTgs8HdsCTHhXl7VBB3lLg0AiJWVZngjh43FiKm3qp4hWv5Wom7+WudIrCDb6j/gGR/5ppT6eERLRqA8i9bDZOXg6NGmBM+fuEdkMHPiHb6+JHG9z5JT2h04VxOp1SYTclnTn9H4</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Family Room Standard</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>1990</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - .</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>1990</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n8jQTcc8xNPkFW4GXUyIFqJATHDsUUxig9Erq7SSDnVLof4wPXco2x8yr8wqBpQAG/rodVuKKWunCEAQKG8EPOuwgr67WXSFyoEaXTtsxJ02FmS//iP+4P3kAcqRGILEX8MilYQg1N4kaqxcvw0TbVJAI7+55d9IPKOUhe8Fvj5Qlo9m8DMYF8kG9czYK7xo7</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Triple Junior Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2222</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - .</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>2222</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nkYug/NfMFEubur/OpPGHFFaXODXza4R1Srsyd4xVmWyKr6UK8I87j3GBQEedCMXT8xAmFrMiB7Tg6tNir5G2NbBSl/eALOcMAMYArHZhpMx5+NLdgDW3RUuheGEg4iPKUAnjTQSXCQpSj3178cBftT8g83hxn56Mm2dR/1jazthilWUb5Fi/zYXmJ/58CwMh</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Family Room Standard</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2266</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Non-refundable rate. No amendments permitted - .</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>2266</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1956531</PropertyID>
+			<PropertyReferenceID>185724</PropertyReferenceID>
+			<PropertyName>Hotel Jardin De LaOdeon</PropertyName>
+			<Rating>4.0</Rating>
+			<OurRating>4.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(08) Champs Elysees &amp; St Lazare</Resort>
+			<Strapline>##Property Location With a stay at Jardin de l'Odeon in Paris (Saint-Germain-des-Pres - Luxembourg), you'll be minutes from Odeon Theatre and Luxembourg Palace. This hotel is close to Louvre Museum a</Strapline>
+			<Description>##Property Location With a stay at Jardin de l'Odeon in Paris (Saint-Germain-des-Pres - Luxembourg), you'll be minutes from Odeon Theatre and Luxembourg Palace. This hotel is close to Louvre Museum and Eiffel Tower. ##Rooms Make yourself at home in one of the 41 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and satellite programming is available for your entertainment. Conveniences include phones and safes. ##Rec, Spa, Premium Amenities Take in the views from a terrace and make use of amenities such as complimentary wireless Internet access and concierge services. This hotel also features babysitting/childcare (surcharge) and tour/ticket assistance. ##Dining Take advantage of the hotel's room service (during limited hours). Quench your thirst with your favorite drink at a bar/lounge. ##Business, Other Amenities Featured amenities include complimentary newspapers in the lobby, dry cleaning/laundry services, and a 24-hour front desk. For a surcharge, guests may use a roundtrip airport shuttle (available on request) or park nearby.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/PropertyReference/Image/ext171/image_170560_5749104_v1.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/PropertyReference/Image/ext171/image_170560_5749104_v1.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nrEPv7BQgD8bD2KCKP/8D5zxJGJ8ZqBW9mIm0hjm8YZ+5F1B7Xhc57+gT5h8pPFR3sOb4s6UgkYRJqJFdi//NR8xqjZXaRGJpU+zExiQujH0qoDmxCrYbZ+FhRZ8oDxv+3leLWxeteJEAYwywEUqDC0phrXNxFOjHMBQRzi1DOpYtAdqN9sR56g==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Suite Standard</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>2341</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>2341</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n/CoMzc68R5ebSRYXVwYUniJO8R2/ROCRrlFaNR3NfPGvQeXoKGi+7khun051BD7q4lwwnAfeAw8rxC+ks+CuaZJKDBiQ4Pk0oXRUP6uMQEkgcP0MP01PdlCCWW/5MgENS8k6Hh/VuliITEDQVJzSi0/P0T8xlvv5qm/GefeVkAbfWRTbTqZWyQ==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Standard</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>2591</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>2591</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n/W54KtXBbGr9+t/eN/j6kxjiKGC560xfFKwajdAVS0uVSknPynxOHK0PsELtBNpcdtPPwHRHX3hCIv22SOmcgshL1XpvNKluUbGCd1bt7sj2h7/sxsCByJe13Uq5lp5r6nzRhQySbPasKbg8CyXN11fnPDmN/CIail43B1EpyNSn4crCuTKvTYSP23FUzoRV</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Suite Superior</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>2788</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>2788</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4n5XZuhhPUSGL4YkLSfLacBaOhN79yWmByADsJ1kViwSb5CD5k7h975ek8DAOhX9EyuUQlLnGHbNcaOpTJ6eNm7p46LR3MirshrQmQcU8dsWNXuPdJLRAN5uM0CXcoyNNfNKksUJd8ZKFffjq/DJMrqhBql10tZvwT9oQpdbuDAaCtph3p91k4D0Hnawtt+uq8</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Superior</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3038</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>3038</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nfSj+h0cYmDeUicWESiO7hI6Iznz9c12dZhQjRykGPGbUJK7S1ir1o4UflgNWZktKXxg41fq/5XvwyjTr607cUZgSn15eY7tt29hQ5kN9eaZ03u6iEEAp6fHz9V8p60sL8Ugo9Ibv2GVXLq967hA11w2AGz7YiYVaE56Y0obB2fry3/X0tsovqQ==</BookingToken>
+					<MealBasisID>1</MealBasisID>
+					<RoomType>Suite Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Room only</MealBasis>
+					<SubTotal>3234</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>3234</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nS0bm1eO1i3/dUHfht5PX7369Y//3Y29Y1EeLgQCx0F+RnP9KAqYUknmUlIX6YhjDKCSZHbPRDV/xeTGOPzMQ31tNkaoS/cqtyHS2y3NDjtQ7T039Nsx1bn+VxI+oMxwcCW4legrolfTUjw4hcxDilUX4h4NesM4Cv28NXjt4P5SLzjTmmhDAUw==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Suite Deluxe</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3484</SubTotal>
+					<Discount>0</Discount>
+					<OnRequest>false</OnRequest>
+					<Total>3484</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1647339</PropertyID>
+			<PropertyReferenceID>109775</PropertyReferenceID>
+			<PropertyName>Renaissance Paris Vendome Hotel</PropertyName>
+			<Rating>5.0</Rating>
+			<OurRating>5.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(01) Louvre &amp; Palais-Royal</Resort>
+			<Strapline>The downtown Renaissance Paris Vendome Hotel is a luxury boutique hotel that was awarded the prestigious five star classification in June 2009 that recognizes the highest standards of luxury in both s</Strapline>
+			<Description>The downtown Renaissance Paris Vendome Hotel is a luxury boutique hotel that was awarded the prestigious five star classification in June 2009 that recognizes the highest standards of luxury in both service and facilities. Enjoy contemporary luxury and visit Paris and its tourist attractions from our doorstep. The Seine River, the Louvre and Orsay Museums and luxury shopping areas are only minutes away. Take the nearby Paris metro or walk to the magical Champs Elysees. Our boutique hotel features luxury hotel rooms with king-sized beds, luxury bathroom amenities and broadband internet. Enjoy a Parisian ambiance and modern French cuisine from our world-recognized chef at Pinxo. Rejuvenate in the free fitness gym, indoor swimming pool and sauna. Indulge in a visit to our hotel spa for facial treatments and massages. Luxury hotel rooms in downtown Paris, personalized service, elegant surroundings and an incredible location - the boutique Renaissance Paris Vendome Hotel is one of the best hotels in Paris, France. ## Location The hotel is ideally located 5 minutes walk from Place de la Concorde, Avenue Montaigne, Champs Elysees and Place Vendome. The hotel is in an exceptional district with such advantages as great public transport, famous restaurants and shops. ## Distance 1 kms to city centre 29 kms to the airport (paris-charles de gaulle airport) 25 kms to the airport (orly) 3 minute walk to the nearest metro station (tuileries) 6 km to the nearest station (gare du nord (eurostar connect) 3 minute walk to the nearest bus stop 6 km to the nearest fair site (porte de versailles) ## Rooms The rooms are large in size and in excellent condition. They are elegantly decorated with Asian style contemporary wooden furniture. Beige tone fabrics create a soft and relaxing atmosphere. Large closet, 3 telephones, flat television screen, PC connect, minibar and a bathroom entirely in marble, every single thing is designed and equipped for the comfort of the guests. ## Restaurant Pinxo - 2* Michelin French Chef Alain Dutournier created the Pinxo as a casual alternative to his famous restaurant Carre des Feuillants. All dishes are beautifully served in 3 portions that guests may share in an contemporary environment in the heart of Paris. Bar Chinois - Cozy and intimate bar with Chinese inspiration and antiques. ## Exterior It is a traditional Parisian house built in the Hausmann style. ## Lobby The lobby is medium in size and separated in 3 parts. The main lobby is a luminous space with a large glass roof. There is a cosy lounge with a fireplace where a thick wool carpet and tweed sofas make a refined contrast with beech wood floor. Guests can enjoy a large stock of the art catalogues and books. On the opposite side of the lounge, there is a Chinese bar. This small and almost private area is the most exotic and polished bar of all Paris hotels. Wifi available in the lobby.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/ThirdPartyProperty/Image/ext892/image_891337_13078559.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/ThirdPartyProperty/Image/ext892/image_891337_13078559.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>g5wlUXE0C8hYPE0mTQG8qEcaV65e3E4nYvLZW/gwSdSL/3jM/0AsjLCMZ4PEck+UlXbVWsujno7haFreWhFBEJ3S08ihhpT2HX1dK/m2iqbI1cgFsbbQtIrD3PTHeOAirx+WtliiT8ZwJfvpJen/RWFLYtXD+jBZWPAtz0pv3W6gfZTDTjqVxhUrmufl4dvO7ugeWd4v7perAZpUa2eu1/RoE3Y+HqH0</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Double Junior Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3990</SubTotal>
+					<Discount>1069</Discount>
+					<SpecialOfferApplied>Child discount.</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>2921</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+		<PropertyResult>
+			<TotalProperties>10</TotalProperties>
+			<PropertyID>1171133</PropertyID>
+			<PropertyReferenceID>5368</PropertyReferenceID>
+			<PropertyName>Le Meurice</PropertyName>
+			<Rating>5.0</Rating>
+			<OurRating>5.0</OurRating>
+			<Country>France</Country>
+			<Region>Paris</Region>
+			<Resort>(01) Louvre &amp; Palais-Royal</Resort>
+			<Strapline>## Overview Le Meurice is a grand 5-star hotel offering spacious accommodation and a fantastic location overlooking the Tuileries Garden in the heart of Paris. It boasts a luxury spa, state-of-the-art</Strapline>
+			<Description>## Overview Le Meurice is a grand 5-star hotel offering spacious accommodation and a fantastic location overlooking the Tuileries Garden in the heart of Paris. It boasts a luxury spa, state-of-the-art fitness centre and a three Michelin-starred restaurant. ## Location The hotel is located on the prestigious shopping street Rue de Rivoli, between Place de la Concorde and the world-famous Louvre Museum. The 1st arrondissement is an old and illustrious central district dominated by the Tuileries Garden. Nearby places of interest include the Musee de l'Orangerie, Palais-Royal, Place Vendome and the modern shopping centre in Les Halles. Tuileries metro station is located in the vicinity, providing fast and easy access to other popular Paris destinations. ## Exterior The hotel occupies a grand palace featuring a stone coloured facade with arched columns, wrought iron faux balconies and a mansard roof. The elegant exterior houses a beautifully-appointed interior, designed by Philippe Starck, which combines traditional French design with discreet modern amenities. ## Leisure Facilities Facilities include a luxury spa comprising massage treatment rooms, steam rooms, a Jacuzzi, fitness centre and sauna. Chargeable Wi-Fi is available throughout the premises. ## Rooms Deluxe Suites are 75sqm and showcase a classic decor with white, cream and bronze hues, period furnishings and large windows with courtyard or street views. They comprise a spacious bedroom, separate oversized living room and dressing room. Amenities include a large work desk, generous closet space, mini-bar, iPod dock and flat-screen satellite TV with additional pay-per-view content. A DVD player and stereo are available on request. The marble en-suite bathrooms feature a large bathtub, walk-in shower, bathrobes and slippers. ## Restaurant and bar The three Michelin-starred Restaurant Le Meurice offers refined French cuisine complemented by an extensive wine list, while Restaurant Le Dali serves continental breakfast, afternoon tea and diverse international dishes. Bar 228 is a warm and cosy venue, complete with wooden bar stools and leather armchairs, where guests can enjoy tasty snacks and a wide selection of creative cocktails and alcoholic beverages. ## Other Information The hotel provides 24-hour reception, concierge and room service. Chargeable private parking is possible nearby.</Description>
+			<CMSBaseURL>http://totalstay.ivector.co.uk/Content/</CMSBaseURL>
+			<MainImage>DataObjects/ThirdPartyProperty/Image/ext34/image_33981_10327947.jpg</MainImage>
+			<MainImageThumbnail>DataObjects/ThirdPartyProperty/Image/ext34/image_33981_10327947.jpg</MainImageThumbnail>
+			<SearchURL />
+			<RoomTypes>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Ddi0wCgkog18elrTEzg8W+r4ACXQMCQHgFv2L5m1NuSkXfP5sLGse2dHO9NRbyOVLpG6VLlF5mDTKarjd25G1cQxYMxvhOYlqg2NMlhTqmggV/EeTMKXew==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Deluxe Double</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3410</SubTotal>
+					<Discount>431</Discount>
+					<SpecialOfferApplied>Early Bird Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>2979</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Ddi0wCgkog19e+p4l4DRG2jYpM9mdTVEZFMj7g9T2uLWxcUY88b2njR5w3weVITxlXGHUrcechg6rK36G9ZhvsC0UHS8G4JPYEJYh1OFiH/wtN8yslAscTTg0WmBgazL</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Executive Double</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>3801</SubTotal>
+					<Discount>318</Discount>
+					<SpecialOfferApplied>Early Bird Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>3483</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Ddi0wCgkog18elrTEzg8W+r4ACXQMCQHgFv2L5m1NuSkjSdMmo12GNJyBNPAAqfb+pQWipY1Jp50zBO1P1FqarPyAk/gXJf46kgGQksQrvFGgp6pkDJZMw==</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Deluxe Triple</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>4063</SubTotal>
+					<Discount>514</Discount>
+					<SpecialOfferApplied>Early Bird Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>3549</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Ddi0wCgkog19e+p4l4DRGxbnahrYdkzzv1FubtHXBjeDGEapiuNgdGojdfisubQhgOkdD/MNk8WOjFQQkDP5y4k98G0pmucezG0+cGoYTN7y5Qh40RVyNXT45BWjctrg</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Superior Junior Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>5109</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Special Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>5109</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Ddi0wCgkog19e+p4l4DRG/Yn+kTbhgs7cE/i5lzcVLGoXpR6Jm8OD7W6PYa1qN3/w9QLPNKzpk936MUuxIRt6G8Qu8IYv482AdDDKiDUzTcuLeXLIBtMQ4UiHqd9Jusf</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Hotel Suite Superior</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>8127</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Special Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>8127</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Ddi0wCgkog19e+p4l4DRG7k7aYafBiGgTPYFUgt+yk5prC5EOt4CObU0cihFhc84Si9QgJDxFmM+fFXsegc6HyP13QiLACEHW0g5zfg2IXkihGH5T9mKh/LIg0lAx1QZ</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Grand Deluxe Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>9829</SubTotal>
+					<Discount>0</Discount>
+					<SpecialOfferApplied>Special Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>9829</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+				<RoomType>
+					<Seq>1</Seq>
+					<PropertyRoomTypeID>0</PropertyRoomTypeID>
+					<BookingToken>Ddi0wCgkog19e+p4l4DRG5j5CMLBesiJyaVgOY7ulGbuoL+mJvwoayEmUByn6lgyUvQvilrvauxLcrapdT0dBK3U+LFSA0fdvOLBHH9Crkong3WD9bPBvpgx5TuIooKL</BookingToken>
+					<MealBasisID>3</MealBasisID>
+					<RoomType>Executive Suite</RoomType>
+					<RoomView />
+					<MealBasis>Breakfast</MealBasis>
+					<SubTotal>12819</SubTotal>
+					<Discount>1070</Discount>
+					<SpecialOfferApplied>Early Bird Offer</SpecialOfferApplied>
+					<OnRequest>false</OnRequest>
+					<Total>11749</Total>
+					<Adults>2</Adults>
+					<Children>1</Children>
+					<Infants>0</Infants>
+					<Adjustments />
+					<Errata>
+						<Erratum>
+							<Subject>City Tax</Subject>
+							<Description>Paris hotels charge a nominal daily City Tourist Tax directly to the customer. Local regulations state this must be collected by the hotel and cannot be prepaid. Please don’t hesitate to contact our call-centre if you require further information.</Description>
+						</Erratum>
+						<Erratum>
+							<Subject>Important information</Subject>
+							<Description>Please note that hotels in France do not allow more than 2 adults and one child up to 10 years old in a double/twin room.</Description>
+						</Erratum>
+					</Errata>
+					<OptionalSupplements />
+				</RoomType>
+			</RoomTypes>
+		</PropertyResult>
+	</PropertyResults>
+</SearchResponse>

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "KwikfitTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "www.brokerwebservice.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/leads/leads.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "kwikfit-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

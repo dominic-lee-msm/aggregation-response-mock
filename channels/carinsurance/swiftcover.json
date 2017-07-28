@@ -1,0 +1,15 @@
+{
+    "scenarioName": "AXA Swiftcover",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "portal.extenv101.sc.internal.gbinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/eTransfer/InsuranceSupermarketV4Post-multi/Swiftcoverv4/Calculate.aspx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "swiftcover-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

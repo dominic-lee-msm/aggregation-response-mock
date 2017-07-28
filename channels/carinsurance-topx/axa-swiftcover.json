@@ -1,0 +1,15 @@
+{
+    "scenarioName": "AXASwiftcoverTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "axa.dxi.eu",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/lib/customer_scripts/174/index.php"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "axa-swiftcover-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

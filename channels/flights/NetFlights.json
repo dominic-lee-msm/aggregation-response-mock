@@ -1,0 +1,15 @@
+{
+    "scenarioName": "NetFlights",
+    "requiredScenarioState": "Started",
+    "domain":"api.goldmedal.co.uk",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/PAS/FlightService.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "NetFlightsTestFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

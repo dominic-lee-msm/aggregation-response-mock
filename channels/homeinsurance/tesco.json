@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Tesco Bank",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "jspmsm.uatproxy.cdlis.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/msm/v3-9/http/service"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "tesco-response-success.xml",
+        "fixedDelayMilliseconds": 11000
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "PeacockTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "quoteservice.peacockinsurance.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/QuoteService.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "peacock-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "scenarioName": "Allen and Allen",
+    "requiredScenarioState": "Started",
+    "scheme": "http",
+    "domain": "pricingservice.uat.taaglservices.net",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/PricingServiceWcf.svc"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "allen-allen-response-success.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

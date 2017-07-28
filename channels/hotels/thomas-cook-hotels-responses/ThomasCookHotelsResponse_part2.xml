@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<soap:Body>
+		<OTA_HotelAvailRS EchoToken="Read Me" TimeStamp="2015-02-18T09:18:12" Target="Production" Version="1" xmlns="http://www.opentravel.org/OTA/2003/05">
+			<Success />
+			<RoomStays>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="2552RO" RoomID="H2552" Quantity="9">
+							<RoomDescription>
+								<Text>Double/Twin Room - Room only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="2552BB" RoomID="H2552" Quantity="9">
+							<RoomDescription>
+								<Text>Double/Twin Room - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="2552RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="4328.53" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>288.5683</P1SellingPrice>
+										<P2SellingPrice>288.5683</P2SellingPrice>
+										<CH1SellingPrice>288.5683</CH1SellingPrice>
+										<LocalTax>11.17</LocalTax>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="2552BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="4328.53" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>288.5683</P1SellingPrice>
+										<P2SellingPrice>288.5683</P2SellingPrice>
+										<CH1SellingPrice>288.5683</CH1SellingPrice>
+										<LocalTax>11.17</LocalTax>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="H4U" HotelCode="13360" HotelName="Timhotel Le Louvre">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>3* Timhotel Le Louvre enjoys a great location in the historical and cultural heartland of Paris only a few steps from the majestic Notre Dame Cathedral, the Louvre Museum, Champs Elysees and Palais Royal. Guests of th</Text>
+										<Image>http://images.hotels4u.com/Travel_Images/Resort_7160/Building_13360/exteiror_at_the_Timhotel_le_Louvre_thumb.JPG</Image>
+										<URL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Le Louvre &amp; Les Halles Areas</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>3</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="10136RO" RoomID="H10136" Quantity="9">
+							<RoomDescription>
+								<Text>Family Room (RO) - Room only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="10137BB" RoomID="H10137" Quantity="9">
+							<RoomDescription>
+								<Text>Family Room (BB) - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="10136RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1097.51" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>73.1675</P1SellingPrice>
+										<P2SellingPrice>73.1675</P2SellingPrice>
+										<CH1SellingPrice>73.1675</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="10137BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1211.68" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>80.7789</P1SellingPrice>
+										<P2SellingPrice>80.7789</P2SellingPrice>
+										<CH1SellingPrice>80.7789</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="H4U" HotelCode="16519" HotelName="Timhotel Opera Blanche Fontaine">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The Timhotel Opera Blanche Fontaine is located in the heart of the magical city of Paris, between the Paris Opera and Montmartre within easy access to a good choice of shops and boutiques, good restaurants and brasser</Text>
+										<Image>http://images.hotels4u.com/Travel_Images/Resort_7160/Building_16519/lobby19652_AT_THE_timhotel_opera_blanche_fontaine_thumb.jpg</Image>
+										<URL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Opera Area</CityName>
+						</Address>
+						<Award Rating="4" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>1</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="17294RO" RoomID="H17294" Quantity="1">
+							<RoomDescription>
+								<Text>Triple Design Room (RO) - Room only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="17296RO" RoomID="H17296" Quantity="1">
+							<RoomDescription>
+								<Text>Triple Design Room Non-Refundable (RO) - Room only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="19651RO" RoomID="H19651" Quantity="9">
+							<RoomDescription>
+								<Text>Triple Design Room Weekend Offer (RO) - Room only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="19655RO" RoomID="H19655" Quantity="9">
+							<RoomDescription>
+								<Text>Triple Design Room 2 night offer (RO) - Room only</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="17294RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="853.05" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>56.8699</P1SellingPrice>
+										<P2SellingPrice>56.8699</P2SellingPrice>
+										<CH1SellingPrice>56.8699</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="17296RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="767.38" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>51.1587</P1SellingPrice>
+										<P2SellingPrice>51.1587</P2SellingPrice>
+										<CH1SellingPrice>51.1587</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="19651RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="4835.15" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>322.3433</P1SellingPrice>
+										<P2SellingPrice>322.3433</P2SellingPrice>
+										<CH1SellingPrice>322.3433</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="19655RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="4835.15" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>322.3433</P1SellingPrice>
+										<P2SellingPrice>322.3433</P2SellingPrice>
+										<CH1SellingPrice>322.3433</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="H4U" HotelCode="8223" HotelName="Chat Noir Design Hotel">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>The delightful Chat Noir Design Hotel is located in the 18th arrondissement at the foot of Montmartre in the heart of the magical city of Paris, just steps away from the famous Moulin Rouge, the Sacre Coeur, and close</Text>
+										<Image>http://images.hotels4u.com/Travel_Images/Resort_7160/Building_8223/room5_at_the_CHAT_NOIR_thumb.JPG</Image>
+										<URL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Montmartre Area</CityName>
+						</Address>
+						<Award Rating="4" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>5</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="6774BB" RoomID="H6774" Quantity="9">
+							<RoomDescription>
+								<Text>Classic Triple Room - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="7679BB" RoomID="H7679" Quantity="9">
+							<RoomDescription>
+								<Text>Triple Deluxe - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="10986BB" RoomID="H10986" Quantity="9">
+							<RoomDescription>
+								<Text>Classic Triple Room Non-Refundable - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="7760BB" RoomID="H7760" Quantity="9">
+							<RoomDescription>
+								<Text>Deluxe Triple Room Non Refundable - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="6774BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="897.36" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>59.8242</P1SellingPrice>
+										<P2SellingPrice>59.8242</P2SellingPrice>
+										<CH1SellingPrice>59.8242</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="7679BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="1094.35" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>72.9564</P1SellingPrice>
+										<P2SellingPrice>72.9564</P2SellingPrice>
+										<CH1SellingPrice>72.9564</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="10986BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Discount DiscountCode="EBDR">
+										<DiscountReason>
+											<Text>Early Booking Discount</Text>
+										</DiscountReason>
+									</Discount>
+									<Total AmountAfterTax="852.50" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<WasPrice>897.35</WasPrice>
+										<P1SellingPrice>56.8330</P1SellingPrice>
+										<P2SellingPrice>56.8330</P2SellingPrice>
+										<CH1SellingPrice>56.8330</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="7760BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Discount DiscountCode="EBDR">
+										<DiscountReason>
+											<Text>Early Booking Discount</Text>
+										</DiscountReason>
+									</Discount>
+									<Total AmountAfterTax="1039.63" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<WasPrice>1094.35</WasPrice>
+										<P1SellingPrice>69.3086</P1SellingPrice>
+										<P2SellingPrice>69.3086</P2SellingPrice>
+										<CH1SellingPrice>69.3086</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="H4U" HotelCode="8683" HotelName="Golden Tulip Washington Opera">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>A former private town house of Madame de Pompadour, this impressive 4-star residence, the Golden Tulip Washington Opera Hotel in Paris, France, stands out because of its stunning Louis XV style façade. Completely refu</Text>
+										<Image>http://images.hotels4u.com/Travel_Images/Resort_7160/Building_8683/exterior_at_the_washington_opera_hotel125_thumb.jpg</Image>
+										<URL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>Le Louvre &amp; Les Halles Areas</CityName>
+						</Address>
+						<Award Rating="4" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>2</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+				<RoomStay>
+					<RoomTypes>
+						<RoomType RoomTypeCode="558856RO" RoomID="B558856">
+							<RoomDescription>
+								<Text>Triple - Room Only</Text>
+							</RoomDescription>
+						</RoomType>
+						<RoomType RoomTypeCode="558856BB" RoomID="B558856">
+							<RoomDescription>
+								<Text>Triple - Bed and Breakfast</Text>
+							</RoomDescription>
+						</RoomType>
+					</RoomTypes>
+					<RoomRates>
+						<RoomRate RoomTypeCode="558856RO" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="685.06" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>45.6709</P1SellingPrice>
+										<P2SellingPrice>45.6709</P2SellingPrice>
+										<CH1SellingPrice>45.6709</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+						<RoomRate RoomTypeCode="558856BB" NumberOfUnits="1">
+							<Rates>
+								<Rate>
+									<Total AmountAfterTax="788.84" CurrencyCode="GBP" />
+									<TPA_Extensions>
+										<OfferURL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</OfferURL>
+										<P1SellingPrice>52.5891</P1SellingPrice>
+										<P2SellingPrice>52.5891</P2SellingPrice>
+										<CH1SellingPrice>52.5891</CH1SellingPrice>
+									</TPA_Extensions>
+								</Rate>
+							</Rates>
+						</RoomRate>
+					</RoomRates>
+					<GuestCounts>
+						<GuestCount AgeQualifyingCode="10" Count="2" />
+						<GuestCount AgeQualifyingCode="8" Count="1" />
+					</GuestCounts>
+					<TimeSpan Start="2015-03-27" Duration="P5N" />
+					<BasicPropertyInfo ChainCode="HA" HotelCode="1169093" HotelName="CENTRAL SAINT GERMAIN">
+						<VendorMessages>
+							<VendorMessage InfoType="1">
+								<SubSection>
+									<Paragraph>
+										<Text>Comfortable hotel in the Latin Quarter from Paris. Central Saint Germain is a friendly hotel situated fully in the heart of Paris, in its Latin Quarter. This friendly hotel offers 35 comfortable rooms, equipped with all </Text>
+										<Image>http://www.hotelresb2b.com/images/hoteles/119480_fotpe1_HABITACION1OKOK11.JPG</Image>
+										<URL>http://www.thomascook.com/ota/hotels/hotelAccommodation?ACCOM_CODE=&amp;bookingFlow=true&amp;DP_DATE=27-03-15&amp;ROOMS=1_2_1:11:0:0:0&amp;RT_DATE=01-04-15</URL>
+									</Paragraph>
+								</SubSection>
+							</VendorMessage>
+						</VendorMessages>
+						<Address FormattedInd="false" DefaultInd="false">
+							<CityName>St Germain &amp; Latin Quarter Areas</CityName>
+						</Address>
+						<Award Rating="3" />
+					</BasicPropertyInfo>
+					<TPA_Extensions>
+						<SortOrder>4</SortOrder>
+					</TPA_Extensions>
+				</RoomStay>
+			</RoomStays>
+		</OTA_HotelAvailRS>
+	</soap:Body>
+</soap:Envelope>

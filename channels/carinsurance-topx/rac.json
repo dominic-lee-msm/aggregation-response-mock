@@ -1,0 +1,15 @@
+{
+    "scenarioName": "RACTopX",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "stage1.sitel.com",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/RAC_App_WS/SaveDataWS.asmx"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "rac-response-success.xml",
+        "fixedDelayMilliseconds": 6000
+    }
+}

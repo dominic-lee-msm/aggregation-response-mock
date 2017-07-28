@@ -1,0 +1,15 @@
+{
+    "scenarioName": "OpenGI",
+    "requiredScenarioState": "Started",
+    "scheme": "https",
+    "domain": "openquote.openecommerce.co.uk",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/OpenQuote/OpenQuote"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "opengi-response.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

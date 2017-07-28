@@ -1,0 +1,2459 @@
+<?xml version="1.0" encoding="UTF-8"?> <!--LIT20150911092323_0235241-->
+<OTA_VehAvailRateRS xmlns="http://www.opentravel.org/OTA/2003/05" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.opentravel.org/OTA/2003/05 OTA_VehAvailRateRS.xsd" Version="2.004"
+                    Target="Production" PrimaryLangID="EN" TimeStamp="2015-09-11T09:23:23.283+01:00">
+    <Success/>
+    <VehAvailRSCore>
+        <VehRentalCore PickUpDateTime="2015-10-10T10:00:00Z" ReturnDateTime="2015-10-11T10:00:00Z">
+            <PickUpLocation CodeContext="CARTRAWLER" LocationCode="3747" Name="Syracuse International Airport"/>
+            <ReturnLocation CodeContext="CARTRAWLER" LocationCode="3747" Name="Syracuse International Airport"/>
+        </VehRentalCore>
+        <VehVendorAvails>
+            <VehVendorAvail>
+                <Vendor Code="1" CodeContext="CARTRAWLER"/>
+                <VehAvails>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Unspecified"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="SCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="7"/>
+                                <VehMakeModel Name="Ford Fusion or similar" Code="SCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/fusion_mondeo_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="26537"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="58.23" EstimatedTotalAmount="58.23" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="7.79" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="58.23" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="874376014" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="044d5b55-9318-4a50-aa28-19bdd88def4c.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="11" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="11"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="7" BaggageQuantity="1" Code="FVAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="2" DoorCount="5"/>
+                                <VehClass Size="46"/>
+                                <VehMakeModel Name="Chrysler Voyager or similar" Code="FVAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chrysler/voyager_automatic_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="25981"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="72.10" EstimatedTotalAmount="72.10" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="7.79" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="72.10" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="753176875" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="e15e65fe-4147-45d6-8668-020cd9e02dc4.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="21" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="21"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                </VehAvails>
+                <Info>
+                    <LocationDetails Code="3747" Name="Syracuse International Airport" AtAirport="1">
+                        <Address Remark="43.1140000,-76.1180000">
+                            <AddressLine>Syracuse Hancock Intl Arpt , SYRACUSE, 13220, NY, NY</AddressLine>
+                            <CountryName Code="US"/>
+                        </Address>
+                        <Telephone PhoneNumber="315-455 7495 "/>
+                        <AdditionalInfo>
+                            <VehRentLocInfos>
+                                <VehRentLocInfo Type="VLI_1.VLI.X"/>
+                            </VehRentLocInfos>
+                            <CounterLocation Location="VWF_1.VWF.X"/>
+                        </AdditionalInfo>
+                    </LocationDetails>
+                    <TPA_Extensions>
+                        <VendorPruningCategory Key="4" Description="CORPORATE"/>
+                        <CustomerReviews total="2311" overall="4.30" agent="125" location="277260" name="ALAMO ehi"
+                                         overall_review="85" car_review="87" desk_review="84" dropoff_review="88"
+                                         price_review="84" pickup_review="84" wait_time="1"/>
+                        <Ranking index="1000"/>
+                    </TPA_Extensions>
+                </Info>
+            </VehVendorAvail>
+            <VehVendorAvail>
+                <Vendor Code="2" CodeContext="CARTRAWLER"/>
+                <VehAvails>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="IFAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="3" DoorCount="5"/>
+                                <VehClass Size="48"/>
+                                <VehMakeModel Name="Ford Escape or similar" Code="IFAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/escape_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="24625"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="70.84" EstimatedTotalAmount="70.84" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="70.84" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1706538267" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="4c273bcd-8823-4ae6-9226-6203bcccdd35.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="20" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="20"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="5" Code="PCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="6"/>
+                                <VehMakeModel Name="Nissan Maxima or similar" Code="PCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/nissan/maxima_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="52221"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="69.57" EstimatedTotalAmount="69.57" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="69.57" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="353228570" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="89b38129-eed6-4cdd-bf1e-8814cf72dedc.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="19" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="19"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Unspecified"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="SCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="7"/>
+                                <VehMakeModel Name="Ford Fusion or similar" Code="SCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/fusion_mondeo_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="26537"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="62.64" EstimatedTotalAmount="62.64" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="62.64" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1065718345" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="70c5fbc4-4a9d-42a0-bcde-06cfe099bdd3.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="15" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="15"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="CCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="4"/>
+                                <VehMakeModel Name="Ford Focus or similar" Code="CCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/focus_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="24493"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="56.45" EstimatedTotalAmount="56.45" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="56.45" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1403423750" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="2097f92e-b68d-4b84-9ebc-8799fa44920a.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="10" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="10"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="4" Code="ICAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="6"/>
+                                <VehMakeModel Name="Hyundai Sonata or similar" Code="ICAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/hyundai/sonata_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="43577"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="60.12" EstimatedTotalAmount="60.12" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="60.12" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1930419693" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="e2aa57b6-ce20-444e-baa4-b7e4168c467c.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="12" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="12"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="7" BaggageQuantity="1" Code="FVAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="2" DoorCount="5"/>
+                                <VehClass Size="46"/>
+                                <VehMakeModel Name="Chrysler Voyager or similar" Code="FVAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chrysler/voyager_automatic_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="25981"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="76.51" EstimatedTotalAmount="76.51" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="76.51" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="944519206" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="d0c94b53-e9b8-400f-9e08-47c4904b8c62.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="22" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="22"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="4" Code="SFAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="3" DoorCount="5"/>
+                                <VehClass Size="48"/>
+                                <VehMakeModel Name="Dodge Journey or similar" Code="SFAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/dodge/journey_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="50012"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="81.56" EstimatedTotalAmount="81.56" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="81.56" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="541161496" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="1652398c-4f89-4062-958a-7f6b84e13cbb.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="24" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="24"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="2" Code="ECAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="3"/>
+                                <VehClass Size="3"/>
+                                <VehMakeModel Name="Chevrolet Aveo or similar" Code="ECAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chevrolet/aveo_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="22545"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_WITH_GPS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="55.43" EstimatedTotalAmount="55.43" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.54" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="4">
+                                        <Description>Ski rack</Description>
+                                    </Equipment>
+                                    <Charge Amount="4.88" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="55.43" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="2127070304" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="4859f843-c203-485b-ac60-ae5bfcfc93af.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="9" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="9"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                            <TPA_Extensions>
+                                <PricedEquips>
+                                    <PricedEquip Required="true">
+                                        <Equipment EquipType="13">
+                                            <Description>GPS - Satellite Navigational System</Description>
+                                        </Equipment>
+                                        <Charge Description="GPS - Satellite Navigational System" TaxInclusive="true"
+                                                IncludedInRate="true"/>
+                                    </PricedEquip>
+                                </PricedEquips>
+                            </TPA_Extensions>
+                        </VehAvailInfo>
+                    </VehAvail>
+                </VehAvails>
+                <Info>
+                    <LocationDetails Code="3747" Name="Syracuse International Airport" AtAirport="1">
+                        <Address Remark="43.1140000,-76.1180000">
+                            <AddressLine>Syracuse Hancock Intl Arpt , SYRACUSE, 13220, NY, NY</AddressLine>
+                            <CountryName Code="US"/>
+                        </Address>
+                        <Telephone PhoneNumber="315-455 7495 "/>
+                        <AdditionalInfo>
+                            <VehRentLocInfos>
+                                <VehRentLocInfo Type="VLI_1.VLI.X"/>
+                            </VehRentLocInfos>
+                            <CounterLocation Location="VWF_1.VWF.X"/>
+                        </AdditionalInfo>
+                    </LocationDetails>
+                    <TPA_Extensions>
+                        <VendorPruningCategory Key="4" Description="CORPORATE"/>
+                        <CustomerReviews total="2311" overall="4.30" agent="125" location="277260" name="ALAMO ehi"
+                                         overall_review="85" car_review="87" desk_review="84" dropoff_review="88"
+                                         price_review="84" pickup_review="84" wait_time="1"/>
+                        <Ranking index="1000"/>
+                    </TPA_Extensions>
+                </Info>
+            </VehVendorAvail>
+            <VehVendorAvail>
+                <Vendor Code="6" CodeContext="CARTRAWLER"/>
+                <VehAvails>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="6" BaggageQuantity="5" Code="GFAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="3" DoorCount="5"/>
+                                <VehClass Size="48"/>
+                                <VehMakeModel Name="Chevrolet Traverse or similar" Code="GFAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chevrolet/traverse_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="34585"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Young driver" Amount="16.25" CurrencyCode="GBP"
+                                                   TaxInclusive="false" IncludedInRate="false" Purpose="13">
+                                        <Calculation Applicability="BeforePickup"/>
+                                    </VehicleCharge>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="95.85" EstimatedTotalAmount="95.85" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="9">
+                                        <Description>Booster seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.72" CurrencyCode="GBP" TaxInclusive="false"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="101.EQP">
+                                        <Description>Additional Driver</Description>
+                                    </Equipment>
+                                    <Charge Amount="8.45" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="95.85" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1009834517" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="aaf719b9-f2ab-4e9c-9781-74e70f4c04bd.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="25" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="25"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="12" BaggageQuantity="6" Code="GVAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="2" DoorCount="4"/>
+                                <VehClass Size="11"/>
+                                <VehMakeModel Name="Ford Clubwagon or similar" Code="GVAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/club_wagon_12_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="24489"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Young driver" Amount="16.25" CurrencyCode="GBP"
+                                                   TaxInclusive="false" IncludedInRate="false" Purpose="13">
+                                        <Calculation Applicability="BeforePickup"/>
+                                    </VehicleCharge>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="145.60" EstimatedTotalAmount="145.60" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="9">
+                                        <Description>Booster seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.72" CurrencyCode="GBP" TaxInclusive="false"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="101.EQP">
+                                        <Description>Additional Driver</Description>
+                                    </Equipment>
+                                    <Charge Amount="8.45" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="145.60" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1286410151" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="282435cc-46a9-4dc9-aff6-5352177ee04b.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="0"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="29" Insurance="false" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="29"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="5" Code="FFAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="3" DoorCount="5"/>
+                                <VehClass Size="48"/>
+                                <VehMakeModel Name="Chevrolet Tahoe or similar" Code="FFAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chevrolet/tahoe_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="23265"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Young driver" Amount="16.25" CurrencyCode="GBP"
+                                                   TaxInclusive="false" IncludedInRate="false" Purpose="13">
+                                        <Calculation Applicability="BeforePickup"/>
+                                    </VehicleCharge>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="118.84" EstimatedTotalAmount="118.84" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="9">
+                                        <Description>Booster seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.72" CurrencyCode="GBP" TaxInclusive="false"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="101.EQP">
+                                        <Description>Additional Driver</Description>
+                                    </Equipment>
+                                    <Charge Amount="8.45" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="118.84" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="168138659" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="9abe9636-5543-47c5-b615-355bedd02d85.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="28" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="28"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="4" Code="FDAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="8"/>
+                                <VehMakeModel Name="Dodge Charger or similar" Code="FDAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/dodge/charger_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="34197"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Young driver" Amount="16.25" CurrencyCode="GBP"
+                                                   TaxInclusive="false" IncludedInRate="false" Purpose="13">
+                                        <Calculation Applicability="BeforePickup"/>
+                                    </VehicleCharge>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="60.56" EstimatedTotalAmount="60.56" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="9">
+                                        <Description>Booster seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.72" CurrencyCode="GBP" TaxInclusive="false"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="101.EQP">
+                                        <Description>Additional Driver</Description>
+                                    </Equipment>
+                                    <Charge Amount="8.45" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="60.56" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1931823082" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="c04523c7-2db5-43bc-b9aa-4bfa01161b2d.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="13" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="13"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="5" Code="LDAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="9"/>
+                                <VehMakeModel Name="Audi A8 or similar" Code="LDAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/audi/A8_quattro_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="22489"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Young driver" Amount="16.25" CurrencyCode="GBP"
+                                                   TaxInclusive="false" IncludedInRate="false" Purpose="13">
+                                        <Calculation Applicability="BeforePickup"/>
+                                    </VehicleCharge>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="102.74" EstimatedTotalAmount="102.74" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="9">
+                                        <Description>Booster seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.72" CurrencyCode="GBP" TaxInclusive="false"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="101.EQP">
+                                        <Description>Additional Driver</Description>
+                                    </Equipment>
+                                    <Charge Amount="8.45" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="102.74" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="593895489" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="876947d0-a4a9-4bee-85c6-53f6ac29eb15.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="27" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="27"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="5" Code="PDAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="10"/>
+                                <VehMakeModel Name="Chrysler 300 or similar" Code="PDAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chrysler/300_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="22453"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Young driver" Amount="16.25" CurrencyCode="GBP"
+                                                   TaxInclusive="false" IncludedInRate="false" Purpose="13">
+                                        <Calculation Applicability="BeforePickup"/>
+                                    </VehicleCharge>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="66.59" EstimatedTotalAmount="66.59" CurrencyCode="GBP"/>
+                            <PricedEquips>
+                                <PricedEquip>
+                                    <Equipment EquipType="9">
+                                        <Description>Booster seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="8">
+                                        <Description>Child toddler seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="7">
+                                        <Description>Infant child seat</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.09" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="13">
+                                        <Description>GPS - Satellite Navigational System</Description>
+                                    </Equipment>
+                                    <Charge Amount="9.72" CurrencyCode="GBP" TaxInclusive="false"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                                <PricedEquip>
+                                    <Equipment EquipType="101.EQP">
+                                        <Description>Additional Driver</Description>
+                                    </Equipment>
+                                    <Charge Amount="8.45" CurrencyCode="GBP" TaxInclusive="true"
+                                            IncludedInRate="false"/>
+                                </PricedEquip>
+                            </PricedEquips>
+                            <Fees>
+                                <Fee Amount="66.59" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="759414208" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="7ea8f44d-b0c3-4a28-ade2-ce14ad817561.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="17" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="17"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                </VehAvails>
+                <Info>
+                    <LocationDetails Code="3747" Name="Syracuse International Airport" AtAirport="1">
+                        <Address Remark="43.1140000,-76.1180000">
+                            <AddressLine>1000 Col Eileen Collins Blvd, Syracuse, 13212 , NY, New York</AddressLine>
+                            <CountryName Code="US"/>
+                        </Address>
+                        <Telephone PhoneNumber="(1) 315-455-9602"/>
+                        <AdditionalInfo>
+                            <VehRentLocInfos>
+                                <VehRentLocInfo Type="VLI_1.VLI.X"/>
+                            </VehRentLocInfos>
+                            <CounterLocation Location="VWF_1.VWF.X"/>
+                        </AdditionalInfo>
+                    </LocationDetails>
+                    <TPA_Extensions>
+                        <VendorPruningCategory Key="4" Description="CORPORATE"/>
+                        <CustomerReviews total="1048" overall="3.97" agent="1364" location="297344" name="AVIS ABG"
+                                         overall_review="79" car_review="80" desk_review="77" dropoff_review="83"
+                                         price_review="78" pickup_review="76" wait_time="1"/>
+                        <Ranking index="1000"/>
+                    </TPA_Extensions>
+                </Info>
+            </VehVendorAvail>
+            <VehVendorAvail>
+                <Vendor Code="7" CodeContext="CARTRAWLER"/>
+                <VehAvails>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="4" Code="IDAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="6"/>
+                                <VehMakeModel Name="Toyota Corolla or similar" Code="IDAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/toyota/corolla_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="25565"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="49.90" EstimatedTotalAmount="49.90" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="49.90" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="2113172363" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="636da43b-97aa-42ea-8968-1d7e6d0d531c.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="6" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="6"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="5" Code="LCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="10"/>
+                                <VehMakeModel Name="Cadillac CTS or similar" Code="LCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/cadillac/cts_sedan_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="53205"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="97.69" EstimatedTotalAmount="97.69" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="97.69" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="934584783" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="9290cadd-de2f-4398-b268-8d5ddbc7eaf6.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="26" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="26"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="4" Code="FCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="6"/>
+                                <VehMakeModel Name="Ford Taurus or similar" Code="FCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/taurus_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="50609"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="55.20" EstimatedTotalAmount="55.20" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="55.20" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1947134928" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="4947de0d-f45c-4bb2-bfe5-efb419be3e87.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="8" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="8"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Unspecified"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="SDAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="7"/>
+                                <VehMakeModel Name="Volkswagen Passat or similar" Code="SDAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/volkswagen/passat_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="53317"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="52.68" EstimatedTotalAmount="52.68" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="52.68" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="923680140" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="d277ae46-ece1-45b2-abf7-ab476fb22846.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="7" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="7"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="4" BaggageQuantity="2" Code="STAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="4" DoorCount="2"/>
+                                <VehClass Size="43"/>
+                                <VehMakeModel Name="Ford Mustang Convertible or similar" Code="STAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/mustang_convertible_nologo.jpeg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="24649"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="79.67" EstimatedTotalAmount="79.67" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="79.67" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="208197770" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="cd4c5004-512e-4967-b29d-59ec0fd9c4be.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="23" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="23"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="5" Code="PCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="6"/>
+                                <VehMakeModel Name="Nissan Maxima or similar" Code="PCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/nissan/maxima_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="52221"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="62.12" EstimatedTotalAmount="62.12" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="62.12" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1775731829" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="d714533e-acd0-4158-8b54-5afce20dd6c3.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="14" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="14"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="IFAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="3" DoorCount="5"/>
+                                <VehClass Size="48"/>
+                                <VehMakeModel Name="Ford Escape or similar" Code="IFAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/escape_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="24625"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="63.02" EstimatedTotalAmount="63.02" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="63.02" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="672011251" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="f87cc465-3619-4cf7-9935-d55e1c5edd6a.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="16" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="16"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="CCAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="4"/>
+                                <VehMakeModel Name="Ford Focus or similar" Code="CCAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/focus_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="24493"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="46.49" EstimatedTotalAmount="46.49" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="46.49" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1518717082" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="a58892f9-3f29-40ca-977d-9163bbc2d571.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="3" Insurance="true" Duration="1" BestPrice="1" CC_Info="true"/>
+                                <OrderBy Index="3"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="2" Code="EDAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="3"/>
+                                <VehMakeModel Name="Chevrolet Aveo or similar" Code="EDAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chevrolet/aveo_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="22537"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="43.58" EstimatedTotalAmount="43.58" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="43.58" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="43471119" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="337d7e9d-a5a5-475e-b45a-6e04cdd796e8.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="2" Insurance="true" Duration="1" BestPrice="1" CC_Info="true"/>
+                                <OrderBy Index="2"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="3" Code="CDAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="5"/>
+                                <VehClass Size="4"/>
+                                <VehMakeModel Name="Ford Focus or similar" Code="CDAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/ford/focus_sedan_nologo.jpg
+                                </PictureURL>
+                                <VehIdentity VehicleAssetNumber="25513"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="46.49" EstimatedTotalAmount="46.49" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="46.49" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="582848166" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="6fa70fcc-58f1-40f2-99bf-510b64b54583.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="4" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="4"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="4" Code="SFAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="3" DoorCount="5"/>
+                                <VehClass Size="48"/>
+                                <VehMakeModel Name="Dodge Journey or similar" Code="SFAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/dodge/journey_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="50012"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="68.82" EstimatedTotalAmount="68.82" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="68.82" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="1675212805" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="1a391a5f-7df6-45d4-bf1a-ee110eab8bbd.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="18" Insurance="true" Duration="1" Limited="1" CC_Info="true"/>
+                                <OrderBy Index="18"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="2" Code="ECAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="3"/>
+                                <VehClass Size="3"/>
+                                <VehMakeModel Name="Chevrolet Aveo or similar" Code="ECAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/chevrolet/aveo_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="22545"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="43.58" EstimatedTotalAmount="43.58" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="43.58" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="289445159" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="bcfed542-f295-4614-a108-e0842ad18032.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="1" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="1"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                    <VehAvail>
+                        <VehAvailCore Status="Available">
+                            <Vehicle AirConditionInd="true" TransmissionType="Automatic" FuelType="Petrol"
+                                     DriveType="Unspecified" PassengerQuantity="5" BaggageQuantity="4" Code="ICAR"
+                                     CodeContext="CARTRAWLER">
+                                <VehType VehicleCategory="1" DoorCount="4"/>
+                                <VehClass Size="6"/>
+                                <VehMakeModel Name="Hyundai Sonata or similar" Code="ICAR"/>
+                                <PictureURL>https://cdn.cartrawler.com/otaimages/hyundai/sonata_nologo.jpg</PictureURL>
+                                <VehIdentity VehicleAssetNumber="43577"/>
+                            </Vehicle>
+                            <RentalRate>
+                                <VehicleCharges>
+                                    <VehicleCharge Description="Airport fee" TaxInclusive="true" IncludedInRate="true"
+                                                   Purpose="30"/>
+                                    <VehicleCharge Description="Unlimited mileage" TaxInclusive="true"
+                                                   IncludedInRate="true" Purpose="609.VCP.X"/>
+                                </VehicleCharges>
+                                <RateQualifier RateQualifier="PREPAID-IN" PromotionCode="INCLUSIVE_NO_EXCESS"/>
+                            </RentalRate>
+                            <TotalCharge RateTotalAmount="49.90" EstimatedTotalAmount="49.90" CurrencyCode="GBP"/>
+                            <Fees>
+                                <Fee Amount="49.90" CurrencyCode="GBP" Purpose="22"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="23"/>
+                                <Fee Amount="0.00" CurrencyCode="GBP" Purpose="6"/>
+                            </Fees>
+                            <Reference Type="16" ID="876251173" ID_Context="CARTRAWLER"
+                                       DateTime="2015-09-11T09:23:23.283+01:00"
+                                       URL="8c815a42-cabd-4294-950a-91a69673fe0b.03"/>
+                            <TPA_Extensions>
+                                <UpSell Insurance="1"/>
+                                <FuelPolicy Type="FULLFULL" Description="Fuel: Pick up and return full."/>
+                                <Config OrderBy="5" Insurance="true" Duration="1" CC_Info="true"/>
+                                <OrderBy Index="5"/>
+                                <CC_Info Required="true"/>
+                                <Duration Days="1"/>
+                                <Fees>
+                                    <Fee Amount="0.00" CurrencyCode="USD" Purpose="23"/>
+                                </Fees>
+                                <CurrencyExchange Rate23="0.650029"/>
+                            </TPA_Extensions>
+                        </VehAvailCore>
+                        <VehAvailInfo>
+                            <PricedCoverages>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="601.VCT.X"/>
+                                    <Charge Description="Collision damage waiver (CDW) No Excess" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="47"/>
+                                    <Charge Description="Theft waiver (TW)" TaxInclusive="true" IncludedInRate="true"/>
+                                </PricedCoverage>
+                                <PricedCoverage>
+                                    <Coverage CoverageType="50"/>
+                                    <Charge Description="Third party liability protection (TP)" TaxInclusive="true"
+                                            IncludedInRate="true"/>
+                                </PricedCoverage>
+                            </PricedCoverages>
+                        </VehAvailInfo>
+                    </VehAvail>
+                </VehAvails>
+                <Info>
+                    <LocationDetails Code="3747" Name="Syracuse International Airport" AtAirport="1">
+                        <Address Remark="43.1140000,-76.1180000">
+                            <AddressLine>1000 Colonel Eileen Collins Bl, North Syracuse, 13212, NY</AddressLine>
+                            <CountryName Code="US"/>
+                        </Address>
+                        <Telephone PhoneNumber="315-454-8156"/>
+                        <AdditionalInfo>
+                            <VehRentLocInfos>
+                                <VehRentLocInfo Type="VLI_1.VLI.X"/>
+                            </VehRentLocInfos>
+                            <CounterLocation Location="VWF_1.VWF.X"/>
+                        </AdditionalInfo>
+                    </LocationDetails>
+                    <TPA_Extensions>
+                        <VendorPruningCategory Key="4" Description="CORPORATE"/>
+                        <CustomerReviews total="1348" overall="3.85" agent="1363" location="363884" name="BUDGET ABG"
+                                         overall_review="77" car_review="80" desk_review="73" dropoff_review="81"
+                                         price_review="76" pickup_review="72" wait_time="2"/>
+                        <Ranking index="1000"/>
+                    </TPA_Extensions>
+                </Info>
+            </VehVendorAvail>
+        </VehVendorAvails>
+    </VehAvailRSCore>
+</OTA_VehAvailRateRS>

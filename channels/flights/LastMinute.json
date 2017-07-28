@@ -1,0 +1,15 @@
+{
+    "scenarioName": "LastMinute",
+    "requiredScenarioState": "Started",
+    "domain":"clfe-ext.lastminute.com",
+    "scheme":"http",
+    "request": {
+        "method": "POST",
+        "urlPattern": "/cgi-bin/lfe/ext_feed2.cgi"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "LastMinuteFlightResponse.xml",
+        "fixedDelayMilliseconds": 2000
+    }
+}

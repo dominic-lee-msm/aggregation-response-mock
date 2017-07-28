@@ -1,0 +1,49 @@
+<flights xsi:noNamespaceSchemaLocation="http://flytc-test.navitaire.ttsltd.com/search-test/schema/flights.xsd" querytimestamp="2014-04-09T15:59:22" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <route SchedID="LGWDLM" Source="SL" DepAiport="London - Gatwick" DepAiportCode="LGW" DesAiport="Dalaman, Turkey" DesAiportCode="DLM">
+      <flight Direction="Out" FlightNumber="MT150" FlightDateTime="2014-04-19T13:20:00" ArrivalTime="17:25:00" ScanTime="2014-04-08T11:36:48" AvailableSeats="310">
+         <prices ADTcode="ADT" FareClass="H" AvailableSeats="30" CHDcode="CHD" M1="0~H~HW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/18/2014 13:20~DLM~04/18/2014 17:25~" AdultRegFare="79.49" ChildRegFare="79.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="I" AvailableSeats="60" CHDcode="CHD" M1="0~I~IW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/18/2014 13:20~DLM~04/18/2014 17:25~" AdultRegFare="86.49" ChildRegFare="86.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="J" AvailableSeats="80" CHDcode="CHD" M1="0~J~JW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/18/2014 13:20~DLM~04/18/2014 17:25~" AdultRegFare="93.49" ChildRegFare="93.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="L" AvailableSeats="60" CHDcode="CHD" M1="0~L~LW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/18/2014 13:20~DLM~04/18/2014 17:25~" AdultRegFare="108.49" ChildRegFare="108.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="M" AvailableSeats="80" CHDcode="CHD" M1="0~M~MW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/18/2014 13:20~DLM~04/18/2014 17:25~" AdultRegFare="116.49" ChildRegFare="116.49" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+      <flight Direction="Out" FlightNumber="MT1155" FlightDateTime="2014-04-19T19:50:00" ArrivalTime="01:50:00" ScanTime="2014-04-08T11:36:48" AvailableSeats="160">
+         <prices ADTcode="ADT" FareClass="L" AvailableSeats="2" CHDcode="CHD" M1="0~L~LW13B~W3OI~~1~X|TCX~1556~ ~~LGW~04/19/2014 12:40~DLM~04/19/2014 16:45~" AdultRegFare="108.49" ChildRegFare="108.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="M" AvailableSeats="100" CHDcode="CHD" M1="0~M~MW13B~W3OI~~1~X|TCX~1556~ ~~LGW~04/19/2014 12:40~DLM~04/19/2014 16:45~UFV" AdultRegFare="116.49" ChildRegFare="116.49" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+      <flight Direction="Out" FlightNumber="TCX1522" FlightDateTime="2014-04-21T07:30:00" ArrivalTime="11:30:00" ScanTime="2014-04-08T11:36:48" AvailableSeats="310">
+         <prices ADTcode="ADT" FareClass="H" AvailableSeats="30" CHDcode="CHD" M1="0~H~HW13B~W3OI~~1~X|TCX~1522~ ~~LGW~04/21/2014 07:30~DLM~04/21/2014 11:30~" AdultRegFare="79.49" ChildRegFare="79.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="I" AvailableSeats="60" CHDcode="CHD" M1="0~I~IW13B~W3OI~~1~X|TCX~1522~ ~~LGW~04/21/2014 07:30~DLM~04/21/2014 11:30~" AdultRegFare="86.49" ChildRegFare="86.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="J" AvailableSeats="80" CHDcode="CHD" M1="0~J~JW13B~W3OI~~1~X|TCX~1522~ ~~LGW~04/21/2014 07:30~DLM~04/21/2014 11:30~" AdultRegFare="93.49" ChildRegFare="93.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="L" AvailableSeats="60" CHDcode="CHD" M1="0~L~LW13B~W3OI~~1~X|TCX~1522~ ~~LGW~04/21/2014 07:30~DLM~04/21/2014 11:30~" AdultRegFare="108.49" ChildRegFare="108.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="M" AvailableSeats="80" CHDcode="CHD" M1="0~M~MW13B~W3OI~~1~X|TCX~1522~ ~~LGW~04/21/2014 07:30~DLM~04/21/2014 11:30~" AdultRegFare="116.49" ChildRegFare="116.49" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+      <flight Direction="Out" FlightNumber="TCX1508" FlightDateTime="2014-04-25T13:20:00" ArrivalTime="17:25:00" ScanTime="2014-04-08T11:32:46" AvailableSeats="310">
+         <prices ADTcode="ADT" FareClass="H" AvailableSeats="30" CHDcode="CHD" M1="0~H~HW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/25/2014 13:20~DLM~04/25/2014 17:25~" AdultRegFare="79.49" ChildRegFare="79.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="I" AvailableSeats="60" CHDcode="CHD" M1="0~I~IW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/25/2014 13:20~DLM~04/25/2014 17:25~" AdultRegFare="86.49" ChildRegFare="86.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="J" AvailableSeats="80" CHDcode="CHD" M1="0~J~JW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/25/2014 13:20~DLM~04/25/2014 17:25~" AdultRegFare="93.49" ChildRegFare="93.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="L" AvailableSeats="60" CHDcode="CHD" M1="0~L~LW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/25/2014 13:20~DLM~04/25/2014 17:25~" AdultRegFare="108.49" ChildRegFare="108.49" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="M" AvailableSeats="80" CHDcode="CHD" M1="0~M~MW13B~W3OI~~1~X|TCX~1508~ ~~LGW~04/25/2014 13:20~DLM~04/25/2014 17:25~" AdultRegFare="116.49" ChildRegFare="116.49" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+      <flight Direction="Return" FlightNumber="TCX1907" FlightDateTime="2014-05-10T21:25:00" ArrivalTime="23:45:00" ScanTime="2014-04-08T11:30:26" AvailableSeats="170">
+         <prices ADTcode="ADT" FareClass="Q" AvailableSeats="30" CHDcode="CHD" M1="0~Q~QS14B~S4MJ~~2~X|TCX~1907~ ~~DLM~05/10/2014 21:25~LGW~05/10/2014 23:45~" AdultRegFare="121.99" ChildRegFare="121.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="R" AvailableSeats="60" CHDcode="CHD" M1="0~R~RS14B~S4MJ~~2~X|TCX~1907~ ~~DLM~05/10/2014 21:25~LGW~05/10/2014 23:45~" AdultRegFare="131.99" ChildRegFare="131.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="S" AvailableSeats="80" CHDcode="CHD" M1="0~S~SS14B~S4MJ~~2~X|TCX~1907~ ~~DLM~05/10/2014 21:25~LGW~05/10/2014 23:45~" AdultRegFare="141.99" ChildRegFare="141.99" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+      <flight Direction="Return" FlightNumber="MTX737" FlightDateTime="2014-05-11T14:00:00" ArrivalTime="16:20:00" ScanTime="2014-04-08T11:30:26" AvailableSeats="170">
+         <prices ADTcode="ADT" FareClass="H" AvailableSeats="1" CHDcode="CHD" M1="0~H~HS14B~S4MJ~~2~X|TCX~1737~ ~~DLM~05/11/2014 14:00~LGW~05/11/2014 16:20~" AdultRegFare="50.99" ChildRegFare="50.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="I" AvailableSeats="2" CHDcode="CHD" M1="0~I~IS14B~S4MJ~~2~X|TCX~1737~ ~~DLM~05/11/2014 14:00~LGW~05/11/2014 16:20~" AdultRegFare="57.99" ChildRegFare="57.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="J" AvailableSeats="80" CHDcode="CHD" M1="0~J~JS14B~S4MJ~~2~X|TCX~1737~ ~~DLM~05/11/2014 14:00~LGW~05/11/2014 16:20~UFV" AdultRegFare="64.99" ChildRegFare="64.99" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+      <flight Direction="Return" FlightNumber="TCX1545" FlightDateTime="2014-05-11T02:50:00" ArrivalTime="04:55:00" ScanTime="2014-04-08T11:30:26" AvailableSeats="170">
+         <prices ADTcode="ADT" FareClass="H" AvailableSeats="3" CHDcode="CHD" M1="0~H~HS14B~S4MJ~~2~X|TCX~1545~ ~~DLM~05/13/2014 02:50~LGW~05/13/2014 04:55~" AdultRegFare="50.99" ChildRegFare="50.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="I" AvailableSeats="60" CHDcode="CHD" M1="0~I~IS14B~S4MJ~~2~X|TCX~1545~ ~~DLM~05/13/2014 02:50~LGW~05/13/2014 04:55~" AdultRegFare="57.99" ChildRegFare="57.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="J" AvailableSeats="80" CHDcode="CHD" M1="0~J~JS14B~S4MJ~~2~X|TCX~1545~ ~~DLM~05/13/2014 02:50~LGW~05/13/2014 04:55~" AdultRegFare="64.99" ChildRegFare="64.99" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+      <flight Direction="Return" FlightNumber="TCX1787" FlightDateTime="2014-05-11T20:25:00" ArrivalTime="22:40:00" ScanTime="2014-04-08T11:33:41" AvailableSeats="170">
+         <prices ADTcode="ADT" FareClass="Q" AvailableSeats="1" CHDcode="CHD" M1="0~Q~QS14B~S4MJ~~2~X|TCX~1787~ ~~DLM~05/14/2014 20:25~LGW~05/14/2014 22:40~" AdultRegFare="121.99" ChildRegFare="121.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="R" AvailableSeats="2" CHDcode="CHD" M1="0~R~RS14B~S4MJ~~2~X|TCX~1787~ ~~DLM~05/14/2014 20:25~LGW~05/14/2014 22:40~" AdultRegFare="131.99" ChildRegFare="131.99" InfantFare="20.00" Curr="GBP"/>
+         <prices ADTcode="ADT" FareClass="S" AvailableSeats="2" CHDcode="CHD" M1="0~S~SS14B~S4MJ~~2~X|TCX~1787~ ~~DLM~05/14/2014 20:25~LGW~05/14/2014 22:40~" AdultRegFare="141.99" ChildRegFare="141.99" InfantFare="20.00" Curr="GBP"/>
+      </flight>
+   </route>
+</flights>

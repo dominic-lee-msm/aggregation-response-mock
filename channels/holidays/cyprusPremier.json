@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Cyprus Paradise",
+  "requiredScenarioState": "Started",
+  "scheme": "https",
+  "domain": "cy-live-cc.comtec-europe.net",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/travelink/externalfunctions/xml/dynamicpackages/dynamicpackagesearch.asp?"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "cyprusPremierResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}

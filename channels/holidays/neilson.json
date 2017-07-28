@@ -1,0 +1,15 @@
+{
+  "scenarioName": "Neilson",
+  "requiredScenarioState": "Started",
+  "scheme": "http",
+  "domain": "v2.feeds.distributenetwork.net",
+  "request": {
+    "method": "POST",
+    "urlPattern": "/singlebrand.asmx"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "neilsonResponse.xml",
+    "fixedDelayMilliseconds": 2000
+  }
+}
