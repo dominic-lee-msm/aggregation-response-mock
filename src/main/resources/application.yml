@@ -1,0 +1,4 @@
+
+intercept:
+   configurations:
+      - response.xml:http://somecompany.com/v1/endpoint

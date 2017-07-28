@@ -13,12 +13,20 @@ import org.littleshoot.proxy.HttpFiltersSourceAdapter;
 import org.littleshoot.proxy.impl.DefaultHttpProxyServer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
+import org.springframework.core.env.Environment;
+
+import java.util.ArrayList;
+import java.util.List;
 
 @SpringBootApplication
+@EnableConfigurationProperties({Boot.Configurations.class})
 public class Boot {
 
     private static final Logger LOG = LoggerFactory.getLogger(HttpTrafficInterceptor.class);
@@ -42,23 +50,32 @@ public class Boot {
                 }).start();
     }
 
+    @Autowired
+    private Configurations configurations;
+
     @Bean
     public ConfigurationRegistry configurationRegistry() {
         final ConfigurationRegistry registry = new InMemoryConfigurationRegistry();
-        registry.addConfiguration(sspConfiguration());
+
+        for(String configuration : configurations.getConfigurations()) {
+
+            String[] config = configuration.split(":");
+
+            registry.addConfiguration(new Configuration(config[1],
+                    new ResourceLoadingResponseModifier(config[0])));
+        }
+
         return registry;
     }
 
-    @Bean
-    public Configuration sspConfiguration(){
-        return new Configuration("http://somecompany.com/v1/endpoint",
-                new ResourceLoadingResponseModifier("response.xml"));
-    }
 
-    @Bean
-    public Configuration perfTestConfiguration(){
-        return new Configuration("http://somecompany.com/v1/perf/test/endpoint",
-                new TimeDelayResponseModifierDecorator(10000L, NON_MODIFYING_RESPONSE));
-    }
+    @ConfigurationProperties(prefix = "intercept", ignoreUnknownFields = false)
+    public static class Configurations {
 
+        private List<String> configurations = new ArrayList<String>();
+
+        public List<String> getConfigurations() {
+            return this.configurations;
+        }
+    }
 }
