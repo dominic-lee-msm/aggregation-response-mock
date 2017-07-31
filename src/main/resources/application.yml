@@ -1,4 +1,12 @@
+in-memory:
+  intercept-configurations:
+      - target: http://somecompany.com/v1/endpoint
+        filename: response.xml
+      - target: http://someothercompany.com/v1/endpoint/
+        timeout: 10000
+        wrapped:
+          filename: response.xml
 
-intercept:
-   configurations:
-      - response.xml:http://somecompany.com/v1/endpoint
+#mongo-connection:
+#  ip: 127.0.0.1
+#  user: username

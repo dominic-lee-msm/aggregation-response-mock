@@ -1,6 +1,7 @@
 package com.msm.aggregation.intercept;
 
 import com.msm.aggregation.intercept.config.Configuration;
+import io.netty.handler.codec.http.FullHttpMessage;
 import io.netty.handler.codec.http.HttpObject;
 import io.netty.handler.codec.http.HttpRequest;
 import org.littleshoot.proxy.HttpFiltersAdapter;

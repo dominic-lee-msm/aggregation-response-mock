@@ -1,12 +1,13 @@
 package com.msm.aggregation.intercept;
 
+import com.google.common.annotations.Beta;
+import com.google.common.collect.ImmutableList;
+import com.google.common.collect.ImmutableMap;
 import com.msm.aggregation.intercept.config.Configuration;
 import com.msm.aggregation.intercept.config.ConfigurationRegistry;
-import com.msm.aggregation.intercept.config.InMemoryConfigurationRegistry;
+import com.msm.aggregation.intercept.config.InMemoryConfigurationBuilder;
 import com.msm.aggregation.intercept.modifier.response.ResponseModifier;
 import com.msm.aggregation.intercept.modifier.response.impl.NonModifyingResponseModifier;
-import com.msm.aggregation.intercept.modifier.response.impl.ResourceLoadingResponseModifier;
-import com.msm.aggregation.intercept.modifier.response.impl.TimeDelayResponseModifierDecorator;
 import io.netty.handler.codec.http.HttpRequest;
 import org.littleshoot.proxy.HttpFilters;
 import org.littleshoot.proxy.HttpFiltersSourceAdapter;
@@ -16,17 +17,14 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.env.Environment;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Map;
+
 
 @SpringBootApplication
-@EnableConfigurationProperties({Boot.Configurations.class})
 public class Boot {
 
     private static final Logger LOG = LoggerFactory.getLogger(HttpTrafficInterceptor.class);
@@ -47,35 +45,26 @@ public class Boot {
                             .orElse(NON_MODIFYING_CONFIG);
                         return new HttpTrafficInterceptor(originalRequest, config);
                     }
+
+                    @Override
+                    public int getMaximumResponseBufferSizeInBytes() {
+                        return 10 * 1024 * 1024;
+                    }
                 }).start();
     }
 
     @Autowired
-    private Configurations configurations;
+    private Environment environment;
 
     @Bean
     public ConfigurationRegistry configurationRegistry() {
-        final ConfigurationRegistry registry = new InMemoryConfigurationRegistry();
-
-        for(String configuration : configurations.getConfigurations()) {
-
-            String[] config = configuration.split(":");
-
-            registry.addConfiguration(new Configuration(config[1],
-                    new ResourceLoadingResponseModifier(config[0])));
-        }
-
-        return registry;
+        LOG.info("Building configuration registry");
+        return InMemoryConfigurationBuilder.build(ImmutableList.of(createEndpointConfiguration()));
     }
 
-
-    @ConfigurationProperties(prefix = "intercept", ignoreUnknownFields = false)
-    public static class Configurations {
-
-        private List<String> configurations = new ArrayList<String>();
-
-        public List<String> getConfigurations() {
-            return this.configurations;
-        }
+    private Map<String, Object> createEndpointConfiguration(){
+        return ImmutableMap.of("target", "http://prelive.euiwebservice.co.uk/webservice/QuoteLaunch?ddanc=true",
+                "filename", "response.xml");
     }
+
 }
