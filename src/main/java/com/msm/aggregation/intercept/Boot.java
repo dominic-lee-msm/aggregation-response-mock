@@ -1,70 +1,43 @@
 package com.msm.aggregation.intercept;
 
-import com.google.common.annotations.Beta;
-import com.google.common.collect.ImmutableList;
-import com.google.common.collect.ImmutableMap;
-import com.msm.aggregation.intercept.config.Configuration;
+import com.esotericsoftware.yamlbeans.YamlReader;
+import com.google.common.io.Resources;
 import com.msm.aggregation.intercept.config.ConfigurationRegistry;
 import com.msm.aggregation.intercept.config.InMemoryConfigurationBuilder;
-import com.msm.aggregation.intercept.modifier.response.ResponseModifier;
-import com.msm.aggregation.intercept.modifier.response.impl.NonModifyingResponseModifier;
-import io.netty.handler.codec.http.HttpRequest;
-import org.littleshoot.proxy.HttpFilters;
-import org.littleshoot.proxy.HttpFiltersSourceAdapter;
+import net.lightbody.bmp.mitm.manager.ImpersonatingMitmManager;
 import org.littleshoot.proxy.impl.DefaultHttpProxyServer;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ConfigurableApplicationContext;
-import org.springframework.context.annotation.Bean;
-import org.springframework.core.env.Environment;
 
+import java.io.IOException;
+import java.util.Collections;
+import java.util.List;
 import java.util.Map;
+import java.util.Optional;
 
+import static com.google.common.base.Charsets.UTF_8;
 
-@SpringBootApplication
 public class Boot {
-
-    private static final Logger LOG = LoggerFactory.getLogger(HttpTrafficInterceptor.class);
-    private static final ResponseModifier NON_MODIFYING_RESPONSE = new NonModifyingResponseModifier();
-    private static final Configuration NON_MODIFYING_CONFIG = new Configuration("default response modifier", NON_MODIFYING_RESPONSE);
 
     private static final int PORT_NUMBER = 12300;
 
-    public static void main(String[] args) {
-        final ConfigurableApplicationContext appContext = SpringApplication.run(Boot.class, args);
+    public static void main(String[] args) throws Exception {
         DefaultHttpProxyServer.bootstrap().withPort(PORT_NUMBER)
-                .withFiltersSource(new HttpFiltersSourceAdapter() {
-                    @Override
-                    public HttpFilters filterRequest(HttpRequest originalRequest) {
-                        LOG.info("Filtering request for [{}]", originalRequest.getUri());
-                        final Configuration config = appContext.getBean(ConfigurationRegistry.class)
-                            .findConfiguration(originalRequest.getUri())
-                            .orElse(NON_MODIFYING_CONFIG);
-                        return new HttpTrafficInterceptor(originalRequest, config);
-                    }
-
-                    @Override
-                    public int getMaximumResponseBufferSizeInBytes() {
-                        return 10 * 1024 * 1024;
-                    }
-                }).start();
+                .withFiltersSource(new HttpsHandlingFiltersSource(yamlConfiguredConfigurationRegistry()))
+                .withManInTheMiddle(ImpersonatingMitmManager.builder().trustAllServers(true).build())
+                .start();
     }
 
-    @Autowired
-    private Environment environment;
-
-    @Bean
-    public ConfigurationRegistry configurationRegistry() {
-        LOG.info("Building configuration registry");
-        return InMemoryConfigurationBuilder.build(ImmutableList.of(createEndpointConfiguration()));
+    private static ConfigurationRegistry yamlConfiguredConfigurationRegistry() throws IOException {
+        final String yamlString = Resources.toString(Resources.getResource("config.yml"), UTF_8);
+        final YamlReader reader = new YamlReader(yamlString);
+        final Map<String, Object> map = (Map) reader.read();
+        return InMemoryConfigurationBuilder.build(getYamlConfigs(map));
     }
 
-    private Map<String, Object> createEndpointConfiguration(){
-        return ImmutableMap.of("target", "http://prelive.euiwebservice.co.uk/webservice/QuoteLaunch?ddanc=true",
-                "filename", "response.xml");
+    private static List<Map<String, Object>> getYamlConfigs(Map<String, Object> map) {
+        return Optional.ofNullable(map)
+                .map(m -> (Map) m.get("in-memory"))
+                .map(m -> (List<Map<String, Object>>) m.get("intercept-configurations"))
+                .orElse(Collections.emptyList());
     }
 
 }

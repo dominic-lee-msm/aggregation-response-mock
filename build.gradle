@@ -1,27 +1,24 @@
-buildscript {
-	ext {
-		springBootVersion = '1.5.4.RELEASE'
-	}
-	repositories {
-		mavenCentral()
-	}
-	dependencies {
-		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
-	}
-}
-
 apply plugin: 'java'
-apply plugin: 'org.springframework.boot'
- 
+apply plugin: 'application'
+
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
+mainClassName = 'com.msm.aggregation.intercept.Boot'
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    compile("org.springframework.boot:spring-boot-starter:${springBootVersion}")
+	compile('com.esotericsoftware.yamlbeans:yamlbeans:1.12')
 	compile('com.google.guava:guava:20.0')
 	compile('org.littleshoot:littleproxy:1.1.2')
+	compile('net.lightbody.bmp:mitm:2.1.4')
+	compile('commons-io:commons-io:2.5')
+	compile('org.slf4j:slf4j-log4j12:1.7.25')
+}
+
+task execute(type:JavaExec) {
+   main = mainClass
+   classpath = sourceSets.main.runtimeClasspath
 }

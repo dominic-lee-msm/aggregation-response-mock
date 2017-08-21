@@ -1,0 +1,18 @@
+in-memory:
+  intercept-configurations:
+
+##     Respond with file contents
+#      - target: http://test.provider.co.uk:8443/quote
+#        filename: provider-name/response.xml
+
+
+##     20 second delay, then respond with file contents
+#      - target: http://test.provider.co.uk:8443/quote
+#        timeout: 20000
+#        wrapped:
+#          filename: provider-name/response.xml
+
+# TODO mongo....
+#mongo-connection:
+#  ip: 127.0.0.1
+#  user: username

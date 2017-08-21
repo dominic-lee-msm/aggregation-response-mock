@@ -1,1 +1,1 @@
-gradlew bootRun
+gradlew -PmainClass=com.msm.aggregation.intercept.Boot execute

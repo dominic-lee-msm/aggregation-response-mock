@@ -1,25 +1,19 @@
 package com.msm.aggregation.intercept.config;
 
-import com.msm.aggregation.intercept.modifier.response.ResponseModifier;
+import com.msm.aggregation.intercept.request_handler.ShortCircuitRequestHandler;
 
 public class Configuration {
 
     private final String url;
+    private final ShortCircuitRequestHandler requestHandler;
 
-    private final ResponseModifier responseModifier;
-
-
-    public Configuration(final String url, final ResponseModifier responseModifier) {
+    public Configuration(final String url, final ShortCircuitRequestHandler requestHandler) {
         this.url = url;
-        this.responseModifier = responseModifier;
+        this.requestHandler = requestHandler;
     }
 
     public String getUrl() {
         return url;
-    }
-
-    public ResponseModifier getResponseModifier() {
-        return responseModifier;
     }
 
     @Override
@@ -35,5 +29,9 @@ public class Configuration {
     @Override
     public int hashCode() {
         return getUrl() != null ? getUrl().hashCode() : 0;
+    }
+
+    public ShortCircuitRequestHandler getRequestHandler() {
+        return requestHandler;
     }
 }

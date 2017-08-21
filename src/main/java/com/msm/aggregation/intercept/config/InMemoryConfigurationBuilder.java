@@ -1,8 +1,7 @@
 package com.msm.aggregation.intercept.config;
 
-import com.msm.aggregation.intercept.Boot;
-import com.msm.aggregation.intercept.modifier.response.Configurations;
-import com.msm.aggregation.intercept.modifier.response.ResponseModifier;
+import com.msm.aggregation.intercept.request_handler.Configurations;
+import com.msm.aggregation.intercept.request_handler.ShortCircuitRequestHandler;
 
 import java.util.Collection;
 import java.util.List;
@@ -13,6 +12,10 @@ import java.util.stream.Collectors;
 public class InMemoryConfigurationBuilder {
 
     private static final List<String> CONFIG_TYPE_NAMES = Configurations.listNames();
+
+    private InMemoryConfigurationBuilder() throws Exception {
+        throw new IllegalArgumentException("Don't construct me");
+    }
 
     public static InMemoryConfigurationRegistry build(final List<Map<String, Object>> configurations) {
         final InMemoryConfigurationRegistry registry = new InMemoryConfigurationRegistry();
@@ -29,18 +32,22 @@ public class InMemoryConfigurationBuilder {
     private static Configuration buildConfiguration(final Map<String, Object> attributeMap) {
         return findObjectForName("target", attributeMap)
                 .map(e -> (String) e)
-                .map(name -> new Configuration(name, buildResponseModifier(attributeMap)))
+                .map(name -> new Configuration(name, buildRequestHandler(attributeMap)))
                 .orElseThrow(() -> new IllegalArgumentException("Could not create configuration, missing target"));
     }
 
-    private static ResponseModifier buildResponseModifier(final Map<String, Object> attributeMap) {
+    private static ShortCircuitRequestHandler buildRequestHandler(final Map<String, Object> attributeMap) {
         final String configTypeName = attributeMap.keySet().stream()
                 .filter(CONFIG_TYPE_NAMES::contains).findFirst()
                 .orElseThrow(() -> new IllegalArgumentException("Could not create configurations, missing type"));
-        final Optional<ResponseModifier> wrapped = findObjectForName("wrapped", attributeMap)
+        final Optional<ShortCircuitRequestHandler> wrapped = findObjectForName("wrapped", attributeMap)
                 .map(e -> (Map<String, Object>) e)
-                .map(InMemoryConfigurationBuilder::buildResponseModifier);
-        final List<Object> params = attributeMap.entrySet().stream().filter(s -> !"target".equals(s.getKey())).map(Map.Entry::getValue).collect(Collectors.toList());
+                .map(InMemoryConfigurationBuilder::buildRequestHandler);
+        final List<Object> params = attributeMap.entrySet().stream()
+                .filter(s -> !"target".equals(s.getKey()))
+                .filter(s -> !"wrapped".equals(s.getKey()))
+                .map(Map.Entry::getValue)
+                .collect(Collectors.toList());
         wrapped.ifPresent(params::add);
         return Configurations.findConfigurationFor(configTypeName).map(config -> config.build(params)).orElse(null);
     }
