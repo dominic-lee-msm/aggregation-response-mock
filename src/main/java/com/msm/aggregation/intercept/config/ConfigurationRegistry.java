@@ -5,12 +5,8 @@ import java.util.Optional;
 
 public interface ConfigurationRegistry {
 
-    public List<Configuration> getAllConfigurations();
-
     public Optional<Configuration> findConfiguration(final String url);
 
-    public void addConfiguration(final Configuration configuration);
-
-    public void removeConfiguration(final Configuration configuration);
+    public void refresh();
 
 }

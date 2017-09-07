@@ -5,10 +5,12 @@ import com.msm.aggregation.intercept.request_handler.ShortCircuitRequestHandler;
 public class Configuration {
 
     private final String url;
+    private final boolean enabled;
     private final ShortCircuitRequestHandler requestHandler;
 
-    public Configuration(final String url, final ShortCircuitRequestHandler requestHandler) {
+    public Configuration(final String url, final boolean enabled, final ShortCircuitRequestHandler requestHandler) {
         this.url = url;
+        this.enabled = enabled;
         this.requestHandler = requestHandler;
     }
 
@@ -33,5 +35,9 @@ public class Configuration {
 
     public ShortCircuitRequestHandler getRequestHandler() {
         return requestHandler;
+    }
+
+    public boolean isEnabled() {
+        return enabled;
     }
 }

@@ -4,15 +4,27 @@ in-memory:
 ##     Respond with file contents
 #      - target: http://test.provider.co.uk:8443/quote
 #        filename: provider-name/response.xml
+#        enabled: Y
 
 
 ##     20 second delay, then respond with file contents
 #      - target: http://test.provider.co.uk:8443/quote
 #        timeout: 20000
+#        enabled: Y
 #        wrapped:
 #          filename: provider-name/response.xml
 
-# TODO mongo....
-#mongo-connection:
-#  ip: 127.0.0.1
-#  user: username
+application:
+  # mongo/integrationtest/inmemory
+  mode: mongo
+
+mongo-profile: dev
+
+mongo-profiles:
+  dev:
+    hosts: n1.backoffice-mongodb1-test.agg
+    port: 27017
+    dbName: agg_response_mock
+    authRequired: N
+    user: msm
+    password: msm

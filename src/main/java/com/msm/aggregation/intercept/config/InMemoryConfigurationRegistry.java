@@ -1,41 +1,58 @@
 package com.msm.aggregation.intercept.config;
 
+import com.google.common.cache.CacheBuilder;
+import com.google.common.cache.CacheLoader;
+import com.google.common.cache.LoadingCache;
 import com.google.common.collect.ImmutableList;
+import com.msm.aggregation.intercept.YamlReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
+import java.util.concurrent.ExecutionException;
 
 public class InMemoryConfigurationRegistry implements ConfigurationRegistry {
 
-    private static final Logger LOG = LoggerFactory.getLogger(InMemoryConfigurationRegistry.class);
-    private final List<Configuration> configurations;
+    private final LoadingCache<String, Configuration> cache;
 
-    public InMemoryConfigurationRegistry() {
-        this.configurations = new ArrayList<>();
-    }
-
-    @Override
-    public List<Configuration> getAllConfigurations() {
-        return ImmutableList.copyOf(configurations);
+    public InMemoryConfigurationRegistry(final String yamlName, final ConfigurationBuilder configurationBuilder) {
+        this.cache = CacheBuilder.newBuilder().build(CacheLoader.from(f -> {
+            try {
+                final Optional<Map<String,Object>> optYamlConfig = getYamlConfig(YamlReader.readYaml(yamlName), f);
+                return optYamlConfig.flatMap(yamlConfig -> configurationBuilder.buildConfigurations(Collections.singleton(yamlConfig)).stream().findFirst()).orElse(null);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return null;
+        }));
     }
 
     @Override
     public Optional<Configuration> findConfiguration(String url) {
-        return configurations.stream().filter(c -> c.getUrl().equals(url)).findFirst();
+        try {
+            return Optional.ofNullable(cache.get(url));
+        } catch (ExecutionException e) {
+            e.printStackTrace();
+        }
+        return Optional.empty();
     }
 
     @Override
-    public void addConfiguration(Configuration configuration) {
-        LOG.info("Adding configuration [{}] to [{}]", configuration.getUrl(), this.toString());
-        configurations.add(configuration);
+    public void refresh() {
+        cache.invalidateAll();
     }
 
-    @Override
-    public void removeConfiguration(Configuration configuration) {
-        LOG.info("Removing configuration [{}] from [{}]", configuration.getUrl(), this.toString());
-        configurations.remove(configuration);
+    private static Optional<Map<String, Object>> getYamlConfig(Map<String, Object> map, final String url) {
+        final List<Map<String, Object>> allConfigs = Optional.ofNullable(map)
+                .map(m -> (Map) m.get("in-memory"))
+                .map(m -> (List<Map<String, Object>>) m.get("intercept-configurations"))
+                .orElse(Collections.emptyList());
+        return allConfigs.stream().filter(config -> config.get("target").equals(url)).findFirst();
     }
+
 }
