@@ -53,3 +53,7 @@ When the application is configured to use Mongo as it's source of mocks, Mongo m
     "response" : "the mock response body"
 }
 ```
+
+## Runtime configuration
+
+Mongo-provided mocks are cached. Go to `/refresh-configurations` after making changes to your mocks in mongo
