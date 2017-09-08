@@ -5,8 +5,8 @@ import com.msm.aggregation.intercept.MongoDbConnector;
 import com.msm.aggregation.intercept.request_handler.ShortCircuitRequestHandler;
 import com.msm.aggregation.intercept.request_handler.impl.DefaultShortCircuitRequestHandler;
 import com.msm.aggregation.intercept.request_handler.impl.TimeDelayRequestHandlerDecorator;
+import com.msm.aggregation.intercept.response_loader.DefaultResponseLoader;
 import com.msm.aggregation.intercept.response_loader.FileResponseLoader;
-import com.msm.aggregation.intercept.response_loader.MongoResponseLoader;
 
 import java.util.Collection;
 import java.util.List;
@@ -17,11 +17,6 @@ import java.util.stream.Collectors;
 public class ConfigurationBuilder {
 
     private static final List<String> RESPONSE_LOADER_TYPE_NAMES = ImmutableList.of("filename", "responseId", "timeout");
-    private MongoDbConnector mongoConnector;
-
-    public ConfigurationBuilder(final MongoDbConnector mongoConnector) {
-        this.mongoConnector = mongoConnector;
-    }
 
     public Collection<Configuration> buildConfigurations(final Collection<Map<String, Object>> configurations) {
         return configurations.stream()
@@ -60,8 +55,8 @@ public class ConfigurationBuilder {
     private Optional<ShortCircuitRequestHandler> buildRequestHandler(final String configTypeName, final Map<String, Object> paramMap) {
         if(configTypeName.equals("filename")) {
             return Optional.of(new DefaultShortCircuitRequestHandler(new FileResponseLoader((String) paramMap.get("filename"))));
-        } else if(configTypeName.equals("responseId") && mongoConnector != null) {
-            return Optional.of(new DefaultShortCircuitRequestHandler(new MongoResponseLoader((String) paramMap.get("responseId"), mongoConnector)));
+        } else if(configTypeName.equals("responseId")) {
+            return Optional.of(new DefaultShortCircuitRequestHandler(new DefaultResponseLoader((String)paramMap.get("response"))));
         } else if(configTypeName.equals("timeout")) {
             return Optional.of(new TimeDelayRequestHandlerDecorator(Long.valueOf((String) paramMap.get("timeout")), (ShortCircuitRequestHandler)  paramMap.get("wrapped")));
         }

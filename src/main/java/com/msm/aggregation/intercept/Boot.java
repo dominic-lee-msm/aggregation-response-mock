@@ -31,9 +31,9 @@ public class Boot {
         if(mode == ApplicationMode.MONGO) {
             final String mongoProfile = getMongoProfile(yaml);
             final MongoDbConnector connector = mongoConnector(yaml, mongoProfile);
-            return new MongoConfigurationRegistry(connector, new ConfigurationBuilder(connector));
+            return new MongoConfigurationRegistry(connector, new ConfigurationBuilder());
         } else if(mode == ApplicationMode.IN_MEMORY) {
-            return new InMemoryConfigurationRegistry("config.yml", new ConfigurationBuilder(null));
+            return new InMemoryConfigurationRegistry("config.yml", new ConfigurationBuilder());
         }
         return null; // Integration test mode
     }
