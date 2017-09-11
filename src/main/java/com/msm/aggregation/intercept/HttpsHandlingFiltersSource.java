@@ -36,6 +36,7 @@ public class HttpsHandlingFiltersSource extends HttpFiltersSourceAdapter {
         final String uri = originalRequest.getUri();
         if(LOCALHOST_ALIASES.contains(getHostName(originalRequest))) {
             if(uri.contains("refresh-configurations")){
+                LOG.info("Refreshing configurations");
                 configurationRegistry.refresh();
             }
             return new DefaultHttpFiltersAdapter(originalRequest, clientCtx);

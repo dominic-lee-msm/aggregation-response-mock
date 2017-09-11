@@ -18,24 +18,23 @@ import java.util.concurrent.ExecutionException;
 
 public class InMemoryConfigurationRegistry implements ConfigurationRegistry {
 
-    private final LoadingCache<String, Configuration> cache;
+    private final LoadingCache<String, Optional<Configuration>> cache;
 
     public InMemoryConfigurationRegistry(final String yamlName, final ConfigurationBuilder configurationBuilder) {
         this.cache = CacheBuilder.newBuilder().build(CacheLoader.from(f -> {
             try {
-                final Optional<Map<String,Object>> optYamlConfig = getYamlConfig(YamlReader.readYaml(yamlName), f);
-                return optYamlConfig.flatMap(yamlConfig -> configurationBuilder.buildConfigurations(Collections.singleton(yamlConfig)).stream().findFirst()).orElse(null);
+                return getYamlConfig(YamlReader.readYaml(yamlName), f).flatMap(configurationBuilder::buildConfiguration);
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            return null;
+            return Optional.empty();
         }));
     }
 
     @Override
     public Optional<Configuration> findConfiguration(String url) {
         try {
-            return Optional.ofNullable(cache.get(url));
+            return cache.get(url);
         } catch (ExecutionException e) {
             e.printStackTrace();
         }

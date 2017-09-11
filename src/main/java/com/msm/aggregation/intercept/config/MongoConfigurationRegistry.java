@@ -4,6 +4,7 @@ import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
 import com.google.common.collect.ImmutableList;
+import com.google.common.collect.ImmutableMap;
 import com.mongodb.DBObject;
 import com.msm.aggregation.intercept.MongoDbConnector;
 import org.jongo.RawResultHandler;
@@ -16,20 +17,19 @@ import java.util.concurrent.ExecutionException;
 
 public class MongoConfigurationRegistry implements ConfigurationRegistry {
 
-    private final LoadingCache<String, Configuration> cache;
+    private final LoadingCache<String, Optional<Configuration>> cache;
 
     public MongoConfigurationRegistry(final MongoDbConnector mongoConnector, final ConfigurationBuilder builder) {
         this.cache = CacheBuilder.newBuilder().build(CacheLoader.from(url -> {
             final Optional<DBObject> configurationForUrl = ImmutableList.copyOf(loadConfigurations(url, mongoConnector)).stream().findFirst();
-            return configurationForUrl.flatMap(m -> builder.buildConfigurations(Collections.singleton((Map<String,Object>)m.toMap())).stream().findFirst())
-                    .orElse(null);
+            return configurationForUrl.flatMap(m -> builder.buildConfiguration((Map<String,Object>)m.toMap()));
         }));
     }
 
     @Override
     public Optional<Configuration> findConfiguration(String url) {
         try {
-            return Optional.ofNullable(cache.get(url));
+            return cache.get(url);
         } catch (ExecutionException e) {
             e.printStackTrace();
         }
