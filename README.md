@@ -45,7 +45,7 @@ When the application is configured to use Mongo as it's source of mocks, Mongo m
 }
 ```
 
-# Configuring Mongo
+### Configuring Mongo
 
 Create a database called `agg_response_mock`.
 
@@ -54,14 +54,14 @@ Run the following in a mongo shell:
 ```
 db.configuration.insertMany([
 	{
-		"_id" : ObjectId(),
-		"target" : "http://a.provider.com/endpoint",
+	    "_id" : ObjectId(),
+	    "target" : "http://a.provider.com/endpoint",
 	    "enabled" : "Y",
 	    "response" : "a provider mock response body"
 	},
 	{
-		"_id" : ObjectId(),
-		"target" : "https://b.provider.com:10443/endpoint",
+	    "_id" : ObjectId(),
+	    "target" : "https://b.provider.com:10443/endpoint",
 	    "enabled" : "N",
 	    "response" : "b provider mock response body"
 	}
