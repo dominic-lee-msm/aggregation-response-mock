@@ -4,12 +4,10 @@ import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
 import com.google.common.collect.ImmutableList;
-import com.google.common.collect.ImmutableMap;
 import com.mongodb.DBObject;
 import com.msm.aggregation.intercept.MongoDbConnector;
 import org.jongo.RawResultHandler;
 
-import java.util.Collections;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Optional;

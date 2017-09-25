@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Response Mock Tool</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" media="all"
+          href="../../css/gtvg.css" th:href="@{/css/gtvg.css}" />
+</head>
+
+<body>
+
+<a href="/manage">Create new</a>
+
+<tbody>
+    <table>
+        <tr>
+            <td><b>Name</b></td>
+            <td><b>Target</b></td>
+            <td><b>Enabled</b></td>
+            <td><b>Actions</b></td>
+        </tr>
+        <tr th:each="mockListItem: ${mockListItems}">
+            <td th:text="${mockListItem.name}">Name</td>
+            <td th:text="${mockListItem.target}">Target</td>
+            <td th:text="${mockListItem.enabled}? true : false">Enabled</td>
+            <td><a th:href="@{'/manage/' + ${mockListItem.id}}">Manage</a>
+                <a th:href="@{'/delete/' + ${mockListItem.id}}">Delete</a></td>
+        </tr>
+    </table>
+</tbody>
+
+</body>
+
+</html>

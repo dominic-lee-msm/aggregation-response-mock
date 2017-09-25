@@ -1,1 +1,1 @@
-gradlew execute
+gradlew bootRun
