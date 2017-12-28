@@ -44,9 +44,9 @@ public class ConfigurationBuilder {
 
     private Optional<ShortCircuitRequestHandler> buildRequestHandler(final String configTypeName, final Map<String, Object> paramMap) {
         if(configTypeName.equals("filename")) {
-            return Optional.of(new DefaultShortCircuitRequestHandler(new FileResponseLoader((String) paramMap.get("filename"))));
+            return Optional.of(new DefaultShortCircuitRequestHandler(new FileResponseLoader((String) paramMap.get("filename")), Long.valueOf((String) paramMap.get("delayMilliseconds"))));
         } else if(configTypeName.equals("response")) {
-            return Optional.of(new DefaultShortCircuitRequestHandler(new DefaultResponseLoader((String)paramMap.get("response"))));
+            return Optional.of(new DefaultShortCircuitRequestHandler(new DefaultResponseLoader((String)paramMap.get("response")), Long.valueOf((String) paramMap.get("delayMilliseconds"))));
         } else if(configTypeName.equals("timeout")) {
             return Optional.of(new TimeDelayRequestHandlerDecorator(Long.valueOf((String) paramMap.get("timeout")), (ShortCircuitRequestHandler)  paramMap.get("wrapped")));
         }

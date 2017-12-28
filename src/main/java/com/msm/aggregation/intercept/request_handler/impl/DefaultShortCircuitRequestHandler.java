@@ -13,13 +13,20 @@ import java.nio.charset.Charset;
 public class DefaultShortCircuitRequestHandler implements ShortCircuitRequestHandler {
 
     private ResponseLoader responseLoader;
+    private final Long timeoutInMilliseconds;
 
-    public DefaultShortCircuitRequestHandler(final ResponseLoader responseLoader) {
+    public DefaultShortCircuitRequestHandler(final ResponseLoader responseLoader, Long timeoutInMilliseconds) {
         this.responseLoader = responseLoader;
+        this.timeoutInMilliseconds = timeoutInMilliseconds;
     }
 
     @Override
     public HttpResponse handleRequest(HttpRequest request) {
+        try {
+            Thread.sleep(timeoutInMilliseconds);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         return new DefaultFullHttpResponse(request.getProtocolVersion(), HttpResponseStatus.OK,
                 Unpooled.wrappedBuffer(responseLoader.loadResponse().getBytes(Charset.defaultCharset())));
     }

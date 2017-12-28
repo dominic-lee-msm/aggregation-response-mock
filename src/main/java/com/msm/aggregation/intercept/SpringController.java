@@ -44,7 +44,8 @@ public class SpringController {
                     (String)entry.get("name"),
                     (String)entry.get("target"),
                     entry.get("enabled").equals("Y"),
-                    (String)entry.get("response")
+                    (String)entry.get("response"),
+                    (String) entry.get("delayMilliseconds")
             ));
         }
         return new ModelAndView("list-view", ImmutableMap.of("mockListItems", displayItems));
@@ -61,7 +62,8 @@ public class SpringController {
                         (String)entry.get("name"),
                         (String)entry.get("target"),
                         entry.get("enabled").equals("Y"),
-                        (String)entry.get("response")
+                        (String)entry.get("response"),
+                        (String) entry.get("delayMilliseconds")
                 ));
             }
         }
@@ -71,13 +73,13 @@ public class SpringController {
 
     @RequestMapping("/manage")
     public ModelAndView manage(){
-        final MockDisplayItem mock = new MockDisplayItem(ObjectId.get(), "", "", true, "");
+        final MockDisplayItem mock = new MockDisplayItem(ObjectId.get(), "", "", true, "", "0");
         return new ModelAndView("manage-view", ImmutableMap.of("mock", mock));
     }
 
     @PostMapping("/save")
     public ModelAndView save(@ModelAttribute MockDisplayItem mock){
-        final MockPersistenceItem toSave = new MockPersistenceItem(mock.getId(), mock.getName(), mock.getTarget(), mock.enabled ? "Y" : "N", mock.getResponse());
+        final MockPersistenceItem toSave = new MockPersistenceItem(mock.getId(), mock.getName(), mock.getTarget(), mock.enabled ? "Y" : "N", mock.getResponse(), mock.getDelayMilliseconds());
         mongoDbConnector.getCollection("configuration").save(toSave);
         refreshCaches();
         return list();
@@ -103,13 +105,15 @@ public class SpringController {
         private final String target;
         private final String enabled;
         private final String response;
+        private final String delayMilliseconds;
 
-        public MockPersistenceItem(@MongoId final ObjectId id, final String name, final String target, final String enabled, final String response) {
+        public MockPersistenceItem(@MongoId final ObjectId id, final String name, final String target, final String enabled, final String response, String delayMilliseconds) {
             this.id = id;
             this.name = name;
             this.target = target;
             this.enabled = enabled;
             this.response = response;
+            this.delayMilliseconds = delayMilliseconds;
         }
 
         public ObjectId getId() {
@@ -131,6 +135,10 @@ public class SpringController {
         public String getResponse() {
             return response;
         }
+
+        public String getDelayMilliseconds() {
+            return delayMilliseconds;
+        }
     }
 
     private static final class MockDisplayItem {
@@ -141,13 +149,15 @@ public class SpringController {
         private String target;
         private boolean enabled;
         private String response;
+        private String delayMilliseconds;
 
-        public MockDisplayItem(@MongoId final ObjectId id, final String name, final String target, final boolean enabled, final String response) {
+        public MockDisplayItem(@MongoId final ObjectId id, final String name, final String target, final boolean enabled, final String response, String delayMilliseconds) {
             this.id = id;
             this.name = name;
             this.target = target;
             this.enabled = enabled;
             this.response = response;
+            this.delayMilliseconds = delayMilliseconds;
         }
 
         public MockDisplayItem(){}
@@ -190,6 +200,14 @@ public class SpringController {
 
         public void setResponse(String response) {
             this.response = response;
+        }
+
+        public String getDelayMilliseconds() {
+            return delayMilliseconds;
+        }
+
+        public void setDelayMilliseconds(String delayMilliseconds) {
+            this.delayMilliseconds = delayMilliseconds;
         }
     }
 
