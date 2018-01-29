@@ -18,7 +18,7 @@
                 ID:
             </td>
             <td>
-                <input name="id" th:value="${mock.id}" readonly="readonly"/>
+                <textarea name="id" th:field="*{mock.id}" readonly="readonly"/>
             </td>
         </tr>
         <tr>
@@ -26,7 +26,7 @@
                 Name:
             </td>
             <td>
-                <input name="name" th:value="${mock.name}"/>
+                <textarea name="name" cols="180" th:field="*{mock.name}"/>
             </td>
         </tr>
         <tr>
@@ -34,7 +34,7 @@
                 Target:
             </td>
             <td>
-                <input name="target" th:value="${mock.target}"/>
+                <textarea name="target" cols="180" th:field="*{mock.target}"/>
             </td>
         </tr>
         <tr>
@@ -50,7 +50,7 @@
                 Mock response:
             </td>
             <td>
-                <input name="response" th:value="${mock.response}"/>
+                <textarea name="response" cols="180" rows="50" th:field="*{mock.response}" />
             </td>
         </tr>
         <tr>
